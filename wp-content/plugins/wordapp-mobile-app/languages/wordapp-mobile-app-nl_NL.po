@@ -1,0 +1,3552 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-05-14 19:05+0200\n"
+"POT-Revision-Date: Wed May 04 2016 15:50:03 GMT+0200 (CEST)\n"
+"PO-Revision-Date: 2016-05-17 14:41+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#. Name of the plugin
+msgid "WordApp - Wordpress to Mobile App plugin for WooCommerce & BuddyPress"
+msgstr "WordApp - Wordpress Mobile App plugin voor WooCommerce en BuddyPress"
+
+#. URI of the plugin
+msgid "http://App-developers.biz"
+msgstr "http://App-developers.biz (http://en.app-developers.biz)"
+
+#. Description of the plugin
+msgid ""
+"Mobile app plugin Convert your wordpress site/blog to mobile app works  "
+"WooCommerce  & BuddyPress"
+msgstr ""
+"Mobiele app plugin Zet uw wordpress site / blog voor mobiele app werkt "
+"WooCommerce en BuddyPress"
+
+#. Author of the plugin
+msgid "App-Developers.biz"
+msgstr "App-Developers.biz (en.app-developers.biz)"
+
+#. Author URI of the plugin
+msgid "http://app-developers.biz"
+msgstr "http://app-developers.biz (http://en.app-developers.biz)"
+
+#: ../../../WordApp.php:54
+msgid ""
+"Please help us improve WordApp! Help us understand how our plugin is working "
+"on your site. <br /> If you skip this, that's okay! WordApp will still work "
+"just fine."
+msgstr ""
+"U kunt ons helpen verbeteren WordApp! Help ons om te begrijpen hoe onze "
+"plugin werkt op uw site. <br /> Als u deze overslaan, dat is oke! WordApp "
+"werkt nog steeds prima."
+
+#: ../../../WordApp.php:506 ../../../WordApp.php:510
+msgid "Getting Started"
+msgstr "Ermee beginnen"
+
+#: ../../../WordApp.php:507
+msgid "Quick install"
+msgstr "Snelle installatie"
+
+#: ../../../WordApp.php:507
+msgid "Quick Install"
+msgstr "Snelle installatie"
+
+#: ../../../WordApp.php:512
+msgid "App Builder"
+msgstr "App Builder"
+
+#: ../../../WordApp.php:513 ../../.. /includes/admin/push_notes.php:43
+#: ../../../includes/admin/iBeacon.php:44
+msgid "Push Notifications"
+msgstr "push-meldingen"
+
+#: ../../../WordApp.php:515 ../../.. /includes/admin/iBeacon.php:18
+msgid "Beacons"
+msgstr "Beacons"
+
+#: ../../../WordApp.php:517
+msgid "Marketing Gear"
+msgstr "Marketing versnelling"
+
+#: ../../../WordApp.php:518
+msgid "The Crowd"
+msgstr "Het publiek"
+
+#: ../../../WordApp.php:519
+msgid "Tell a friend"
+msgstr "Vertel een vriend"
+
+#: ../../../WordApp.php:520
+msgid "Video Tutorials"
+msgstr "Videozelfstudie"
+
+#: ../../../WordApp.php:521
+msgid "Settings"
+msgstr "instellingen"
+
+#: ../../../WordApp.php:522
+msgid "CSS Editor"
+msgstr "CSS-editor"
+
+#: ../../../WordApp.php:523
+msgid "Themes"
+msgstr "Thema's"
+
+#: ../../../WordApp.php:527
+msgid "Go Premium"
+msgstr "Go Premium"
+
+#: ../../../WordApp.php:709
+msgid ""
+"The plugin must be installed to wp-content/plugins/wordapp-mobile-app - to "
+"help this, please ensure that the zip file you are installing is called "
+"wordapp-mobile-app.zip, or rename the folder via FTP"
+msgstr ""
+"De plugin moet worden geïnstalleerd om wp-content / plugins / wordapp-mobile-"
+"app - om deze te helpen, zorg er dan voor dat het zip-bestand dat u "
+"installeert wordapp-mobile-app.zip wordt genoemd, of de naam van de map via "
+"FTP"
+
+#: ../../../includes/admin/admin_toolbar.php:5 ../../..
+#: /includes/admin/admin_toolbar_misc.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hoeft niet voldoende rechten om deze pagina te bekijken."
+
+#: ../../../includes/admin/admin_toolbar.php:40
+msgid "WordApp wants to:"
+msgstr "WordApp wil:"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Send you push notifications"
+msgstr "Stuur je push notificaties"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Block"
+msgstr "Blok"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Allow"
+msgstr "Toestaan"
+
+#: ../../../includes/admin/admin_toolbar.php:87 ../../..
+#: /includes/admin/admin_toolbar_misc.php:16
+msgid "Subscribe to our newsletter"
+msgstr "Abonneer je op onze nieuwsbrief"
+
+#: ../../../includes/admin/admin_toolbar.php:91 ../../..
+#: /includes/admin/admin_toolbar_misc.php:20
+msgid "Your Email Address"
+msgstr "Jouw e-mailadres"
+
+#: ../../../includes/admin/admin_toolbar.php:94 ../../..
+#: /includes/admin/admin_toolbar_misc.php:23
+msgid "Your Name"
+msgstr "Uw naam"
+
+#: ../../../includes/admin/admin_toolbar.php:96 ../../..
+#: /includes/admin/admin_toolbar_misc.php:25
+msgid "Subscribe!"
+msgstr "Neem een abonnement!"
+
+#: ../../../includes/admin/admin_toolbar.php:121 ../../..
+#: /includes/admin/admin_toolbar_misc.php:49
+#: ../../../includes/admin/index_page. php:81
+#: ../../../includes/admin/plugins.php:84
+msgid "Thank you for using"
+msgstr "Dank u voor het gebruik van"
+
+#: ../../../includes/admin/admin_toolbar.php:122 ../../..
+#: /includes/admin/admin_toolbar_misc.php:50
+#: ../../../includes/admin/index_page. php:82
+#: ../../../includes/admin/plugins.php:85
+msgid "we hope you enjoy using our plugin."
+msgstr "We hopen dat u veel plezier met onze plugin."
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../..
+#: /includes/admin/admin_toolbar_misc.php:51
+#: ../../../includes/admin/index_page. php:83
+#: ../../../includes/admin/plugins.php:86
+msgid "If you continue using"
+msgstr "Als u blijven gebruiken"
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../..
+#: /includes/admin/admin_toolbar_misc.php:51
+#: ../../../includes/admin/index_page. php:83
+#: ../../../includes/admin/plugins.php:86
+msgid "you agree to our"
+msgstr "gaat u akkoord met onze"
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../..
+#: /includes/admin/admin_toolbar_misc.php:51
+#: ../../../includes/admin/index_page. php:83
+#: ../../../includes/admin/plugins.php:86
+msgid "terms of service."
+msgstr "servicevoorwaarden."
+
+#: ../../../includes/admin/admin_toolbar.php:124 ../../..
+#: /includes/admin/admin_toolbar_misc.php:52
+#: ../../../includes/admin/index_page. php:84
+#: ../../../includes/admin/plugins.php:87
+msgid "Thank you for supporting our plugin."
+msgstr "Dank u voor de ondersteuning van onze plugin."
+
+#: ../../../includes/admin/admin_toolbar.php:126 ../../..
+#: /includes/admin/admin_toolbar_misc.php:54
+#: ../../../includes/admin/index_page. php:86
+#: ../../../includes/admin/plugins.php:89
+msgid "Hide"
+msgstr "Verbergen"
+
+#: ../../../includes/admin/admin_toolbar.php:144
+msgid "Design"
+msgstr "Ontwerp"
+
+#: ../../../includes/admin/admin_toolbar.php:146
+msgid "Home Builder"
+msgstr "Huizen bouwer"
+
+#: ../../../includes/admin/admin_toolbar.php:148
+msgid "Menus"
+msgstr "menus"
+
+#: ../../../includes/admin/admin_toolbar.php:149
+msgid "Slideshow"
+msgstr "Diavoorstelling"
+
+#: ../../../includes/admin/admin_toolbar.php:150
+msgid "App Structure"
+msgstr "App Structuur"
+
+#: ../../../includes/admin/admin_toolbar.php:151
+msgid "Publish App"
+msgstr "publiceren App"
+
+#: ../../../includes/admin/push_notes.php:17
+msgid "Push notifications"
+msgstr "Push notificaties"
+
+#: ../../../includes/admin/push_notes.php:32
+#: ../../../includes/admin/iBeacon.php:33
+msgid "Increase customer engagement thanks to push notifications !"
+msgstr "Verhoging van customer engagement dankzij meldingen duwen!"
+
+#: ../../../includes/admin/push_notes.php:35
+#: ../../../includes/admin/iBeacon.php:36
+msgid ""
+"Push notifications connect directly to your app's users. Keep them happy and "
+"engaged with app updates, promotions, and more sent directly to their device."
+msgstr ""
+"Push notificaties rechtstreeks aan te sluiten op de gebruikers van uw app. "
+"Houd ze gelukkig en bezig met app-updates, promoties en meer rechtstreeks "
+"naar hun apparaat."
+
+#: ../../../includes/admin/push_notes.php:37
+#: ../../../includes/admin/iBeacon.php:38
+msgid "Give your app a voice thanks to push notifications"
+msgstr "Geef uw app een stem dankzij meldingen duwen"
+
+#: ../../../includes/admin/push_notes.php:49
+#: ../../../includes/admin/iBeacon.php:50
+msgid "Unlimited push notifications"
+msgstr "Onbeperkt push-notificaties"
+
+#: ../../../includes/admin/push_notes.php:53
+msgid "Schedule push notes (Oct 2016)"
+msgstr "Schedule push noten (oktober 2016)"
+
+#: ../../../includes/admin/push_notes.php:57
+#: ../../../includes/admin/iBeacon.php:55
+msgid "HTML Rich windows"
+msgstr "HTML Rich ramen"
+
+#: ../../../includes/admin/push_notes.php:62
+#: ../../../includes/admin/iBeacon.php:60
+msgid "Mobile Website"
+msgstr "mobiele website"
+
+#: ../../../includes/admin/push_notes.php:66
+#: ../../../includes/admin/iBeacon.php:64
+msgid "iOS App"
+msgstr "iOS App"
+
+#: ../../../includes/admin/push_notes.php:70
+#: ../../../includes/admin/iBeacon.php:68
+msgid "Android App"
+msgstr "Android App"
+
+#: ../../../includes/admin/push_notes.php:76
+#: ../../../includes/admin/iBeacon.php:74
+msgid "Upgrade Today only $2.99/mo"
+msgstr "Upgrade vandaag slechts $ 2,99 / mo"
+
+#: ../../../includes/admin/push_notes.php:82
+msgid "Activate Push Notifications"
+msgstr "Activeert push-notificaties"
+
+#: ../../../includes/admin/push_notes.php:91
+msgid ""
+"Simply send out a message to all your app users in one go! Fill-out the form "
+"below and press send, our servers will take care of the rest."
+msgstr ""
+"Gewoon sturen een bericht naar al uw app-gebruikers in één keer! Vul-het "
+"onderstaande formulier in en druk op verstuur, zullen onze servers zorgen "
+"voor de rest."
+
+#: ../../../includes/admin/push_notes.php:94
+msgid "Send a push notifcation"
+msgstr "Stuur een push notificatie"
+
+#: ../../../includes/admin/push_notes.php:99
+msgid "characters left"
+msgstr "tekens over"
+
+#: ../../../includes/admin/push_notes.php:100
+msgid "Send"
+msgstr "sturen"
+
+#: ../../../includes/admin/the_crowd.php:17
+msgid "The Community "
+msgstr "De gemeenschap"
+
+#: ../../../includes/admin/the_crowd.php:21
+msgid "Become part of a growing mobile marketing community!"
+msgstr "Maak deel uit van een groeiende mobiele marketing community!"
+
+#: ../../../includes/admin/the_crowd.php:23
+msgid "Built in 2015 "
+msgstr "Gebouwd in 2015"
+
+#: ../../../includes/admin/the_crowd.php:23
+msgid ""
+" was a project lead by a group of mobile & wordpress geeks. We love mobile "
+"and the way apps are improving our lives. This is where we thought we could "
+"help. By offering a <b><u>FREE</u></b> wordpress plugin that will convert "
+"your site/blog in to a beautiful mobile app. A community of enthusiastic "
+"people followed the plugin & encouraged us to share our mobile marketing "
+"knowledge in a forum."
+msgstr ""
+"was een project onder leiding van een groep van mobiele en wordpress geeks. "
+"We houden van mobiele en de manier waarop apps zijn het verbeteren van ons "
+"leven. Dit is waar we dachten dat we konden helpen. Door het aanbieden van "
+"een <b> <u> GRATIS </ u> </ b> wordpress plugin die uw site / blog om te "
+"zetten in een prachtige mobiele app. Een gemeenschap van enthousiaste mensen "
+"volgden de plugin en ons aangespoord om onze mobiele marketing kennis te "
+"delen in een forum."
+
+#: ../../../includes/admin/the_crowd.php:29
+#: ../../../includes/admin/the_crowd.php:39
+#: ../../../includes/admin/more_info.php:10
+msgid "Help us grow"
+msgstr "Help ons om te groeien"
+
+#: ../../../includes/admin/the_crowd.php:32
+msgid "Here are a few free resources :"
+msgstr "Hier zijn een paar middelen vrij te maken:"
+
+#: ../../../includes/admin/the_crowd.php:34
+msgid "Mobile Marketing Videos"
+msgstr "Mobile Marketing Videos"
+
+#: ../../../includes/admin/the_crowd.php:35
+msgid "Mobile Marketing Facebook Group"
+msgstr "Mobile Marketing Facebook-groep"
+
+#: ../../../includes/admin/the_crowd.php:36
+msgid "Facebook Page"
+msgstr "Facebook pagina"
+
+#: ../../../includes/admin/the_crowd.php:47
+msgid ""
+"Thanks to the amazing support of our friends, family & followers we are "
+"really proud of WordApp."
+msgstr ""
+"Dankzij de geweldige steun van onze vrienden, familie en volgelingen zijn we "
+"echt trots op WordApp."
+
+#: ../../../includes/admin/the_crowd.php:50
+msgid "If you believe in WordApp the are many ways you can get involved :"
+msgstr "Als u in WordApp geloven dat de vele manieren waarop je kunt meedoen:"
+
+#: ../../../includes/admin/the_crowd.php:52
+msgid "Tell your friends & family"
+msgstr "Vertel je vrienden en familie"
+
+#: ../../../includes/admin/the_crowd.php:53
+msgid "Share the love on Facebook & Twitter"
+msgstr "Deel de liefde op Facebook & Twitter"
+
+#: ../../../includes/admin/the_crowd.php:54
+msgid "Write a plugin or theme for the marketplace"
+msgstr "Schrijf een plugin of thema voor de markt"
+
+#: ../../../includes/admin/the_crowd.php:55 ../../..
+#: /includes/admin/more_downloads.php:26
+msgid "Make a donation"
+msgstr "Maak een donatie"
+
+#: ../../../includes/admin/the_crowd.php:57
+msgid "Thanks for all your help"
+msgstr "Dank u voor al uw hulp"
+
+#: ../../../includes/admin/the_crowd.php:70
+msgid "Join the free community !"
+msgstr "Doe mee aan de gratis community!"
+
+#: ../../../includes/admin/more_downloads.php:17 ../../..
+#: /includes/admin/index_page.php:106
+#: ../../../includes/admin/index_page.php:114
+msgid "Welcome to "
+msgstr "Welkom bij"
+
+#: ../../../includes/admin/more_downloads.php:21
+msgid "Help us keep WordApp Free!"
+msgstr "Help ons WordApp Gratis!"
+
+#: ../../../includes/admin/more_downloads.php:22
+msgid "Get your app for free by donating or inviting 8 friends"
+msgstr "Haal uw app gratis met 8 vrienden doneren of uitnodigen"
+
+#: ../../../includes/admin/more_downloads.php:28 ../../..
+#: /includes/admin/more_info.php:11
+msgid "We promise to invest every cent in to improving the plugin."
+msgstr ""
+"Wij beloven om elke cent te investeren in de verbetering van de plugin."
+
+#: ../../../includes/admin/popup.php:11 ../../../includes/admin/start.php:23
+msgid "Our famous 3 step install"
+msgstr "Onze beroemde 3 stap installeren"
+
+#: ../../../includes/admin/popup.php:15 ../../../includes/admin/start.php:27
+#: ../.. /../freemius/includes/i18n.php:96
+msgid "Name"
+msgstr "Naam"
+
+#: ../../../includes/admin/popup.php:20 ../../../includes/admin/start.php:32
+msgid "Theme"
+msgstr "Thema"
+
+#: ../../../includes/admin/popup.php:25 ../../../includes/admin/start.php:37
+msgid "Install"
+msgstr "Installeren"
+
+#: ../../../includes/admin/popup.php:42 ../../../includes/admin/home.php:800
+#: ../.. /../includes/admin/start.php:54
+msgid "Give your app a name"
+msgstr "Geef uw app een naam"
+
+#: ../../../includes/admin/popup.php:44 ../../../includes/admin/start.php:56
+msgid "Only A-Z charecters."
+msgstr "Alleen A-Z karakters."
+
+#: ../../../includes/admin/popup.php:46 ../../../includes/admin/start.php:58
+msgid ""
+"Note: This may overwrite any previous WordApp configurations. If you are "
+"upgrading you can click \"No thanks\" below."
+msgstr ""
+"Opmerking: Dit kan alle eerdere WordApp configuraties te overschrijven. Als "
+"u een upgrade kunt u klikken op \"Nee, bedankt\" hieronder."
+
+#: ../../../includes/admin/popup.php:49
+msgid "No Thanks"
+msgstr "Nee, dank u wel"
+
+#: ../../../includes/admin/popup.php:52 ../../../includes/admin/popup.php:113
+msgid "Next step"
+msgstr "Volgende stap"
+
+#: ../../../includes/admin/popup.php:93 ../../../includes/admin/start.php:108
+#: ../. ../freemius/includes/i18n.php:125
+#: ../../../freemius/includes/fs-plugin-info- dialog.php:360
+msgid "Install Now"
+msgstr "Installeer nu"
+
+#: ../../../includes/admin/popup.php:112 ../../../includes/admin/start.php:127
+msgid "Back"
+msgstr "Terug"
+
+#: ../../../includes/admin/popup.php:123 ../../../includes/admin/start.php:138
+msgid "Your information"
+msgstr "Uw informatie"
+
+#: ../../../includes/admin/popup.php:125 ../../../includes/admin/home.php:126
+#: ../. ../includes/admin/start.php:140
+msgid "App Name"
+msgstr "Applicatie naam"
+
+#: ../../../includes/admin/popup.php:126 ../../../includes/admin/start.php:141
+msgid "Theme Chosen"
+msgstr "thema Chosen"
+
+#: ../../../includes/admin/popup.php:127 ../../../includes/admin/start.php:148
+msgid "SUBMIT"
+msgstr "LEGT"
+
+#: ../../../includes/admin/popup.php:133 ../../../includes/admin/start.php:158
+msgid "Cancel back to start"
+msgstr "Annuleren terug om te beginnen"
+
+#: ../../../includes/admin/more_info.php:3
+msgid "More Links"
+msgstr "meer Links"
+
+#: ../../../includes/admin/more_info.php:5
+msgid "We need your help!"
+msgstr "We hebben je hulp nodig!"
+
+#: ../../../includes/admin/more_info.php:7
+msgid "Get app for free!"
+msgstr "Krijg app gratis!"
+
+#: ../../../includes/admin/more_info.php:20
+msgid "Become a reseller"
+msgstr "Reseller"
+
+#: ../../../includes/admin/more_info.php:20
+msgid "Unlimited Apps $99 (White label plugin)"
+msgstr "Onbeperkt Apps $ 99 (White label plugin)"
+
+#: ../../../includes/admin/more_info.php:20
+#: ../../../includes/admin/start.php:149
+msgid "More information"
+msgstr "Meer informatie"
+
+#: ../../../includes/admin/home.php:76
+msgid "Live editor"
+msgstr "live-editor"
+
+#: ../../../includes/admin/home.php:76
+msgid "Watch the video before using customizer"
+msgstr "Bekijk de video voor het gebruik customizer"
+
+#: ../../../includes/admin/home.php:86
+msgid "Colors"
+msgstr "kleuren"
+
+#: ../../../includes/admin/home.php:86
+msgid "Top & bottom bar colors"
+msgstr "Top & bottom bar kleuren"
+
+#: ../../../includes/admin/home.php:89
+msgid "App  Toolbar Color"
+msgstr "App Werkbalk kleur"
+
+#: ../../../includes/admin/home.php:93
+msgid "+ Advanced colors & fonts"
+msgstr "Geavanceerde kleuren &lettertypen"
+
+#: ../../../includes/admin/home.php:99 ../../..
+#: /themes/wordappjqmobileMyiOS/inc/customizer.php:233
+#: /themes/wordappjqmobile/inc/customizer.php:232
+msgid "App header font & icon color"
+msgstr "App header & kleur van het pictogram"
+
+#: ../../../includes/admin/home.php:101
+msgid "App header font"
+msgstr "App koplettertype"
+
+#: ../../../includes/admin/home.php:106
+msgid "H1 H2 H3 font color"
+msgstr "H1 H2 H3 font color"
+
+#: ../../../includes/admin/home.php:108
+msgid "H1 H2 H3 font"
+msgstr "H1 H2 H3 lettertype"
+
+#: ../../../includes/admin/home.php:113
+msgid "Paragraph font color"
+msgstr "Paragraaf font color"
+
+#: ../../../includes/admin/home.php:115
+msgid "Paragraph font"
+msgstr "paragraaf lettertype"
+
+#: ../../../includes/admin/home.php:122
+msgid "App configuration"
+msgstr "App configuratie"
+
+#: ../../../includes/admin/home.php:129
+msgid "App Logo"
+msgstr "App Logo"
+
+#: ../../../includes/admin/home.php:131
+msgid "Upload Logo"
+msgstr "Upload Logo"
+
+#: ../../../includes/admin/home.php:144
+msgid "App Homepage Background"
+msgstr "App Homepage Achtergrond"
+
+#: ../../../includes/admin/home.php:144
+msgid "May not be acceptable for all themes"
+msgstr "Mag niet aanvaardbaar voor alle thema's"
+
+#: ../../../includes/admin/home.php:148 ../../..
+#: /themes/wordappjqmobileMyiOS/inc/customizer.php:264
+#: /themes/wordappjqmobile/inc/customizer.php:263
+msgid "App Background"
+msgstr "App Achtergrond"
+
+#: ../../../includes/admin/home.php:150
+msgid "Upload Background"
+msgstr "Upload Achtergrond"
+
+#: ../../../includes/admin/home.php:166
+msgid "Content style"
+msgstr "Content stijl"
+
+#: ../../../includes/admin/home.php:166
+msgid "How the content is displayed on the homepage"
+msgstr "Hoe de inhoud wordt weergegeven op de homepage"
+
+#: ../../../includes/admin/home.php:173
+msgid "App Theme"
+msgstr "App Theme"
+
+#: ../../../includes/admin/home.php:174
+msgid "Change App Theme"
+msgstr "Wijzig App thema"
+
+#: ../../../includes/admin/home.php:177
+msgid "Woocommerce Theme"
+msgstr "Woocommerce thema"
+
+#: ../../../includes/admin/home.php:179
+msgid "Standard"
+msgstr "Standaard"
+
+#: ../../../includes/admin/home.php:180
+msgid "Beautiful Slider - Fastfood"
+msgstr "Prachtige Slider - Fastfood"
+
+#: ../../../includes/admin/home.php:182
+msgid "Beautiful Slider - Pub or Bar"
+msgstr "Prachtige Slider - Pub of Bar"
+
+#: ../../../includes/admin/home.php:184
+msgid "Beautiful Slider - Night Club"
+msgstr "Prachtige Slider - Night Club"
+
+#: ../../../includes/admin/home.php:185
+msgid "Beautiful Slider - Golf Courses"
+msgstr "Prachtige Slider - Golfbanen"
+
+#: ../../../includes/admin/home.php:186
+msgid "Beautiful Slider - Spas"
+msgstr "Prachtige Slider - Spas"
+
+#: ../../../includes/admin/home.php:188
+msgid "Beautiful Slider - Gyms & Fitness Clubs"
+msgstr "Prachtige Slider - Sportscholen & Fitness Clubs"
+
+#: ../../../includes/admin/home.php:189
+msgid "Beautiful Slider - Auto Dealerships"
+msgstr "Prachtige Slider - Auto Dealers"
+
+#: ../../../includes/admin/home.php:190
+msgid "Beautiful Slider - Churches"
+msgstr "Prachtige Slider - kerken"
+
+#: ../../../includes/admin/home.php:191
+msgid "Beautiful Slider - Bands & DJs"
+msgstr "Prachtige Slider - Bands & DJ's"
+
+#: ../../../includes/admin/home.php:193
+msgid "Beautiful Slider - Chiropractors"
+msgstr "Prachtige Slider - Chiropractors"
+
+#: ../../../includes/admin/home.php:194
+msgid "Beautiful Slider - Hair Salons"
+msgstr "Prachtige Slider - Kapsalons"
+
+#: ../../../includes/admin/home.php:195
+msgid "Beautiful Slider - Other"
+msgstr "Prachtige Slider - andere"
+
+#: ../../../includes/admin/home.php:196
+msgid "Use my theme (Not recommended)"
+msgstr "Gebruik mijn thema (niet aanbevolen)"
+
+#: ../../../includes/admin/home.php:206
+msgid "Post list style"
+msgstr "Bericht lijst stijl"
+
+#: ../../../includes/admin/home.php:208
+msgid "List of posts"
+msgstr "Lijst van het aantal ambten"
+
+#: ../../../includes/admin/home.php:215
+msgid "Large Tiles"
+msgstr "grote tegels"
+
+#: ../../../includes/admin/home.php:225
+msgid "Opening page :"
+msgstr "Openingspagina:"
+
+#: ../../../includes/admin/home.php:227
+msgid "A page"
+msgstr "Een pagina"
+
+#: ../../../includes/admin/home.php:242
+msgid "-- Select a page --"
+msgstr "- Selecteer een pagina -"
+
+#: ../../../includes/admin/home.php:282
+msgid "Choose a theme :"
+msgstr "Kies een thema:"
+
+#: ../../../includes/admin/home.php:300
+msgid "Default "
+msgstr "Standaard"
+
+#: ../../../includes/admin/home.php:302
+msgid "Use Wordpress default settings"
+msgstr "Gebruik Wordpress standaardinstellingen"
+
+#: ../../../includes/admin/home.php:364
+msgid "Activated Navigation Bars"
+msgstr "Geactiveerde Navigation Bars"
+
+#: ../../../includes/admin/home.php:366
+msgid "Activate Bars?"
+msgstr "Bars activeren?"
+
+#: ../../../includes/admin/home.php:370
+msgid "If using your own theme you can add mobile navigation bars"
+msgstr "Als het gebruik van uw eigen thema kun je mobiel navigatiebalken toe"
+
+#: ../../../includes/admin/home.php:375
+msgid "Side Menu"
+msgstr "Zijmenu"
+
+#: ../../../includes/admin/home.php:379
+msgid "Side Menus"
+msgstr "Side Menus"
+
+#: ../../../includes/admin/home.php:381 ../../../includes/admin/home.php:400
+#: ../.. /../includes/admin/home.php:416 ../../../includes/admin/home.php:618
+#: ../../.. /includes/admin/settings.php:46
+#: ../../../includes/admin/settings.php:103
+msgid "off"
+msgstr "uit"
+
+#: ../../../includes/admin/home.php:382 ../../../includes/admin/home.php:401
+#: ../.. /../includes/admin/home.php:417 ../../../includes/admin/home.php:619
+#: ../../.. /includes/admin/settings.php:47
+#: ../../../includes/admin/settings.php:104
+msgid "on"
+msgstr "op"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405
+msgid "Choose a "
+msgstr "Kies een"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405
+#: ../.. /../includes/admin/home.php:421
+msgid "menu"
+msgstr "menu"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405
+#: ../.. /../includes/admin/home.php:421
+msgid "to attach to this navigation bar"
+msgstr "te hechten aan deze navigatiebalk"
+
+#: ../../../includes/admin/home.php:395
+msgid "Top Menu"
+msgstr "Topmenu"
+
+#: ../../../includes/admin/home.php:398
+msgid "Top Menus"
+msgstr "Top Menus"
+
+#: ../../../includes/admin/home.php:411
+msgid "Bottom Navigation"
+msgstr "Navigatiebalk onderaan"
+
+#: ../../../includes/admin/home.php:411 ../../../includes/admin/home.php:421
+msgid "Activate & choice of icons"
+msgstr "Activeren en keuze van de iconen"
+
+#: ../../../includes/admin/home.php:414
+msgid "Bottom Menus"
+msgstr "Onderliggende menu's"
+
+#: ../../../includes/admin/home.php:421
+msgid "Save to update icons"
+msgstr "Opslaan naar iconen werken"
+
+#: ../../../includes/admin/home.php:475 ../../../includes/admin/home.php:479
+msgid "Preview Icons"
+msgstr "Voorbeschouwing Icons"
+
+#: ../../../includes/admin/home.php:501 ../../../includes/admin/home.php:504
+msgid "App Icon"
+msgstr "App-pictogram"
+
+#: ../../../includes/admin/home.php:501
+msgid "Icon size must be 512px x 512px"
+msgstr "Grootte van het pictogram moet 512px x 512px"
+
+#: ../../../includes/admin/home.php:506
+msgid "Upload Icon"
+msgstr "uploaden Icon"
+
+#: ../../../includes/admin/home.php:518
+msgid "App Splash Screen"
+msgstr "App-welkomstscherm"
+
+#: ../../../includes/admin/home.php:518
+msgid "Splash size must be 640px x 1136px"
+msgstr "Splash moet groot 640px x 1136px"
+
+#: ../../../includes/admin/home.php:521
+msgid "App Splash"
+msgstr "App Splash"
+
+#: ../../../includes/admin/home.php:523
+msgid "Upload Splash"
+msgstr "Upload Splash"
+
+#: ../../../includes/admin/home.php:535
+msgid "App Meta"
+msgstr "App Meta"
+
+#: ../../../includes/admin/home.php:535
+msgid "Info used in the app store listings"
+msgstr "Info gebruikt in de app store listings"
+
+#: ../../../includes/admin/home.php:538
+msgid "App Description"
+msgstr "App Beschrijving"
+
+#: ../../../includes/admin/home.php:541
+msgid "App Version"
+msgstr "App Version"
+
+#: ../../../includes/admin/home.php:542
+msgid "Upgrade to change version"
+msgstr "Upgrade naar versie te veranderen"
+
+#: ../../../includes/admin/home.php:546
+msgid "App Keywords"
+msgstr "App Trefwoorden"
+
+#: ../../../includes/admin/home.php:549
+msgid "App Category"
+msgstr "App Categorie"
+
+#: ../../../includes/admin/home.php:616
+msgid "Activate the slideshow ?"
+msgstr "Activeer de diavoorstelling?"
+
+#: ../../../includes/admin/home.php:625
+msgid "Woocommerce Category"
+msgstr "WooCommerce Categorie"
+
+#: ../../../includes/admin/home.php:632
+msgid "Select a category"
+msgstr "Kies een categorie"
+
+#: ../../../includes/admin/home.php:643 ../../../includes/admin/home.php:664
+#: ../.. /../includes/admin/home.php:683 ../../../includes/admin/home.php:701
+#: ../../.. /includes/admin/home.php:719
+msgid "Slide"
+msgstr "glijbaan"
+
+#: ../../../includes/admin/home.php:644 ../../../includes/admin/home.php:664
+#: ../.. /../includes/admin/home.php:683 ../../../includes/admin/home.php:701
+#: ../../.. /includes/admin/home.php:719
+msgid "Landscape photos work the best"
+msgstr "Landschapsfoto's het beste werken"
+
+#: ../../../includes/admin/home.php:647
+msgid "Slide Image #1"
+msgstr "Slide Afbeelding # 1"
+
+#: ../../../includes/admin/home.php:649 ../../../includes/admin/home.php:669
+#: ../.. /../includes/admin/home.php:688 ../../../includes/admin/home.php:706
+#: ../../.. /includes/admin/home.php:724
+msgid "Upload Image"
+msgstr "Afbeelding uploaden"
+
+#: ../../../includes/admin/home.php:667
+msgid "Slide Image #2"
+msgstr "Slide Afbeelding # 2"
+
+#: ../../../includes/admin/home.php:686
+msgid "Slide Image #3"
+msgstr "Slide Afbeelding #3"
+
+#: ../../../includes/admin/home.php:704
+msgid "Slide Image #4"
+msgstr "Slide Afbeelding # 4"
+
+#: ../../../includes/admin/home.php:722
+msgid "Slide Image #5"
+msgstr "Slide Afbeelding # 5"
+
+#: ../../../includes/admin/home.php:754
+msgid "Premium users app publisher."
+msgstr "Premium gebruikers app uitgever."
+
+#: ../../../includes/admin/home.php:755
+msgid "Need a new version of your app?"
+msgstr "Hebben behoefte aan een nieuwe versie van uw app?"
+
+#: ../../../includes/admin/home.php:756
+msgid "Check everything is correctly filled out and Hit Publish app."
+msgstr "Controleer alles correct is ingevuld en Hit app publiceren."
+
+#: ../../../includes/admin/home.php:762
+msgid "This is where it gets complicated!"
+msgstr "Dit is waar het wordt ingewikkeld!"
+
+#: ../../../includes/admin/home.php:763
+msgid "but that is why we are here, right?"
+msgstr "maar dat is waarom we hier zijn, nietwaar?"
+
+#: ../../../includes/admin/home.php:764
+msgid "Watch this short video to see how it works."
+msgstr "Bekijk deze korte video om te zien hoe het werkt."
+
+#: ../../../includes/admin/home.php:770
+msgid "Get your android app for free !"
+msgstr "Krijg je android app gratis!"
+
+#: ../../../includes/admin/home.php:776
+msgid "Check List"
+msgstr "checklist"
+
+#: ../../../includes/admin/home.php:820
+msgid "Write a description about your app"
+msgstr "Geef een beschrijving van uw app"
+
+#: ../../../includes/admin/home.php:840
+msgid "Choose an app category"
+msgstr "Kies een app categorie"
+
+#: ../../../includes/admin/home.php:861
+msgid "Upload app icon"
+msgstr "Upload app icoon"
+
+#: ../../../includes/admin/home.php:884
+msgid "Upload app splash screen"
+msgstr "Upload app welkomstscherm"
+
+#: ../../../includes/admin/home.php:910
+msgid "Upload PEM certificates for apple"
+msgstr "Upload PEM certificaten voor apple"
+
+#: ../../../includes/admin/home.php:912
+msgid "Optional"
+msgstr "facultatief"
+
+#: ../../../includes/admin/home.php:927 ../../../includes/admin/home.php:950
+msgid "To which email address would you like us to send your app ?"
+msgstr "Om welk e-mailadres wilt u ons uw app te sturen?"
+
+#: ../../../includes/admin/home.php:928 ../../../includes/admin/home.php:1049
+msgid "Your email address"
+msgstr "jouw e-mailadres"
+
+#: ../../../includes/admin/home.php:934
+msgid "Publish App!"
+msgstr "Publiceren App!"
+
+#: ../../../includes/admin/home.php:939
+msgid "You must fill out all the info above to re-publish your app."
+msgstr "U moet invullen alle info hierboven om opnieuw te publiceren uw app."
+
+#: ../../../includes/admin/home.php:1005
+msgid "Hit Upgrade to Publish below"
+msgstr "Hit Upgrade naar beneden publiceren"
+
+#: ../../../includes/admin/home.php:1007 ../../../includes/admin/home.php:1014
+msgid "Publish Android App!"
+msgstr "Publiceer Android App!"
+
+#: ../../../includes/admin/home.php:1009 ../../../includes/admin/home.php:1016
+#: .. /../../includes/admin/home.php:1105
+msgid "Upgrage to Pro only $2.99"
+msgstr "Upgrade naar Pro slechts $ 2,99"
+
+#: ../../../includes/admin/home.php:1042
+msgid "You must fill out all the information above to publish your app!"
+msgstr ""
+"Je moet invullen van alle bovenstaande informatie om uw app te publiceren!"
+
+#: ../../../includes/admin/home.php:1101
+msgid "Your android app is now free"
+msgstr "Je android app is nu gratis"
+
+#: ../../../includes/admin/home.php:1101
+msgid "Hit publish below!"
+msgstr "Hit publiceren hieronder!"
+
+#: ../../../includes/admin/home.php:1119
+msgid "External link"
+msgstr "Externe link"
+
+#: ../../../includes/admin/home.php:1152
+#: ../../../includes/admin/css_editor.php:69
+msgid "Preview my app"
+msgstr "Een voorbeeld van mijn app"
+
+#: ../../../includes/admin/home.php:1162 ../../../includes/admin/home.php:1184
+msgid "Preview your app in full"
+msgstr "Een voorbeeld van uw app in volle"
+
+#: ../../../includes/admin/home.php:1202
+msgid "Can't see your app? Try deactivating some plugins"
+msgstr "Kan je app niet zien? Probeer het uitschakelen van een aantal plugins"
+
+#: ../../../includes/admin/home.php:1204
+msgid "that are non-mobile friendly."
+msgstr "die niet-mobiele vriendelijk."
+
+#: ../../../includes/admin/home.php:1274
+msgid "There are no menus."
+msgstr "Er zijn geen menu's."
+
+#: ../../../includes/admin/home.php:1280
+#, php-format
+msgid " <a href=\"%s\">Create one</a>."
+msgstr "<a href=\"%s\"> Maak een </a>."
+
+#: ../../../includes/admin/home.php:1292
+msgid "Select a menu"
+msgstr "Selecteer een menu"
+
+#: ../../../includes/admin/home.php:1974
+msgid "Mobile Pages"
+msgstr "Mobiele pagina's"
+
+#: ../../../includes/admin/videos.php:30
+msgid "Watch Now"
+msgstr "Kijk nu"
+
+#: ../../../includes/admin/videos.php:33
+msgid "By"
+msgstr "Door"
+
+#: ../../../includes/admin/videos.php:39
+msgid "Duration"
+msgstr "Duur"
+
+#: ../../../includes/admin/videos.php:40
+msgid "mins"
+msgstr "mins"
+
+#: ../../../includes/admin/videos.php:44
+msgid "Tags"
+msgstr "Tags"
+
+#: ../../../includes/admin/footer.php:2
+msgid "Made with &#10084; by geeks who love wordpress & mobile"
+msgstr "Gemaakt met ❤ door geeks die houden wordpress & mobile"
+
+#: ../../../includes/admin/settings.php:17
+msgid "Settings "
+msgstr "instellingen"
+
+#: ../../../includes/admin/settings.php:40
+msgid "Activate mobile site"
+msgstr "Activeren mobiele site"
+
+#: ../../../includes/admin/settings.php:45
+msgid "Do you want to use this as your mobile website too ?"
+msgstr "Wilt u dit ook gebruiken als uw mobiele website?"
+
+#: ../../../includes/admin/settings.php:46
+msgid "Mobile Site ? "
+msgstr "Mobiele site ?"
+
+#: ../../../includes/admin/settings.php:49
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../../../includes/admin/settings.php:52
+msgid ""
+"Add your Google Analytics tracking ID below. Get more information about your "
+"app downloads, views & activity. "
+msgstr ""
+"Voeg hieronder uw Google Analytics ID. Haal meer informatie over uw app-"
+"downloads, uitzicht en activiteiten."
+
+#: ../../../includes/admin/settings.php:53
+msgid "Setup a google tracking ID here"
+msgstr "Setup een google tracking-ID hier"
+
+#: ../../../includes/admin/settings.php:53
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+#: ../../../includes/admin/settings.php:56
+msgid "API credentials"
+msgstr "API referenties"
+
+#: ../../../includes/admin/settings.php:58
+msgid ""
+"If you have subscribed for push notifications you will be sent API "
+"credentials via email."
+msgstr ""
+"Als u geabonneerd bent op push-notificaties, krijg je API inloggegevens via "
+"e-mail."
+
+#: ../../../includes/admin/settings.php:59
+msgid "API Login"
+msgstr "API Inloggen"
+
+#: ../../../includes/admin/settings.php:62
+msgid "API Key"
+msgstr "API Key"
+
+#: ../../../includes/admin/settings.php:65
+msgid "API Domain"
+msgstr "API Domain"
+
+#: ../../../includes/admin/settings.php:69
+msgid "QRCODE setup"
+msgstr "BARCODE setup"
+
+#: ../../../includes/admin/settings.php:71
+msgid "Android URL"
+msgstr "Android URL"
+
+#: ../../../includes/admin/settings.php:74
+msgid "iOS URL"
+msgstr "iOS URL"
+
+#: ../../../includes/admin/settings.php:77
+msgid "White Label App"
+msgstr "White Label App"
+
+#: ../../../includes/admin/settings.php:81
+msgid "Remove powered by link ?"
+msgstr "Verwijder powered by link?"
+
+#: ../../../includes/admin/settings.php:82
+msgid "Yes ? "
+msgstr "Ja ?"
+
+#: ../../../includes/admin/settings.php:85
+msgid "Remove powered by & ads (PRO only)"
+msgstr "Verwijder aangedreven door & advertenties (PRO)"
+
+#: ../../../includes/admin/settings.php:86
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: ../../../includes/admin/settings.php:88
+msgid "Hide Chat"
+msgstr "Verberg Chat"
+
+#: ../../../includes/admin/settings.php:92
+msgid "Here to help but I don't what to get in your way.."
+msgstr "Hier om te helpen, maar ik weet niet wat in de weg te krijgen .."
+
+#: ../../../includes/admin/settings.php:93
+msgid "Hide Chat? "
+msgstr "Verberg chatten?"
+
+#: ../../../includes/admin/settings.php:98
+msgid "Emails & Newsletter"
+msgstr "Emails & Nieuwsbrief"
+
+#: ../../../includes/admin/settings.php:102
+msgid ""
+"Do you want to be informed about latest security updates & news from "
+"WordApps ?"
+msgstr ""
+"Wilt u over de nieuwste beveiligingsupdates en nieuws van Word Apps op de "
+"hoogte?"
+
+#: ../../../includes/admin/settings.php:103
+msgid "Newsletter ? "
+msgstr "Nieuwsbrief?"
+
+#: ../../../includes/admin/settings.php:110
+msgid "Deactivate Plugins on mobile"
+msgstr "Deactiveren Plugins op mobiele"
+
+#: ../../../includes/admin/settings.php:113
+msgid ""
+"Some plugins might not look great on mobile but work fine on desktop. Here "
+"you can deactivate plugins on the mobile version & app."
+msgstr ""
+"Sommige plugins misschien niet geweldig op mobiel uit, maar werkt prima op "
+"het bureaublad. Hier kunt u plug-ins op de mobiele versie & app uit te "
+"schakelen."
+
+#: ../../../includes/admin/settings.php:114
+msgid "Checked plugins will be deactivated on mobile only"
+msgstr "Check plugins gedeactiveerd op mobiele alleen"
+
+#: ../../../includes/admin/settings.php:115
+msgid "Beta testing this part"
+msgstr "Beta-testen dit deel"
+
+#: ../../../includes/admin/settings.php:134
+msgid "Currently Active"
+msgstr "momenteel Actief"
+
+#: ../../../includes/admin/settings.php:134
+msgid "Currently Inactive"
+msgstr "momenteel inactief"
+
+#: ../../../includes/admin/settings.php:160
+msgid "Did you delete the mobile homepage?"
+msgstr "Heb je de mobiele homepage verwijderen?"
+
+#: ../../../includes/admin/settings.php:161
+msgid "Reset mobile home page"
+msgstr "Reset mobiele startpagina"
+
+#: ../../../includes/admin/index_page.php:79
+#: ../../../includes/admin/plugins.php:82
+msgid "Install successful"
+msgstr "Installeer succesvol"
+
+#: ../../../includes/admin/index_page.php:114
+msgid ""
+", Convert your wordpress site/blog in to a mobile app & mobile site within "
+"minutes"
+msgstr ""
+", Zet uw wordpress site / blog in een mobiele app en mobiele site binnen "
+"enkele minuten"
+
+#: ../../../includes/admin/index_page.php:118
+msgid "Fast & Reliable"
+msgstr "Fast & Betrouwbare"
+
+#: ../../../includes/admin/index_page.php:118
+msgid "Build your mobile app within minutes. It's as easy as 1-2-3"
+msgstr ""
+"Bouw je mobiele app binnen enkele minuten. Het is zo eenvoudig als 1-2-3"
+
+#: ../../../includes/admin/index_page.php:119
+msgid "No programming skills."
+msgstr "Geen programmering vaardigheden."
+
+#: ../../../includes/admin/index_page.php:119
+msgid ""
+"No programming skills needed. You don’t need to be a computer wiz-kid to use "
+msgstr ""
+"Geen programmering vaardigheden die nodig zijn. U hoeft niet op een computer "
+"wiz-kid te gebruiken"
+
+#: ../../../includes/admin/index_page.php:120
+msgid "Our Community"
+msgstr "Onze gemeenschap"
+
+#: ../../../includes/admin/index_page.php:120
+msgid ""
+"We started as a bunch of geek and now we have an amazing app-developers.biz "
+"community."
+msgstr ""
+"We zijn begonnen als een stelletje geek en nu hebben we een geweldige app-"
+"developers.biz gemeenschap."
+
+#: ../../../includes/admin/index_page.php:126
+msgid "Invite your friends and get your android app for FREE!"
+msgstr "Nodig je vrienden en krijg je android app GRATIS!"
+
+#: ../../../includes/admin/index_page.php:163
+msgid "Quick Links"
+msgstr "Quick Links"
+
+#: ../../../includes/admin/index_page.php:170
+msgid "website"
+msgstr "website"
+
+#: ../../../includes/admin/index_page.php:171
+msgid "Mobile Marketing Community"
+msgstr "Mobile Marketing Gemeenschap"
+
+#: ../../../includes/admin/index_page.php:172
+msgid "About App Developers"
+msgstr "Over Applicatieontwikkelaars"
+
+#: ../../../includes/admin/index_page.php:173
+msgid "Changelog"
+msgstr "changelog"
+
+#: ../../../includes/admin/index_page.php:186
+msgid "Latest News"
+msgstr "Laatste nieuws"
+
+#: ../../../includes/admin/start.php:55
+msgid "Your app name"
+msgstr "Uw app naam"
+
+#: ../../../includes/admin/start.php:128
+msgid "Next Step"
+msgstr "Volgende stap"
+
+#: ../../../includes/admin/start.php:144
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: ../../../includes/admin/start.php:146
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: ../../../includes/admin/start.php:146
+msgid "Receive updates via email."
+msgstr "Ontvang updates via e-mail."
+
+#: ../../../includes/admin/start.php:149
+msgid "Become a reseller \\(White label plugin\\)"
+msgstr "Voortverkoper \\(White label plugin\\)"
+
+#: ../../../includes/admin/start.php:151
+msgid ""
+"Please note by pressing submit you will be sending some information to the "
+"WordApp so that we can generate your app."
+msgstr ""
+"Let op: door op te leggen zult u enige informatie aan het Woord App sturen, "
+"zodat we uw app kan genereren."
+
+#: ../../../includes/admin/start.php:151
+msgid "What information is sent? Your Blog URL & the email address above."
+msgstr ""
+"Welke informatie wordt verzonden? Uw Blog URL en het bovenstaande e-"
+"mailadres."
+
+#: ../../../includes/admin/iBeacon.php:80
+msgid "Activate Push Notifcations"
+msgstr "Activeert push-notificaties"
+
+#: ../../../includes/admin/iBeacon.php:102
+msgid "Active"
+msgstr "Actief"
+
+#: ../../../includes/admin/iBeacon.php:103
+msgid "Beacon UUID"
+msgstr "Beacon UUID"
+
+#: ../../../includes/admin/iBeacon.php:104
+msgid "Minor"
+msgstr "mineur"
+
+#: ../../../includes/admin/iBeacon.php:105
+msgid "Major"
+msgstr "groot"
+
+#: ../../../includes/admin/iBeacon.php:106
+msgid "Message"
+msgstr "Bericht"
+
+#: ../../../includes/admin/plugins.php:130
+#: ../../../includes/admin/plugins.php:178
+msgid "GET MORE THEMES"
+msgstr "GET meer thema's"
+
+#: ../../../includes/admin/plugins.php:186
+msgid "USE ONE OF YOUR WORDPRESS THEMES"
+msgstr "Gebruik een van je WordPress THEMA"
+
+#: ../../../includes/admin/plugins.php:262
+msgid "* Changing themes may delete some of your information"
+msgstr "* Veranderen van thema's kan een deel van uw gegevens te verwijderen"
+
+#: ../../../includes/admin/css_editor.php:23
+msgid "Add your own CSS to your app"
+msgstr "Voeg uw eigen CSS om uw app"
+
+#: ../../../includes/admin/css_editor.php:72
+msgid "Clicking deactivated in demo"
+msgstr "Klikken uitgeschakeld in demo"
+
+#: ../../../includes/admin/marketing_gear.php:26
+msgid "Some marketing gear to help you get app downloads - "
+msgstr "Sommige marketing gear om u te helpen app downloads te krijgen -"
+
+#: ../../../includes/admin/marketing_gear.php:31 ../../..
+#: /includes/admin/marketing_gear.php:33
+#: ../../../includes/admin/marketing_gear. php:36
+msgid "* Right mouse click and save image as to download image"
+msgstr ""
+"* Rechter muisklik en op te slaan afbeelding als om de afbeelding te "
+"downloaden"
+
+#: ../../../includes/classes/front_end_widgets.php:48
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../../../includes/classes/front_end_widgets.php:52
+msgid "iTunes Link"
+msgstr "iTunes Link"
+
+#: ../../../includes/classes/front_end_widgets.php:56
+msgid "Play Store Link"
+msgstr "Play Store Link"
+
+#. Name of the plugin
+msgid "WordApp MU"
+msgstr "WordApp MU"
+
+#. Author of the plugin
+msgid "Davidd Anthony"
+msgstr "David Anthony"
+
+#. Description of the plugin
+msgid "Helper plugin for WordApp"
+msgstr "Helper plugin voor Word App"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:42 ../../..
+#: /themes/wordappjqmobileMyiOS/loop.php:77
+#: /themes/wordappjqmobilewooWordApp/loop-single.php:42
+#: /themes/wordappjqmobilewooWordApp/loop.php:77
+#, php-format
+msgid "Posted on %s"
+msgstr "Geplaatst op %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:43 ../../..
+#: /themes/wordappjqmobileMyiOS/loop.php:78
+#: /themes/wordappjqmobilewooWordApp/loop-single.php:43
+#: /themes/wordappjqmobilewooWordApp/loop.php:78
+#, php-format
+msgid " by %s"
+msgstr "Door %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:54 ../../..
+#: /themes/wordappjqmobileMyiOS/loop.php:89
+#: /themes/wordappjqmobileMyiOS/functions.php:231
+#: /themes/wordappjqmobile/functions.php:216
+#: /themes/wordappjqmobilewooWordApp/loop-single.php:54
+#: /themes/wordappjqmobilewooWordApp/loop.php:89
+msgid "Categories"
+msgstr "Categorieën"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop.php:33 ../../..
+#: /themes/wordappjqmobileMyiOS/loop.php:36
+#: /themes/wordappjqmobileMyiOS/loop.php:39
+#: /themes/wordappjqmobilewooWordApp/loop.php:33
+#: /themes/wordappjqmobilewooWordApp/loop.php:36
+#: /themes/wordappjqmobilewooWordApp/loop.php:39
+#, php-format
+msgid "Archive for %s"
+msgstr "Archive for %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop.php:57 ../../..
+#: /themes/wordappjqmobilewooWordApp/loop.php:57
+#: /themes/wordappjqmobilewooWordApp/functions.php:91
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permanente link naar %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:36 ../../..
+#: /themes/wordappjqmobile/functions.php:21
+msgid "Primary"
+msgstr "primair"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:37 ../../..
+#: /themes/wordappjqmobile/functions.php:22
+msgid "A short description of the sidebar."
+msgstr "Een korte beschrijving van de zijbalk."
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:75 ../../..
+#: /themes/wordappjqmobile/functions.php:60
+msgid "Body"
+msgstr "Lichaam"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:79 ../../..
+#: /themes/wordappjqmobile/functions.php:64
+msgid "Header"
+msgstr "hoofd"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:83 ../../..
+#: /themes/wordappjqmobile/functions.php:68
+msgid "Footer"
+msgstr "footer"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:87 ../../..
+#: /themes/wordappjqmobile/functions.php:72
+msgid "Post Teaser"
+msgstr "Bericht Teaser"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:91 ../../..
+#: /themes/wordappjqmobile/functions.php:76
+msgid "Sticky Post"
+msgstr "Sticky Bericht"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:95 ../../..
+#: /themes/wordappjqmobile/functions.php:80
+msgid "Widget"
+msgstr "widget"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:99 ../../..
+#: /themes/wordappjqmobile/functions.php:84
+msgid "Widget Content"
+msgstr "Widget inhoud"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:103 ../../..
+#: /themes/wordappjqmobile/functions.php:88
+msgid "Comments"
+msgstr "Opmerkingen"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:107 ../../..
+#: /themes/wordappjqmobile/functions.php:92
+msgid "Comment Form"
+msgstr "Opmerkingenformulier"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:213 ../../..
+#: /themes/wordappjqmobile/functions.php:198
+msgid "Pages"
+msgstr "Pagina's"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:216 ../../..
+#: /themes/wordappjqmobile/functions.php:201
+msgid "Text"
+msgstr "Tekst"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:219 ../../..
+#: /themes/wordappjqmobile/functions.php:204
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:222 ../../..
+#: /themes/wordappjqmobile/functions.php:207
+msgid "Tag cloud"
+msgstr "tag cloud"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:225 ../../..
+#: /themes/wordappjqmobile/functions.php:210
+msgid "Recent posts"
+msgstr "Recente berichten"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:228 ../../..
+#: /themes/wordappjqmobile/functions.php:213
+msgid "Meta"
+msgstr "meta"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:234 ../../..
+#: /themes/wordappjqmobileMyiOS/inc/template-tags.php:181
+#: /themes/wordappjqmobile/functions.php:219
+#: /themes/wordappjqmobile/inc/template-tags.php:181
+msgid "Archives"
+msgstr "archief"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:237 ../../..
+#: /themes/wordappjqmobile/functions.php:222
+msgid "Calendar"
+msgstr "Kalender"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:240 ../../..
+#: /themes/wordappjqmobile/functions.php:225
+msgid "Custom menu"
+msgstr "Custom menu"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:253 ../../..
+#: /themes/wordappjqmobile/functions.php:238
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:253 ../../..
+#: /themes/wordappjqmobileMyiOS/functions.php:279
+#: /themes/wordappjqmobileMyiOS/template-parts/content-page.php:26
+#: /themes/wordappjqmobileMyiOS/inc/template-tags.php:126
+#: /themes/wordappjqmobile/functions.php:238
+#: /themes/wordappjqmobile/functions.php:264
+#: /themes/wordappjqmobile/template-parts/content-page.php:26
+#: /themes/wordappjqmobile/inc/template-tags.php:126
+msgid "Edit"
+msgstr "Bewerk"
+
+#. translators: 1: comment author, 2: date and time
+#. translators: 1: comment author, 2: date and time
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:268 ../../..
+#: /themes/wordappjqmobile/functions.php:253
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s op %2$s <span class = \"zegt\"> zei: </ span>"
+
+#. translators: 1: date, 2: time
+#. translators: 1: date, 2: time
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:274 ../../..
+#: /themes/wordappjqmobile/functions.php:259
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:283 ../../..
+#: /themes/wordappjqmobile/functions.php:268
+msgid "Your comment is awaiting moderation."
+msgstr "Je opmerking moet nog beoordeeld worden."
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:290 ../../..
+#: /themes/wordappjqmobile/functions.php:275
+msgid "Reply <span>&darr;</span>"
+msgstr "Reageer <span> & darr; </ span>"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:335 ../../..
+#: /themes/wordappjqmobile/functions.php:320
+msgid "Primary Menu"
+msgstr "Eerste menu"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:390 ../../..
+#: /themes/wordappjqmobile/functions.php:375
+msgid "Sidebar"
+msgstr "sidebar"
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:8 ../../..
+#: /themes/wordappjqmobile/404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kan rsquo; t worden gevonden."
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:12 ../../..
+#: /themes/wordappjqmobile/404.php:12
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Het lijkt alsof er niets gevonden op deze locatie. Probeer misschien een van "
+"de links hieronder of een zoekopdracht?"
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:20 ../../..
+#: /themes/wordappjqmobile/404.php:20
+msgid "Most Used Categories"
+msgstr "Meest gebruikte categorieën"
+
+#. translators: %1$s: smiley
+#: ../../../themes/wordappjqmobileMyiOS/404.php:37 ../../..
+#: /themes/wordappjqmobile/404.php:37
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Proberen te kijken in de maandelijkse archieven. %1$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-page.php:19
+#: ../../. themes/wordappjqmobileMyiOS/template-parts/content-single.php:23
+#: ../../.. /themes/wordappjqmobile/template-parts/content-page.php:19
+#: /themes/wordappjqmobile/template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "pagina's:"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:14
+#: ../../. themes/wordappjqmobile/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "niets gevonden"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:20
+#: ../../. themes/wordappjqmobile/template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klaar om je eerste bericht te publiceren? <a hier </a> href=\"%1$s\"> slag."
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:24
+#: ../../. themes/wordappjqmobile/template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, maar niets voldoen aan je zoektermen. Probeer het opnieuw met een "
+"aantal verschillende zoekwoorden."
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:29
+#: ../../. themes/wordappjqmobile/template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Het lijkt erop dat we kunnen rsquo; t vinden wat u rsquo; re op zoek naar. "
+"Misschien zoeken kan helpen."
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:22 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:22
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "Bekijk alle berichten gearchiveerd onder %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:37 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:37
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "Feed voor alle berichten gearchiveerd onder %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:101 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:101
+msgid "Recent Comments"
+msgstr "recent commentaar"
+
+#. $output .=  '<li class="recentcomments">' . /* translators: comments widget: 1: comment author, 2: post link */ sprintf(_x('%1$s on %2$s', 'widgets'), get_comment_author_link(), '<a href="' . esc_url( get_comment_link($comment->comment_ID) ) . '">' . get_the_title($comment->comment_post_ID) . '</a>') . '</li>';
+#. $output .=  '<li class="recentcomments">' . /* translators: comments widget: 1: comment author, 2: post link */ sprintf(_x('%1$s on %2$s', 'widgets'), get_comment_author_link(), '<a href="' . esc_url( get_comment_link($comment->comment_ID) ) . '">' . get_the_title($comment->comment_post_ID) . '</a>') . '</li>';
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:116 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:116
+#, php-format
+msgctxt "widgets"
+msgid "%1$s %2$s %3$s"
+msgstr "%1$s %2$s %3$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:165 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:165
+msgid "Unknown Feed"
+msgstr "onbekende Feed"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:201 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:201
+#, php-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr "<Strong> RSS Fout </ strong's>:%s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:218 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:218
+msgid "An error has occurred; the feed is probably down. Try again later."
+msgstr ""
+"Er is een fout opgetreden; de feed is waarschijnlijk neer. Probeer het later "
+"nogmaals"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:232 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:232
+msgid "Untitled"
+msgstr "Untitled"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/extras.php:52 ../../..
+#: /themes/wordappjqmobile/inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:24
+msgid "App Title & Names2"
+msgstr "App Titel & Names2"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:29 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:29
+msgid "Nav"
+msgstr "Nav"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:74
+msgid "App Menuss"
+msgstr "App Menus"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:89 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:88
+msgid "Side Menu :"
+msgstr "Zijmenu :"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:129 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:128
+msgid "Top Menu :"
+msgstr "Topmenu :"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:168 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:167
+msgid "Bottom Menu :"
+msgstr "Menu onderaan:"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:188 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:187
+msgid ""
+"The bottom menu comes with icons which can be added or changed on the "
+"WordApp plugin <a href=\"https://fortawesome.github.io/Font-Awesome/"
+"cheatsheet/\" target=\"_blank\">Preview Icons</a>"
+msgstr ""
+"De onderste menu wordt geleverd met pictogrammen die kunnen worden "
+"toegevoegd of gewijzigd op het WordApp plugin <a href=\"https://fortawesome."
+"github.io/Font-Awesome/cheatsheet/\" target=\"_blank\"> Voorbeeld Icons </a>"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:201 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:200
+msgid "Design settings"
+msgstr "ontwerp-instellingen"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:218 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:217
+msgid "App Toolbar Color"
+msgstr "App Werkbalk kleur"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:248 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:247
+msgid "Header logo"
+msgstr "Header logo"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:281 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:280
+msgid "Background Color"
+msgstr "Achtergrond kleur"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:300 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:299
+msgid "Background Color (Side Bars)"
+msgstr "Achtergrondkleur (Side Bars)"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:366 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:365
+msgid "Color Scheme"
+msgstr "Kleurenschema"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:387 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:386
+msgid "Display Header Text"
+msgstr "Weergave Koptekst"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:426 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:425
+msgid "Image Upload Test"
+msgstr "Foto's uploaden controleren"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:442 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:441
+msgid "Upload Test"
+msgstr "Uploadtest"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:460 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:459
+msgid "Link Color"
+msgstr "Link Color"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:476 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:475
+msgid "Page Test"
+msgstr "pagina Test"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:23 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "berichten navigatie"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:27 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:27
+msgid "Older posts"
+msgstr "oudere posts"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:31 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "nieuwere posts"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:56 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Bericht navigatie"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:86 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Geplaatst op %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:91 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+#. translators: used between list items, there is a space after the comma
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:108 ../../..
+#: /themes/wordappjqmobileMyiOS/inc/template-tags.php:114
+#: /themes/wordappjqmobile/inc/template-tags.php:108
+#: /themes/wordappjqmobile/inc/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:110 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Geplaatst in %1$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:116 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "laat een reactie achter"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:122
+#, php-format
+msgid "% Comments"
+msgstr "Reacties%"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:143 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:143
+#, php-format
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:145 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:145
+#, php-format
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:147 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:147
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:149 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:149
+#, php-format
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:149 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:151 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:151
+#, php-format
+msgid "Month: %s"
+msgstr "Maanden: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:151 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:153 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:153
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:153 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:156 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "terzijdes"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:158 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerieën"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:160 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:162 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video's"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:164 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citaten"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:166 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:168 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "statussen"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:170 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "audio"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:172 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "chats"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:175 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:175
+#, php-format
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:179 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:179
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: ../../../themes/wordappjqmobile/inc/customizer.php:24
+msgid "App Title & Name2"
+msgstr "App Titel & Naam2"
+
+#: ../../../themes/wordappjqmobile/inc/customizer.php:73
+msgid "App Menus"
+msgstr "App Menus"
+
+#: ../../../themes/wordappjqmobilewooWordApp/header.php:194
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, geen berichten gevonden die aan uw criteria."
+
+#: ../../../freemius/templates/account.php:324
+msgctxt "verb"
+msgid "Edit"
+msgstr "Bewerk"
+
+#: ../../../freemius/includes/i18n.php:35
+msgid "Account"
+msgstr "Account"
+
+#: ../../../freemius/includes/i18n.php:36
+msgid "Add On"
+msgstr "Toevoegen"
+
+#: ../../../freemius/includes/i18n.php:37
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: ../../../freemius/includes/i18n.php:38
+msgid "Change Ownership"
+msgstr "Eigenaar veranderen"
+
+#: ../../../freemius/includes/i18n.php:39
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: ../../../freemius/includes/i18n.php:40
+msgid "Support Forum"
+msgstr "Helpforum"
+
+#: ../../../freemius/includes/i18n.php:41
+msgid "Add Ons"
+msgstr "Invoegtoepassingen"
+
+#: ../../../freemius/includes/i18n.php:42
+msgctxt "verb"
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: ../../../freemius/includes/i18n.php:43
+msgid "Awesome"
+msgstr "Geweldig"
+
+#: ../../../freemius/includes/i18n.php:44
+msgctxt "noun"
+msgid "Pricing"
+msgstr "Prijs"
+
+#: ../../../freemius/includes/i18n.php:45
+msgctxt "noun"
+msgid "Price"
+msgstr "Prijs"
+
+#: ../../../freemius/includes/i18n.php:46
+msgid "Unlimited Updates"
+msgstr "Onbeperkte Updates"
+
+#: ../../../freemius/includes/i18n.php:47
+msgctxt "verb"
+msgid "Downgrade"
+msgstr "downgrade"
+
+#: ../../../freemius/includes/i18n.php:48
+msgid "Cancel Trial"
+msgstr "annuleren Trial"
+
+#: ../../../freemius/includes/i18n.php:49
+msgid "Free Trial"
+msgstr "Gratis proefversie"
+
+#: ../../../freemius/includes/i18n.php:50
+#, php-format
+msgid "Start my free %s"
+msgstr "Start mijn vrije %s"
+
+#: ../../../freemius/includes/i18n.php:51
+#, php-format
+msgid "No commitment for %s - cancel anytime"
+msgstr "Geen enkele toezegging voor %s - cancel anytime"
+
+#: ../../../freemius/includes/i18n.php:52
+#, php-format
+msgid "After your free %s, pay as little as %s"
+msgstr "Na uw gratis %s, betaal je als %s"
+
+#: ../../../freemius/includes/i18n.php:53
+msgid "Details"
+msgstr "Details"
+
+#: ../../../freemius/includes/i18n.php:54
+msgid "Account Details"
+msgstr "Accountgegevens"
+
+#: ../../../freemius/includes/i18n.php:55
+msgctxt "verb"
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../../../freemius/includes/i18n.php:56
+msgid "Delete Account"
+msgstr "Account verwijderen"
+
+#: ../../../freemius/includes/i18n.php:57
+msgctxt "as close a window"
+msgid "Dismiss"
+msgstr "Ontslaan"
+
+#: ../../../freemius/includes/i18n.php:58
+msgctxt "as product pricing plan"
+msgid "Plan"
+msgstr "Plan"
+
+#: ../../../freemius/includes/i18n.php:59
+msgid "Change Plan"
+msgstr "Plan wijzigen"
+
+#: ../../../freemius/includes/i18n.php:60
+#, php-format
+msgctxt "as download professional version"
+msgid "Download %s Version"
+msgstr "Downloaden van %s versie"
+
+#: ../../../freemius/includes/i18n.php:61
+#, php-format
+msgctxt "as download professional version now"
+msgid "Download %s version now"
+msgstr "Downloaden van %s versie."
+
+#: ../../../freemius/includes/i18n.php:62
+msgctxt "as download latest version"
+msgid "Download Latest"
+msgstr "Download de nieuwste"
+
+#: ../../../freemius/includes/i18n.php:63
+#, php-format
+msgctxt "E.g. you have a professional license."
+msgid "You have a %s license."
+msgstr "U hebt een licentie voor %s."
+
+#: ../../../freemius/includes/i18n.php:64
+msgid "New"
+msgstr "Nieuwe"
+
+#: ../../../freemius/includes/i18n.php:65
+msgid "Free"
+msgstr "Gratis"
+
+#: ../../../freemius/includes/i18n.php:66
+msgctxt "as trial plan"
+msgid "Trial"
+msgstr "Evaluatieversie"
+
+#: ../../../freemius/includes/i18n.php:67
+msgctxt "verb"
+msgid "Purchase"
+msgstr "Aankoop"
+
+#: ../../../freemius/includes/i18n.php:68
+msgid "Purchase License"
+msgstr "Het aanschaffen van een licentie"
+
+#: ../../../freemius/includes/i18n.php:69
+msgctxt "verb"
+msgid "Buy"
+msgstr "Kopen"
+
+#: ../../../freemius/includes/i18n.php:70
+msgid "Buy License"
+msgstr "Koop een licentie"
+
+#: ../../../freemius/includes/i18n.php:71
+msgid "Single Site License"
+msgstr "Eén sitelicentie"
+
+#: ../../../freemius/includes/i18n.php:72
+msgid "Unlimited Licenses"
+msgstr "Onbeperkte licenties"
+
+#: ../../../freemius/includes/i18n.php:73
+#, php-format
+msgid "Up to %s Sites"
+msgstr "Tot %s sites"
+
+#: ../../../freemius/includes/i18n.php:74
+#, php-format
+msgid "%sRenew your license now%s to access version %s features and support."
+msgstr "%sRenew uw licentie nu%s om naar versie %s-functies en ondersteuning."
+
+#: ../../../freemius/includes/i18n.php:75
+#, php-format
+msgctxt "e.g. Professional Plan"
+msgid "%s Plan"
+msgstr "%s Plan"
+
+#: ../../../freemius/includes/i18n.php:76
+#, php-format
+msgid "You are just one step away - %s"
+msgstr "U bent slechts één stap verwijderd - %s"
+
+#: ../../../freemius/includes/i18n.php:77
+#, php-format
+msgctxt "%s - plugin name. As complete \"Jetpack\" activation now"
+msgid "Complete \"%s\" Activation Now"
+msgstr "Complete \"%s\" Activering nu"
+
+#: ../../../freemius/includes/i18n.php:78
+#, php-format
+msgid "We made a few tweaks to the plugin, %s"
+msgstr "We hebben een paar aanpassingen aan de plugin, %s"
+
+#: ../../../freemius/includes/i18n.php:79
+#, php-format
+msgid "Opt-in to make \"%s\" Better!"
+msgstr "Opt-in om \"%s\" beter!"
+
+#: ../../../freemius/includes/i18n.php:80
+msgid "Error"
+msgstr "Fout"
+
+#: ../../../freemius/includes/i18n.php:81
+msgid ""
+"Freemius SDK couldn't find the plugin's main file. Please contact "
+"sdk@freemius.com with the current error."
+msgstr ""
+"Freemius SDK Couldn't find the plugin's belangrijkste bestand. Neem contact "
+"sdk@freemius.com met de huidige fout."
+
+#: ../../../freemius/includes/i18n.php:84
+msgctxt "as expiration date"
+msgid "Expiration"
+msgstr "Vervaldatum"
+
+#: ../../../freemius/includes/i18n.php:85
+msgctxt "as software license"
+msgid "License"
+msgstr "Licentie"
+
+#: ../../../freemius/includes/i18n.php:86
+msgid "not verified"
+msgstr "Niet geverifieerd"
+
+#: ../../../freemius/includes/i18n.php:87
+msgid "Verify Email"
+msgstr "E-mail controleren"
+
+#: ../../../freemius/includes/i18n.php:88
+#, php-format
+msgctxt "e.g. expires in 2 months"
+msgid "Expires in %s"
+msgstr "Verloopt in %s"
+
+#: ../../../freemius/includes/i18n.php:89
+#, php-format
+msgctxt "e.g. auto renews in 2 months"
+msgid "Auto renews in %s"
+msgstr "Automatische verlenging voor %s"
+
+#: ../../../freemius/includes/i18n.php:90
+msgid "No expiration"
+msgstr "Geen vervaldatum"
+
+#: ../../../freemius/includes/i18n.php:91
+msgid "Expired"
+msgstr "Verlopen"
+
+#: ../../../freemius/includes/i18n.php:92
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: ../../../freemius/includes/i18n.php:93
+#, php-format
+msgctxt "e.g. In 2 hours"
+msgid "In %s"
+msgstr "In %s"
+
+#: ../../../freemius/includes/i18n.php:94
+#, php-format
+msgctxt "e.g. 2 min ago"
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: ../../../freemius/includes/i18n.php:95
+msgctxt "as plugin version"
+msgid "Version"
+msgstr "Versie"
+
+#: ../../../freemius/includes/i18n.php:97
+msgid "Email"
+msgstr "E-mail"
+
+#: ../../../freemius/includes/i18n.php:98
+msgid "Verified"
+msgstr "Geverifieerd"
+
+#: ../../../freemius/includes/i18n.php:99
+msgid "Plugin"
+msgstr "Inpluggen"
+
+#: ../../../freemius/includes/i18n.php:100
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../../../freemius/includes/i18n.php:101
+msgctxt "as file/folder path"
+msgid "Path"
+msgstr "Pad"
+
+#: ../../../freemius/includes/i18n.php:102
+msgid "Title"
+msgstr "Titel"
+
+#: ../../../freemius/includes/i18n.php:103
+msgid "Free version"
+msgstr "Gratis versie"
+
+#: ../../../freemius/includes/i18n.php:104
+msgid "Premium version"
+msgstr "Premium versie"
+
+#: ../../../freemius/includes/i18n.php:105
+msgctxt "as WP plugin slug"
+msgid "Slug"
+msgstr "Invoerrotor"
+
+#: ../../../freemius/includes/i18n.php:106
+msgid "ID"
+msgstr "ID"
+
+#: ../../../freemius/includes/i18n.php:107
+msgid "Users"
+msgstr "Gebruikers"
+
+#: ../../../freemius/includes/i18n.php:108
+msgid "Plugin Installs"
+msgstr "Plugin installeert"
+
+#: ../../../freemius/includes/i18n.php:109
+msgctxt "like websites"
+msgid "Sites"
+msgstr "Sites"
+
+#: ../../../freemius/includes/i18n.php:110
+msgid "User ID"
+msgstr "Gebruikerscode"
+
+#: ../../../freemius/includes/i18n.php:111
+msgid "Site ID"
+msgstr "Site-ID"
+
+#: ../../../freemius/includes/i18n.php:112
+msgid "Public Key"
+msgstr "Openbare sleutel"
+
+#: ../../../freemius/includes/i18n.php:113
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+#: ../../../freemius/includes/i18n.php:114
+msgctxt "as secret encryption key missing"
+msgid "No Secret"
+msgstr "Geen geheim"
+
+#: ../../../freemius/includes/i18n.php:115
+msgid "No ID"
+msgstr "Geen ID"
+
+#: ../../../freemius/includes/i18n.php:116
+msgctxt "as synchronize license"
+msgid "Sync License"
+msgstr "Sync-licentie"
+
+#: ../../../freemius/includes/i18n.php:117
+msgctxt "as synchronize"
+msgid "Sync"
+msgstr "Synchronisatie"
+
+#: ../../../freemius/includes/i18n.php:118
+msgid "Deactivate License"
+msgstr "Licentie deactiveren"
+
+#: ../../../freemius/includes/i18n.php:119
+msgid "Activate"
+msgstr "Activeren"
+
+#: ../../../freemius/includes/i18n.php:120
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: ../../../freemius/includes/i18n.php:121
+msgid "No - just deactivate"
+msgstr "Nee - Alleen deactiveren"
+
+#: ../../../freemius/includes/i18n.php:122
+msgid "Yes - do your thing"
+msgstr "Ja - doe je ding"
+
+#: ../../../freemius/includes/i18n.php:123
+msgctxt "active mode"
+msgid "Active"
+msgstr "Actief"
+
+#: ../../../freemius/includes/i18n.php:124
+msgctxt "is active mode?"
+msgid "Is Active"
+msgstr "Actief is"
+
+#: ../../../freemius/includes/i18n.php:126
+#: ../../../freemius/includes/fs-plugin- info-dialog.php:366
+msgid "Install Update Now"
+msgstr "Installeer de update nu"
+
+#: ../../../freemius/includes/i18n.php:127
+#, php-format
+msgid "More information about %s"
+msgstr "Meer informatie over %s"
+
+#: ../../../freemius/includes/i18n.php:128
+msgid "Localhost"
+msgstr "localhost"
+
+#: ../../../freemius/includes/i18n.php:129
+#, php-format
+msgctxt "as activate Professional plan"
+msgid "Activate %s Plan"
+msgstr "Activeer %s Plan"
+
+#: ../../../freemius/includes/i18n.php:130
+#, php-format
+msgid "What is your %s?"
+msgstr "Wat is uw %s?"
+
+#: ../../../freemius/includes/i18n.php:131
+msgid "Activate this add-on"
+msgstr "Activeer deze add-on"
+
+#: ../../../freemius/includes/i18n.php:132
+msgid ""
+"Deactivating your license will block all premium features, but will enable "
+"you to activate the license on another site. Are you sure you want to "
+"proceed?"
+msgstr ""
+"Deactiveren van uw licentie blokkeert alle premium features, maar zal u "
+"toelaten om de licentie te activeren op een andere site. Weet u zeker dat u "
+"wilt doorgaan?"
+
+#: ../../../freemius/includes/i18n.php:133
+#, php-format
+msgid ""
+"Deleting the account will automatically deactivate your %s plan license so "
+"you can use it on other sites. If you want to terminate the recurring "
+"payments as well, click the \"Cancel\" button, and first \"Downgrade\" your "
+"account. Are you sure you would like to continue with the deletion?"
+msgstr ""
+"Het verwijderen van de account wordt automatisch gedeactiveerd uw %s plan "
+"licentie zodat u dit kunt gebruiken op andere sites. Als je wilt beëindigen "
+"de terugkerende betalingen alsook op de \"Cancel\" knop en eerste "
+"\"downgraden\" uw account. Weet u zeker dat u wilt doorgaan met het "
+"verwijderen?"
+
+#: ../../../freemius/includes/i18n.php:134
+msgid ""
+"Deletion is not temporary. Only delete if you no longer want to use this "
+"plugin anymore. Are you sure you would like to continue with the deletion?"
+msgstr ""
+"Verwijdering is niet tijdelijk. Alleen verwijderen als u niet langer gebruik "
+"wilt maken van deze plugin. Weet u zeker dat u wilt doorgaan met het "
+"verwijderen?"
+
+#: ../../../freemius/includes/i18n.php:135
+#, php-format
+msgid ""
+"Downgrading your plan will immediately stop all future recurring payments "
+"and your %s plan license will expire in %s."
+msgstr ""
+"Declassering uw plan zal onmiddellijk alle toekomstige terugkerende "
+"betalingen en uw %s plan licentie verloopt in %s."
+
+#: ../../../freemius/includes/i18n.php:136
+msgid ""
+"Cancelling the trial will immediately block access to all premium features. "
+"Are you sure?"
+msgstr ""
+"Annulering zal de proef direct toegang blokkeren tot alle premium-functies. "
+"Weet u het zeker?"
+
+#: ../../../freemius/includes/i18n.php:137
+#, php-format
+msgid ""
+"You can still enjoy all %s features but you will not have access to plugin "
+"updates and support."
+msgstr ""
+"U kunt blijven genieten van alle %s heeft maar u hebt geen toegang tot "
+"plugin updates en ondersteuning."
+
+#: ../../../freemius/includes/i18n.php:138
+#, php-format
+msgid ""
+"Once your license expire you can still use the Free version but you will NOT "
+"have access to the %s features."
+msgstr ""
+"Zodra uw licentie verloopt kunt u gebruikmaken van de gratis versie maar u "
+"hebt geen toegang tot de %s functies."
+
+#: ../../../freemius/includes/i18n.php:139
+msgid "Are you sure you want to proceed?"
+msgstr "Weet u zeker dat u wilt doorgaan?"
+
+#: ../../../freemius/includes/i18n.php:142
+#, php-format
+msgid "Add Ons for %s"
+msgstr "Voeg invoegtoepassingen voor %s"
+
+#: ../../../freemius/includes/i18n.php:143
+msgid ""
+"We could'nt load the add-ons list. It's probably an issue on our side, "
+"please try to come back in few minutes."
+msgstr ""
+"We konden'nt laad de add-ons lijst. It's waarschijnlijk een probleem aan "
+"onze kant, probeer terug te komen binnen een paar minuten."
+
+#: ../../../freemius/includes/i18n.php:145
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Als je een moment, laat ons weten waarom u deactiveren"
+
+#: ../../../freemius/includes/i18n.php:146
+msgid "Yes - Deactivate"
+msgstr "Ja - deactiveren"
+
+#: ../../../freemius/includes/i18n.php:147
+msgid "Submit & Deactivate"
+msgstr "Verzenden & uitschakelen"
+
+#: ../../../freemius/includes/i18n.php:148
+msgctxt "the text of the cancel button of the plugin deactivation dialog box."
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: ../../../freemius/includes/i18n.php:149
+msgid "I no longer need the plugin"
+msgstr "Ik heb geen behoefte meer aan de plugin"
+
+#: ../../../freemius/includes/i18n.php:150
+msgid "I found a better plugin"
+msgstr "Ik vond een betere plugin"
+
+#: ../../../freemius/includes/i18n.php:151
+msgid "I only needed the plugin for a short period"
+msgstr "Ik had alleen behoefte aan de plugin voor een korte periode"
+
+#: ../../../freemius/includes/i18n.php:152
+msgid "The plugin broke my site"
+msgstr "De plugin brak mijn site"
+
+#: ../../../freemius/includes/i18n.php:153
+msgid "The plugin suddenly stopped working"
+msgstr "De plugin plotseling gestopt met werken"
+
+#: ../../../freemius/includes/i18n.php:154
+msgid "I can't pay for it anymore"
+msgstr "Ik kan niet meer betalen"
+
+#: ../../../freemius/includes/i18n.php:155
+msgctxt ""
+"the text of the \"other\" reason for deactivating the plugin that is shown "
+"in the modal box."
+msgid "Other"
+msgstr "anders"
+
+#: ../../../freemius/includes/i18n.php:156
+msgid "What's the plugin's name?"
+msgstr "Wat is de naam plug-in?"
+
+#: ../../../freemius/includes/i18n.php:157
+msgid "What price would you feel comfortable paying?"
+msgstr "Welke prijs zou je je comfortabel voelt het betalen?"
+
+#: ../../../freemius/includes/i18n.php:158
+msgid "I couldn't understand how to make it work"
+msgstr "Ik kon niet begrijpen hoe het te laten werken"
+
+#: ../../../freemius/includes/i18n.php:159
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+"De plugin is geweldig, maar ik moet een specifieke functie die u niet steunen"
+
+#: ../../../freemius/includes/i18n.php:160
+msgid "The plugin is not working"
+msgstr "De plugin werkt niet"
+
+#: ../../../freemius/includes/i18n.php:161
+msgid "It's not what I was looking for"
+msgstr "Het is niet wat ik zocht"
+
+#: ../../../freemius/includes/i18n.php:162
+msgid "The plugin didn't work as expected"
+msgstr "De plugin werkte niet zoals verwacht"
+
+#: ../../../freemius/includes/i18n.php:163
+msgid "What feature?"
+msgstr "Welke functie?"
+
+#: ../../../freemius/includes/i18n.php:164
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr ""
+"Kindly delen wat niet werkte dus we het kunnen oplossen voor toekomstige "
+"gebruikers ..."
+
+#: ../../../freemius/includes/i18n.php:165
+msgid "What you've been looking for?"
+msgstr "Wat je voor ogen hebt?"
+
+#: ../../../freemius/includes/i18n.php:166
+msgid "What did you expect?"
+msgstr "Wat had je verwacht?"
+
+#: ../../../freemius/includes/i18n.php:167
+msgid "The plugin didn't work"
+msgstr "De plugin werkte niet"
+
+#: ../../../freemius/includes/i18n.php:168
+msgid "I don't like to share my information with you"
+msgstr "Ik hou niet van mijn informatie met u te delen"
+
+#: ../../../freemius/includes/i18n.php:172
+#, php-format
+msgctxt "greeting"
+msgid "Hey %s,"
+msgstr "Hey %s"
+
+#: ../../../freemius/includes/i18n.php:173
+#, php-format
+msgctxt "a greeting. E.g. Thanks John!"
+msgid "Thanks %s!"
+msgstr "Dankzij %s!"
+
+#: ../../../freemius/includes/i18n.php:174
+#, php-format
+msgid ""
+"In order to enjoy all our features and functionality, %s needs to connect "
+"your user, %s at %s, to %s"
+msgstr ""
+"Om te kunnen profiteren van alle functies en functionaliteit, %s moet u uw "
+"gebruikersnaam, %s op %s, %s"
+
+#: ../../../freemius/includes/i18n.php:175
+#, php-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine."
+msgstr ""
+"Help ons te verbeteren %2$s! Als u zich inschrijft, bepaalde gegevens over "
+"uw gebruik van %2$s zullen worden verzonden naar %5$s. Als u deze stap "
+"overslaat, dat's oke! %2$s werkt nog steeds prima."
+
+#: ../../../freemius/includes/i18n.php:176
+#, php-format
+msgid ""
+"You should receive an activation email for %s to your mailbox at %s. Please "
+"make sure you click the activation button in that email to complete the "
+"install."
+msgstr ""
+"U krijgt een activatie email voor %s naar uw postbus op %s. Zorg ervoor dat "
+"u op de toets voor het activeren van deze e-mail om de installatie te "
+"voltooien."
+
+#: ../../../freemius/includes/i18n.php:177
+msgid "What permissions are being granted?"
+msgstr "Welke machtigingen worden verleend?"
+
+#: ../../../freemius/includes/i18n.php:178
+msgid "Your Profile Overview"
+msgstr "Uw Profieloverzicht"
+
+#: ../../../freemius/includes/i18n.php:179
+msgid "Name and email address"
+msgstr "Naam en e-mailadres"
+
+#: ../../../freemius/includes/i18n.php:180
+msgid "Your Site Overview"
+msgstr "Uw Site overzicht"
+
+#: ../../../freemius/includes/i18n.php:181
+msgid "Site address, WordPress version, PHP Version"
+msgstr "Site adres, WordPress versie, PHP Versie"
+
+#: ../../../freemius/includes/i18n.php:182
+msgid "Plugin Events"
+msgstr "Plugin evenementen"
+
+#: ../../../freemius/includes/i18n.php:183
+msgid "Activation, deactivation and uninstall"
+msgstr "Inschakelen, uitschakelen en verwijderen."
+
+#: ../../../freemius/includes/i18n.php:184
+msgid "Newsletter"
+msgstr "nieuwsbrief"
+
+#: ../../../freemius/includes/i18n.php:185
+msgid "Updates, announcements, marketing, no spam"
+msgstr "Nieuws, aankondigingen, marketing, geen spam"
+
+#: ../../../freemius/includes/i18n.php:186
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: ../../../freemius/includes/i18n.php:187
+msgid "Terms of Service"
+msgstr "Servicevoorwaarden"
+
+#: ../../../freemius/includes/i18n.php:188
+msgctxt "as activating plugin"
+msgid "Activating"
+msgstr "activeren"
+
+#: ../../../freemius/includes/i18n.php:189
+msgctxt "as in the process of sending an email"
+msgid "Sending email"
+msgstr "Het verzenden van e-mail"
+
+#: ../../../freemius/includes/i18n.php:190
+msgctxt "button label"
+msgid "Allow & Continue"
+msgstr "Toestaan en verder"
+
+#: ../../../freemius/includes/i18n.php:191
+msgctxt "verb"
+msgid "Skip"
+msgstr "Overspringen"
+
+#: ../../../freemius/includes/i18n.php:192
+msgid "Re-send activation email"
+msgstr "Opnieuw verzenden"
+
+#: ../../../freemius/includes/i18n.php:196
+msgid "Screenshots"
+msgstr "Schermafbeeldingen"
+
+#: ../../../freemius/includes/i18n.php:197
+#, php-format
+msgid "Click to view full-size screenshot %d"
+msgstr "Click to view full-size screenshot %d"
+
+#: ../../../freemius/includes/i18n.php:201
+msgid "Freemius Debug"
+msgstr "Freemius Debug"
+
+#: ../../../freemius/includes/i18n.php:202
+msgctxt "as turned on"
+msgid "On"
+msgstr "Op"
+
+#: ../../../freemius/includes/i18n.php:203
+msgctxt "as turned off"
+msgid "Off"
+msgstr "Uit"
+
+#: ../../../freemius/includes/i18n.php:204
+msgctxt "as code debugging"
+msgid "Debugging"
+msgstr "debugging"
+
+#: ../../../freemius/includes/i18n.php:205
+msgid "Freemius State"
+msgstr "Freemius staat"
+
+#: ../../../freemius/includes/i18n.php:206
+msgctxt "as connection was successful"
+msgid "Connected"
+msgstr "Aangesloten"
+
+#: ../../../freemius/includes/i18n.php:207
+msgctxt "as connection blocked"
+msgid "Blocked"
+msgstr "geblokkeerd"
+
+#: ../../../freemius/includes/i18n.php:208
+msgctxt "as application program interface"
+msgid "API"
+msgstr "API"
+
+#: ../../../freemius/includes/i18n.php:209
+msgctxt "as software development kit versions"
+msgid "SDK"
+msgstr "SDK"
+
+#: ../../../freemius/includes/i18n.php:210
+msgctxt "as software development kit versions"
+msgid "SDK Versions"
+msgstr "SDK Versies"
+
+#: ../../../freemius/includes/i18n.php:211
+msgctxt "as plugin folder path"
+msgid "Plugin Path"
+msgstr "Plugin pad"
+
+#: ../../../freemius/includes/i18n.php:212
+msgctxt "as sdk path"
+msgid "SDK Path"
+msgstr "SDK pad"
+
+#: ../../../freemius/includes/i18n.php:213
+#, php-format
+msgid "Add Ons of Plugin %s"
+msgstr "Extra modules van plugin %s"
+
+#: ../../../freemius/includes/i18n.php:214
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr "Weet u zeker dat u alle Freemius gegevens wissen?"
+
+#: ../../../freemius/includes/i18n.php:215
+msgid "Actions"
+msgstr "acties"
+
+#: ../../../freemius/includes/i18n.php:216
+msgid "Delete All Accounts"
+msgstr "Alle rekeningen verwijderen"
+
+#: ../../../freemius/includes/i18n.php:217
+msgid "Start Fresh"
+msgstr "Een frisse start"
+
+#: ../../../freemius/includes/i18n.php:218
+msgid "Clear API Cache"
+msgstr "Duidelijke API-cache"
+
+#: ../../../freemius/includes/i18n.php:219
+msgid "Sync Data From Server"
+msgstr "Gegevens synchroniseren met server"
+
+#: ../../../freemius/includes/i18n.php:220
+msgid "Scheduled Crons"
+msgstr "geplande Crons"
+
+#: ../../../freemius/includes/i18n.php:224
+msgctxt "as congratulations"
+msgid "Congrats"
+msgstr "Proficiat"
+
+#: ../../../freemius/includes/i18n.php:225
+msgctxt "exclamation"
+msgid "Oops"
+msgstr "Oops"
+
+#: ../../../freemius/includes/i18n.php:226
+msgctxt "interjection expressing joy or exuberance"
+msgid "Yee-haw"
+msgstr "Yee-haw"
+
+#: ../../../freemius/includes/i18n.php:227
+msgctxt ""
+"(especially in electronic communication) used to express elation, "
+"enthusiasm, or triumph."
+msgid "W00t"
+msgstr "W00t"
+
+#: ../../../freemius/includes/i18n.php:228
+msgctxt "a positive response"
+msgid "Right on"
+msgstr "Recht op"
+
+#: ../../../freemius/includes/i18n.php:229
+msgctxt ""
+"something somebody says when they are thinking about what you have just "
+"said. "
+msgid "Hmm"
+msgstr "Hmm"
+
+#: ../../../freemius/includes/i18n.php:230
+msgid "O.K"
+msgstr " O.K"
+
+#: ../../../freemius/includes/i18n.php:231
+msgctxt "exclamation"
+msgid "Hey"
+msgstr "hei!"
+
+#: ../../../freemius/includes/i18n.php:232
+msgctxt "advance notice of something that will need attention."
+msgid "Heads up"
+msgstr "hoofd omhoog! "
+
+#: ../../../freemius/includes/i18n.php:236
+msgid "Seems like you got the latest release."
+msgstr "Het lijkt erop dat je hebt de nieuwste versie."
+
+#: ../../../freemius/includes/i18n.php:237
+msgid "You are all good!"
+msgstr "Jullie zijn allemaal goed!"
+
+#: ../../../freemius/includes/i18n.php:238
+msgid ""
+"Sorry, we could not complete the email update. Another user with the same "
+"email is already registered."
+msgstr ""
+"Sorry, we konden niet het e-update te voltooien. Een andere gebruiker met "
+"hetzelfde e-mailadres is al geregistreerd."
+
+#: ../../../freemius/includes/i18n.php:239
+#, php-format
+msgid ""
+"If you would like to give up the ownership of the plugin's account to %s "
+"click the Change Ownership button."
+msgstr ""
+"Als u wilt opgeven dat de eigendom van de plugin's account %s op de knop "
+"eigendom."
+
+#: ../../../freemius/includes/i18n.php:240
+msgid ""
+"Your email was successfully updated. You should receive an email with "
+"confirmation instructions in few moments."
+msgstr ""
+"Uw e-mail is bijgewerkt. U ontvangt een e-mail met bevestiging instructies "
+"in enkele ogenblikken."
+
+#: ../../../freemius/includes/i18n.php:241
+msgid "Your name was successfully updated."
+msgstr "Uw naam is bijgewerkt."
+
+#: ../../../freemius/includes/i18n.php:242
+#, php-format
+msgid "You have successfully updated your %s."
+msgstr "U hebt uw nieuwe %s."
+
+#: ../../../freemius/includes/i18n.php:243
+msgid "Please provide your full name."
+msgstr "Geef uw volledige naam."
+
+#: ../../../freemius/includes/i18n.php:244
+#, php-format
+msgid ""
+"Verification mail was just sent to %s. If you can't find it after 5 min, "
+"please check your spam box."
+msgstr ""
+"Verificatie mail was net verzonden naar %s. Als u't er na 5 min, controleer "
+"uw spam box."
+
+#: ../../../freemius/includes/i18n.php:245
+#, php-format
+msgid ""
+"Just letting you know that the add-ons information of %s is being pulled "
+"from an external server."
+msgstr ""
+"Alleen laat u weten dat de add-ons die informatie van %s wordt getrokken "
+"vanaf een externe server."
+
+#: ../../../freemius/includes/i18n.php:246
+msgid "No credit card required"
+msgstr "Geen creditcard nodig"
+
+#: ../../../freemius/includes/i18n.php:247
+msgid "Premium plugin version was successfully activated."
+msgstr "Premium versie van plugin is geactiveerd."
+
+#: ../../../freemius/includes/i18n.php:248
+#, php-format
+msgid "The upgrade of %s was successfully completed."
+msgstr "De upgrade van %s is voltooid."
+
+#: ../../../freemius/includes/i18n.php:249
+#, php-format
+msgid "Your account was successfully activated with the %s plan."
+msgstr "Uw account is geactiveerd door de %s-plan."
+
+#: ../../../freemius/includes/i18n.php:250
+#, php-format
+msgid "Download the latest %s version now"
+msgstr "Download de nieuwste %s versie."
+
+#: ../../../freemius/includes/i18n.php:251
+msgid "Download the latest version now"
+msgstr "Download nu de nieuwste versie"
+
+#: ../../../freemius/includes/i18n.php:252
+#, php-format
+msgctxt "%s - product name, e.g. Facebook add-on was successfully..."
+msgid "%s Add-on was successfully purchased."
+msgstr "%s Add-on is aangeschaft."
+
+#: ../../../freemius/includes/i18n.php:253
+#, php-format
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr "Uw %s Add-on plan werd uitgevoerd."
+
+#: ../../../freemius/includes/i18n.php:254
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr "Uw e-mail is met succes geverifieerd - je bent geweldig!"
+
+#: ../../../freemius/includes/i18n.php:255
+msgid "Your plan was successfully upgraded."
+msgstr "Uw plan is uitgevoerd."
+
+#: ../../../freemius/includes/i18n.php:256
+#, php-format
+msgid "Your plan was successfully changed to %s."
+msgstr "Uw plan is gewijzigd in %s."
+
+#: ../../../freemius/includes/i18n.php:257
+msgid ""
+"Your license has expired. You can still continue using the free plugin "
+"forever."
+msgstr ""
+"Uw licentie is verlopen. U kunt zich nog steeds met de gratis plugin voor "
+"eeuwig."
+
+#: ../../../freemius/includes/i18n.php:258
+msgid "Your trial has been successfully started."
+msgstr "Uw proefperiode is succesvol gestart."
+
+#: ../../../freemius/includes/i18n.php:259
+msgid "Your license was successfully activated."
+msgstr "Uw licentie is geactiveerd."
+
+#: ../../../freemius/includes/i18n.php:260
+msgid "It looks like your site currently doesn't have an active license."
+msgstr "Het lijkt alsof uw site momenteel doesn't een actieve licentie."
+
+#: ../../../freemius/includes/i18n.php:261
+#, php-format
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr "Uw licentie is uitgeschakeld, kunt u deze opnieuw naar de %s-plan."
+
+#: ../../../freemius/includes/i18n.php:262
+msgid "It looks like the license deactivation failed."
+msgstr "Het lijkt alsof de licentie deactivering mislukt."
+
+#: ../../../freemius/includes/i18n.php:263
+msgid "It looks like the license could not be activated."
+msgstr "Het lijkt alsof de licentie kon niet worden geactiveerd."
+
+#: ../../../freemius/includes/i18n.php:264
+msgid "Error received from the server:"
+msgstr "Foutmelding ontvangen van de server:"
+
+#: ../../../freemius/includes/i18n.php:265
+msgid ""
+"Your trial has expired. You can still continue using all our free features."
+msgstr ""
+"Uw proefperiode is verlopen. U kunt zich nog steeds met al onze gratis "
+"features."
+
+#: ../../../freemius/includes/i18n.php:266
+#, php-format
+msgid ""
+"Your plan was successfully downgraded. Your %s plan license will expire in "
+"%s."
+msgstr "Uw plan is gedegradeerd. Uw %s plan licentie verloopt in %s."
+
+#: ../../../freemius/includes/i18n.php:267
+msgid ""
+"Seems like we are having some temporary issue with your plan downgrade. "
+"Please try again in few minutes."
+msgstr ""
+"We hebben wel een tijdelijke kwestie met uw plan te downgraden. Probeer het "
+"opnieuw binnen een paar minuten."
+
+#: ../../../freemius/includes/i18n.php:268
+msgid ""
+"It looks like you are not in trial mode anymore so there's nothing to "
+"cancel :)"
+msgstr ""
+"Het lijkt alsof je niet in de Trial-mode meer dus er's niets te annuleren :)"
+
+#: ../../../freemius/includes/i18n.php:269
+#, php-format
+msgid "Your %s free trial was successfully cancelled."
+msgstr "Uw %s free trial succesvol werd geannuleerd."
+
+#: ../../../freemius/includes/i18n.php:270
+#, php-format
+msgctxt "%s - numeric version number"
+msgid "Version %s was released."
+msgstr "Versie %s werd vrijgegeven."
+
+#: ../../../freemius/includes/i18n.php:271
+#, php-format
+msgid "Please download %s."
+msgstr "Download %s."
+
+#: ../../../freemius/includes/i18n.php:272
+#, php-format
+msgctxt "%s - plan name, as the latest professional version here"
+msgid "the latest %s version here"
+msgstr "De laatste %s versie hier"
+
+#: ../../../freemius/includes/i18n.php:273
+#, php-format
+msgid ""
+"How do you like %s so far? Test all our %s premium features with a %d-day "
+"free trial."
+msgstr ""
+"Wat vind je van% s tot nu toe? Test al onze %s premium functies met een %d-"
+"dagen gratis trial."
+
+#: ../../../freemius/includes/i18n.php:274
+msgctxt "call to action"
+msgid "Start free trial"
+msgstr "Begin gratis proefperiode"
+
+#: ../../../freemius/includes/i18n.php:275
+msgid ""
+"Seems like we are having some temporary issue with your trial cancellation. "
+"Please try again in few minutes."
+msgstr ""
+"Het lijkt erop dat we hebben een aantal tijdelijke kwestie met de "
+"proefperiode annulering. Probeer het opnieuw in een paar minuten."
+
+#: ../../../freemius/includes/i18n.php:276
+#, php-format
+msgid "No commitment for %s days - cancel anytime!"
+msgstr "Geen enkele toezegging voor %s dagen - cancel anytime!"
+
+#: ../../../freemius/includes/i18n.php:277
+#, php-format
+msgid ""
+"Your license has expired. You can still continue using all the %s features, "
+"but you'll need to renew your license to continue getting updates and "
+"support."
+msgstr ""
+"Uw licentie is verlopen. U kunt zich nog steeds met alle %s features, maar "
+"u'll behoefte om uw licentie te verkrijgen van updates en ondersteuning."
+
+#: ../../../freemius/includes/i18n.php:278
+#, php-format
+msgid "Couldn't activate %s."
+msgstr "Couldn't activeren van %s."
+
+#: ../../../freemius/includes/i18n.php:279
+msgid "Please contact us with the following message:"
+msgstr "Neem contact met ons op als u het volgende bericht:"
+
+#: ../../../freemius/includes/i18n.php:280
+#, php-format
+msgid ""
+"It looks like you are still on the %s plan. If you did upgrade or change "
+"your plan, it's probably an issue on our side - sorry."
+msgstr ""
+"Het lijkt alsof je nog steeds op het %s-plan. Als u de upgrade of wijzig uw "
+"plan,'s waarschijnlijk een probleem aan onze kant - sorry."
+
+#: ../../../freemius/includes/i18n.php:281
+msgid "Please contact us here"
+msgstr "Contacteer ons hier"
+
+#: ../../../freemius/includes/i18n.php:282
+#, php-format
+msgid ""
+"I have upgraded my account but when I try to Sync the License, the plan "
+"remains %s."
+msgstr ""
+"Ik heb een upgrade van mijn account, maar wanneer ik probeer te "
+"synchroniseren van de licentie, het plan is %s."
+
+#: ../../../freemius/includes/i18n.php:285
+msgid "From unknown reason, the API connectivity test failed."
+msgstr "Van onbekende reden, de API connectivity test mislukt."
+
+#: ../../../freemius/includes/i18n.php:286
+msgid ""
+"It's probably a temporary issue on our end. Just to be sure, with your "
+"permission, would it be o.k to run another connectivity test?"
+msgstr ""
+"It's waarschijnlijk een tijdelijk probleem aan onze zijde om ervoor te "
+"zorgen dat, met uw toestemming, zou ok om een ander connectivity test?"
+
+#: ../../../freemius/includes/i18n.php:287
+msgid ""
+"We use PHP cURL library for the API calls, which is a very common library "
+"and usually installed out of the box. Unfortunately, cURL is not installed "
+"on your server."
+msgstr ""
+"We gebruiken PHP cURL library voor de API-aanroepen, dat is een zeer "
+"algemene bibliotheek en meestal geïnstalleerd uit de doos. Helaas, krul is "
+"niet geïnstalleerd op uw server."
+
+#: ../../../freemius/includes/i18n.php:288
+msgid ""
+"From unknown reason, CloudFlare, the firewall we use, blocks the connection."
+msgstr ""
+"Uit onbekende reden CloudFlare, de firewall die we gebruiken de verbinding "
+"blokkeert."
+
+#: ../../../freemius/includes/i18n.php:289
+#, php-format
+msgctxt "as pluginX requires an access to our API"
+msgid "%s requires an access to our API."
+msgstr "%s vereist toegang tot onze API."
+
+#: ../../../freemius/includes/i18n.php:290
+msgid ""
+"It looks like your server is using Squid ACL (access control lists), which "
+"blocks the connection."
+msgstr ""
+"Het lijkt erop dat uw server gebruikt Squid ACL (access control lists), die "
+"blokkeert de verbinding."
+
+#: ../../../freemius/includes/i18n.php:291
+msgid "I don't know what is Squid or ACL, help me!"
+msgstr "Ik weet niet wat is Squid of ACL, help me!"
+
+#: ../../../freemius/includes/i18n.php:292
+#: ../../../freemius/includes/i18n.php:296
+#, php-format
+msgid ""
+"We'll make sure to contact your hosting company and resolve the issue. You "
+"will get a follow-up email to %s once we have an update."
+msgstr ""
+"We'll zorg contact op met uw hosting bedrijf en het probleem op te lossen. U "
+"krijgt een e-mail naar %s als we eenmaal over een update."
+
+#: ../../../freemius/includes/i18n.php:293
+msgid "I'm a system administrator"
+msgstr "I'm een systeembeheerder"
+
+#: ../../../freemius/includes/i18n.php:294
+#, php-format
+msgid ""
+"Great, please whitelist the following domains: %s. Once you done, deactivate "
+"the plugin and activate it again."
+msgstr ""
+"Geweldig, whitelist de volgende domeinen: %s. Zodra u klaar bent, schakelt u "
+"de plugin en drukt u hem opnieuw in."
+
+#: ../../../freemius/includes/i18n.php:295
+msgid "I don't know what is cURL or how to install it, help me!"
+msgstr "I don't weten wat krul of hoe u deze kunt installeren, help mij!"
+
+#: ../../../freemius/includes/i18n.php:297
+msgid ""
+"Great, please install cURL and enable it in your php.ini file. To make sure "
+"it was successfully activated, use 'phpinfo()'. Once activated, deactivate "
+"the plugin and reactivate it back again."
+msgstr ""
+"Geweldig, installeer krul en schakel hem in je php.ini-bestand. Om er zeker "
+"van te zijn dat deze is geactiveerd, gebruik 'phpinfo()'. Eenmaal "
+"geactiveerd. Deactiveer de plugin en schakel hem weer in."
+
+#: ../../../freemius/includes/i18n.php:298
+msgid ""
+"We are sure it's an issue on our side and more than happy to resolve it for "
+"you ASAP if you give us a chance."
+msgstr ""
+"Wij zijn ervan overtuigd dat's een probleem aan onze kant en meer dan bereid "
+"om het op te lossen voor je ASAP als u ons een kans."
+
+#: ../../../freemius/includes/i18n.php:299
+msgid "Yes - I'm giving you a chance to fix it"
+msgstr "Ja - ik'm krijg je de kans om het probleem te verhelpen"
+
+#: ../../../freemius/includes/i18n.php:300
+#, php-format
+msgid ""
+"We will do our best to whitelist your server and resolve this issue ASAP. "
+"You will get a follow-up email to %s once we have an update."
+msgstr ""
+"Wij zullen ons best doen om whitelist uw server en lost dit probleem ASAP. U "
+"krijgt een e-mail naar %s als we eenmaal over een update."
+
+#: ../../../freemius/includes/i18n.php:301
+msgid "Let's try your previous version"
+msgstr "Laat's probeer uw vorige versie"
+
+#: ../../../freemius/includes/i18n.php:302
+msgid "Uninstall this version and install the previous one."
+msgstr "Verwijder eerst deze versie en installeer dan de vorige."
+
+#: ../../../freemius/includes/i18n.php:303
+msgid "That's exhausting, please deactivate"
+msgstr "Dat's kweken, deactiveer dan"
+
+#: ../../../freemius/includes/i18n.php:304
+msgid ""
+"We feel your frustration and sincerely apologize for the inconvenience. Hope "
+"to see you again in the future."
+msgstr ""
+"Wij vinden uw frustratie en oprechte excuses voor het ongemak. Ik hoop je "
+"weer te zien in de toekomst."
+
+#: ../../../freemius/includes/i18n.php:305
+#, php-format
+msgid ""
+"Thank for giving us the chance to fix it! A message was just sent to our "
+"technical staff. We will get back to you as soon as we have an update to %s. "
+"Appreciate your patience."
+msgstr ""
+"Dank voor het feit dat hij ons de kans om het probleem te verhelpen! Een "
+"bericht was gewoon naar onze technische staf. Wij zullen u zo spoedig "
+"mogelijk een update op %s. Bedankt voor uw geduld."
+
+#: ../../../freemius/includes/i18n.php:306
+#, php-format
+msgctxt "%1s - plugin title, %2s - API domain"
+msgid ""
+"Your server is blocking the access to Freemius' API, which is crucial for "
+"%1s synchronization. Please contact your host to whitelist %2s"
+msgstr ""
+"Uw server blokkeert de toegang tot Freemius' API, die beslissend is voor %1s "
+"synchronisatie. Neem contact op met uw gastheer whitelist %2s"
+
+#: ../../../freemius/includes/i18n.php:307
+msgid ""
+"It seems like one of the authentication parameters is wrong. Update your "
+"Public Key, Secret Key & User ID, and try again."
+msgstr ""
+"Het lijkt een van de verificatiemethoden parameters verkeerd is. Update uw "
+"openbare sleutel, geheime sleutel & gebruikers-id en probeer het opnieuw."
+
+#: ../../../freemius/includes/i18n.php:310
+#, php-format
+msgid ""
+"Please check your mailbox, you should receive an email via %s to confirm the "
+"ownership change. From security reasons, you must confirm the change within "
+"the next 15 min. If you cannot find the email, please check your spam folder."
+msgstr ""
+"Controleer uw mailbox, ontvangt u een e-mail via %s bevestigen de eigendom "
+"veranderen. Uit veiligheidsoverwegingen moet bevestigen dat de veranderingen "
+"binnen de volgende 15 minuten als u de e-mail, controleer dan uw spam folder."
+
+#: ../../../freemius/includes/i18n.php:311
+#, php-format
+msgid ""
+"Thanks for confirming the ownership change. An email was just sent to %s for "
+"final approval."
+msgstr ""
+"Dank u voor het bevestigen van de eigendom. Een e-mail was gewoon naar %s is "
+"verzonden ter definitieve goedkeuring."
+
+#: ../../../freemius/includes/i18n.php:312
+#, php-format
+msgid "%s is the new owner of the account."
+msgstr "%s is de nieuwe eigenaar van het account."
+
+#: ../../../freemius/includes/i18n.php:314
+#, php-format
+msgctxt "addonX cannot run without pluginY"
+msgid "%s cannot run without %s."
+msgstr "%s kan niet worden uitgevoerd zonder %s."
+
+#: ../../../freemius/includes/i18n.php:315
+#, php-format
+msgctxt "addonX cannot run..."
+msgid "%s cannot run without the plugin."
+msgstr "%s kan niet worden uitgevoerd zonder de plugin."
+
+#: ../../../freemius/includes/i18n.php:316
+#, php-format
+msgctxt "pluginX activation was successfully..."
+msgid "%s activation was successfully completed."
+msgstr "Activering van %s geslaagd."
+
+#: ../../../freemius/includes/i18n.php:317
+msgctxt "Plugin installer section title"
+msgid "Features & Pricing"
+msgstr "Functies & prijs"
+
+#: ../../../freemius/includes/i18n.php:318
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr "Add-on moet worden ingezet op WordPress.org of Freemius."
+
+#: ../../../freemius/includes/i18n.php:319
+msgid "Paid add-on must be deployed to Freemius."
+msgstr "Betaalde add-on moet worden ingezet om Freemius."
+
+#: ../../../freemius/includes/i18n.php:321
+#, php-format
+msgid ""
+"%s is a premium only add-on. You have to purchase a license first before "
+"activating the plugin."
+msgstr ""
+"%s is een premium add-on. U hebt een licentie aanschaffen voordat u de "
+"plugin."
+
+#: ../../../freemius/includes/i18n.php:322
+#, php-format
+msgid ""
+"%s free trial was successfully cancelled. Since the add-on is premium only "
+"it was automatically deactivated. If you like to use it in the future, "
+"you'll have to purchase a license."
+msgstr ""
+"%s free trial succesvol werd geannuleerd. Aangezien de add-on is alleen "
+"premium werd automatisch gedeactiveerd. Als u het te gebruiken in de "
+"toekomst, je'll hebben een licentie aanschaffen."
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:370
+#, php-format
+msgid "Newer Version (%s) Installed"
+msgstr "Nieuwere versie (%s)"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:373
+msgid "Latest Version Installed"
+msgstr "Nieuwste versie geïnstalleerd"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:484
+msgctxt "Plugin installer section title"
+msgid "Description"
+msgstr "beschrijving"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:485
+msgctxt "Plugin installer section title"
+msgid "Installation"
+msgstr "installatie"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:486
+msgctxt "Plugin installer section title"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:487
+msgctxt "Plugin installer section title"
+msgid "Screenshots"
+msgstr "Schermafbeeldingen"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:488
+msgctxt "Plugin installer section title"
+msgid "Changelog"
+msgstr "Changelog"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:489
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "beoordelingen"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:490
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "andere opmerkingen"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:515
+msgid "Plugin Install"
+msgstr "plug-in installeren"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:647
+msgid "Version:"
+msgstr "Versie:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:653
+msgid "Author:"
+msgstr "Auteur:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:659
+msgid "Last Updated:"
+msgstr "Laatst bijgewerkt:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:661
+#, php-format
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:668
+msgid "Requires WordPress Version:"
+msgstr "Vereist WordPress Versie:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:668
+#, php-format
+msgid "%s or higher"
+msgstr "%s of hoger"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:674
+msgid "Compatible up to:"
+msgstr "Compatibel met:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:681
+msgid "Downloaded:"
+msgstr "Gedownload:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:681
+#, php-format
+msgid "%s time"
+msgid_plural "%s times"
+msgstr[0] "%s tijd"
+msgstr[1] "%s tijden"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:688
+msgid "WordPress.org Plugin Page &#187;"
+msgstr "WordPress.org Plugin Pagina&#187;"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:695
+msgid "Plugin Homepage &#187;"
+msgstr "Plugin Homepage &#187;"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:702 ../../..
+#: /freemius/includes/fs-plugin-info-dialog.php:759
+msgid "Donate to this plugin &#187;"
+msgstr "Doneer aan deze plugin &#187;"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:708
+msgid "Average Rating"
+msgstr "Gemiddelde score"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:714
+#, php-format
+msgid "(based on %s rating)"
+msgid_plural "(based on %s ratings)"
+msgstr[0] "(gebaseerd op %s)"
+msgstr[1] "(gebaseerd op %s)"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:727
+#, php-format
+msgid "Click to see reviews that provided a rating of %d star"
+msgid_plural "Click to see reviews that provided a rating of %d stars"
+msgstr[0] "Klik om beoordelingen die een rating van %d ster te bieden te zien"
+msgstr[1] "Klik hier voor meer reviews die een rating van %d sterren"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:727
+#, php-format
+msgid "%d star"
+msgid_plural "%d stars"
+msgstr[0] "%d ster"
+msgstr[1] "%d sterren"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:738
+msgid "Contributors"
+msgstr "medewerkers"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:766 ../../..
+#: /freemius/includes/fs-plugin-info-dialog.php:768
+msgid "Warning:"
+msgstr "Waarschuwing:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:766
+msgid "This plugin has not been tested with your current version of WordPress."
+msgstr "Deze plugin is niet getest met de huidige versie van WordPress."
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:768
+msgid ""
+"This plugin has not been marked as compatible with your version of WordPress."
+msgstr ""
+"Deze plugin is niet gemarkeerd als compatibel met uw versie van WordPress."

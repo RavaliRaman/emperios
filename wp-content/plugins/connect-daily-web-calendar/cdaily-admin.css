@@ -1,0 +1,143 @@
+.CDpostbox {
+    background-color: white;
+    border: 1px solid #D0D0D0;
+    margin-bottom: 1em;
+}
+
+dt {
+    font-weight: bold;
+}
+legend.cdaily {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+#CDailyInstructions {
+    float: left;
+    margin-top: 1em;
+    margin-right: 2em;
+    max-width: 80ex;
+}
+#CDailyInstructions p {
+	line-height: 125%;
+}
+#CDailyInstructions ul {
+    margin-left: 2em;
+    list-style-type: square;
+}
+
+#CDailyInstructions div {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.cdRightSide {
+    margin-top: 1em;
+    float: left;
+    width: 40ex;
+    min-height: 200px;
+}
+
+.cdRightSide .CDpostbox div, .cdRightSide .CDpostbox ul, .cdRightSide .CDpostbox table {
+    padding: 0.5em;
+}
+.cdRightSide .CDpostbox LI {
+  margin: 0.5em;
+  padding-top: 0.5em;
+}
+
+.cdRightSide .CDpostbox h3, #CDailyInstructions h3 {
+	padding: 1em;
+}
+.cdRightSide .CDpostbox h3, .CDpostbox h3 {
+    margin-bottom: 0; 
+    padding-bottom: 0;
+}
+#StyleTextArea {
+    width: 70ex;
+    height: 30em;
+    font-family: monospace;
+}
+#cdaily-shortcode-dlg {
+    padding: 1em;
+}
+.cdaily-fs {
+    border: 2px solid #444444;
+    border-radius: 8px;
+    padding: 1em;
+}
+.cdaily-fs legend {
+    margin-left: 1em; margin-right: 1em;
+}
+.cdaily-fs + .cdaily-fs {
+    margin-top: 1em;
+}
+#cdaily-shortcode-dlg label {
+    font-weight: bold;
+}
+#cdaily-shortcode-dlg select {
+    margin-left: 1em;
+}
+#cdaily-update {
+    margin-top: 1em;
+    float: right;
+}
+#cdaily-cancel {
+    margin-top: 1em;
+    float: left;
+}
+
+
+A.IconLink {
+    background-repeat: no-repeat;
+    display: block;
+    height: 32px;
+    width:32px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+A.Help {
+    background-image: url(question4.svg); 
+}
+
+A.HelpSmall {
+    height: 16px;
+    width: 16px;
+    background-image: url(question4.svg);
+    
+}
+.cdaily-error {
+    max-width: 60ex;
+}
+table.StepList {
+}
+table.StepList td {
+    vertical-align: top;
+    padding-bottom: 8px;
+}
+td.CheckMark {
+    height: 18px; 
+    width: 18px;
+    background-image: url(tick_16.png);
+    background-repeat: no-repeat;
+}
+dl.LicenseInfo dt {
+	font-weight: bold;
+}
+dl.LicenseInfo dd {
+	margin-bottom: 1em;
+}
+
+span.CDUINotice, #CDNoticeCount, #CDIssueCount {
+    border-radius: 0.5em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}
+/*
+    Setup hanging indents on radios and checkboxes on the settings form.
+*/
+form.cdSettingsForm label input[type='checkbox'],
+form.cdSettingsForm label input[type='radio'] {
+    padding-left: 2em;
+    text-indent: -2em;
+}

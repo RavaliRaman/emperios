@@ -1,0 +1,64 @@
+<?php
+function dummy() {
+    // TODO: There's a way to kink makepot to recognize your own functions. Figure it out.
+    __('COM_CONNECTDAILY_1st');
+    __('COM_CONNECTDAILY_2nd');
+    __('COM_CONNECTDAILY_3rd');
+    __('COM_CONNECTDAILY_4th');
+    __('COM_CONNECTDAILY_Address');
+    __('COM_CONNECTDAILY_Annual');
+    __('COM_CONNECTDAILY_Calendar');
+    __('COM_CONNECTDAILY_CALENDARICON');
+    __('COM_CONNECTDAILY_CheckAll');
+    __('COM_CONNECTDAILY_Close');
+    __('COM_CONNECTDAILY_Configuration');
+    __('COM_CONNECTDAILY_ContactInfo');
+    __('COM_CONNECTDAILY_ContactName');
+    __('COM_CONNECTDAILY_Daily');
+    __('COM_CONNECTDAILY_Date');
+    __('COM_CONNECTDAILY_Day');
+    __('COM_CONNECTDAILY_DayOfMonth');
+    __('COM_CONNECTDAILY_DaysMaybePlural');
+    __('COM_CONNECTDAILY_DaysOfWeek');
+    __('COM_CONNECTDAILY_Description');
+    __('COM_CONNECTDAILY_Documentation');
+    __('COM_CONNECTDAILY_ENCRYPTFAIL'); // encryption using private key failed.
+    __('COM_CONNECTDAILY_End');
+    __('COM_CONNECTDAILY_Every');
+    __('COM_CONNECTDAILY_EveryOther');
+    __('COM_CONNECTDAILY_HINT_AddEvents');
+    __('COM_CONNECTDAILY_iCalendar');
+    __('COM_CONNECTDAILY_ItemType');
+    __('COM_CONNECTDAILY_Last');
+    __('COM_CONNECTDAILY_Location');
+    __('COM_CONNECTDAILY_Month_s');
+    __('COM_CONNECTDAILY_Monthly');
+    __('COM_CONNECTDAILY_Name');
+    __('COM_CONNECTDAILY_NEXTARROW');
+    __('COM_CONNECTDAILY_NOCRYPTO');
+    __('COM_CONNECTDAILY_NOT_CONFIGURED');
+    __('COM_CONNECTDAILY_NOT_USED');
+    __('COM_CONNECTDAILY_OfMonth');
+    __('COM_CONNECTDAILY_OneTime');
+    __('COM_CONNECTDAILY_PREVARROW');
+    __('COM_CONNECTDAILY_Recurrence');
+    __('COM_CONNECTDAILY_RecurrenceEndDate');
+    __('COM_CONNECTDAILY_RecurrenceStartDate');
+    __('COM_CONNECTDAILY_RepeatEvery');
+    __('COM_CONNECTDAILY_SEARCHICON');
+    __('COM_CONNECTDAILY_HINT_SolicitReview');
+    __('COM_CONNECTDAILY_Start');
+    __('COM_CONNECTDAILY_Time');
+    __('COM_CONNECTDAILY_TZ_CHANGE_CLOUD');
+    __('COM_CONNECTDAILY_TZ_CHANGE_WORDPRESS');
+    __('COM_CONNECTDAILY_TZ_GMT');
+    __('COM_CONNECTDAILY_UncheckAll');
+    __('COM_CONNECTDAILY_URL');
+    __('COM_CONNECTDAILY_Week_s');
+    __('COM_CONNECTDAILY_WeekDay');
+    __('COM_CONNECTDAILY_WeekendDay');
+    __('COM_CONNECTDAILY_Weekly');
+    _x('COM_CONNECTDAILY_Contact', 'The person to contact for information about the event.');
+    _x('COM_CONNECTDAILY_NextMonth', 'Navigate Calendar to Next Month');
+    _x('COM_CONNECTDAILY_PreviousMonth', 'Navigate calendar to previous month.');
+}

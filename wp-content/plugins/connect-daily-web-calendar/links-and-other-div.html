@@ -1,0 +1,90 @@
+<?php
+
+$signup_done=$CDPlugin->isConfigured();
+$configTutorialTitle=str_replace("{0}",$CDPlugin->translate("COM_CONNECTDAILY_Configuration"),$CDPlugin->translate("COM_CONNECTDAILY_WatchTheBlankTutorial"));
+$shortCodeTutorial=str_replace("{0}",$CDPlugin->translate("COM_CONNECTDAILY_INSERTCODE"),$CDPlugin->translate("COM_CONNECTDAILY_WatchTheBlankTutorial"))
+
+?>
+<div class="cdRightSide" >
+    <div class="CDpostbox">
+        <h3>4 Steps to Get Started</h3>
+        <table class="StepList">
+            <tr>
+                <td class="CheckMark"></td>
+                <td>1.</td>
+                <td>Install the plugin.</td>
+            </tr>
+            <tr>
+                <td class="<?php echo $signup_done ? 'CheckMark' : ''; ?>"></td>
+                <td>2.</td>
+                <td>
+                    Create a new calendar or link to an existing one in the settings page.
+                   <a class="dashicons dashicons-video-alt" href="<?php echo $CDPlugin::TUTORIAL_URL;?>#t=1m24s" target=blank title="<?php echo $configTutorialTitle;?>"></a>
+                </td>
+            </tr>
+            <tr>
+                <td class="<?php echo $CDPlugin->isUsed() ? "CheckMark" : "NotChecked"; ?>"></td>
+                <td>3.</td>
+                <td>Add the widgets or shortcodes to your pages.
+                <a class="dashicons dashicons-video-alt" href="<?php echo $CDPlugin::TUTORIAL_URL;?>#t=1m53s" target=blank title="<?php echo $shortCodeTutorial;?>"></a>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>4.</td>
+                <td>
+                <?php
+                      if ( $signup_done ) {
+                         ?>
+                    <a href="javascript:CDaily.doSingleSignon();" >Add your events.</a>
+                    <?php
+                     } else {
+                     ?>
+                             Add your events.                        
+                         <?php
+                     }
+                     ?>
+
+                                    </td>
+           </tr>
+        </table>
+    </div>
+    <div class="CDpostbox">
+        <h3>Tutorial</h3>
+        <a href="<?php echo $CDPlugin::TUTORIAL_URL.'?autoplay=1'; ?>" target=_blank title="<?php _e('Video Tutorial',CDailyPlugin::CAPTION_BUNDLE); ?>">
+        <img id="CDTutorialImage" style="margin: 1em; width: 90%;" src="<?php echo plugins_url("",plugin_basename(__FILE__)); ?>/images/WPPluginTutorial_N.png">
+        </a>
+    </div>
+    <div class="CDpostbox">
+        <h3>Links</h3>
+            <ul>
+                <li><a href="http://www.connectdaily.com/wordpress-calendar-plugin/" target=_blank><?php _e('Plugin Home Page',CDailyPlugin::CAPTION_BUNDLE); ?></a></li>
+                <li><a href="<?php echo CDailyPlugin::HELP_PAGE; ?>WordPressCalendarPlugin.html" target=_blank><?php _e('COM_CONNECTDAILY_Documentation',CDailyPlugin::CAPTION_BUNDLE); ?></a></li>
+                <li><a href="<?php echo CDailyPlugin::HELP_PAGE; ?>WordPressCalendarPluginFAQ.html" target=_blank><?php _e('Plugin FAQ',CDailyPlugin::CAPTION_BUNDLE); ?></a></li>
+                <li><a href="http://www.connectdaily.com/contact/" target=_blank><?php _e('Contact Sales',CDailyPlugin::CAPTION_BUNDLE); ?></a></li>
+                <li><a href="<?php echo admin_url('/admin.php?page=cdaily-settings-support'); ?>"><?php _e('Contact Support',CDailyPlugin::CAPTION_BUNDLE); ?></a></li>
+            </ul>
+    </div>
+    <script type="text/javascript">
+    jQuery('#CDTutorialImage').mouseover(function(){
+        jQuery(this).attr('src',jQuery(this).attr('src').replace(/_N\.png/,'_H.png'));
+    }).mouseout(function(){
+        jQuery(this).attr('src',jQuery(this).attr('src').replace(/_H\.png/,'_N.png'));
+    });
+    </script>
+    <div class="CDpostbox">
+        <h3>Testimonials</h3>
+        <div style="line-height: 140%; padding-left: 1em; padding-right: 1em;">
+        
+            I wanted to take the time to tell you how helpful you have been. Your product is 
+            amazing and will add a great deal of value to my web site. Moreover, your 
+            product is outperformed only by your customer service. I greatly appreciate the 
+            fact that I was able to call you every time I needed assistance (I never had to 
+            leave a message). MH Software should be the blueprint for every web-based 
+            business.
+            <br><br>
+            <strong>Alex Fraser - CHR, ArtmasterStudios.com</strong>
+        
+        </div>
+    </div>
+</div>

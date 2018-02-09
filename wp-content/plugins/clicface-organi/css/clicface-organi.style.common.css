@@ -1,0 +1,159 @@
+/* list stuff */
+#org{
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+#show-list{
+  cursor: pointer;
+}
+
+/* jQuery drag 'n drop */
+.drag-active {
+  border-style: dotted !important;
+}
+
+.drop-hover {
+  border-style: solid !important;
+  border-color: #E05E00 !important;
+}
+
+#clicface-chart .clicface-jOrgChart table,
+#clicface-chart .clicface-jOrgChart table tr td {
+  border: none;
+  margin: 0px;
+}
+
+#clicface-chart .clicface-jOrgChart table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Custom chart styling */
+#clicface-chart .clicface-jOrgChart {
+  margin: 10px;
+  padding: 20px;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  padding-top: 0px;
+  text-align: center;
+}
+
+/* Basic styling */
+/* Draw the lines */
+#clicface-chart .clicface-jOrgChart .clicface-line {
+  height: 20px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-tree {
+  height: 220px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-down {
+  margin: 0px auto;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-top {
+  border-top-style: solid;
+  float: none;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-bottom {
+  border-bottom-style: solid;
+  float: none;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-left {
+  border-right-style: solid;
+  float: none;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-right {
+  border-left-style: solid;
+  float: none;
+}
+
+/* node cell */
+#clicface-chart .clicface-jOrgChart td {
+  text-align: center;
+  vertical-align: top;
+  padding: 0;
+}
+
+/* The node */
+#clicface-chart .clicface-jOrgChart .node {
+  display: inline-block;
+  z-index: 10;
+  margin: 0 10px;
+  font-size: 13px;
+  color: #000000;
+  position: relative;
+  padding: 2px;
+  line-height: 1em;
+}
+
+#clicface-chart .clicface-jOrgChart .o {
+  min-width: 230px;
+}
+
+#clicface-chart .clicface-jOrgChart .d,
+#clicface-chart .clicface-jOrgChart .e,
+#clicface-chart .clicface-jOrgChart .f {
+  min-height: 100px;
+}
+
+#clicface-chart .clicface-jOrgChart .e,
+#clicface-chart .clicface-jOrgChart .f {
+  margin-top: 50px;
+}
+
+#clicface-chart .clicface-jOrgChart .node p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  line-height: 11px;
+  padding: 2px;
+}
+
+#clicface-chart .clicface-jOrgChart .node a {
+  text-decoration: none;
+}
+
+#clicface-chart .clicface-jOrgChart .node .gestion {
+  display: none;
+}
+
+.flechetransparente {
+  margin: auto;
+}
+
+#clicface-chart .clicface-jOrgChart .node:hover .gestion {
+  display: block;
+  position: absolute;
+  margin: 10px 7px;
+  cursor: default;
+  height: 20px;
+  bottom: 0px;
+  width: 92%;
+}
+
+.suppression {
+  float: left;
+}
+
+.permutation {
+  float: right;
+}
+
+.arrow-up {
+  width: 95%;
+  position: absolute;
+  bottom: 0px;
+  margin: auto;
+}
+
+#clicface-organi-add-box,
+#clicface-organi-add-label {
+  display: none;
+}

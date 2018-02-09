@@ -1,0 +1,3379 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: WordApp - Wordpress to Mobile App plugin for WooCommerce "
+"& BuddyPress 1.16.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wordapp-mobile-"
+"app\n"
+"POT-Creation-Date: 2016-05-15 11:28+0200\n"
+"POT-Revision-Date: Sun May 15 2016 03:46:30 GMT+0200 (CEST)\n"
+"PO-Revision-Date: 2016-05-21 00:44+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: WordApp.php:56
+msgid ""
+"Please help us improve WordApp! Help us understand how our plugin is working "
+"on your site. <br /> If you skip this, that's okay! WordApp will still work "
+"just fine."
+msgstr ""
+"请您帮助我们改进WordApp！衷心希望在您的帮助下让我们的插件在您的网站上更好地运"
+"作。<br / > 您也可以跳过此步骤！WordApp会照常运作。"
+
+#: WordApp.php:526 WordApp.php:529
+msgid "Getting Started"
+msgstr "让我们开始吧"
+
+#: WordApp.php:527
+msgid "Quick install"
+msgstr "快速安装"
+
+#: WordApp.php:527
+msgid "Quick Install"
+msgstr "快速安装"
+
+#: WordApp.php:531
+msgid "App Builder"
+msgstr "软件创建者"
+
+#: WordApp.php:532 includes/admin/iBeacon.php:44
+#: includes/admin/push_notes.php:43
+msgid "Push Notifications"
+msgstr "推送通知"
+
+#: WordApp.php:534 includes/admin/iBeacon.php:18
+msgid "Beacons"
+msgstr "引导"
+
+#: WordApp.php:536
+msgid "Marketing Gear"
+msgstr "营销机构"
+
+#: WordApp.php:537
+msgid "The Crowd"
+msgstr "使用人群"
+
+#: WordApp.php:538
+msgid "Tell a friend"
+msgstr "告知朋友"
+
+#: WordApp.php:539
+msgid "Video Tutorials"
+msgstr "视频教学"
+
+#: WordApp.php:540
+msgid "Settings"
+msgstr "设置"
+
+#: WordApp.php:541
+msgid "CSS Editor"
+msgstr "CSS编辑"
+
+#: WordApp.php:542
+msgid "Themes"
+msgstr "主题"
+
+#: WordApp.php:546
+msgid "Go Premium"
+msgstr "额外费用"
+
+#: WordApp.php:709
+msgid ""
+"The plugin must be installed to wp-content/plugins/wordapp-mobile-app - to "
+"help this, please ensure that the zip file you are installing is called "
+"wordapp-mobile-app.zip, or rename the folder via FTP"
+msgstr ""
+"此插件必须安装在wp-content/plugins/wordapp-mobile-app －－ 为确保，请确认您下"
+"载的zip 文件名为wordapp-mobile-app.zip，或者您可以通过 FTP 给文件重命名。"
+
+#: freemius/includes/fs-plugin-info-dialog.php:360
+#: freemius/includes/i18n.php:125 includes/admin/popup.php:93
+#: includes/admin/start.php:108
+msgid "Install Now"
+msgstr "现在安装"
+
+#: freemius/includes/fs-plugin-info-dialog.php:366
+#: freemius/includes/i18n.php:126
+msgid "Install Update Now"
+msgstr "现在安装升级版本"
+
+#: freemius/includes/fs-plugin-info-dialog.php:370
+#, c-format
+msgid "Newer Version (%s) Installed"
+msgstr "新版本下载 （%s）"
+
+#: freemius/includes/fs-plugin-info-dialog.php:373
+msgid "Latest Version Installed"
+msgstr "最新版本安装完成"
+
+#: freemius/includes/fs-plugin-info-dialog.php:484
+msgctxt "Plugin installer section title"
+msgid "Description"
+msgstr "描述"
+
+#: freemius/includes/fs-plugin-info-dialog.php:485
+msgctxt "Plugin installer section title"
+msgid "Installation"
+msgstr "安装"
+
+#: freemius/includes/fs-plugin-info-dialog.php:486
+msgctxt "Plugin installer section title"
+msgid "FAQ"
+msgstr "问答"
+
+#: freemius/includes/fs-plugin-info-dialog.php:487
+msgctxt "Plugin installer section title"
+msgid "Screenshots"
+msgstr "截屏"
+
+#: freemius/includes/fs-plugin-info-dialog.php:488
+msgctxt "Plugin installer section title"
+msgid "Changelog"
+msgstr "更新日志"
+
+#: freemius/includes/fs-plugin-info-dialog.php:489
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "评论"
+
+#: freemius/includes/fs-plugin-info-dialog.php:490
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "其他笔记"
+
+#: freemius/includes/fs-plugin-info-dialog.php:515
+msgid "Plugin Install"
+msgstr "插件安装"
+
+#: freemius/includes/fs-plugin-info-dialog.php:647
+msgid "Version:"
+msgstr "版本"
+
+#: freemius/includes/fs-plugin-info-dialog.php:653
+msgid "Author:"
+msgstr "作者"
+
+#: freemius/includes/fs-plugin-info-dialog.php:659
+msgid "Last Updated:"
+msgstr "上一次更新"
+
+#: freemius/includes/fs-plugin-info-dialog.php:661
+#, c-format
+msgid "%s ago"
+msgstr "%s 之前"
+
+#: freemius/includes/fs-plugin-info-dialog.php:668
+msgid "Requires WordPress Version:"
+msgstr "要求  WordPress 版本"
+
+#: freemius/includes/fs-plugin-info-dialog.php:668
+#, c-format
+msgid "%s or higher"
+msgstr "%s  或更高"
+
+#: freemius/includes/fs-plugin-info-dialog.php:674
+msgid "Compatible up to:"
+msgstr "与…兼容"
+
+#: freemius/includes/fs-plugin-info-dialog.php:681
+msgid "Downloaded:"
+msgstr "已下载"
+
+#: freemius/includes/fs-plugin-info-dialog.php:681
+#, c-format
+msgid "%s time"
+msgid_plural "%s times"
+msgstr[0] "单次：%s 时间"
+
+#: freemius/includes/fs-plugin-info-dialog.php:688
+msgid "WordPress.org Plugin Page &#187;"
+msgstr "WordPress.org 插件页数187"
+
+#: freemius/includes/fs-plugin-info-dialog.php:695
+msgid "Plugin Homepage &#187;"
+msgstr "插件主页187"
+
+#: freemius/includes/fs-plugin-info-dialog.php:702
+#: freemius/includes/fs-plugin-info-dialog.php:759
+msgid "Donate to this plugin &#187;"
+msgstr "对此插件捐赠"
+
+#: freemius/includes/fs-plugin-info-dialog.php:708
+msgid "Average Rating"
+msgstr "平均等级"
+
+#: freemius/includes/fs-plugin-info-dialog.php:714
+#, c-format
+msgid "(based on %s rating)"
+msgid_plural "(based on %s ratings)"
+msgstr[0] "单次：基于s％评分 ； 多次：基于s％评分  %s "
+
+#: freemius/includes/fs-plugin-info-dialog.php:727
+#, c-format
+msgid "Click to see reviews that provided a rating of %d star"
+msgid_plural "Click to see reviews that provided a rating of %d stars"
+msgstr[0] "点击查看%d星级评论"
+
+#: freemius/includes/fs-plugin-info-dialog.php:727
+#, c-format
+msgid "%d star"
+msgid_plural "%d stars"
+msgstr[0] "%d 星级"
+
+#: freemius/includes/fs-plugin-info-dialog.php:738
+msgid "Contributors"
+msgstr "投稿"
+
+#: freemius/includes/fs-plugin-info-dialog.php:766
+#: freemius/includes/fs-plugin-info-dialog.php:768
+msgid "Warning:"
+msgstr "警告"
+
+#: freemius/includes/fs-plugin-info-dialog.php:766
+msgid "This plugin has not been tested with your current version of WordPress."
+msgstr "此插件没有与当前版本的 WordPress 测试。"
+
+#: freemius/includes/fs-plugin-info-dialog.php:768
+msgid ""
+"This plugin has not been marked as compatible with your version of WordPress."
+msgstr "此插件没有与你当前版本的 WordPress 标记为兼容。"
+
+#: freemius/includes/i18n.php:35
+msgid "Account"
+msgstr "账户"
+
+#: freemius/includes/i18n.php:36
+msgid "Add On"
+msgstr "叠加"
+
+#: freemius/includes/i18n.php:37
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: freemius/includes/i18n.php:38
+msgid "Change Ownership"
+msgstr "更改所有权"
+
+#: freemius/includes/i18n.php:39
+msgid "Support"
+msgstr "支持"
+
+#: freemius/includes/i18n.php:40
+msgid "Support Forum"
+msgstr "支持讨论"
+
+#: freemius/includes/i18n.php:41
+msgid "Add Ons"
+msgstr "加上"
+
+#: freemius/includes/i18n.php:42
+msgctxt "verb"
+msgid "Upgrade"
+msgstr "升级"
+
+#: freemius/includes/i18n.php:43
+msgid "Awesome"
+msgstr "非常好"
+
+#: freemius/includes/i18n.php:44
+msgctxt "noun"
+msgid "Pricing"
+msgstr "定价"
+
+#: freemius/includes/i18n.php:45
+msgctxt "noun"
+msgid "Price"
+msgstr "价格"
+
+#: freemius/includes/i18n.php:46
+msgid "Unlimited Updates"
+msgstr "无限更新"
+
+#: freemius/includes/i18n.php:47
+msgctxt "verb"
+msgid "Downgrade"
+msgstr "降级"
+
+#: freemius/includes/i18n.php:48
+msgid "Cancel Trial"
+msgstr "取消测试"
+
+#: freemius/includes/i18n.php:49
+msgid "Free Trial"
+msgstr "免费测试"
+
+#: freemius/includes/i18n.php:50
+#, c-format
+msgid "Start my free %s"
+msgstr "开始免费版本 %s"
+
+#: freemius/includes/i18n.php:51
+#, c-format
+msgid "No commitment for %s - cancel anytime"
+msgstr "无承诺 for  %s －－可随时取消"
+
+#: freemius/includes/i18n.php:52
+#, c-format
+msgid "After your free %s, pay as little as %s"
+msgstr "在免费版本之后%s，开始付费%s"
+
+#: freemius/includes/i18n.php:53
+msgid "Details"
+msgstr "详情"
+
+#: freemius/includes/i18n.php:54
+msgid "Account Details"
+msgstr "账号详情"
+
+#: freemius/includes/i18n.php:55
+msgctxt "verb"
+msgid "Delete"
+msgstr "删除"
+
+#: freemius/includes/i18n.php:56
+msgid "Delete Account"
+msgstr "删除账号"
+
+#: freemius/includes/i18n.php:57
+msgctxt "as close a window"
+msgid "Dismiss"
+msgstr "撤除"
+
+#: freemius/includes/i18n.php:58
+msgctxt "as product pricing plan"
+msgid "Plan"
+msgstr "计划"
+
+#: freemius/includes/i18n.php:59
+msgid "Change Plan"
+msgstr "计划更改"
+
+#: freemius/includes/i18n.php:60
+#, c-format
+msgctxt "as download professional version"
+msgid "Download %s Version"
+msgstr "下载 %s版本"
+
+#: freemius/includes/i18n.php:61
+#, c-format
+msgctxt "as download professional version now"
+msgid "Download %s version now"
+msgstr "立即下载%s版本"
+
+#: freemius/includes/i18n.php:62
+msgctxt "as download latest version"
+msgid "Download Latest"
+msgstr "下载最新版本"
+
+#: freemius/includes/i18n.php:63
+#, c-format
+msgctxt "E.g. you have a professional license."
+msgid "You have a %s license."
+msgstr "您有 %s许可"
+
+#: freemius/includes/i18n.php:64
+msgid "New"
+msgstr "新"
+
+#: freemius/includes/i18n.php:65
+msgid "Free"
+msgstr "免费"
+
+#: freemius/includes/i18n.php:66
+msgctxt "as trial plan"
+msgid "Trial"
+msgstr "测试"
+
+#: freemius/includes/i18n.php:67
+msgctxt "verb"
+msgid "Purchase"
+msgstr "购买"
+
+#: freemius/includes/i18n.php:68
+msgid "Purchase License"
+msgstr "购买许可"
+
+#: freemius/includes/i18n.php:69
+msgctxt "verb"
+msgid "Buy"
+msgstr "购买"
+
+#: freemius/includes/i18n.php:70
+msgid "Buy License"
+msgstr "购买许可"
+
+#: freemius/includes/i18n.php:71
+msgid "Single Site License"
+msgstr "单一网站许可"
+
+#: freemius/includes/i18n.php:72
+msgid "Unlimited Licenses"
+msgstr "无限许可"
+
+#: freemius/includes/i18n.php:73
+#, c-format
+msgid "Up to %s Sites"
+msgstr "Up to %s Sites"
+
+#: freemius/includes/i18n.php:74
+#, c-format
+msgid "%sRenew your license now%s to access version %s features and support."
+msgstr "%s 立即翻新您的许可 %s 以获取 %s 版本的支持"
+
+#: freemius/includes/i18n.php:75
+#, c-format
+msgctxt "e.g. Professional Plan"
+msgid "%s Plan"
+msgstr "%s计划"
+
+#: freemius/includes/i18n.php:76
+#, c-format
+msgid "You are just one step away - %s"
+msgstr "您仅仅一步之遥－－ %s"
+
+#: freemius/includes/i18n.php:77
+#, c-format
+msgctxt "%s - plugin name. As complete \"Jetpack\" activation now"
+msgid "Complete \"%s\" Activation Now"
+msgstr "完成  \"%s\"  立即激活"
+
+#: freemius/includes/i18n.php:78
+#, c-format
+msgid "We made a few tweaks to the plugin, %s"
+msgstr "我们对插件进行了调整， %s"
+
+#: freemius/includes/i18n.php:79
+#, c-format
+msgid "Opt-in to make \"%s\" Better!"
+msgstr "Opt－让”%s”更好！"
+
+#: freemius/includes/i18n.php:80
+msgid "Error"
+msgstr "错误"
+
+#: freemius/includes/i18n.php:81
+msgid ""
+"Freemius SDK couldn't find the plugin's main file. Please contact "
+"sdk@freemius.com with the current error."
+msgstr "Freemius SDK找不到插件的主要文件。请带着当前错误联系sdk@freemius.com。"
+
+#: freemius/includes/i18n.php:84
+msgctxt "as expiration date"
+msgid "Expiration"
+msgstr "届期"
+
+#: freemius/includes/i18n.php:85
+msgctxt "as software license"
+msgid "License"
+msgstr "许可"
+
+#: freemius/includes/i18n.php:86
+msgid "not verified"
+msgstr "未验证"
+
+#: freemius/includes/i18n.php:87
+msgid "Verify Email"
+msgstr "验证电子邮箱"
+
+#: freemius/includes/i18n.php:88
+#, c-format
+msgctxt "e.g. expires in 2 months"
+msgid "Expires in %s"
+msgstr "于 %s 过期"
+
+#: freemius/includes/i18n.php:89
+#, c-format
+msgctxt "e.g. auto renews in 2 months"
+msgid "Auto renews in %s"
+msgstr "自动更新%s"
+
+#: freemius/includes/i18n.php:90
+msgid "No expiration"
+msgstr "无届期"
+
+#: freemius/includes/i18n.php:91
+msgid "Expired"
+msgstr "已过期"
+
+#: freemius/includes/i18n.php:92
+msgid "Cancelled"
+msgstr "已取消"
+
+#: freemius/includes/i18n.php:93
+#, c-format
+msgctxt "e.g. In 2 hours"
+msgid "In %s"
+msgstr "于 %s"
+
+#: freemius/includes/i18n.php:94
+#, c-format
+msgctxt "e.g. 2 min ago"
+msgid "%s ago"
+msgstr "%s 之前"
+
+#: freemius/includes/i18n.php:95
+msgctxt "as plugin version"
+msgid "Version"
+msgstr "版本"
+
+#: freemius/includes/i18n.php:96 includes/admin/popup.php:15
+#: includes/admin/start.php:27
+msgid "Name"
+msgstr "姓名"
+
+#: freemius/includes/i18n.php:97
+msgid "Email"
+msgstr "电子邮箱"
+
+#: freemius/includes/i18n.php:98
+msgid "Verified"
+msgstr "已验证"
+
+#: freemius/includes/i18n.php:99
+msgid "Plugin"
+msgstr "插件"
+
+#: freemius/includes/i18n.php:100
+msgid "Plugins"
+msgstr "多个插件"
+
+#: freemius/includes/i18n.php:101
+msgctxt "as file/folder path"
+msgid "Path"
+msgstr "文件路径"
+
+#: freemius/includes/i18n.php:102
+msgid "Title"
+msgstr "标题"
+
+#: freemius/includes/i18n.php:103
+msgid "Free version"
+msgstr "免费版本"
+
+#: freemius/includes/i18n.php:104
+msgid "Premium version"
+msgstr "额外版本"
+
+#: freemius/includes/i18n.php:105
+msgctxt "as WP plugin slug"
+msgid "Slug"
+msgstr "迟缓"
+
+#: freemius/includes/i18n.php:106
+msgid "ID"
+msgstr "ID"
+
+#: freemius/includes/i18n.php:107
+msgid "Users"
+msgstr "用户"
+
+#: freemius/includes/i18n.php:108
+msgid "Plugin Installs"
+msgstr "插件安装"
+
+#: freemius/includes/i18n.php:109
+msgctxt "like websites"
+msgid "Sites"
+msgstr "网站"
+
+#: freemius/includes/i18n.php:110
+msgid "User ID"
+msgstr "用户ID"
+
+#: freemius/includes/i18n.php:111
+msgid "Site ID"
+msgstr "网站ID"
+
+#: freemius/includes/i18n.php:112
+msgid "Public Key"
+msgstr "公共密钥"
+
+#: freemius/includes/i18n.php:113
+msgid "Secret Key"
+msgstr "密钥"
+
+#: freemius/includes/i18n.php:114
+msgctxt "as secret encryption key missing"
+msgid "No Secret"
+msgstr "无密码键"
+
+#: freemius/includes/i18n.php:115
+msgid "No ID"
+msgstr "无ID"
+
+#: freemius/includes/i18n.php:116
+msgctxt "as synchronize license"
+msgid "Sync License"
+msgstr "同步许可"
+
+#: freemius/includes/i18n.php:117
+msgctxt "as synchronize"
+msgid "Sync"
+msgstr "同步"
+
+#: freemius/includes/i18n.php:118
+msgid "Deactivate License"
+msgstr "许可无效"
+
+#: freemius/includes/i18n.php:119
+msgid "Activate"
+msgstr "激活"
+
+#: freemius/includes/i18n.php:120
+msgid "Deactivate"
+msgstr "无效"
+
+#: freemius/includes/i18n.php:121
+msgid "No - just deactivate"
+msgstr "禁止－无效"
+
+#: freemius/includes/i18n.php:122
+msgid "Yes - do your thing"
+msgstr "允许－允许使用"
+
+#: freemius/includes/i18n.php:123
+msgctxt "active mode"
+msgid "Active"
+msgstr "活动"
+
+#: freemius/includes/i18n.php:124
+msgctxt "is active mode?"
+msgid "Is Active"
+msgstr "是活动的"
+
+#: freemius/includes/i18n.php:127
+#, c-format
+msgid "More information about %s"
+msgstr "关于 %s 的更多信息"
+
+#: freemius/includes/i18n.php:128
+msgid "Localhost"
+msgstr "本机"
+
+#: freemius/includes/i18n.php:129
+#, c-format
+msgctxt "as activate Professional plan"
+msgid "Activate %s Plan"
+msgstr "激活%s的计划"
+
+#: freemius/includes/i18n.php:130
+#, c-format
+msgid "What is your %s?"
+msgstr "什么是你的 %s"
+
+#: freemius/includes/i18n.php:131
+msgid "Activate this add-on"
+msgstr "激活此附加功能"
+
+#: freemius/includes/i18n.php:132
+msgid ""
+"Deactivating your license will block all premium features, but will enable "
+"you to activate the license on another site. Are you sure you want to "
+"proceed?"
+msgstr ""
+"解除您的许可会阻碍额外功用，但是将允许您激活其他网站的许可。您确定要继续吗？"
+
+#: freemius/includes/i18n.php:133
+#, c-format
+msgid ""
+"Deleting the account will automatically deactivate your %s plan license so "
+"you can use it on other sites. If you want to terminate the recurring "
+"payments as well, click the \"Cancel\" button, and first \"Downgrade\" your "
+"account. Are you sure you would like to continue with the deletion?"
+msgstr ""
+"删除该帐户将自动关闭您的 %s 计划许可，所以你可以在其他网站使用它。如果你想终"
+"止重复付款，请点击“取消”按钮，和第一次“降级”您的帐户。你确定你想继续删除吗？"
+
+#: freemius/includes/i18n.php:134
+msgid ""
+"Deletion is not temporary. Only delete if you no longer want to use this "
+"plugin anymore. Are you sure you would like to continue with the deletion?"
+msgstr "删除是永久的。请在确定您不需要此插件后删除。您确定要继续删除吗？"
+
+#: freemius/includes/i18n.php:135
+#, c-format
+msgid ""
+"Downgrading your plan will immediately stop all future recurring payments "
+"and your %s plan license will expire in %s."
+msgstr ""
+"降级您的计划将立即停止所有的未来的重复付款并且您的s％计划许可会在s％过期。%s "
+"%s"
+
+#: freemius/includes/i18n.php:136
+msgid ""
+"Cancelling the trial will immediately block access to all premium features. "
+"Are you sure?"
+msgstr "取消测试将立即阻止额外功用。您确定吗？"
+
+#: freemius/includes/i18n.php:137
+#, c-format
+msgid ""
+"You can still enjoy all %s features but you will not have access to plugin "
+"updates and support."
+msgstr "您将依然享受所有的 %s 功用但是您不再获得插件更新和支持。"
+
+#: freemius/includes/i18n.php:138
+#, c-format
+msgid ""
+"Once your license expire you can still use the Free version but you will NOT "
+"have access to the %s features."
+msgstr "一旦您的许可过期您将依然使用免费版本但是您将不会拥有 %s功用。"
+
+#: freemius/includes/i18n.php:139
+msgid "Are you sure you want to proceed?"
+msgstr "您确定您要继续吗?"
+
+#: freemius/includes/i18n.php:142
+#, c-format
+msgid "Add Ons for %s"
+msgstr "为s％附加  %s"
+
+#: freemius/includes/i18n.php:143
+msgid ""
+"We could'nt load the add-ons list. It's probably an issue on our side, "
+"please try to come back in few minutes."
+msgstr "我们不能加载出附加功能。这也许是我们的问题，请一会儿再回来。"
+
+#: freemius/includes/i18n.php:145
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "如果您方便请让我们知道为什么您使其失效。"
+
+#: freemius/includes/i18n.php:146
+msgid "Yes - Deactivate"
+msgstr "是－使失效"
+
+#: freemius/includes/i18n.php:147
+msgid "Submit & Deactivate"
+msgstr "提交－使失效"
+
+#: freemius/includes/i18n.php:148
+msgctxt "the text of the cancel button of the plugin deactivation dialog box."
+msgid "Cancel"
+msgstr "取消"
+
+#: freemius/includes/i18n.php:149
+msgid "I no longer need the plugin"
+msgstr "我不需要此插件"
+
+#: freemius/includes/i18n.php:150
+msgid "I found a better plugin"
+msgstr "我找到了更好的插件"
+
+#: freemius/includes/i18n.php:151
+msgid "I only needed the plugin for a short period"
+msgstr "我只在短期需要此插件"
+
+#: freemius/includes/i18n.php:152
+msgid "The plugin broke my site"
+msgstr "此插件破坏了我的网站"
+
+#: freemius/includes/i18n.php:153
+msgid "The plugin suddenly stopped working"
+msgstr "此插件闪退"
+
+#: freemius/includes/i18n.php:154
+msgid "I can't pay for it anymore"
+msgstr "我没有能力继续付钱了"
+
+#: freemius/includes/i18n.php:155
+msgctxt ""
+"the text of the \"other\" reason for deactivating the plugin that is shown "
+"in the modal box."
+msgid "Other"
+msgstr "其他"
+
+#: freemius/includes/i18n.php:156
+msgid "What's the plugin's name?"
+msgstr "插件的名字是什么？"
+
+#: freemius/includes/i18n.php:157
+msgid "What price would you feel comfortable paying?"
+msgstr "您愿意付多少钱？"
+
+#: freemius/includes/i18n.php:158
+msgid "I couldn't understand how to make it work"
+msgstr "我不知道怎么使用。"
+
+#: freemius/includes/i18n.php:159
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "此插件很好，但是我需要的功能你们没有。"
+
+#: freemius/includes/i18n.php:160
+msgid "The plugin is not working"
+msgstr "此插件不工作。"
+
+#: freemius/includes/i18n.php:161
+msgid "It's not what I was looking for"
+msgstr "这跟我想要的不一样。"
+
+#: freemius/includes/i18n.php:162
+msgid "The plugin didn't work as expected"
+msgstr "此插件跟我的预期不一样。"
+
+#: freemius/includes/i18n.php:163
+msgid "What feature?"
+msgstr "什么特征？"
+
+#: freemius/includes/i18n.php:164
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "请告诉我们哪里不工作以方便我们修复。"
+
+#: freemius/includes/i18n.php:165
+msgid "What you've been looking for?"
+msgstr "您在寻找什么？"
+
+#: freemius/includes/i18n.php:166
+msgid "What did you expect?"
+msgstr "您的预期是什么？"
+
+#: freemius/includes/i18n.php:167
+msgid "The plugin didn't work"
+msgstr "插件没有工作。"
+
+#: freemius/includes/i18n.php:168
+msgid "I don't like to share my information with you"
+msgstr "我不想告诉您们我的个人信息。"
+
+#: freemius/includes/i18n.php:172
+#, c-format
+msgctxt "greeting"
+msgid "Hey %s,"
+msgstr "Hey %s,"
+
+#: freemius/includes/i18n.php:173
+#, c-format
+msgctxt "a greeting. E.g. Thanks John!"
+msgid "Thanks %s!"
+msgstr "谢谢 %s"
+
+#: freemius/includes/i18n.php:174
+#, c-format
+msgid ""
+"In order to enjoy all our features and functionality, %s needs to connect "
+"your user, %s at %s, to %s"
+msgstr "为了更好使用我们软件的功能，%s 需要与%s联系您的用户   %s  %s"
+
+#: freemius/includes/i18n.php:175
+#, c-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine."
+msgstr ""
+"请帮助我们提高%s。如果您选择，一些关于您使用的信息将被发送到s％。如果您跳过，"
+"s％也会照常工作。"
+
+#: freemius/includes/i18n.php:176
+#, c-format
+msgid ""
+"You should receive an activation email for %s to your mailbox at %s. Please "
+"make sure you click the activation button in that email to complete the "
+"install."
+msgstr ""
+"您会在 %s 收到一封 %s 的激活邮件。请确认您点击邮件中的激活按钮已完成安装。"
+
+#: freemius/includes/i18n.php:177
+msgid "What permissions are being granted?"
+msgstr "授予了哪些权限？"
+
+#: freemius/includes/i18n.php:178
+msgid "Your Profile Overview"
+msgstr "你的简介概述"
+
+#: freemius/includes/i18n.php:179
+msgid "Name and email address"
+msgstr "姓名和电子邮箱"
+
+#: freemius/includes/i18n.php:180
+msgid "Your Site Overview"
+msgstr "您的网站概述"
+
+#: freemius/includes/i18n.php:181
+msgid "Site address, WordPress version, PHP Version"
+msgstr "网站地址、WordPress版本、PHP版本"
+
+#: freemius/includes/i18n.php:182
+msgid "Plugin Events"
+msgstr "插件活动"
+
+#: freemius/includes/i18n.php:183
+msgid "Activation, deactivation and uninstall"
+msgstr "激活、使其无效和删除插件"
+
+#: freemius/includes/i18n.php:184
+msgid "Newsletter"
+msgstr "通讯"
+
+#: freemius/includes/i18n.php:185
+msgid "Updates, announcements, marketing, no spam"
+msgstr "升级、通知、市场、无广告"
+
+#: freemius/includes/i18n.php:186
+msgid "Privacy Policy"
+msgstr "隐私条款"
+
+#: freemius/includes/i18n.php:187
+msgid "Terms of Service"
+msgstr "服务条款"
+
+#: freemius/includes/i18n.php:188
+msgctxt "as activating plugin"
+msgid "Activating"
+msgstr "激活"
+
+#: freemius/includes/i18n.php:189
+msgctxt "as in the process of sending an email"
+msgid "Sending email"
+msgstr "发送邮件"
+
+#: freemius/includes/i18n.php:190
+msgctxt "button label"
+msgid "Allow & Continue"
+msgstr "同意并继续"
+
+#: freemius/includes/i18n.php:191
+msgctxt "verb"
+msgid "Skip"
+msgstr "跳过"
+
+#: freemius/includes/i18n.php:192
+msgid "Re-send activation email"
+msgstr "重新发送激活邮件"
+
+#: freemius/includes/i18n.php:196
+msgid "Screenshots"
+msgstr "截屏"
+
+#: freemius/includes/i18n.php:197
+#, c-format
+msgid "Click to view full-size screenshot %d"
+msgstr "点击以查看全尺寸截图 %d"
+
+#: freemius/includes/i18n.php:201
+msgid "Freemius Debug"
+msgstr "Freemius纠错"
+
+#: freemius/includes/i18n.php:202
+msgctxt "as turned on"
+msgid "On"
+msgstr "开启"
+
+#: freemius/includes/i18n.php:203
+msgctxt "as turned off"
+msgid "Off"
+msgstr "关闭"
+
+#: freemius/includes/i18n.php:204
+msgctxt "as code debugging"
+msgid "Debugging"
+msgstr "纠错"
+
+#: freemius/includes/i18n.php:205
+msgid "Freemius State"
+msgstr "Freemius陈述"
+
+#: freemius/includes/i18n.php:206
+msgctxt "as connection was successful"
+msgid "Connected"
+msgstr "已连接"
+
+#: freemius/includes/i18n.php:207
+msgctxt "as connection blocked"
+msgid "Blocked"
+msgstr "已拦截"
+
+#: freemius/includes/i18n.php:208
+msgctxt "as application program interface"
+msgid "API"
+msgstr "应用程序界面"
+
+#: freemius/includes/i18n.php:209
+msgctxt "as software development kit versions"
+msgid "SDK"
+msgstr "软件开发工具包"
+
+#: freemius/includes/i18n.php:210
+msgctxt "as software development kit versions"
+msgid "SDK Versions"
+msgstr "SDK版本"
+
+#: freemius/includes/i18n.php:211
+msgctxt "as plugin folder path"
+msgid "Plugin Path"
+msgstr "插件途径"
+
+#: freemius/includes/i18n.php:212
+msgctxt "as sdk path"
+msgid "SDK Path"
+msgstr "SDK途径"
+
+#: freemius/includes/i18n.php:213
+#, c-format
+msgid "Add Ons of Plugin %s"
+msgstr "插件附加 %s "
+
+#: freemius/includes/i18n.php:214
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr "您确定要删除全部的Freemius数据吗？"
+
+#: freemius/includes/i18n.php:215
+msgid "Actions"
+msgstr "行动"
+
+#: freemius/includes/i18n.php:216
+msgid "Delete All Accounts"
+msgstr "删除所有账号"
+
+#: freemius/includes/i18n.php:217
+msgid "Start Fresh"
+msgstr "重新开始"
+
+#: freemius/includes/i18n.php:218
+msgid "Clear API Cache"
+msgstr "清除 API 缓冲"
+
+#: freemius/includes/i18n.php:219
+msgid "Sync Data From Server"
+msgstr "从服务器同步数据"
+
+#: freemius/includes/i18n.php:220
+msgid "Scheduled Crons"
+msgstr "预定的顺序"
+
+#: freemius/includes/i18n.php:224
+msgctxt "as congratulations"
+msgid "Congrats"
+msgstr "恭喜"
+
+#: freemius/includes/i18n.php:225
+msgctxt "exclamation"
+msgid "Oops"
+msgstr "错误"
+
+#: freemius/includes/i18n.php:226
+msgctxt "interjection expressing joy or exuberance"
+msgid "Yee-haw"
+msgstr "太棒了"
+
+#: freemius/includes/i18n.php:227
+msgctxt ""
+"(especially in electronic communication) used to express elation, "
+"enthusiasm, or triumph."
+msgid "W00t"
+msgstr "哇"
+
+#: freemius/includes/i18n.php:228
+msgctxt "a positive response"
+msgid "Right on"
+msgstr "右上"
+
+#: freemius/includes/i18n.php:229
+msgctxt ""
+"something somebody says when they are thinking about what you have just "
+"said. "
+msgid "Hmm"
+msgstr "嗯"
+
+#: freemius/includes/i18n.php:230
+msgid "O.K"
+msgstr "好的"
+
+#: freemius/includes/i18n.php:231
+msgctxt "exclamation"
+msgid "Hey"
+msgstr "嘿"
+
+#: freemius/includes/i18n.php:232
+msgctxt "advance notice of something that will need attention."
+msgid "Heads up"
+msgstr "举起手来"
+
+#: freemius/includes/i18n.php:236
+msgid "Seems like you got the latest release."
+msgstr "好像您得到了最新的版本。"
+
+#: freemius/includes/i18n.php:237
+msgid "You are all good!"
+msgstr "您都很好！"
+
+#: freemius/includes/i18n.php:238
+msgid ""
+"Sorry, we could not complete the email update. Another user with the same "
+"email is already registered."
+msgstr "对不起，我们不能完成邮件更新。另一个同样邮箱的用户已注册。"
+
+#: freemius/includes/i18n.php:239
+#, c-format
+msgid ""
+"If you would like to give up the ownership of the plugin's account to %s "
+"click the Change Ownership button."
+msgstr "如果您放弃对插件账户的所有 %s，请点击更改所有权键。"
+
+#: freemius/includes/i18n.php:240
+msgid ""
+"Your email was successfully updated. You should receive an email with "
+"confirmation instructions in few moments."
+msgstr "您的邮箱已成功更新。您将在接下来的几分钟收到一封确认邮件。"
+
+#: freemius/includes/i18n.php:241
+msgid "Your name was successfully updated."
+msgstr "您的姓名已更新。"
+
+#: freemius/includes/i18n.php:242
+#, c-format
+msgid "You have successfully updated your %s."
+msgstr "您已成功更新您的 %s。"
+
+#: freemius/includes/i18n.php:243
+msgid "Please provide your full name."
+msgstr "请提供您的全名。"
+
+#: freemius/includes/i18n.php:244
+#, c-format
+msgid ""
+"Verification mail was just sent to %s. If you can't find it after 5 min, "
+"please check your spam box."
+msgstr "认证邮件将发送到 %s。如果您在5分钟内未收到，请查看您的垃圾邮件。"
+
+#: freemius/includes/i18n.php:245
+#, c-format
+msgid ""
+"Just letting you know that the add-ons information of %s is being pulled "
+"from an external server."
+msgstr "%s 的附加组件信息来自外部服务器。"
+
+#: freemius/includes/i18n.php:246
+msgid "No credit card required"
+msgstr "不接受信用卡"
+
+#: freemius/includes/i18n.php:247
+msgid "Premium plugin version was successfully activated."
+msgstr "高级插件版本已成功激活。"
+
+#: freemius/includes/i18n.php:248
+#, c-format
+msgid "The upgrade of %s was successfully completed."
+msgstr "%s 的更新已完成。"
+
+#: freemius/includes/i18n.php:249
+#, c-format
+msgid "Your account was successfully activated with the %s plan."
+msgstr "您的账户已成功激活 %s 计划。"
+
+#: freemius/includes/i18n.php:250
+#, c-format
+msgid "Download the latest %s version now"
+msgstr "立即下载最新%s版本。"
+
+#: freemius/includes/i18n.php:251
+msgid "Download the latest version now"
+msgstr "立即下载最新版本"
+
+#: freemius/includes/i18n.php:252
+#, c-format
+msgctxt "%s - product name, e.g. Facebook add-on was successfully..."
+msgid "%s Add-on was successfully purchased."
+msgstr "%s 的附加组件已成功购入。"
+
+#: freemius/includes/i18n.php:253
+#, c-format
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr "您的 %s 附加计划已成功更新。"
+
+#: freemius/includes/i18n.php:254
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr "您的邮箱已成功认证－您真棒！"
+
+#: freemius/includes/i18n.php:255
+msgid "Your plan was successfully upgraded."
+msgstr "您的计划已成功更新。"
+
+#: freemius/includes/i18n.php:256
+#, c-format
+msgid "Your plan was successfully changed to %s."
+msgstr "您的计划已成功更改为 %s 。"
+
+#: freemius/includes/i18n.php:257
+msgid ""
+"Your license has expired. You can still continue using the free plugin "
+"forever."
+msgstr "您的许可已过期。您依旧可以一直继续使用免费插件。"
+
+#: freemius/includes/i18n.php:258
+msgid "Your trial has been successfully started."
+msgstr "您的测试已成功开始。"
+
+#: freemius/includes/i18n.php:259
+msgid "Your license was successfully activated."
+msgstr "您的许可已成功激活。"
+
+#: freemius/includes/i18n.php:260
+msgid "It looks like your site currently doesn't have an active license."
+msgstr "好像您的网站目前没有许可。"
+
+#: freemius/includes/i18n.php:261
+#, c-format
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr "您的许可已成功解除，你回到了 %s 计划。"
+
+#: freemius/includes/i18n.php:262
+msgid "It looks like the license deactivation failed."
+msgstr "许可解除失败。"
+
+#: freemius/includes/i18n.php:263
+msgid "It looks like the license could not be activated."
+msgstr "许可不能激活。"
+
+#: freemius/includes/i18n.php:264
+msgid "Error received from the server:"
+msgstr "从服务器发送的错误。"
+
+#: freemius/includes/i18n.php:265
+msgid ""
+"Your trial has expired. You can still continue using all our free features."
+msgstr "您的测试已过期。您仍可以继续使用我们的免费功能。"
+
+#: freemius/includes/i18n.php:266
+#, c-format
+msgid ""
+"Your plan was successfully downgraded. Your %s plan license will expire in "
+"%s."
+msgstr "您的计划已成功降级。您的 %s 计划许可将于 %s 过期。"
+
+#: freemius/includes/i18n.php:267
+msgid ""
+"Seems like we are having some temporary issue with your plan downgrade. "
+"Please try again in few minutes."
+msgstr "您的计划降级有一些暂时的问题。请一会儿再重试。"
+
+#: freemius/includes/i18n.php:268
+msgid ""
+"It looks like you are not in trial mode anymore so there's nothing to "
+"cancel :)"
+msgstr "您已不在测试模式，没有可以删除的文件。"
+
+#: freemius/includes/i18n.php:269
+#, c-format
+msgid "Your %s free trial was successfully cancelled."
+msgstr "您的 %s 免费计划已成功删除。"
+
+#: freemius/includes/i18n.php:270
+#, c-format
+msgctxt "%s - numeric version number"
+msgid "Version %s was released."
+msgstr "%s 版本已发布。"
+
+#: freemius/includes/i18n.php:271
+#, c-format
+msgid "Please download %s."
+msgstr "请下载 %s。"
+
+#: freemius/includes/i18n.php:272
+#, c-format
+msgctxt "%s - plan name, as the latest professional version here"
+msgid "the latest %s version here"
+msgstr "最新的 %s  版本在此"
+
+#: freemius/includes/i18n.php:273
+#, c-format
+msgid ""
+"How do you like %s so far? Test all our %s premium features with a %d-day "
+"free trial."
+msgstr "您目前对 %s还满意吗？请免费测试我们的 %s高级功能%d-天。"
+
+#: freemius/includes/i18n.php:274
+msgctxt "call to action"
+msgid "Start free trial"
+msgstr "开始免费测试版本"
+
+#: freemius/includes/i18n.php:275
+msgid ""
+"Seems like we are having some temporary issue with your trial cancellation. "
+"Please try again in few minutes."
+msgstr "您的测试接触有一些暂时的问题，请一会儿再重试。"
+
+#: freemius/includes/i18n.php:276
+#, c-format
+msgid "No commitment for %s days - cancel anytime!"
+msgstr "%s 天内无承诺－随时删除！"
+
+#: freemius/includes/i18n.php:277
+#, c-format
+msgid ""
+"Your license has expired. You can still continue using all the %s features, "
+"but you'll need to renew your license to continue getting updates and "
+"support."
+msgstr ""
+"您的许可已过期。您依旧可以使用所有的 %s 功能，但是您需要新的许可以获取更新和"
+"支持。"
+
+#: freemius/includes/i18n.php:278
+#, c-format
+msgid "Couldn't activate %s."
+msgstr "不可激活 %s 。"
+
+#: freemius/includes/i18n.php:279
+msgid "Please contact us with the following message:"
+msgstr "请与我们联系，以下信息："
+
+#: freemius/includes/i18n.php:280
+#, c-format
+msgid ""
+"It looks like you are still on the %s plan. If you did upgrade or change "
+"your plan, it's probably an issue on our side - sorry."
+msgstr "您还在使用 %s 计划。如果您更新或更改您的计划，可能会出现问题－对不起。"
+
+#: freemius/includes/i18n.php:281
+msgid "Please contact us here"
+msgstr "请在此与我们联系"
+
+#: freemius/includes/i18n.php:282
+#, c-format
+msgid ""
+"I have upgraded my account but when I try to Sync the License, the plan "
+"remains %s."
+msgstr "我已更新我的账户但当我同步许可时原计划s％没有更改。 %s"
+
+#: freemius/includes/i18n.php:285
+msgid "From unknown reason, the API connectivity test failed."
+msgstr "不明原因， API／接口链接测试失败。"
+
+#: freemius/includes/i18n.php:286
+msgid ""
+"It's probably a temporary issue on our end. Just to be sure, with your "
+"permission, would it be o.k to run another connectivity test?"
+msgstr "可能是暂时的问题。您允许进行另一个链接测试吗？"
+
+#: freemius/includes/i18n.php:287
+msgid ""
+"We use PHP cURL library for the API calls, which is a very common library "
+"and usually installed out of the box. Unfortunately, cURL is not installed "
+"on your server."
+msgstr "我们使用php curl库的API调用，但您的服务器没有安装cURL。"
+
+#: freemius/includes/i18n.php:288
+msgid ""
+"From unknown reason, CloudFlare, the firewall we use, blocks the connection."
+msgstr "不明原因，CloudFlare拦截链接。"
+
+#: freemius/includes/i18n.php:289
+#, c-format
+msgctxt "as pluginX requires an access to our API"
+msgid "%s requires an access to our API."
+msgstr "%s 需要访问我们的API。"
+
+#: freemius/includes/i18n.php:290
+msgid ""
+"It looks like your server is using Squid ACL (access control lists), which "
+"blocks the connection."
+msgstr "您的服务器使用的Squid ACL（访问控制列表）拦截链接。"
+
+#: freemius/includes/i18n.php:291
+msgid "I don't know what is Squid or ACL, help me!"
+msgstr "我不知道什么是Squid or ACL，请求帮助！"
+
+#: freemius/includes/i18n.php:292 freemius/includes/i18n.php:296
+#, c-format
+msgid ""
+"We'll make sure to contact your hosting company and resolve the issue. You "
+"will get a follow-up email to %s once we have an update."
+msgstr ""
+"我们会确保联系您的公司并解决这个问题。您将受到一封后续的电邮一旦我们升级。 %s"
+
+#: freemius/includes/i18n.php:293
+msgid "I'm a system administrator"
+msgstr "我是系统管理员"
+
+#: freemius/includes/i18n.php:294
+#, c-format
+msgid ""
+"Great, please whitelist the following domains: %s. Once you done, deactivate "
+"the plugin and activate it again."
+msgstr ""
+"Great, please whitelist the following domains: %s. Once you done, deactivate "
+"the plugin and activate it again."
+
+#: freemius/includes/i18n.php:295
+msgid "I don't know what is cURL or how to install it, help me!"
+msgstr "我不知道什么是cURL以及怎样使用，请求帮助！"
+
+#: freemius/includes/i18n.php:297
+msgid ""
+"Great, please install cURL and enable it in your php.ini file. To make sure "
+"it was successfully activated, use 'phpinfo()'. Once activated, deactivate "
+"the plugin and reactivate it back again."
+msgstr ""
+"很好，请安装cURL并且允许它在您的php.ini文件中运行。请确保它被成功地激活，请使"
+"用 'phpinfo()’。一旦激活，停用插件并重新激活。"
+
+#: freemius/includes/i18n.php:298
+msgid ""
+"We are sure it's an issue on our side and more than happy to resolve it for "
+"you ASAP if you give us a chance."
+msgstr "这是我们的问题，如果您肯给我们一个机会我们愿意立即修复。"
+
+#: freemius/includes/i18n.php:299
+msgid "Yes - I'm giving you a chance to fix it"
+msgstr "是的－给你修复问题的机会"
+
+#: freemius/includes/i18n.php:300
+#, c-format
+msgid ""
+"We will do our best to whitelist your server and resolve this issue ASAP. "
+"You will get a follow-up email to %s once we have an update."
+msgstr ""
+"我们会尽最大力优先您的服务器并尽快解决问题。您将会受到一封后续邮件一旦我们升"
+"级。 %s"
+
+#: freemius/includes/i18n.php:301
+msgid "Let's try your previous version"
+msgstr "请尝试您之前的版本。"
+
+#: freemius/includes/i18n.php:302
+msgid "Uninstall this version and install the previous one."
+msgstr "卸载此版本并且安装之前的版本。"
+
+#: freemius/includes/i18n.php:303
+msgid "That's exhausting, please deactivate"
+msgstr "过度使用，请停用。"
+
+#: freemius/includes/i18n.php:304
+msgid ""
+"We feel your frustration and sincerely apologize for the inconvenience. Hope "
+"to see you again in the future."
+msgstr "我们理解您的气氛并对给您造成的不便表示衷心的道歉。期望今后有机会见面。"
+
+#: freemius/includes/i18n.php:305
+#, c-format
+msgid ""
+"Thank for giving us the chance to fix it! A message was just sent to our "
+"technical staff. We will get back to you as soon as we have an update to %s. "
+"Appreciate your patience."
+msgstr ""
+"感谢给我们机会去修复！我们的技术人员刚刚收到消息。在我升级至s¥后会尽快回复您 "
+"%s。感谢您的耐心等待。"
+
+#: freemius/includes/i18n.php:306
+#, c-format
+msgctxt "%1s - plugin title, %2s - API domain"
+msgid ""
+"Your server is blocking the access to Freemius' API, which is crucial for "
+"%1s synchronization. Please contact your host to whitelist %2s"
+msgstr ""
+"Your server is blocking the access to Freemius' API, which is crucial for "
+"%1s synchronization. Please contact your host to whitelist %2s"
+
+#: freemius/includes/i18n.php:307
+msgid ""
+"It seems like one of the authentication parameters is wrong. Update your "
+"Public Key, Secret Key & User ID, and try again."
+msgstr "某个认证因素出现故障。升级您的公共钥匙，密钥和用户ID并重试。"
+
+#: freemius/includes/i18n.php:310
+#, c-format
+msgid ""
+"Please check your mailbox, you should receive an email via %s to confirm the "
+"ownership change. From security reasons, you must confirm the change within "
+"the next 15 min. If you cannot find the email, please check your spam folder."
+msgstr ""
+"请查看您的邮箱，您将受到一封关于所有权更改的邮件。出于安全原因考虑，您必须在"
+"15分钟内确认更改。如果您没有收到邮件，请查收垃圾邮件。  %s"
+
+#: freemius/includes/i18n.php:311
+#, c-format
+msgid ""
+"Thanks for confirming the ownership change. An email was just sent to %s for "
+"final approval."
+msgstr "感谢您确认所有权的更改。一封最终确认的邮件将发送至%s。"
+
+#: freemius/includes/i18n.php:312
+#, c-format
+msgid "%s is the new owner of the account."
+msgstr "%s 是账户的新主人。"
+
+#: freemius/includes/i18n.php:314
+#, c-format
+msgctxt "addonX cannot run without pluginY"
+msgid "%s cannot run without %s."
+msgstr "没有%s，%s不能运作。"
+
+#: freemius/includes/i18n.php:315
+#, c-format
+msgctxt "addonX cannot run..."
+msgid "%s cannot run without the plugin."
+msgstr "没有插件%s不能运作。"
+
+#: freemius/includes/i18n.php:316
+#, c-format
+msgctxt "pluginX activation was successfully..."
+msgid "%s activation was successfully completed."
+msgstr "%s 激活已成功完成。"
+
+#: freemius/includes/i18n.php:317
+msgctxt "Plugin installer section title"
+msgid "Features & Pricing"
+msgstr "功能和价格"
+
+#: freemius/includes/i18n.php:318
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr "附加组件必须展开到 WordPress.org 或者 Freemius。"
+
+#: freemius/includes/i18n.php:319
+msgid "Paid add-on must be deployed to Freemius."
+msgstr "已付的附加组件必须展开到Freemius。"
+
+#: freemius/includes/i18n.php:321
+#, c-format
+msgid ""
+"%s is a premium only add-on. You have to purchase a license first before "
+"activating the plugin."
+msgstr "%s 仅供高级版本的附加组件。在激活插件前您必须先购买许可。"
+
+#: freemius/includes/i18n.php:322
+#, c-format
+msgid ""
+"%s free trial was successfully cancelled. Since the add-on is premium only "
+"it was automatically deactivated. If you like to use it in the future, "
+"you'll have to purchase a license."
+msgstr ""
+"%s 免费测试版本已成功取消。因为附加组件仅用于高级版本，他已自动停用。如果未来"
+"您有需要，您将需要许可。"
+
+#: freemius/templates/account.php:324
+msgctxt "verb"
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/admin/admin_toolbar.php:5 includes/admin/admin_toolbar_misc.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有访问此页的许可。"
+
+#: includes/admin/admin_toolbar.php:40
+msgid "WordApp wants to:"
+msgstr "WordApp想要："
+
+#: includes/admin/admin_toolbar.php:41
+msgid "Send you push notifications"
+msgstr "推送通知："
+
+#: includes/admin/admin_toolbar.php:41
+msgid "Block"
+msgstr "拦截"
+
+#: includes/admin/admin_toolbar.php:41
+msgid "Allow"
+msgstr "允许"
+
+#: includes/admin/admin_toolbar.php:87 includes/admin/admin_toolbar_misc.php:16
+msgid "Subscribe to our newsletter"
+msgstr "订阅我们的新闻"
+
+#: includes/admin/admin_toolbar.php:91 includes/admin/admin_toolbar_misc.php:20
+msgid "Your Email Address"
+msgstr "您的电子邮箱"
+
+#: includes/admin/admin_toolbar.php:94 includes/admin/admin_toolbar_misc.php:23
+msgid "Your Name"
+msgstr "您的姓名"
+
+#: includes/admin/admin_toolbar.php:96 includes/admin/admin_toolbar_misc.php:25
+msgid "Subscribe!"
+msgstr "订阅！"
+
+#: includes/admin/admin_toolbar.php:121
+#: includes/admin/admin_toolbar_misc.php:49 includes/admin/index_page.php:81
+#: includes/admin/plugins.php:84
+msgid "Thank you for using"
+msgstr "感谢您的使用"
+
+#: includes/admin/admin_toolbar.php:122
+#: includes/admin/admin_toolbar_misc.php:50 includes/admin/index_page.php:82
+#: includes/admin/plugins.php:85
+msgid "we hope you enjoy using our plugin."
+msgstr "我们衷心希望您喜欢我们的插件"
+
+#: includes/admin/admin_toolbar.php:123
+#: includes/admin/admin_toolbar_misc.php:51 includes/admin/index_page.php:83
+#: includes/admin/plugins.php:86
+msgid "If you continue using"
+msgstr "如果您继续使用"
+
+#: includes/admin/admin_toolbar.php:123
+#: includes/admin/admin_toolbar_misc.php:51 includes/admin/index_page.php:83
+#: includes/admin/plugins.php:86
+msgid "you agree to our"
+msgstr "您同意我们的"
+
+#: includes/admin/admin_toolbar.php:123
+#: includes/admin/admin_toolbar_misc.php:51 includes/admin/index_page.php:83
+#: includes/admin/plugins.php:86
+msgid "terms of service."
+msgstr "服务条款"
+
+#: includes/admin/admin_toolbar.php:124
+#: includes/admin/admin_toolbar_misc.php:52 includes/admin/index_page.php:84
+#: includes/admin/plugins.php:87
+msgid "Thank you for supporting our plugin."
+msgstr "感谢您对我们插件的支持"
+
+#: includes/admin/admin_toolbar.php:126
+#: includes/admin/admin_toolbar_misc.php:54 includes/admin/index_page.php:86
+#: includes/admin/plugins.php:89
+msgid "Hide"
+msgstr "隐藏"
+
+#: includes/admin/admin_toolbar.php:144
+msgid "Design"
+msgstr "设计"
+
+#: includes/admin/admin_toolbar.php:146
+msgid "Home Builder"
+msgstr "主页设计"
+
+#: includes/admin/admin_toolbar.php:148
+msgid "Menus"
+msgstr "菜单"
+
+#: includes/admin/admin_toolbar.php:149
+msgid "Slideshow"
+msgstr "幻灯片"
+
+#: includes/admin/admin_toolbar.php:150
+msgid "App Structure"
+msgstr "软件结构"
+
+#: includes/admin/admin_toolbar.php:151
+msgid "Publish App"
+msgstr "发布软件"
+
+#: includes/admin/css_editor.php:23
+msgid "Add your own CSS to your app"
+msgstr "在您的软件中加入您自己的CSS"
+
+#: includes/admin/css_editor.php:69 includes/admin/home.php:1420
+msgid "Preview my app"
+msgstr "预览我的程序"
+
+#: includes/admin/css_editor.php:72
+msgid "Clicking deactivated in demo"
+msgstr "在演示中单击“停用”"
+
+#: includes/admin/footer.php:2
+msgid "Made with &#10084; by geeks who love wordpress & mobile"
+msgstr "WordPress和移动设备的发烧友喜欢使用#10084"
+
+#: includes/admin/home.php:100
+msgid "Live editor"
+msgstr "在线编辑者"
+
+#: includes/admin/home.php:101
+msgid "Watch the video before using customizer"
+msgstr "定制前观看视频"
+
+#: includes/admin/home.php:114
+msgid "Colors"
+msgstr "颜色"
+
+#: includes/admin/home.php:115
+msgid "Top & bottom bar colors"
+msgstr "顶部和底部栏颜色"
+
+#: includes/admin/home.php:119
+msgid "App  Toolbar Color"
+msgstr "程序工具栏颜色"
+
+#: includes/admin/home.php:125
+msgid "+ Advanced colors & fonts"
+msgstr "高级的颜色和字体"
+
+#: includes/admin/home.php:132 themes/wordappjqmobile/inc/customizer.php:232
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:233
+msgid "App header font & icon color"
+msgstr "程序标题字体和图标颜色"
+
+#: includes/admin/home.php:136
+msgid "App header font"
+msgstr "程序标题字体"
+
+#: includes/admin/home.php:143
+msgid "H1 H2 H3 font color"
+msgstr "H1 H2 H3 字体 颜色"
+
+#: includes/admin/home.php:147
+msgid "H1 H2 H3 font"
+msgstr "H1 H2 H3字体"
+
+#: includes/admin/home.php:154
+msgid "Paragraph font color"
+msgstr "段落字体 颜色"
+
+#: includes/admin/home.php:158
+msgid "Paragraph font"
+msgstr "段落字体"
+
+#: includes/admin/home.php:167
+msgid "App configuration"
+msgstr "软件构造"
+
+#: includes/admin/home.php:172 includes/admin/popup.php:125
+#: includes/admin/start.php:140
+msgid "App Name"
+msgstr "软件名称"
+
+#: includes/admin/home.php:178
+msgid "App Logo"
+msgstr "软件图标"
+
+#: includes/admin/home.php:182
+msgid "Upload Logo"
+msgstr "上传图标"
+
+#: includes/admin/home.php:196
+msgid "App Homepage Background"
+msgstr "软件主页背景"
+
+#: includes/admin/home.php:197
+msgid "May not be acceptable for all themes"
+msgstr "可能不接受所有的主题"
+
+#: includes/admin/home.php:202 themes/wordappjqmobile/inc/customizer.php:263
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:264
+msgid "App Background"
+msgstr "软件背景"
+
+#: includes/admin/home.php:206
+msgid "Upload Background"
+msgstr "上传背景"
+
+#: includes/admin/home.php:223
+msgid "Content style"
+msgstr "内容风格"
+
+#: includes/admin/home.php:224
+msgid "How the content is displayed on the homepage"
+msgstr "主页内容怎么显示"
+
+#: includes/admin/home.php:232
+msgid "App Theme"
+msgstr "软件主题"
+
+#: includes/admin/home.php:234
+msgid "Change App Theme"
+msgstr "更改软件主题"
+
+#: includes/admin/home.php:239
+msgid "Woocommerce Theme"
+msgstr ""
+
+#: includes/admin/home.php:242
+msgid "Standard"
+msgstr "标准"
+
+#: includes/admin/home.php:244
+msgid "Beautiful Slider - Fastfood"
+msgstr "好看的滑块－快餐"
+
+#: includes/admin/home.php:247
+msgid "Beautiful Slider - Pub or Bar"
+msgstr "好看的滑块－酒吧"
+
+#: includes/admin/home.php:250
+msgid "Beautiful Slider - Night Club"
+msgstr "好看的滑块－夜店"
+
+#: includes/admin/home.php:252
+msgid "Beautiful Slider - Golf Courses"
+msgstr "好看的滑块－高尔夫课程"
+
+#: includes/admin/home.php:254
+msgid "Beautiful Slider - Spas"
+msgstr "好看的滑块－按摩"
+
+#: includes/admin/home.php:257
+msgid "Beautiful Slider - Gyms & Fitness Clubs"
+msgstr "好看的滑块－健身俱乐部"
+
+#: includes/admin/home.php:259
+msgid "Beautiful Slider - Auto Dealerships"
+msgstr "好看的滑块－汽车经销商"
+
+#: includes/admin/home.php:261
+msgid "Beautiful Slider - Churches"
+msgstr "好看的滑块－教堂"
+
+#: includes/admin/home.php:263
+msgid "Beautiful Slider - Bands & DJs"
+msgstr "好看的滑块－乐队和DJs"
+
+#: includes/admin/home.php:266
+msgid "Beautiful Slider - Chiropractors"
+msgstr "好看的滑块－推拿治疗师"
+
+#: includes/admin/home.php:268
+msgid "Beautiful Slider - Hair Salons"
+msgstr "好看的滑块－头发沙龙"
+
+#: includes/admin/home.php:270
+msgid "Beautiful Slider - Other"
+msgstr "好看的滑块－其他"
+
+#: includes/admin/home.php:272
+msgid "Use my theme (Not recommended)"
+msgstr "使用我的主题（不推荐）"
+
+#: includes/admin/home.php:283
+msgid "Post list style"
+msgstr "帖子列表样式"
+
+#: includes/admin/home.php:286
+msgid "List of posts"
+msgstr "帖子列表"
+
+#: includes/admin/home.php:294
+msgid "Large Tiles"
+msgstr "大的标题"
+
+#: includes/admin/home.php:306
+msgid "Opening page :"
+msgstr "打开页面："
+
+#: includes/admin/home.php:309
+msgid "A page"
+msgstr "一页"
+
+#: includes/admin/home.php:325
+msgid "-- Select a page --"
+msgstr "－选择页面－"
+
+#: includes/admin/home.php:364
+msgid "Choose a theme :"
+msgstr "选择主题："
+
+#: includes/admin/home.php:388
+msgid "Default "
+msgstr "弃权"
+
+#: includes/admin/home.php:391
+msgid "Use Wordpress default settings"
+msgstr "使用Wordpress 弃权设置"
+
+#: includes/admin/home.php:472
+msgid "Activated Navigation Bars"
+msgstr "激活导航栏"
+
+#: includes/admin/home.php:475
+msgid "Activate Bars?"
+msgstr "激活栏目吗？"
+
+#: includes/admin/home.php:480
+msgid "If using your own theme you can add mobile navigation bars"
+msgstr "您可以添加移动导航栏如果您使用自己的主题"
+
+#: includes/admin/home.php:487
+msgid "Side Menu"
+msgstr "侧面菜单"
+
+#: includes/admin/home.php:492
+msgid "Side Menus"
+msgstr "侧面菜单"
+
+#: includes/admin/home.php:495 includes/admin/home.php:520
+#: includes/admin/home.php:545 includes/admin/home.php:815
+#: includes/admin/settings.php:46 includes/admin/settings.php:103
+msgid "off"
+msgstr "关闭"
+
+#: includes/admin/home.php:497 includes/admin/home.php:522
+#: includes/admin/home.php:547 includes/admin/home.php:817
+#: includes/admin/settings.php:47 includes/admin/settings.php:104
+msgid "on"
+msgstr "开启"
+
+#: includes/admin/home.php:503 includes/admin/home.php:527
+msgid "Choose a "
+msgstr "选择一个"
+
+#: includes/admin/home.php:504 includes/admin/home.php:528
+#: includes/admin/home.php:553
+msgid "menu"
+msgstr "菜单"
+
+#: includes/admin/home.php:505 includes/admin/home.php:529
+#: includes/admin/home.php:554
+msgid "to attach to this navigation bar"
+msgstr "添加到导航栏"
+
+#: includes/admin/home.php:513
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: includes/admin/home.php:517
+msgid "Top Menus"
+msgstr "顶部菜单"
+
+#: includes/admin/home.php:537
+msgid "Bottom Navigation"
+msgstr "底部导航"
+
+#: includes/admin/home.php:538 includes/admin/home.php:552
+msgid "Activate & choice of icons"
+msgstr "选择和激活图标"
+
+#: includes/admin/home.php:542
+msgid "Bottom Menus"
+msgstr "底部菜单"
+
+#: includes/admin/home.php:555
+msgid "Save to update icons"
+msgstr "保存到更新图标"
+
+#: includes/admin/home.php:611 includes/admin/home.php:617
+msgid "Preview Icons"
+msgstr "预览图标"
+
+#: includes/admin/home.php:652 includes/admin/home.php:657
+msgid "App Icon"
+msgstr "软件图标"
+
+#: includes/admin/home.php:653
+msgid "Icon size must be 512px x 512px"
+msgstr "图标尺寸必须为 512px x 512px"
+
+#: includes/admin/home.php:661
+msgid "Upload Icon"
+msgstr "上传图标"
+
+#: includes/admin/home.php:674
+msgid "App Splash Screen"
+msgstr "应用程序启动画面"
+
+#: includes/admin/home.php:675
+msgid "Splash size must be 640px x 1136px"
+msgstr "尺寸必须为640px x 1136px"
+
+#: includes/admin/home.php:679
+msgid "App Splash"
+msgstr "程序泼贱"
+
+#: includes/admin/home.php:683
+msgid "Upload Splash"
+msgstr ""
+
+#: includes/admin/home.php:696
+msgid "App Meta"
+msgstr "程序变化"
+
+#: includes/admin/home.php:697
+msgid "Info used in the app store listings"
+msgstr "应用于应用程序商店列表"
+
+#: includes/admin/home.php:701
+msgid "App Description"
+msgstr "程序描述"
+
+#: includes/admin/home.php:706
+msgid "App Version"
+msgstr "程序版本"
+
+#: includes/admin/home.php:710
+msgid "Upgrade to change version"
+msgstr "升级以更改版本"
+
+#: includes/admin/home.php:716
+msgid "App Keywords"
+msgstr "软件关键词"
+
+#: includes/admin/home.php:721
+msgid "App Category"
+msgstr "软件类别"
+
+#: includes/admin/home.php:812
+msgid "Activate the slideshow ?"
+msgstr "激活幻灯片吗？"
+
+#: includes/admin/home.php:824
+msgid "Woocommerce Category"
+msgstr ""
+
+#: includes/admin/home.php:832
+msgid "Select a category"
+msgstr "选择一个种类"
+
+#: includes/admin/home.php:848 includes/admin/home.php:874
+#: includes/admin/home.php:898 includes/admin/home.php:921
+#: includes/admin/home.php:944
+msgid "Slide"
+msgstr "幻灯片"
+
+#: includes/admin/home.php:850 includes/admin/home.php:875
+#: includes/admin/home.php:899 includes/admin/home.php:922
+#: includes/admin/home.php:945
+msgid "Landscape photos work the best"
+msgstr "风景照片工作的最好"
+
+#: includes/admin/home.php:854
+msgid "Slide Image #1"
+msgstr "幻灯片图片＃1"
+
+#: includes/admin/home.php:858 includes/admin/home.php:883
+#: includes/admin/home.php:907 includes/admin/home.php:930
+#: includes/admin/home.php:953
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: includes/admin/home.php:879
+msgid "Slide Image #2"
+msgstr "幻灯片图片＃2"
+
+#: includes/admin/home.php:903
+msgid "Slide Image #3"
+msgstr "幻灯片图片＃3"
+
+#: includes/admin/home.php:926
+msgid "Slide Image #4"
+msgstr "幻灯片图片＃4"
+
+#: includes/admin/home.php:949
+msgid "Slide Image #5"
+msgstr "幻灯片图片＃5"
+
+#: includes/admin/home.php:994
+msgid "Premium users app publisher."
+msgstr "高级用户软件出版商"
+
+#: includes/admin/home.php:996
+msgid "Need a new version of your app?"
+msgstr "您的软件需要新版本吗？"
+
+#: includes/admin/home.php:998
+msgid "Check everything is correctly filled out and Hit Publish app."
+msgstr "检查所有项目都正确填写，并点击发布应用程序。"
+
+#: includes/admin/home.php:1004
+msgid "This is where it gets complicated!"
+msgstr "从这里开始变得复杂了！"
+
+#: includes/admin/home.php:1006
+msgid "but that is why we are here, right?"
+msgstr "但这也是我们在这里的原因是吧？"
+
+#: includes/admin/home.php:1008
+msgid "Watch this short video to see how it works."
+msgstr "观看此视频了解他的工作详情。"
+
+#: includes/admin/home.php:1016
+msgid "Get your android app for free !"
+msgstr "免费获取您的安卓软件！"
+
+#: includes/admin/home.php:1024
+msgid "Check List"
+msgstr "核对列表"
+
+#: includes/admin/home.php:1050 includes/admin/popup.php:42
+#: includes/admin/start.php:54
+msgid "Give your app a name"
+msgstr "为您的程序命名"
+
+#: includes/admin/home.php:1073
+msgid "Write a description about your app"
+msgstr "为您的程序添加描述"
+
+#: includes/admin/home.php:1096
+msgid "Choose an app category"
+msgstr "选择一个程序分类"
+
+#: includes/admin/home.php:1120
+msgid "Upload app icon"
+msgstr "上传程序图标"
+
+#: includes/admin/home.php:1146
+msgid "Upload app splash screen"
+msgstr "上传程序启动动画"
+
+#: includes/admin/home.php:1174
+msgid "Upload PEM certificates for apple"
+msgstr "上传苹果的PEM证书"
+
+#: includes/admin/home.php:1178
+msgid "Optional"
+msgstr "可选择的"
+
+#: includes/admin/home.php:1193 includes/admin/home.php:1213
+msgid "To which email address would you like us to send your app ?"
+msgstr "您想将你的程序发送到哪个电子邮箱？"
+
+#: includes/admin/home.php:1195 includes/admin/home.php:1312
+msgid "Your email address"
+msgstr "您的电子邮箱"
+
+#: includes/admin/home.php:1203
+msgid "Publish App!"
+msgstr "发布程序！"
+
+#: includes/admin/home.php:1205
+msgid "You must fill out all the info above to re-publish your app."
+msgstr "您必须填写以上的所有信息以重新发布程序。"
+
+#: includes/admin/home.php:1270
+msgid "Hit Upgrade to Publish below"
+msgstr "点击更细以发布以下内容"
+
+#: includes/admin/home.php:1272 includes/admin/home.php:1278
+msgid "Publish Android App!"
+msgstr "发布安卓软件！"
+
+#: includes/admin/home.php:1274 includes/admin/home.php:1280
+#: includes/admin/home.php:1369
+msgid "Upgrage to Pro only $2.99"
+msgstr "升级至Pro仅需 $2.99"
+
+#: includes/admin/home.php:1304
+msgid "You must fill out all the information above to publish your app!"
+msgstr "您必须填写以上信息以发布程序！"
+
+#: includes/admin/home.php:1365
+msgid "Your android app is now free"
+msgstr "您的安卓程序是免费的"
+
+#: includes/admin/home.php:1365
+msgid "Hit publish below!"
+msgstr "点击下面的发布！"
+
+#: includes/admin/home.php:1383
+msgid "External link"
+msgstr "附加链接"
+
+#: includes/admin/home.php:1430 includes/admin/home.php:1452
+msgid "Preview your app in full"
+msgstr "完整预览您的程序"
+
+#: includes/admin/home.php:1470
+msgid "Can't see your app? Try deactivating some plugins"
+msgstr "看不到您的软件？请尝试停用插件"
+
+#: includes/admin/home.php:1472
+msgid "that are non-mobile friendly."
+msgstr "这不支持移动设备"
+
+#: includes/admin/home.php:1541
+msgid "There are no menus."
+msgstr "此处没有菜单"
+
+#: includes/admin/home.php:1546
+#, c-format
+msgid " <a href=\"%s\">Create one</a>."
+msgstr " <a href=“%s”>Create one</a>."
+
+#: includes/admin/home.php:1563
+msgid "Select a menu"
+msgstr "选择菜单"
+
+#: includes/admin/home.php:2245
+msgid "Mobile Pages"
+msgstr "移动页面"
+
+#: includes/admin/iBeacon.php:33 includes/admin/push_notes.php:32
+msgid "Increase customer engagement thanks to push notifications !"
+msgstr "增加用户互动感谢推送通知！"
+
+#: includes/admin/iBeacon.php:36 includes/admin/push_notes.php:35
+msgid ""
+"Push notifications connect directly to your app's users. Keep them happy and "
+"engaged with app updates, promotions, and more sent directly to their device."
+msgstr "给你的用户推送通知链接到设备。让他们满意并且参加升级和宣传。"
+
+#: includes/admin/iBeacon.php:38 includes/admin/push_notes.php:37
+msgid "Give your app a voice thanks to push notifications"
+msgstr "感谢通知让您的软件有声音"
+
+#: includes/admin/iBeacon.php:50 includes/admin/push_notes.php:49
+msgid "Unlimited push notifications"
+msgstr "无限推送通知"
+
+#: includes/admin/iBeacon.php:55 includes/admin/push_notes.php:57
+msgid "HTML Rich windows"
+msgstr "HTML丰富的Windows"
+
+#: includes/admin/iBeacon.php:60 includes/admin/push_notes.php:62
+msgid "Mobile Website"
+msgstr "移动网页"
+
+#: includes/admin/iBeacon.php:64 includes/admin/push_notes.php:66
+msgid "iOS App"
+msgstr "iOS软件"
+
+#: includes/admin/iBeacon.php:68 includes/admin/push_notes.php:70
+msgid "Android App"
+msgstr "安卓软件"
+
+#: includes/admin/iBeacon.php:74 includes/admin/push_notes.php:76
+msgid "Upgrade Today only $2.99/mo"
+msgstr "今天升级只需每月$2.99"
+
+#: includes/admin/iBeacon.php:80
+msgid "Activate Push Notifcations"
+msgstr "激活通知推送"
+
+#: includes/admin/iBeacon.php:102
+msgid "Active"
+msgstr "激活"
+
+#: includes/admin/iBeacon.php:103
+msgid "Beacon UUID"
+msgstr "引导UUID"
+
+#: includes/admin/iBeacon.php:104
+msgid "Minor"
+msgstr "次要"
+
+#: includes/admin/iBeacon.php:105
+msgid "Major"
+msgstr "主要"
+
+#: includes/admin/iBeacon.php:106
+msgid "Message"
+msgstr "信息"
+
+#: includes/admin/index_page.php:79 includes/admin/plugins.php:82
+msgid "Install successful"
+msgstr "成功安装"
+
+#: includes/admin/index_page.php:106 includes/admin/index_page.php:114
+#: includes/admin/more_downloads.php:17
+msgid "Welcome to "
+msgstr "欢迎来到"
+
+#: includes/admin/index_page.php:114
+msgid ""
+", Convert your wordpress site/blog in to a mobile app & mobile site within "
+"minutes"
+msgstr "几分钟内将你的wordpress网站／博客转换成移动软件／网站"
+
+#: includes/admin/index_page.php:118
+msgid "Fast & Reliable"
+msgstr "快速并可信"
+
+#: includes/admin/index_page.php:118
+msgid "Build your mobile app within minutes. It's as easy as 1-2-3"
+msgstr "分钟内建立您的移动软。 简单得如同1-2-3"
+
+#: includes/admin/index_page.php:119
+msgid "No programming skills."
+msgstr "不具备编程能力"
+
+#: includes/admin/index_page.php:119
+msgid ""
+"No programming skills needed. You don’t need to be a computer wiz-kid to use "
+msgstr "不具备编程能力。您不必成为电脑高手去使用"
+
+#: includes/admin/index_page.php:120
+msgid "Our Community"
+msgstr "我们的社区"
+
+#: includes/admin/index_page.php:120
+msgid ""
+"We started as a bunch of geek and now we have an amazing app-developers.biz "
+"community."
+msgstr "开始我们是一群发烧友，现在我们有了一个惊人的app-developers.biz社区。"
+
+#: includes/admin/index_page.php:126
+msgid "Invite your friends and get your android app for FREE!"
+msgstr "邀请您的好友以获取免费的安卓软件！"
+
+#: includes/admin/index_page.php:163
+msgid "Quick Links"
+msgstr "快速连接"
+
+#: includes/admin/index_page.php:170
+msgid "website"
+msgstr "网站"
+
+#: includes/admin/index_page.php:171
+msgid "Mobile Marketing Community"
+msgstr "移动社区交流"
+
+#: includes/admin/index_page.php:172
+msgid "About App Developers"
+msgstr "关于软件开发者"
+
+#: includes/admin/index_page.php:173
+msgid "Changelog"
+msgstr "更新日志"
+
+#: includes/admin/index_page.php:186
+msgid "Latest News"
+msgstr "最新消息"
+
+#: includes/admin/marketing_gear.php:26
+msgid "Some marketing gear to help you get app downloads - "
+msgstr "一些营销装备帮助您获取软件下载"
+
+#: includes/admin/marketing_gear.php:31 includes/admin/marketing_gear.php:33
+#: includes/admin/marketing_gear.php:36
+msgid "* Right mouse click and save image as to download image"
+msgstr "点击鼠标右键保存图片为已下载图片"
+
+#: includes/admin/more_downloads.php:21
+msgid "Help us keep WordApp Free!"
+msgstr "帮助我们让wordapp免费！"
+
+#: includes/admin/more_downloads.php:22
+msgid "Get your app for free by donating or inviting 8 friends"
+msgstr "捐款或邀请朋友以免费获取软件"
+
+#: includes/admin/more_downloads.php:26 includes/admin/the_crowd.php:55
+msgid "Make a donation"
+msgstr "捐款"
+
+#: includes/admin/more_downloads.php:28 includes/admin/more_info.php:11
+msgid "We promise to invest every cent in to improving the plugin."
+msgstr "我们承诺将每一分都用在插件的完善上"
+
+#: includes/admin/more_info.php:3
+msgid "More Links"
+msgstr "更多的链接"
+
+#: includes/admin/more_info.php:5
+msgid "We need your help!"
+msgstr "我们需要您的帮助"
+
+#: includes/admin/more_info.php:7
+msgid "Get app for free!"
+msgstr "免费获取软件！"
+
+#: includes/admin/more_info.php:10 includes/admin/the_crowd.php:29
+#: includes/admin/the_crowd.php:39
+msgid "Help us grow"
+msgstr "帮助我们成长"
+
+#: includes/admin/more_info.php:20
+msgid "Become a reseller"
+msgstr "成为营销商"
+
+#: includes/admin/more_info.php:20
+msgid "Unlimited Apps $99 (White label plugin)"
+msgstr "无限软件 $99 （带白色标记的插件）"
+
+#: includes/admin/more_info.php:20 includes/admin/start.php:149
+msgid "More information"
+msgstr "更多信息"
+
+#: includes/admin/plugins.php:130 includes/admin/plugins.php:178
+msgid "GET MORE THEMES"
+msgstr "获取更多主题"
+
+#: includes/admin/plugins.php:186
+msgid "USE ONE OF YOUR WORDPRESS THEMES"
+msgstr "使用您WORDPRESS主题的其中之一"
+
+#: includes/admin/plugins.php:262
+msgid "* Changing themes may delete some of your information"
+msgstr "更换主题也许会删除您的部分信息"
+
+#: includes/admin/popup.php:11 includes/admin/start.php:23
+msgid "Our famous 3 step install"
+msgstr "我们闻名的三步安装"
+
+#: includes/admin/popup.php:20 includes/admin/start.php:32
+msgid "Theme"
+msgstr "主题"
+
+#: includes/admin/popup.php:25 includes/admin/start.php:37
+msgid "Install"
+msgstr "安装"
+
+#: includes/admin/popup.php:44 includes/admin/start.php:56
+msgid "Only A-Z charecters."
+msgstr "只有A到Z的字母"
+
+#: includes/admin/popup.php:46 includes/admin/start.php:58
+msgid ""
+"Note: This may overwrite any previous WordApp configurations. If you are "
+"upgrading you can click \"No thanks\" below."
+msgstr ""
+"注意：这可能会覆盖以前的任何wordapp配置。如果你正在升级，你可以点击下面"
+"的“不，谢谢”。"
+
+#: includes/admin/popup.php:49
+msgid "No Thanks"
+msgstr "不用了谢谢"
+
+#: includes/admin/popup.php:52 includes/admin/popup.php:113
+msgid "Next step"
+msgstr "下一步"
+
+#: includes/admin/popup.php:112 includes/admin/start.php:127
+msgid "Back"
+msgstr "后退"
+
+#: includes/admin/popup.php:123 includes/admin/start.php:138
+msgid "Your information"
+msgstr "您的信息"
+
+#: includes/admin/popup.php:126 includes/admin/start.php:141
+msgid "Theme Chosen"
+msgstr "选取主题"
+
+#: includes/admin/popup.php:127 includes/admin/start.php:148
+msgid "SUBMIT"
+msgstr "提交"
+
+#: includes/admin/popup.php:133 includes/admin/start.php:158
+msgid "Cancel back to start"
+msgstr "取消回到开始"
+
+#: includes/admin/push_notes.php:17
+msgid "Push notifications"
+msgstr "推送通知"
+
+#: includes/admin/push_notes.php:53
+msgid "Schedule push notes (Oct 2016)"
+msgstr "安排推送文件（八月2016）"
+
+#: includes/admin/push_notes.php:82
+msgid "Activate Push Notifications"
+msgstr "激活推送通知"
+
+#: includes/admin/push_notes.php:91
+msgid ""
+"Simply send out a message to all your app users in one go! Fill-out the form "
+"below and press send, our servers will take care of the rest."
+msgstr ""
+"简单地发送一个消息给你的所有应用程序的用户！填写表格下面，按发送，我们的服务"
+"器将照顾其余。"
+
+#: includes/admin/push_notes.php:91
+msgid "upgrade your account."
+msgstr "升级您的账户"
+
+#: includes/admin/push_notes.php:94
+msgid "Send a push notifcation"
+msgstr "发送一个通知"
+
+#: includes/admin/push_notes.php:99
+msgid "characters left"
+msgstr "剩下的汉字"
+
+#: includes/admin/push_notes.php:100
+msgid "Send"
+msgstr "发送"
+
+#: includes/admin/settings.php:17
+msgid "Settings "
+msgstr "设置"
+
+#: includes/admin/settings.php:40
+msgid "Activate mobile site"
+msgstr "激活移动网站"
+
+#: includes/admin/settings.php:45
+msgid "Do you want to use this as your mobile website too ?"
+msgstr "您希望也将此作为您的移动网站吗？"
+
+#: includes/admin/settings.php:46
+msgid "Mobile Site ? "
+msgstr "移动网站？"
+
+#: includes/admin/settings.php:49
+msgid "Google Analytics"
+msgstr "谷歌分析"
+
+#: includes/admin/settings.php:52
+msgid ""
+"Add your Google Analytics tracking ID below. Get more information about your "
+"app downloads, views & activity. "
+msgstr "将您的谷歌分析追查ID添加在下面。获取更多的软件下载信息、评论和活动。"
+
+#: includes/admin/settings.php:53
+msgid "Setup a google tracking ID here"
+msgstr "在此建立一个谷歌追查ID"
+
+#: includes/admin/settings.php:53
+msgid "Google Analytics ID"
+msgstr "谷歌分析ID"
+
+#: includes/admin/settings.php:56
+msgid "API credentials"
+msgstr "API证书"
+
+#: includes/admin/settings.php:58
+msgid ""
+"If you have subscribed for push notifications you will be sent API "
+"credentials via email."
+msgstr "API证书将发送到您的邮箱如果您订阅了推送通知"
+
+#: includes/admin/settings.php:59
+msgid "API Login"
+msgstr "API登陆"
+
+#: includes/admin/settings.php:62
+msgid "API Key"
+msgstr "API钥匙"
+
+#: includes/admin/settings.php:65
+msgid "API Domain"
+msgstr "API领域"
+
+#: includes/admin/settings.php:69
+msgid "QRCODE setup"
+msgstr "QR码设置"
+
+#: includes/admin/settings.php:71
+msgid "Android URL"
+msgstr "安卓URL"
+
+#: includes/admin/settings.php:74
+msgid "iOS URL"
+msgstr "iOS URL"
+
+#: includes/admin/settings.php:77
+msgid "White Label App"
+msgstr "白色标记的软件"
+
+#: includes/admin/settings.php:81
+msgid "Remove powered by link ?"
+msgstr "移除连接吗？"
+
+#: includes/admin/settings.php:82
+msgid "Yes ? "
+msgstr "好吗？"
+
+#: includes/admin/settings.php:85
+msgid "Remove powered by & ads (PRO only)"
+msgstr "移除广告（仅限Pro）"
+
+#: includes/admin/settings.php:86
+msgid "Upgrade"
+msgstr "升级"
+
+#: includes/admin/settings.php:88
+msgid "Hide Chat"
+msgstr "隐藏聊天"
+
+#: includes/admin/settings.php:92
+msgid "Here to help but I don't what to get in your way.."
+msgstr ""
+
+#: includes/admin/settings.php:93
+msgid "Hide Chat? "
+msgstr "隐藏聊天吗？"
+
+#: includes/admin/settings.php:98
+msgid "Emails & Newsletter"
+msgstr "邮件和新闻"
+
+#: includes/admin/settings.php:102
+msgid ""
+"Do you want to be informed about latest security updates & news from "
+"WordApps ?"
+msgstr "您希望获取WordApps 的最新安全更新和消息吗？"
+
+#: includes/admin/settings.php:103
+msgid "Newsletter ? "
+msgstr "新闻？"
+
+#: includes/admin/settings.php:110
+msgid "Deactivate Plugins on mobile"
+msgstr "停用移动插件"
+
+#: includes/admin/settings.php:113
+msgid ""
+"Some plugins might not look great on mobile but work fine on desktop. Here "
+"you can deactivate plugins on the mobile version & app."
+msgstr ""
+"某些插件移动版本不好看但是在桌面却工作的很好。这里您可以停用移动插件的版本和"
+"软件。"
+
+#: includes/admin/settings.php:114
+msgid "Checked plugins will be deactivated on mobile only"
+msgstr "检查的插件将只在移动端上停用"
+
+#: includes/admin/settings.php:115
+msgid "Beta testing this part"
+msgstr "β测试此方面"
+
+#: includes/admin/settings.php:134
+msgid "Currently Active"
+msgstr "当前激活"
+
+#: includes/admin/settings.php:134
+msgid "Currently Inactive"
+msgstr "当前停用"
+
+#: includes/admin/settings.php:160
+msgid "Did you delete the mobile homepage?"
+msgstr "您删除了移动主页吗？"
+
+#: includes/admin/settings.php:161
+msgid "Reset mobile home page"
+msgstr "重设移动主页"
+
+#: includes/admin/start.php:55
+msgid "Your app name"
+msgstr "您的软件名称"
+
+#: includes/admin/start.php:128
+msgid "Next Step"
+msgstr "下一步"
+
+#: includes/admin/start.php:144
+msgid "Email address"
+msgstr "电子邮箱"
+
+#: includes/admin/start.php:146
+msgid "Recommended"
+msgstr "推荐"
+
+#: includes/admin/start.php:146
+msgid "Receive updates via email."
+msgstr "通过邮件获取更新"
+
+#: includes/admin/start.php:149
+msgid "Become a reseller \\(White label plugin\\)"
+msgstr "成为经销商（白色标记插件）"
+
+#: includes/admin/start.php:151
+msgid ""
+"Please note by pressing submit you will be sending some information to the "
+"WordApp so that we can generate your app."
+msgstr "请按提交键你将发送一些信息给wordapp以便我们可以生成你的应用笔记。"
+
+#: includes/admin/start.php:151
+msgid "What information is sent? Your Blog URL & the email address above."
+msgstr "发送了什么信息？上面的您的博客URL和电子邮箱。"
+
+#: includes/admin/the_crowd.php:17
+msgid "The Community "
+msgstr "社区"
+
+#: includes/admin/the_crowd.php:21
+msgid "Become part of a growing mobile marketing community!"
+msgstr "成为成长中的移动端市场社区的一部分！"
+
+#: includes/admin/the_crowd.php:23
+msgid "Built in 2015 "
+msgstr "于2015年创立"
+
+#: includes/admin/the_crowd.php:23
+msgid ""
+" was a project lead by a group of mobile & wordpress geeks. We love mobile "
+"and the way apps are improving our lives. This is where we thought we could "
+"help. By offering a <b><u>FREE</u></b> wordpress plugin that will convert "
+"your site/blog in to a beautiful mobile app. A community of enthusiastic "
+"people followed the plugin & encouraged us to share our mobile marketing "
+"knowledge in a forum."
+msgstr ""
+"是一个由移动端和wordpress发烧友领导的项目。我们喜欢移动端和软件提高着我们的生"
+"活质量。这是我们觉着能有所帮助的地方。通过提供 <b><u>FREE</u></b> ，wordpress"
+"插件可以将您的网站或博客转换成一个漂亮的移动端软件。一群满腔热情的人们在追随"
+"着这个插件并鼓励我们将我们的移动市场知识与讨论会分享。"
+
+#: includes/admin/the_crowd.php:32
+msgid "Here are a few free resources :"
+msgstr "这里有一些免费资源："
+
+#: includes/admin/the_crowd.php:34
+msgid "Mobile Marketing Videos"
+msgstr "移动市场视频"
+
+#: includes/admin/the_crowd.php:35
+msgid "Mobile Marketing Facebook Group"
+msgstr "移动市场脸书小组"
+
+#: includes/admin/the_crowd.php:36
+msgid "Facebook Page"
+msgstr "脸书页面"
+
+#: includes/admin/the_crowd.php:47
+msgid ""
+"Thanks to the amazing support of our friends, family & followers we are "
+"really proud of WordApp."
+msgstr "感谢我们的朋友，家人的支持，我们真的为WordApp感到骄傲。"
+
+#: includes/admin/the_crowd.php:50
+msgid "If you believe in WordApp the are many ways you can get involved :"
+msgstr "如果您信任 WordApp，有多种方式加入："
+
+#: includes/admin/the_crowd.php:52
+msgid "Tell your friends & family"
+msgstr "告知您的朋友和家人"
+
+#: includes/admin/the_crowd.php:53
+msgid "Share the love on Facebook & Twitter"
+msgstr "在脸书和推特上分享这份爱"
+
+#: includes/admin/the_crowd.php:54
+msgid "Write a plugin or theme for the marketplace"
+msgstr "为市场写一个插件或主题"
+
+#: includes/admin/the_crowd.php:57
+msgid "Thanks for all your help"
+msgstr "感谢您的帮助"
+
+#: includes/admin/the_crowd.php:70
+msgid "Join the free community !"
+msgstr "加入社区！"
+
+#: includes/admin/videos.php:30
+msgid "Watch Now"
+msgstr "立即观看"
+
+#: includes/admin/videos.php:33
+msgid "By"
+msgstr "由"
+
+#: includes/admin/videos.php:39
+msgid "Duration"
+msgstr "时长"
+
+#: includes/admin/videos.php:40
+msgid "mins"
+msgstr "分钟"
+
+#: includes/admin/videos.php:44
+msgid "Tags"
+msgstr "标签"
+
+#: includes/classes/front_end_widgets.php:48
+msgid "Title:"
+msgstr "标题："
+
+#: includes/classes/front_end_widgets.php:52
+msgid "iTunes Link"
+msgstr "iTunes连接"
+
+#: includes/classes/front_end_widgets.php:56
+msgid "Play Store Link"
+msgstr "显示商店链接"
+
+#: themes/wordappjqmobile/404.php:8 themes/wordappjqmobileMyiOS/404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "啊哦！此页面没有结果。"
+
+#: themes/wordappjqmobile/404.php:12 themes/wordappjqmobileMyiOS/404.php:12
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "此地址没有结果。试一下下面这些连接吗？"
+
+#: themes/wordappjqmobile/404.php:20 themes/wordappjqmobileMyiOS/404.php:20
+msgid "Most Used Categories"
+msgstr "最常使用的分类"
+
+#. translators: %1$s: smiley
+#: themes/wordappjqmobile/404.php:37 themes/wordappjqmobileMyiOS/404.php:37
+#, c-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "查看月归档  %1$s"
+
+#: themes/wordappjqmobile/functions.php:21
+#: themes/wordappjqmobileMyiOS/functions.php:36
+msgid "Primary"
+msgstr "初级"
+
+#: themes/wordappjqmobile/functions.php:22
+#: themes/wordappjqmobileMyiOS/functions.php:37
+msgid "A short description of the sidebar."
+msgstr "侧边栏的简介"
+
+#: themes/wordappjqmobile/functions.php:60
+#: themes/wordappjqmobileMyiOS/functions.php:75
+msgid "Body"
+msgstr "主体"
+
+#: themes/wordappjqmobile/functions.php:64
+#: themes/wordappjqmobileMyiOS/functions.php:79
+msgid "Header"
+msgstr "页眉"
+
+#: themes/wordappjqmobile/functions.php:68
+#: themes/wordappjqmobileMyiOS/functions.php:83
+msgid "Footer"
+msgstr "页脚"
+
+#: themes/wordappjqmobile/functions.php:72
+#: themes/wordappjqmobileMyiOS/functions.php:87
+msgid "Post Teaser"
+msgstr "后预告"
+
+#: themes/wordappjqmobile/functions.php:76
+#: themes/wordappjqmobileMyiOS/functions.php:91
+msgid "Sticky Post"
+msgstr "置顶"
+
+#: themes/wordappjqmobile/functions.php:80
+#: themes/wordappjqmobileMyiOS/functions.php:95
+msgid "Widget"
+msgstr "窗口部件"
+
+#: themes/wordappjqmobile/functions.php:84
+#: themes/wordappjqmobileMyiOS/functions.php:99
+msgid "Widget Content"
+msgstr "部件内容"
+
+#: themes/wordappjqmobile/functions.php:88
+#: themes/wordappjqmobileMyiOS/functions.php:103
+msgid "Comments"
+msgstr "评论"
+
+#: themes/wordappjqmobile/functions.php:92
+#: themes/wordappjqmobileMyiOS/functions.php:107
+msgid "Comment Form"
+msgstr "评论格式"
+
+#: themes/wordappjqmobile/functions.php:198
+#: themes/wordappjqmobileMyiOS/functions.php:213
+msgid "Pages"
+msgstr "页面"
+
+#: themes/wordappjqmobile/functions.php:201
+#: themes/wordappjqmobileMyiOS/functions.php:216
+msgid "Text"
+msgstr "文本"
+
+#: themes/wordappjqmobile/functions.php:204
+#: themes/wordappjqmobileMyiOS/functions.php:219
+msgid "Search"
+msgstr "搜索"
+
+#: themes/wordappjqmobile/functions.php:207
+#: themes/wordappjqmobileMyiOS/functions.php:222
+msgid "Tag cloud"
+msgstr "标签云"
+
+#: themes/wordappjqmobile/functions.php:210
+#: themes/wordappjqmobileMyiOS/functions.php:225
+msgid "Recent posts"
+msgstr "最近帖子"
+
+#: themes/wordappjqmobile/functions.php:213
+#: themes/wordappjqmobileMyiOS/functions.php:228
+msgid "Meta"
+msgstr "变化"
+
+#: themes/wordappjqmobile/functions.php:216
+#: themes/wordappjqmobileMyiOS/functions.php:231
+#: themes/wordappjqmobileMyiOS/loop-single.php:54
+#: themes/wordappjqmobileMyiOS/loop.php:89
+#: themes/wordappjqmobilewooWordApp/loop-single.php:54
+#: themes/wordappjqmobilewooWordApp/loop.php:89
+msgid "Categories"
+msgstr "分类"
+
+#: themes/wordappjqmobile/functions.php:219
+#: themes/wordappjqmobile/inc/template-tags.php:181
+#: themes/wordappjqmobileMyiOS/functions.php:234
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:181
+msgid "Archives"
+msgstr "档案"
+
+#: themes/wordappjqmobile/functions.php:222
+#: themes/wordappjqmobileMyiOS/functions.php:237
+msgid "Calendar"
+msgstr "日历"
+
+#: themes/wordappjqmobile/functions.php:225
+#: themes/wordappjqmobileMyiOS/functions.php:240
+msgid "Custom menu"
+msgstr "顾客菜单"
+
+#: themes/wordappjqmobile/functions.php:238
+#: themes/wordappjqmobileMyiOS/functions.php:253
+msgid "Pingback:"
+msgstr "广播"
+
+#: themes/wordappjqmobile/functions.php:238
+#: themes/wordappjqmobile/functions.php:264
+#: themes/wordappjqmobile/inc/template-tags.php:126
+#: themes/wordappjqmobile/template-parts/content-page.php:26
+#: themes/wordappjqmobileMyiOS/functions.php:253
+#: themes/wordappjqmobileMyiOS/functions.php:279
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:126
+#: themes/wordappjqmobileMyiOS/template-parts/content-page.php:26
+msgid "Edit"
+msgstr "编辑"
+
+#. translators: 1: comment author, 2: date and time
+#: themes/wordappjqmobile/functions.php:253
+#: themes/wordappjqmobileMyiOS/functions.php:268
+#, c-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: themes/wordappjqmobile/functions.php:259
+#: themes/wordappjqmobileMyiOS/functions.php:274
+#, c-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: themes/wordappjqmobile/functions.php:268
+#: themes/wordappjqmobileMyiOS/functions.php:283
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: themes/wordappjqmobile/functions.php:275
+#: themes/wordappjqmobileMyiOS/functions.php:290
+msgid "Reply <span>&darr;</span>"
+msgstr "回复"
+
+#: themes/wordappjqmobile/functions.php:320
+#: themes/wordappjqmobileMyiOS/functions.php:335
+msgid "Primary Menu"
+msgstr "初始菜单"
+
+#: themes/wordappjqmobile/functions.php:375
+#: themes/wordappjqmobileMyiOS/functions.php:390
+msgid "Sidebar"
+msgstr "侧栏"
+
+#: themes/wordappjqmobile/inc/classes.php:22
+#: themes/wordappjqmobileMyiOS/inc/classes.php:22
+#, c-format
+msgid "View all posts filed under %s"
+msgstr "查看所有归档于s％的帖子  %s "
+
+#: themes/wordappjqmobile/inc/classes.php:37
+#: themes/wordappjqmobileMyiOS/inc/classes.php:37
+#, c-format
+msgid "Feed for all posts filed under %s"
+msgstr "帖子的种子归档于 %s"
+
+#: themes/wordappjqmobile/inc/classes.php:101
+#: themes/wordappjqmobileMyiOS/inc/classes.php:101
+msgid "Recent Comments"
+msgstr "最近评论"
+
+#: themes/wordappjqmobile/inc/classes.php:116
+#: themes/wordappjqmobileMyiOS/inc/classes.php:116
+#, c-format
+msgctxt "widgets"
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#: themes/wordappjqmobile/inc/classes.php:165
+#: themes/wordappjqmobileMyiOS/inc/classes.php:165
+msgid "Unknown Feed"
+msgstr "未知种子"
+
+#: themes/wordappjqmobile/inc/classes.php:201
+#: themes/wordappjqmobileMyiOS/inc/classes.php:201
+#, c-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr "RSS错误：%s "
+
+#: themes/wordappjqmobile/inc/classes.php:218
+#: themes/wordappjqmobileMyiOS/inc/classes.php:218
+msgid "An error has occurred; the feed is probably down. Try again later."
+msgstr "出现一个错误；可能因为种子无效。稍后重试。"
+
+#: themes/wordappjqmobile/inc/classes.php:232
+#: themes/wordappjqmobileMyiOS/inc/classes.php:232
+msgid "Untitled"
+msgstr "无标题"
+
+#: themes/wordappjqmobile/inc/customizer.php:24
+msgid "App Title & Name2"
+msgstr "软件标题和名字2"
+
+#: themes/wordappjqmobile/inc/customizer.php:29
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:29
+msgid "Nav"
+msgstr ""
+
+#: themes/wordappjqmobile/inc/customizer.php:73
+msgid "App Menus"
+msgstr "软件目录"
+
+#: themes/wordappjqmobile/inc/customizer.php:88
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:89
+msgid "Side Menu :"
+msgstr "网站目录"
+
+#: themes/wordappjqmobile/inc/customizer.php:128
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:129
+msgid "Top Menu :"
+msgstr "顶部菜单"
+
+#: themes/wordappjqmobile/inc/customizer.php:167
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:168
+msgid "Bottom Menu :"
+msgstr "底部菜单"
+
+#: themes/wordappjqmobile/inc/customizer.php:187
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:188
+msgid ""
+"The bottom menu comes with icons which can be added or changed on the "
+"WordApp plugin <a href=\"https://fortawesome.github.io/Font-Awesome/"
+"cheatsheet/\" target=\"_blank\">Preview Icons</a>"
+msgstr "底部菜单的图标可通过 WordApp插件添加或更改"
+
+#: themes/wordappjqmobile/inc/customizer.php:200
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:201
+msgid "Design settings"
+msgstr "设计设置"
+
+#: themes/wordappjqmobile/inc/customizer.php:217
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:218
+msgid "App Toolbar Color"
+msgstr "软件工具栏颜色"
+
+#: themes/wordappjqmobile/inc/customizer.php:247
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:248
+msgid "Header logo"
+msgstr "页眉图标"
+
+#: themes/wordappjqmobile/inc/customizer.php:280
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:281
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: themes/wordappjqmobile/inc/customizer.php:299
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:300
+msgid "Background Color (Side Bars)"
+msgstr "背景颜色（侧栏）"
+
+#: themes/wordappjqmobile/inc/customizer.php:365
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:366
+msgid "Color Scheme"
+msgstr "配色方案"
+
+#: themes/wordappjqmobile/inc/customizer.php:386
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:387
+msgid "Display Header Text"
+msgstr "显示顶部信息"
+
+#: themes/wordappjqmobile/inc/customizer.php:425
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:426
+msgid "Image Upload Test"
+msgstr "图片上传测试"
+
+#: themes/wordappjqmobile/inc/customizer.php:441
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:442
+msgid "Upload Test"
+msgstr "上传测试"
+
+#: themes/wordappjqmobile/inc/customizer.php:459
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:460
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: themes/wordappjqmobile/inc/customizer.php:475
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:476
+msgid "Page Test"
+msgstr "页面测试"
+
+#: themes/wordappjqmobile/inc/extras.php:52
+#: themes/wordappjqmobileMyiOS/inc/extras.php:52
+#, c-format
+msgid "Page %s"
+msgstr "%s 页"
+
+#: themes/wordappjqmobile/inc/template-tags.php:23
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: themes/wordappjqmobile/inc/template-tags.php:27
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:27
+msgid "Older posts"
+msgstr "过往发布"
+
+#: themes/wordappjqmobile/inc/template-tags.php:31
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "新的发表"
+
+#: themes/wordappjqmobile/inc/template-tags.php:56
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: themes/wordappjqmobile/inc/template-tags.php:86
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:86
+#, c-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "在%s发布"
+
+#: themes/wordappjqmobile/inc/template-tags.php:91
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:91
+#, c-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "由 %s"
+
+#. translators: used between list items, there is a space after the comma
+#: themes/wordappjqmobile/inc/template-tags.php:108
+#: themes/wordappjqmobile/inc/template-tags.php:114
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:108
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+#: themes/wordappjqmobile/inc/template-tags.php:110
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:110
+#, c-format
+msgid "Posted in %1$s"
+msgstr "于s％内发布 %1$s"
+
+#: themes/wordappjqmobile/inc/template-tags.php:116
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:116
+#, c-format
+msgid "Tagged %1$s"
+msgstr "已标签： %s"
+
+#: themes/wordappjqmobile/inc/template-tags.php:122
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "留下评论"
+
+#: themes/wordappjqmobile/inc/template-tags.php:122
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1评论"
+
+#: themes/wordappjqmobile/inc/template-tags.php:122
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:122
+#, c-format
+msgid "% Comments"
+msgstr ""
+
+#: themes/wordappjqmobile/inc/template-tags.php:143
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:143
+#, c-format
+msgid "Category: %s"
+msgstr "分组：%s"
+
+#: themes/wordappjqmobile/inc/template-tags.php:145
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:145
+#, c-format
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: themes/wordappjqmobile/inc/template-tags.php:147
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:147
+#, c-format
+msgid "Author: %s"
+msgstr "作者：%s "
+
+#: themes/wordappjqmobile/inc/template-tags.php:149
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:149
+#, c-format
+msgid "Year: %s"
+msgstr "年：%s"
+
+#: themes/wordappjqmobile/inc/template-tags.php:149
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "年"
+
+#: themes/wordappjqmobile/inc/template-tags.php:151
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:151
+#, c-format
+msgid "Month: %s"
+msgstr "月：%s"
+
+#: themes/wordappjqmobile/inc/template-tags.php:151
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "月 年"
+
+#: themes/wordappjqmobile/inc/template-tags.php:153
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:153
+#, c-format
+msgid "Day: %s"
+msgstr "天： %s"
+
+#: themes/wordappjqmobile/inc/template-tags.php:153
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "日 月 年"
+
+#: themes/wordappjqmobile/inc/template-tags.php:156
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "旁白"
+
+#: themes/wordappjqmobile/inc/template-tags.php:158
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "图表种类"
+
+#: themes/wordappjqmobile/inc/template-tags.php:160
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图片"
+
+#: themes/wordappjqmobile/inc/template-tags.php:162
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: themes/wordappjqmobile/inc/template-tags.php:164
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引用"
+
+#: themes/wordappjqmobile/inc/template-tags.php:166
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: themes/wordappjqmobile/inc/template-tags.php:168
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "情况"
+
+#: themes/wordappjqmobile/inc/template-tags.php:170
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: themes/wordappjqmobile/inc/template-tags.php:172
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "聊天"
+
+#: themes/wordappjqmobile/inc/template-tags.php:175
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:175
+#, c-format
+msgid "Archives: %s"
+msgstr "存档： %s "
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: themes/wordappjqmobile/inc/template-tags.php:179
+#: themes/wordappjqmobileMyiOS/inc/template-tags.php:179
+#, c-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: themes/wordappjqmobile/template-parts/content-none.php:14
+#: themes/wordappjqmobileMyiOS/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "无结果"
+
+#: themes/wordappjqmobile/template-parts/content-none.php:20
+#: themes/wordappjqmobileMyiOS/template-parts/content-none.php:20
+#, c-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发表您的第一篇文章了吗？<a href=\"%1$s\">Get started here</a>."
+
+#: themes/wordappjqmobile/template-parts/content-none.php:24
+#: themes/wordappjqmobileMyiOS/template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "对不起，没有与您的搜索相匹配的内容。请用不同关键词重试。"
+
+#: themes/wordappjqmobile/template-parts/content-none.php:29
+#: themes/wordappjqmobileMyiOS/template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+
+#: themes/wordappjqmobile/template-parts/content-page.php:19
+#: themes/wordappjqmobile/template-parts/content-single.php:23
+#: themes/wordappjqmobileMyiOS/template-parts/content-page.php:19
+#: themes/wordappjqmobileMyiOS/template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "页数："
+
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:24
+msgid "App Title & Names2"
+msgstr "软件标题和名字2"
+
+#: themes/wordappjqmobileMyiOS/inc/customizer.php:74
+msgid "App Menuss"
+msgstr "软件目录"
+
+#: themes/wordappjqmobileMyiOS/loop-single.php:42
+#: themes/wordappjqmobileMyiOS/loop.php:77
+#: themes/wordappjqmobilewooWordApp/loop-single.php:42
+#: themes/wordappjqmobilewooWordApp/loop.php:77
+#, c-format
+msgid "Posted on %s"
+msgstr "发表在 %s"
+
+#: themes/wordappjqmobileMyiOS/loop-single.php:43
+#: themes/wordappjqmobileMyiOS/loop.php:78
+#: themes/wordappjqmobilewooWordApp/loop-single.php:43
+#: themes/wordappjqmobilewooWordApp/loop.php:78
+#, c-format
+msgid " by %s"
+msgstr "由 %s"
+
+#: themes/wordappjqmobileMyiOS/loop.php:33
+#: themes/wordappjqmobileMyiOS/loop.php:36
+#: themes/wordappjqmobileMyiOS/loop.php:39
+#: themes/wordappjqmobilewooWordApp/loop.php:33
+#: themes/wordappjqmobilewooWordApp/loop.php:36
+#: themes/wordappjqmobilewooWordApp/loop.php:39
+#, c-format
+msgid "Archive for %s"
+msgstr "存档至  %s "
+
+#: themes/wordappjqmobileMyiOS/loop.php:57
+#: themes/wordappjqmobilewooWordApp/functions.php:91
+#: themes/wordappjqmobilewooWordApp/loop.php:57
+#, c-format
+msgid "Permalink to %s"
+msgstr "固定链接至 %s"
+
+#: themes/wordappjqmobilewooWordApp/header.php:194
+msgid "Sorry, no posts matched your criteria."
+msgstr "对不起，没有匹配您标准的结果。"
+
+#. Plugin Name of the plugin/theme
+msgid "WordApp - Wordpress to Mobile App plugin for WooCommerce & BuddyPress"
+msgstr "WordApp - Wordpress to Mobile App plugin for WooCommerce & BuddyPress"
+
+#. Plugin URI of the plugin/theme
+msgid "http://App-developers.biz"
+msgstr "http://App-developers.biz"
+
+#. Description of the plugin/theme
+msgid ""
+"Mobile app plugin Convert your wordpress site/blog to mobile app works  "
+"WooCommerce  & BuddyPress"
+msgstr ""
+"Mobile app plugin Convert your wordpress site/blog to mobile app works  "
+"WooCommerce  & BuddyPress"
+
+#. Author of the plugin/theme
+msgid "App-Developers.biz"
+msgstr "App-Developers.biz"
+
+#. Author URI of the plugin/theme
+msgid "http://app-developers.biz/"
+msgstr "http://app-developers.biz/"

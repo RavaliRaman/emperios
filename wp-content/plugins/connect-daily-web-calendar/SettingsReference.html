@@ -1,0 +1,66 @@
+<html>
+<head>
+    <title>Settings Reference</title>
+    <style type="text/css">
+    dt {
+        font-weight: bold;
+    }
+    dd {
+        margin-bottom: 1em;
+    }
+    </style>
+</head>
+<body>
+<h1>Settings Reference</h1>
+This document contains a reference to the various settings values stored or used
+by the Connect Daily plugin.
+<br><br>
+Settings are returned as an object via the getSettings() method.
+
+<h2>Settings</h2>
+<dl>
+    <dt>converted</dt>
+    <dd>deprecated. Used as a flag to indicate that the old-style settings have
+    been converted.</dd>
+    <dt>date_format<br>datetime_format<br>time_format</dt>
+    <dd>PHP format strings for formatting dates and times.</dd>
+    <dt>disable_timestamp</dt>
+    <dd>Timestamp as seconds since epoch that caching is disabled until.</dd>
+    <dt>keypair</dt>
+    <dd>Public/Private KeyPair used for Single-Signon.</dd>
+    <dt>language</dt>
+    <dd>The language preference in language_COUNTRY (e.g. en_US) format.</dd>
+    <dt>password</dt>
+    <dd>The password for the Connect Daily system.</dd>
+    <dt>reachable</dt>
+    <dd>Is this Site reachable from the Connect Daily installation? This is used
+    to determine if we can do single-signon. Tri-State:
+    <ul>
+    <li>null - reachability unknown</li>
+    <li>true - site is reachable.</li>
+    <li>false - site is unreachable.</li>
+    </ul>
+    </dd>
+    <dt>resource_management</dt>
+    <dd>true if resource management is an option in Connect Daily and enabled.</dd>
+    <dt>skip_resource_types</dt>
+    <dd>comma-delimited list of resource type names to not display as part of
+    event details. Specify * to disable resource display.</dd>
+    <dt>start_of_week</dt>
+    <dd>Starting Day of week. 0=Sunday, 1=Monday...</dd>
+    <dt>timezone_string</dt>
+    <dd>Timezone name e.g. America/New_York. If not specified, defaults to GMT.</dd>
+    <dt>token</dt>
+    <dd>The Connect Daily security token used for requests.</dd>
+    <dt>url</dt>
+    <dd>The URL to the Connect Daily Installation the plugin uses.</dd>
+    <dt>used</dt>
+    <dd>Indicates the plugin is used because a widget or shortcode is
+    referenced.</dd>
+    <dt>username</dt>
+    <dd>The Connect Daily User Name for the plugin.</dd>
+    <dt>version</dt>
+    <dd>The plugin version that last saved the settings.</dd>
+</dl>
+</body>
+</html>

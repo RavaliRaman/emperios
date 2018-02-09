@@ -1,0 +1,3034 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-05-05 09:54+0530\n"
+"POT-Revision-Date: Wed May 04 2016 15:50:03 GMT+0200 (CEST)\n"
+"PO-Revision-Date: 2016-05-15 03:20+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#. Name of the plugin
+msgid "WordApp - Wordpress to Mobile App plugin for WooCommerce & BuddyPress"
+msgstr "WordApp - वर्डप्रेस से मोबाइल एप्प प्लगइन वूकमेर्स & बुड्डीप्रेस्स केलिए"
+
+#. URI of the plugin
+msgid "http://App-developers.biz"
+msgstr "http://App-developers.biz"
+
+#. Description of the plugin
+msgid "Mobile app plugin Convert your wordpress site/blog to mobile app works  WooCommerce  & BuddyPress"
+msgstr "मोबाइल एप्प प्लगइन बदले आपका वर्डप्रेस साइट/ब्लॉग में से मोबाइल एप्पमें काम करता है वूकमेर्स और बुड्डीप्रेस्स के साथ भी"
+
+#. Author of the plugin
+msgid "App-Developers.biz"
+msgstr "App-Developers.biz"
+
+#. Author URI of the plugin
+msgid "http://app-developers.biz"
+msgstr "http://app-developers.biz"
+
+#: ../../../WordApp.php:54
+msgid "Please help us improve WordApp! Help us understand how our plugin is working on your site. <br /> If you skip this, that's okay! WordApp will still work just fine."
+msgstr "कृपया हमें मदद करे WordApp में सुधार करने के लिए! हमारे प्लगइन अपनी साइट पर कैसे काम कर रहा है वह  समजने में हमारी मदद करो. <br /> अगर आप इस छोड़ते हैं, वह ठीक है! WordApp फिर भी ठीक काम करेगा।"
+
+#: ../../../WordApp.php:506 ../../../WordApp.php:510
+msgid "Getting Started"
+msgstr "शुरू करना"
+
+#: ../../../WordApp.php:507
+msgid "Quick install"
+msgstr "जल्दी स्थापित करें"
+
+#: ../../../WordApp.php:507
+msgid "Quick Install"
+msgstr "जल्दी स्थापित करें"
+
+#: ../../../WordApp.php:512
+msgid "App Builder"
+msgstr "एप्लिकेशन बिल्डर"
+
+#: ../../../WordApp.php:513 ../../.. /includes/admin/push_notes.php:43 ../../../includes/admin/iBeacon.php:44
+msgid "Push Notifications"
+msgstr "सूचनाएं भेजना"
+
+#: ../../../WordApp.php:515 ../../.. /includes/admin/iBeacon.php:18
+msgid "Beacons"
+msgstr "बीकन"
+
+#: ../../../WordApp.php:517
+msgid "Marketing Gear"
+msgstr "विपणन सामग्री"
+
+#: ../../../WordApp.php:518
+msgid "The Crowd"
+msgstr "समुदाय"
+
+#: ../../../WordApp.php:519
+msgid "Tell a friend"
+msgstr "दोस्त को बताओ"
+
+#: ../../../WordApp.php:520
+msgid "Video Tutorials"
+msgstr "वीडियो शिक्षण"
+
+#: ../../../WordApp.php:521
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: ../../../WordApp.php:522
+msgid "CSS Editor"
+msgstr "CSS संपादक"
+
+#: ../../../WordApp.php:523
+msgid "Themes"
+msgstr "थीम"
+
+#: ../../../WordApp.php:527
+msgid "Go Premium"
+msgstr "प्रीमियम के लिए जाएँ"
+
+#: ../../../WordApp.php:709
+msgid "The plugin must be installed to wp-content/plugins/wordapp-mobile-app - to help this, please ensure that the zip file you are installing is called wordapp-mobile-app.zip, or rename the folder via FTP"
+msgstr "प्लगइन स्थापित किया जाना चाहिए wp-content/plugins/wordapp-mobile-app में -  यह मदद करने के लिए, कृपया सुनिश्चित करें कि zip फ़ाइल आप स्थापित कर रहे है वह wordapp-mobile-app.zip नाम से हो, या FTP के माध्यम से फ़ोल्डर का नाम बदले."
+
+#: ../../../includes/admin/admin_toolbar.php:5 ../../.. /includes/admin/admin_toolbar_misc.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "आपके पास इस पेज को उपयोग करने के लिए पर्याप्त अनुमति नहीं है।"
+
+#: ../../../includes/admin/admin_toolbar.php:40
+msgid "WordApp wants to:"
+msgstr "WordApp चाहता है:"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Send you push notifications"
+msgstr "आपको पुश-नोटिफिकेशन्स भेज रहे हैं"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Block"
+msgstr "बाधा"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Allow"
+msgstr "अनुमति देना"
+
+#: ../../../includes/admin/admin_toolbar.php:87 ../../.. /includes/admin/admin_toolbar_misc.php:16
+msgid "Subscribe to our newsletter"
+msgstr "हमारे समाचार पत्र के सदस्य बनें"
+
+#: ../../../includes/admin/admin_toolbar.php:91 ../../.. /includes/admin/admin_toolbar_misc.php:20
+msgid "Your Email Address"
+msgstr "आपका ईमेल पता"
+
+#: ../../../includes/admin/admin_toolbar.php:94 ../../.. /includes/admin/admin_toolbar_misc.php:23
+msgid "Your Name"
+msgstr "आपका नाम"
+
+#: ../../../includes/admin/admin_toolbar.php:96 ../../.. /includes/admin/admin_toolbar_misc.php:25
+msgid "Subscribe!"
+msgstr "सदस्यता"
+
+#: ../../../includes/admin/admin_toolbar.php:121 ../../.. /includes/admin/admin_toolbar_misc.php:49 ../../../includes/admin/index_page. php:81 ../../../includes/admin/plugins.php:84
+msgid "Thank you for using"
+msgstr "उपयोग करने के लिए आपका धन्यवाद"
+
+#: ../../../includes/admin/admin_toolbar.php:122 ../../.. /includes/admin/admin_toolbar_misc.php:50 ../../../includes/admin/index_page. php:82 ../../../includes/admin/plugins.php:85
+msgid "we hope you enjoy using our plugin."
+msgstr "हम आशा करते हैं आप हमारे प्लगइन का उपयोग करने से आनंद मिला होगा."
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../.. /includes/admin/admin_toolbar_misc.php:51 ../../../includes/admin/index_page. php:83 ../../../includes/admin/plugins.php:86
+msgid "If you continue using"
+msgstr "अगर आप उपयोग जारी रखते हैं "
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../.. /includes/admin/admin_toolbar_misc.php:51 ../../../includes/admin/index_page. php:83 ../../../includes/admin/plugins.php:86
+msgid "you agree to our"
+msgstr "आप हमारे लिए सहमत हैं"
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../.. /includes/admin/admin_toolbar_misc.php:51 ../../../includes/admin/index_page. php:83 ../../../includes/admin/plugins.php:86
+msgid "terms of service."
+msgstr "सेवा की शर्तें।"
+
+#: ../../../includes/admin/admin_toolbar.php:124 ../../.. /includes/admin/admin_toolbar_misc.php:52 ../../../includes/admin/index_page. php:84 ../../../includes/admin/plugins.php:87
+msgid "Thank you for supporting our plugin."
+msgstr "हमारे प्लगइन का समर्थन करने के लिए धन्यवाद।"
+
+#: ../../../includes/admin/admin_toolbar.php:126 ../../.. /includes/admin/admin_toolbar_misc.php:54 ../../../includes/admin/index_page. php:86 ../../../includes/admin/plugins.php:89
+msgid "Hide"
+msgstr "छिपाना"
+
+#: ../../../includes/admin/admin_toolbar.php:144
+msgid "Design"
+msgstr "डिज़ाइन"
+
+#: ../../../includes/admin/admin_toolbar.php:146
+msgid "Home Builder"
+msgstr "गृह निर्माता"
+
+#: ../../../includes/admin/admin_toolbar.php:148
+msgid "Menus"
+msgstr "मेनू"
+
+#: ../../../includes/admin/admin_toolbar.php:149
+msgid "Slideshow"
+msgstr "स्लाइड शो"
+
+#: ../../../includes/admin/admin_toolbar.php:150
+msgid "App Structure"
+msgstr "एप्लिकेशन संरचना"
+
+#: ../../../includes/admin/admin_toolbar.php:151
+msgid "Publish App"
+msgstr "App-Developers.biz"
+
+#: ../../../includes/admin/push_notes.php:17
+msgid "Push notifications"
+msgstr "पुश नोटिफिकेशन्स "
+
+#: ../../../includes/admin/push_notes.php:32 ../../../includes/admin/iBeacon.php:33
+msgid "Increase customer engagement thanks to push notifications !"
+msgstr "ग्राहक अनुबंध वृद्धि केलिए पुश नोटिफिकेशन्स का धन्यवाद."
+
+#: ../../../includes/admin/push_notes.php:35 ../../../includes/admin/iBeacon.php:36
+msgid "Push notifications connect directly to your app's users. Keep them happy and engaged with app updates, promotions, and more sent directly to their device."
+msgstr "पुश नोटिफिकेशन्स आपको अपने ऐप्लिकेशन के उपयोगकर्ताओं से सीधे जोड़ता है। उन्हें खुश तथा व्यस्त रखे एप्लिकेशन को अद्यतन, प्रोमोशन्स के माध्यम से और अधिक सीधे भेजा उनके यंत्र पर."
+
+#: ../../../includes/admin/push_notes.php:37 ../../../includes/admin/iBeacon.php:38
+msgid "Give your app a voice thanks to push notifications"
+msgstr "अपने App को एक ऑडियो संदेश धन्यवाद करो पुश नोटिफिकेशन्स से."
+
+#: ../../../includes/admin/push_notes.php:49 ../../../includes/admin/iBeacon.php:50
+msgid "Unlimited push notifications"
+msgstr "असीमित पुश नोटिफिकेशन्स"
+
+#: ../../../includes/admin/push_notes.php:53
+msgid "Schedule push notes (Oct 2016)"
+msgstr "अनुसूची पुश नोट्स (अक्टूबर 2016)"
+
+#: ../../../includes/admin/push_notes.php:57 ../../../includes/admin/iBeacon.php:55
+msgid "HTML Rich windows"
+msgstr "HTML रिच विंडोज"
+
+#: ../../../includes/admin/push_notes.php:62 ../../../includes/admin/iBeacon.php:60
+msgid "Mobile Website"
+msgstr "मोबाइल वेबसाइट"
+
+#: ../../../includes/admin/push_notes.php:66 ../../../includes/admin/iBeacon.php:64
+msgid "iOS App"
+msgstr "iOS एप्लिकेशन"
+
+#: ../../../includes/admin/push_notes.php:70 ../../../includes/admin/iBeacon.php:68
+msgid "Android App"
+msgstr "एंड्रॉयड ऐप"
+
+#: ../../../includes/admin/push_notes.php:76 ../../../includes/admin/iBeacon.php:74
+msgid "Upgrade Today only $2.99/mo"
+msgstr "आज ही अपग्रेड करें केवल $2.99/mo"
+
+#: ../../../includes/admin/push_notes.php:82
+msgid "Activate Push Notifications"
+msgstr "पुश नोटिफिकेशन्स सक्रिय करें"
+
+#: ../../../includes/admin/push_notes.php:91
+msgid "Simply send out a message to all your app users in one go! Fill-out the form below and press send, our servers will take care of the rest."
+msgstr "एक ही बार में अपने सभी एप्लिकेशन उपयोगकर्ताओं संदेश भेजने के लिए! नीचे दिया गया फॉर्म भरें और प्रेस सेंड, बाकि सब हमारा सर्वर कर लेगा."
+
+#: ../../../includes/admin/push_notes.php:94
+msgid "Send a push notifcation"
+msgstr "पुश नोटिफिकेशन्स भेजें"
+
+#: ../../../includes/admin/push_notes.php:99
+msgid "characters left"
+msgstr "इतने अक्षर बाकी"
+
+#: ../../../includes/admin/push_notes.php:100
+msgid "Send"
+msgstr "भेजें"
+
+#: ../../../includes/admin/the_crowd.php:17
+msgid "The Community "
+msgstr "समुदाय"
+
+#: ../../../includes/admin/the_crowd.php:21
+msgid "Become part of a growing mobile marketing community!"
+msgstr "बढ़ते मोबाइल विपणन समुदाय का हिस्सा बनिए!"
+
+#: ../../../includes/admin/the_crowd.php:23
+msgid "Built in 2015 "
+msgstr "2015 में निर्मित"
+
+#: ../../../includes/admin/the_crowd.php:23
+msgid " was a project lead by a group of mobile & wordpress geeks. We love mobile and the way apps are improving our lives. This is where we thought we could help. By offering a <b><u>FREE</u></b> wordpress plugin that will convert your site/blog in to a beautiful mobile app. A community of enthusiastic people followed the plugin & encouraged us to share our mobile marketing knowledge in a forum."
+msgstr "इस परियोजना का मोबाइल और वर्डप्रेस विशेषज्ञ के एक समूह द्वारा नेतृत्व किया गया था। हमें मोबाइल और अनुप्रयोगों से प्यार है जिस तरह से वो हमारी जिंदगी बदल रही है. यह वह जगह है जहां हमने सोचा कि हम मदद कर सकते है. एक पेशकश करके <B> <u> मुफ्त में </ u> </ b>  वर्डप्रेस प्लगइन जो आपकी साइट / ब्लॉग को सुंदर मोबाइल एप्लिकेशन परिवर्तित कर देगा. उत्साही लोगों का एक समुदाय ने प्लगइन को फॉलो किया और हमें प्रोत्साहित किया ताकि फोरम में अपने मोबाइल विपणन ज्ञान साझा करें."
+
+#: ../../../includes/admin/the_crowd.php:29 ../../../includes/admin/the_crowd.php:39 ../../../includes/admin/more_info.php:10
+msgid "Help us grow"
+msgstr "हमें विकसित होने में मदद करें"
+
+#: ../../../includes/admin/the_crowd.php:32
+msgid "Here are a few free resources :"
+msgstr "यहाँ कुछ मुफ्त संसाधनों हैं:"
+
+#: ../../../includes/admin/the_crowd.php:34
+msgid "Mobile Marketing Videos"
+msgstr "मोबाइल विपणन वीडियो"
+
+#: ../../../includes/admin/the_crowd.php:35
+msgid "Mobile Marketing Facebook Group"
+msgstr "मोबाइल विपणन फेसबुक समूह"
+
+#: ../../../includes/admin/the_crowd.php:36
+msgid "Facebook Page"
+msgstr "फेसबुक पेज"
+
+#: ../../../includes/admin/the_crowd.php:47
+msgid "Thanks to the amazing support of our friends, family & followers we are really proud of WordApp."
+msgstr "हमारे दोस्तों, परिवार और अनुयायियों की अद्भुत समर्थन के लिए धन्यवाद हमें WordApp पर वास्तव में गर्व है।"
+
+#: ../../../includes/admin/the_crowd.php:50
+msgid "If you believe in WordApp the are many ways you can get involved :"
+msgstr "अगर आप WordApp में विश्वास करते हैं तो कई तरह से आप इसमें शामिल हो सकते हैं:"
+
+#: ../../../includes/admin/the_crowd.php:52
+msgid "Tell your friends & family"
+msgstr "अपने मित्रों और परिवार को बताएँ"
+
+#: ../../../includes/admin/the_crowd.php:53
+msgid "Share the love on Facebook & Twitter"
+msgstr "फेसबुक और ट्विटर पर आपका प्यार शेयर करें."
+
+#: ../../../includes/admin/the_crowd.php:54
+msgid "Write a plugin or theme for the marketplace"
+msgstr "एक प्लगइन या थीम लिखें बाजार के लिए"
+
+#: ../../../includes/admin/the_crowd.php:55 ../../.. /includes/admin/more_downloads.php:26
+msgid "Make a donation"
+msgstr "दान करें"
+
+#: ../../../includes/admin/the_crowd.php:57
+msgid "Thanks for all your help"
+msgstr "आपकी मदद के लिए शुक्रिया"
+
+#: ../../../includes/admin/the_crowd.php:70
+msgid "Join the free community !"
+msgstr "मुक्त समुदाय में शामिल हों!"
+
+#: ../../../includes/admin/more_downloads.php:17 ../../.. /includes/admin/index_page.php:106 ../../../includes/admin/index_page.php:114
+msgid "Welcome to "
+msgstr "आपका स्वागत है"
+
+#: ../../../includes/admin/more_downloads.php:21
+msgid "Help us keep WordApp Free!"
+msgstr "हमें WordApp मुक्त रखने में मदद करें!"
+
+#: ../../../includes/admin/more_downloads.php:22
+msgid "Get your app for free by donating or inviting 8 friends"
+msgstr "मुफ्त में आपकी एप्लिकेशन प्राप्त करने के लिए दान करें या 8 दोस्त को आमंत्रित करें"
+
+#: ../../../includes/admin/more_downloads.php:28 ../../.. /includes/admin/more_info.php:11
+msgid "We promise to invest every cent in to improving the plugin."
+msgstr "प्लगइन में सुधार करने के लिए हम हर सेण्ट निवेश करने का वादा करते है"
+
+#: ../../../includes/admin/popup.php:11 ../../../includes/admin/start.php:23
+msgid "Our famous 3 step install"
+msgstr "हमारे प्रसिद्ध 3 कदम स्थापित"
+
+#: ../../../includes/admin/popup.php:15 ../../../includes/admin/start.php:27 ../.. /../freemius/includes/i18n.php:96
+msgid "Name"
+msgstr "नाम"
+
+#: ../../../includes/admin/popup.php:20 ../../../includes/admin/start.php:32
+msgid "Theme"
+msgstr "थीम "
+
+#: ../../../includes/admin/popup.php:25 ../../../includes/admin/start.php:37
+msgid "Install"
+msgstr "स्थापित करें"
+
+#: ../../../includes/admin/popup.php:42 ../../../includes/admin/home.php:800 ../.. /../includes/admin/start.php:54
+msgid "Give your app a name"
+msgstr "अपने एप्लिकेशन एक नाम दें"
+
+#: ../../../includes/admin/popup.php:44 ../../../includes/admin/start.php:56
+msgid "Only A-Z charecters."
+msgstr "केवल A-Z अक्षर।"
+
+#: ../../../includes/admin/popup.php:46 ../../../includes/admin/start.php:58
+msgid "Note: This may overwrite any previous WordApp configurations. If you are upgrading you can click \"No thanks\" below."
+msgstr "नोट: यह किसी भी पिछले WordApp के विन्यास का ओवरराईट हो सकता है. अगर आप उन्नयन कर रहे हैं तो आप नीचे क्लिक कर सकते हैं \"नहीं धन्यवाद\" पर।"
+
+#: ../../../includes/admin/popup.php:49
+msgid "No Thanks"
+msgstr "जी नहीं, धन्यवाद"
+
+#: ../../../includes/admin/popup.php:52 ../../../includes/admin/popup.php:113
+msgid "Next step"
+msgstr "अगला कदम"
+
+#: ../../../includes/admin/popup.php:93 ../../../includes/admin/start.php:108 ../. ../freemius/includes/i18n.php:125 ../../../freemius/includes/fs-plugin-info- dialog.php:360
+msgid "Install Now"
+msgstr "अब स्थापित करें"
+
+#: ../../../includes/admin/popup.php:112 ../../../includes/admin/start.php:127
+msgid "Back"
+msgstr "वापस"
+
+#: ../../../includes/admin/popup.php:123 ../../../includes/admin/start.php:138
+msgid "Your information"
+msgstr "आपकी जानकारी"
+
+#: ../../../includes/admin/popup.php:125 ../../../includes/admin/home.php:126 ../. ../includes/admin/start.php:140
+msgid "App Name"
+msgstr "एप्लिकेशन का नाम"
+
+#: ../../../includes/admin/popup.php:126 ../../../includes/admin/start.php:141
+msgid "Theme Chosen"
+msgstr "थीम चुना हुआ"
+
+#: ../../../includes/admin/popup.php:127 ../../../includes/admin/start.php:148
+msgid "SUBMIT"
+msgstr "जमा करें"
+
+#: ../../../includes/admin/popup.php:133 ../../../includes/admin/start.php:158
+msgid "Cancel back to start"
+msgstr "रद्द वापस शुरू करने के लिए"
+
+#: ../../../includes/admin/more_info.php:3
+msgid "More Links"
+msgstr "अन्य लिंक्स"
+
+#: ../../../includes/admin/more_info.php:5
+msgid "We need your help!"
+msgstr "हमें आपकी सहायता की आवश्यकता है!"
+
+#: ../../../includes/admin/more_info.php:7
+msgid "Get app for free!"
+msgstr "मुक्त में  एप्लिकेशन प्राप्त करें!"
+
+#: ../../../includes/admin/more_info.php:20
+msgid "Become a reseller"
+msgstr "एक पुनर्विक्रेता बनें"
+
+#: ../../../includes/admin/more_info.php:20
+msgid "Unlimited Apps $99 (White label plugin)"
+msgstr "असीमित Apps $ 99 में (व्हाइट लेबल प्लगइन)"
+
+#: ../../../includes/admin/more_info.php:20 ../../../includes/admin/start.php:149
+msgid "More information"
+msgstr "अधिक जानकारी"
+
+#: ../../../includes/admin/home.php:76
+msgid "Live editor"
+msgstr "लाइव संपादक"
+
+#: ../../../includes/admin/home.php:76
+msgid "Watch the video before using customizer"
+msgstr "अनुकूलित उपयोग करने से पहले वीडियो देखें"
+
+#: ../../../includes/admin/home.php:86
+msgid "Colors"
+msgstr "रंग "
+
+#: ../../../includes/admin/home.php:86
+msgid "Top & bottom bar colors"
+msgstr "ऊपर और नीचे बार के रंग"
+
+#: ../../../includes/admin/home.php:89
+msgid "App  Toolbar Color"
+msgstr "एप्लिकेशन टूलबार का रंग"
+
+#: ../../../includes/admin/home.php:93
+msgid "+ Advanced colors & fonts"
+msgstr "+ उन्नत रंग और फोंट"
+
+#: ../../../includes/admin/home.php:99 ../../.. /themes/wordappjqmobileMyiOS/inc/customizer.php:233 /themes/wordappjqmobile/inc/customizer.php:232
+msgid "App header font & icon color"
+msgstr "एप्लिकेशन हैडर फ़ॉन्ट और आइकन रंग"
+
+#: ../../../includes/admin/home.php:101
+msgid "App header font"
+msgstr "एप्लिकेशन हैडर फ़ॉन्ट"
+
+#: ../../../includes/admin/home.php:106
+msgid "H1 H2 H3 font color"
+msgstr "H1 H2 H3 फ़ॉन्ट रंग"
+
+#: ../../../includes/admin/home.php:108
+msgid "H1 H2 H3 font"
+msgstr "H1 H2 H3 फ़ॉन्ट"
+
+#: ../../../includes/admin/home.php:113
+msgid "Paragraph font color"
+msgstr "अनुच्छेद फ़ॉन्ट के रंग"
+
+#: ../../../includes/admin/home.php:115
+msgid "Paragraph font"
+msgstr "अनुच्छेद फ़ॉन्ट"
+
+#: ../../../includes/admin/home.php:122
+msgid "App configuration"
+msgstr "एप्लिकेशन विन्यास"
+
+#: ../../../includes/admin/home.php:129
+msgid "App Logo"
+msgstr "एप्लिकेशन लोगो"
+
+#: ../../../includes/admin/home.php:131
+msgid "Upload Logo"
+msgstr "अपलोड लोगो"
+
+#: ../../../includes/admin/home.php:144
+msgid "App Homepage Background"
+msgstr "एप्लिकेशन मुखपृष्ठ पृष्ठभूमि"
+
+#: ../../../includes/admin/home.php:144
+msgid "May not be acceptable for all themes"
+msgstr "सभी थीम के लिए स्वीकार्य नहीं हो सकता"
+
+#: ../../../includes/admin/home.php:148 ../../.. /themes/wordappjqmobileMyiOS/inc/customizer.php:264 /themes/wordappjqmobile/inc/customizer.php:263
+msgid "App Background"
+msgstr "एप्लिकेशन पृष्ठभूमि"
+
+#: ../../../includes/admin/home.php:150
+msgid "Upload Background"
+msgstr "अपलोड पृष्ठभूमि"
+
+#: ../../../includes/admin/home.php:166
+msgid "Content style"
+msgstr "सामग्री शैली"
+
+#: ../../../includes/admin/home.php:166
+msgid "How the content is displayed on the homepage"
+msgstr "कैसे सामग्री मुखपृष्ठ पर प्रदर्शित की जाएगी"
+
+#: ../../../includes/admin/home.php:173
+msgid "App Theme"
+msgstr "एप्लिकेशन विषय"
+
+#: ../../../includes/admin/home.php:174
+msgid "Change App Theme"
+msgstr "एप्लिकेशन थीम बदलें "
+
+#: ../../../includes/admin/home.php:177
+msgid "Woocommerce Theme"
+msgstr "वूकमेर्स थीम"
+
+#: ../../../includes/admin/home.php:179
+msgid "Standard"
+msgstr "मापदंड"
+
+#: ../../../includes/admin/home.php:180
+msgid "Beautiful Slider - Fastfood"
+msgstr "सुंदर स्लाइडर - फास्ट फूड"
+
+#: ../../../includes/admin/home.php:182
+msgid "Beautiful Slider - Pub or Bar"
+msgstr "सुंदर स्लाइडर - पब या बार"
+
+#: ../../../includes/admin/home.php:184
+msgid "Beautiful Slider - Night Club"
+msgstr "सुंदर स्लाइडर - नाइट क्लब"
+
+#: ../../../includes/admin/home.php:185
+msgid "Beautiful Slider - Golf Courses"
+msgstr "सुंदर स्लाइडर - गोल्फ कोर्स"
+
+#: ../../../includes/admin/home.php:186
+msgid "Beautiful Slider - Spas"
+msgstr "सुंदर स्लाइडर - स्पा"
+
+#: ../../../includes/admin/home.php:188
+msgid "Beautiful Slider - Gyms & Fitness Clubs"
+msgstr "सुंदर स्लाइडर - जिम और फिटनेस क्लब"
+
+#: ../../../includes/admin/home.php:189
+msgid "Beautiful Slider - Auto Dealerships"
+msgstr "सुंदर स्लाइडर - ऑटो डीलरशिप"
+
+#: ../../../includes/admin/home.php:190
+msgid "Beautiful Slider - Churches"
+msgstr "सुंदर स्लाइडर - चर्च"
+
+#: ../../../includes/admin/home.php:191
+msgid "Beautiful Slider - Bands & DJs"
+msgstr "सुंदर स्लाइडर - बैंड और डीजे"
+
+#: ../../../includes/admin/home.php:193
+msgid "Beautiful Slider - Chiropractors"
+msgstr "सुंदर स्लाइडर - Chiropractors"
+
+#: ../../../includes/admin/home.php:194
+msgid "Beautiful Slider - Hair Salons"
+msgstr "सुंदर स्लाइडर - बाल सैलून"
+
+#: ../../../includes/admin/home.php:195
+msgid "Beautiful Slider - Other"
+msgstr "सुंदर स्लाइडर - अन्य"
+
+#: ../../../includes/admin/home.php:196
+msgid "Use my theme (Not recommended)"
+msgstr "मेरे थीम का उपयोग करें (अनुशंसित नहीं)"
+
+#: ../../../includes/admin/home.php:206
+msgid "Post list style"
+msgstr "पोस्ट सूची शैली"
+
+#: ../../../includes/admin/home.php:208
+msgid "List of posts"
+msgstr "पोस्ट की सूची"
+
+#: ../../../includes/admin/home.php:215
+msgid "Large Tiles"
+msgstr "लार्ज टाइल्स"
+
+#: ../../../includes/admin/home.php:225
+msgid "Opening page :"
+msgstr "प्रारंभिक पृष्ठ:"
+
+#: ../../../includes/admin/home.php:227
+msgid "A page"
+msgstr " पेज"
+
+#: ../../../includes/admin/home.php:242
+msgid "-- Select a page --"
+msgstr "- एक पृष्ठ का चयन करें -"
+
+#: ../../../includes/admin/home.php:282
+msgid "Choose a theme :"
+msgstr "एक थीम चुनें:"
+
+#: ../../../includes/admin/home.php:300
+msgid "Default "
+msgstr "डिफ़ॉल्ट"
+
+#: ../../../includes/admin/home.php:302
+msgid "Use Wordpress default settings"
+msgstr "वर्डप्रेस डिफ़ॉल्ट सेटिंग्स का उपयोग करें"
+
+#: ../../../includes/admin/home.php:364
+msgid "Activated Navigation Bars"
+msgstr "सक्रिय नेविगेशन बार्स"
+
+#: ../../../includes/admin/home.php:366
+msgid "Activate Bars?"
+msgstr "बार्स सक्रिय करें?"
+
+#: ../../../includes/admin/home.php:370
+msgid "If using your own theme you can add mobile navigation bars"
+msgstr "अगर आप अपने स्वयं के थीम का उपयोग कर रहे हे तो मोबाइल नेविगेशन बार्स जोड़ सकते हैं"
+
+#: ../../../includes/admin/home.php:375
+msgid "Side Menu"
+msgstr "साइड मेनू"
+
+#: ../../../includes/admin/home.php:379
+msgid "Side Menus"
+msgstr "साइड मेनुस"
+
+#: ../../../includes/admin/home.php:381 ../../../includes/admin/home.php:400 ../.. /../includes/admin/home.php:416 ../../../includes/admin/home.php:618 ../../.. /includes/admin/settings.php:46 ../../../includes/admin/settings.php:103
+msgid "off"
+msgstr "बंद"
+
+#: ../../../includes/admin/home.php:382 ../../../includes/admin/home.php:401 ../.. /../includes/admin/home.php:417 ../../../includes/admin/home.php:619 ../../.. /includes/admin/settings.php:47 ../../../includes/admin/settings.php:104
+msgid "on"
+msgstr "चालू"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405
+msgid "Choose a "
+msgstr "चुनें"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405 ../.. /../includes/admin/home.php:421
+msgid "menu"
+msgstr "मेनू"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405 ../.. /../includes/admin/home.php:421
+msgid "to attach to this navigation bar"
+msgstr "इस नेविगेशन बार को संलग्न करने के लिए"
+
+#: ../../../includes/admin/home.php:395
+msgid "Top Menu"
+msgstr "टॉप मेनू"
+
+#: ../../../includes/admin/home.php:398
+msgid "Top Menus"
+msgstr "टॉप मेनुस"
+
+#: ../../../includes/admin/home.php:411
+msgid "Bottom Navigation"
+msgstr "निचला नेविगेशन"
+
+#: ../../../includes/admin/home.php:411 ../../../includes/admin/home.php:421
+msgid "Activate & choice of icons"
+msgstr "आइकॉन को सक्रिय करने और चुनाव करने के लिए"
+
+#: ../../../includes/admin/home.php:414
+msgid "Bottom Menus"
+msgstr "मेनुस निचला "
+
+#: ../../../includes/admin/home.php:421
+msgid "Save to update icons"
+msgstr "आइकॉन अपडेट करने के लिए सेव करें"
+
+#: ../../../includes/admin/home.php:475 ../../../includes/admin/home.php:479
+msgid "Preview Icons"
+msgstr "आइकॉन  पूर्वावलोकन "
+
+#: ../../../includes/admin/home.php:501 ../../../includes/admin/home.php:504
+msgid "App Icon"
+msgstr "एप्लिकेशन आइकॉन  "
+
+#: ../../../includes/admin/home.php:501
+msgid "Icon size must be 512px x 512px"
+msgstr "आइकॉन का आकार 512px x 512px होना चाहिए "
+
+#: ../../../includes/admin/home.php:506
+msgid "Upload Icon"
+msgstr "अपलोड आइकॉन"
+
+#: ../../../includes/admin/home.php:518
+msgid "App Splash Screen"
+msgstr "एप्लिकेशन स्पलैश स्क्रीन"
+
+#: ../../../includes/admin/home.php:518
+msgid "Splash size must be 640px x 1136px"
+msgstr "स्पलैश का आकार 640px x 1136px होना चाहिए"
+
+#: ../../../includes/admin/home.php:521
+msgid "App Splash"
+msgstr "एप्लिकेशन स्पलैश"
+
+#: ../../../includes/admin/home.php:523
+msgid "Upload Splash"
+msgstr "अपलोड स्पलैश"
+
+#: ../../../includes/admin/home.php:535
+msgid "App Meta"
+msgstr "एप्लिकेशन मेटा"
+
+#: ../../../includes/admin/home.php:535
+msgid "Info used in the app store listings"
+msgstr "ऐप स्टोर में इस्तेमाल किहुयी  जानकारी  कि लिस्टिंग"
+
+#: ../../../includes/admin/home.php:538
+msgid "App Description"
+msgstr "एप्लिकेशन विवरण"
+
+#: ../../../includes/admin/home.php:541
+msgid "App Version"
+msgstr "एप्लिकेशन वेरीज़न"
+
+#: ../../../includes/admin/home.php:542
+msgid "Upgrade to change version"
+msgstr "संस्करण को बदलने के लिए नवीनीकरण"
+
+#: ../../../includes/admin/home.php:546
+msgid "App Keywords"
+msgstr "अनुप्रयोग कीवर्ड"
+
+#: ../../../includes/admin/home.php:549
+msgid "App Category"
+msgstr "एप्लिकेशन श्रेणी"
+
+#: ../../../includes/admin/home.php:616
+msgid "Activate the slideshow ?"
+msgstr "स्लाइड शो सक्रिय करें?"
+
+#: ../../../includes/admin/home.php:625
+msgid "Woocommerce Category"
+msgstr "वूकमेर्स श्रेणी"
+
+#: ../../../includes/admin/home.php:632
+msgid "Select a category"
+msgstr "श्रेणी का चयन करें"
+
+#: ../../../includes/admin/home.php:643 ../../../includes/admin/home.php:664 ../.. /../includes/admin/home.php:683 ../../../includes/admin/home.php:701 ../../.. /includes/admin/home.php:719
+msgid "Slide"
+msgstr "स्लाइड"
+
+#: ../../../includes/admin/home.php:644 ../../../includes/admin/home.php:664 ../.. /../includes/admin/home.php:683 ../../../includes/admin/home.php:701 ../../.. /includes/admin/home.php:719
+msgid "Landscape photos work the best"
+msgstr "लैंडस्केप तस्वीरें सबसे अच्छा काम करती है"
+
+#: ../../../includes/admin/home.php:647
+msgid "Slide Image #1"
+msgstr "स्लाइड छवि # 1"
+
+#: ../../../includes/admin/home.php:649 ../../../includes/admin/home.php:669 ../.. /../includes/admin/home.php:688 ../../../includes/admin/home.php:706 ../../.. /includes/admin/home.php:724
+msgid "Upload Image"
+msgstr "अपलोड छवि "
+
+#: ../../../includes/admin/home.php:667
+msgid "Slide Image #2"
+msgstr "स्लाइड छवि # 2"
+
+#: ../../../includes/admin/home.php:686
+msgid "Slide Image #3"
+msgstr "स्लाइड छवि # 3"
+
+#: ../../../includes/admin/home.php:704
+msgid "Slide Image #4"
+msgstr "स्लाइड छवि # 4"
+
+#: ../../../includes/admin/home.php:722
+msgid "Slide Image #5"
+msgstr "स्लाइड छवि # 5"
+
+#: ../../../includes/admin/home.php:754
+msgid "Premium users app publisher."
+msgstr "प्रीमियम उपयोगकर्ताओं के अनुप्रयोग प्रकाशक।"
+
+#: ../../../includes/admin/home.php:755
+msgid "Need a new version of your app?"
+msgstr "क्या आपके एप्लिकेशन के नए संस्करण की आवश्यकता है?"
+
+#: ../../../includes/admin/home.php:756
+msgid "Check everything is correctly filled out and Hit Publish app."
+msgstr "जांचे सब कुछ सही ढंग से भरा हुआ है और प्रेस करें प्रकाशित एप्लिकेशन"
+
+#: ../../../includes/admin/home.php:762
+msgid "This is where it gets complicated!"
+msgstr "यह जहां यह जटिल हो जाता है!"
+
+#: ../../../includes/admin/home.php:763
+msgid "but that is why we are here, right?"
+msgstr "इसीलिए हम यहाँ हैं , सही में?"
+
+#: ../../../includes/admin/home.php:764
+msgid "Watch this short video to see how it works."
+msgstr "इस छोटे से वीडियो देखें, यह काम किस प्रकार करता है।"
+
+#: ../../../includes/admin/home.php:770
+msgid "Get your android app for free !"
+msgstr "अपने एंड्रॉयड एप्लिकेशन को  मुक्त प्राप्त करें"
+
+#: ../../../includes/admin/home.php:776
+msgid "Check List"
+msgstr "चेकलिस्ट"
+
+#: ../../../includes/admin/home.php:820
+msgid "Write a description about your app"
+msgstr "आपके एप्लिकेशन के बारे में विवरण लिखें"
+
+#: ../../../includes/admin/home.php:840
+msgid "Choose an app category"
+msgstr "एप्लिकेशन श्रेणी चुनें"
+
+#: ../../../includes/admin/home.php:861
+msgid "Upload app icon"
+msgstr "Upload app icon"
+
+#: ../../../includes/admin/home.php:884
+msgid "Upload app splash screen"
+msgstr "अपलोड अनुप्रयोग स्प्लैश स्क्रीन"
+
+#: ../../../includes/admin/home.php:910
+msgid "Upload PEM certificates for apple"
+msgstr "एप्पल के लिए PEM प्रमाण पत्र अपलोड करें"
+
+#: ../../../includes/admin/home.php:912
+msgid "Optional"
+msgstr "वैकल्पिक"
+
+#: ../../../includes/admin/home.php:927 ../../../includes/admin/home.php:950
+msgid "To which email address would you like us to send your app ?"
+msgstr "किस ईमेल एड्रेस पर आप हमें अपनी अप्प भेजना पसन्द करेंगे?"
+
+#: ../../../includes/admin/home.php:928 ../../../includes/admin/home.php:1049
+msgid "Your email address"
+msgstr "आपका ईमेल पता"
+
+#: ../../../includes/admin/home.php:934
+msgid "Publish App!"
+msgstr "अनुप्रयोग प्रकाशित!"
+
+#: ../../../includes/admin/home.php:939
+msgid "You must fill out all the info above to re-publish your app."
+msgstr "आप उपरोक्त सभी जानकारी भरें आपके एप्लिकेशन को फिर से प्रकाशित करने के लिए।"
+
+#: ../../../includes/admin/home.php:1005
+msgid "Hit Upgrade to Publish below"
+msgstr "नीचे प्रकाशित करने के लिए उन्नत पर क्लिक करें"
+
+#: ../../../includes/admin/home.php:1007 ../../../includes/admin/home.php:1014
+msgid "Publish Android App!"
+msgstr "एंड्रॉयड ऐप प्रकाशित करें!"
+
+#: ../../../includes/admin/home.php:1009 ../../../includes/admin/home.php:1016 .. /../../includes/admin/home.php:1105
+msgid "Upgrage to Pro only $2.99"
+msgstr "अपग्रेड प्रो केवल $ 2.99 पर "
+
+#: ../../../includes/admin/home.php:1042
+msgid "You must fill out all the information above to publish your app!"
+msgstr "आपको  अपने एप्लिकेशन को प्रकाशित करने के लिए ऊपर सभी जानकारी भरनी चाहिए!"
+
+#: ../../../includes/admin/home.php:1101
+msgid "Your android app is now free"
+msgstr "अपने एंड्रॉयड एप्लिकेशन अब स्वतंत्र है"
+
+#: ../../../includes/admin/home.php:1101
+msgid "Hit publish below!"
+msgstr "नीचे प्रकाशित क्लिक करें!"
+
+#: ../../../includes/admin/home.php:1119
+msgid "External link"
+msgstr "बाहरी लिंक"
+
+#: ../../../includes/admin/home.php:1152 ../../../includes/admin/css_editor.php:69
+msgid "Preview my app"
+msgstr "आपकी अनुप्रयोग का पूर्वावलोकन"
+
+#: ../../../includes/admin/home.php:1162 ../../../includes/admin/home.php:1184
+msgid "Preview your app in full"
+msgstr "पूर्ण में आपकी अनुप्रयोग का पूर्वावलोकन"
+
+#: ../../../includes/admin/home.php:1202
+msgid "Can't see your app? Try deactivating some plugins"
+msgstr "आपकी एप्लिकेशन को नहीं देख सकते हैं? कुछ प्लगइन्स निष्क्रिय  करो"
+
+#: ../../../includes/admin/home.php:1204
+msgid "that are non-mobile friendly."
+msgstr "गैर-मोबाइल के अनुकूल हैं।"
+
+#: ../../../includes/admin/home.php:1274
+msgid "There are no menus."
+msgstr "इसमें कोई मेनू  नहीं हैं।"
+
+#: ../../../includes/admin/home.php:1280
+#, php-format
+msgid " <a href=\"%s\">Create one</a>."
+msgstr " <a href=\"%s\">Create one</a>."
+
+#: ../../../includes/admin/home.php:1292
+msgid "Select a menu"
+msgstr "मेनू का चयन करें"
+
+#: ../../../includes/admin/home.php:1974
+msgid "Mobile Pages"
+msgstr "मोबाइल पेजेज"
+
+#: ../../../includes/admin/videos.php:30
+msgid "Watch Now"
+msgstr "अब देखिए"
+
+#: ../../../includes/admin/videos.php:33
+msgid "By"
+msgstr "द्वारा"
+
+#: ../../../includes/admin/videos.php:39
+msgid "Duration"
+msgstr "अवधि"
+
+#: ../../../includes/admin/videos.php:40
+msgid "mins"
+msgstr "मिनट"
+
+#: ../../../includes/admin/videos.php:44
+msgid "Tags"
+msgstr "टैग"
+
+#: ../../../includes/admin/footer.php:2
+msgid "Made with &#10084; by geeks who love wordpress & mobile"
+msgstr "बनाया गया &#10084;विशेषज्ञों द्वारा जो वर्डप्रेस व मोबाइल प्यार से करते है"
+
+#: ../../../includes/admin/settings.php:17
+msgid "Settings "
+msgstr "सेटिंग्स"
+
+#: ../../../includes/admin/settings.php:40
+msgid "Activate mobile site"
+msgstr "मोबाइल साइट को सक्रिय करें"
+
+#: ../../../includes/admin/settings.php:45
+msgid "Do you want to use this as your mobile website too ?"
+msgstr "आप को इसे अपने मोबाइल वेबसाइट के रूपमें भी इस्तेमाल करना पसंद है?"
+
+#: ../../../includes/admin/settings.php:46
+msgid "Mobile Site ? "
+msgstr "मोबाइल साइट?"
+
+#: ../../../includes/admin/settings.php:49
+msgid "Google Analytics"
+msgstr "गूगल विश्लेषिकी"
+
+#: ../../../includes/admin/settings.php:52
+msgid "Add your Google Analytics tracking ID below. Get more information about your app downloads, views & activity. "
+msgstr "अपने गूगल विश्लेषिकी ट्रैकिंग आईडी नीचे जोड़ें।आपके एप्लिकेशन डाउनलोड, विचारों और गतिविधियों के बारे में और अधिक जानकारी प्राप्त करें।"
+
+#: ../../../includes/admin/settings.php:53
+msgid "Setup a google tracking ID here"
+msgstr " गूगल ट्रैकिंग आईडी स्थापित करें"
+
+#: ../../../includes/admin/settings.php:53
+msgid "Google Analytics ID"
+msgstr "गूगल एनालिटिक्स ID"
+
+#: ../../../includes/admin/settings.php:56
+msgid "API credentials"
+msgstr "API क्रेडेन्टियल्स"
+
+#: ../../../includes/admin/settings.php:58
+msgid "If you have subscribed for push notifications you will be sent API credentials via email."
+msgstr "अगर आपने पुश नोटिफिकेशन्स के लिए सदस्यता ली है, तो आपको ईमेल के माध्यम से API क्रेडेन्टियल्स जाएगा।"
+
+#: ../../../includes/admin/settings.php:59
+msgid "API Login"
+msgstr "API लॉग इन"
+
+#: ../../../includes/admin/settings.php:62
+msgid "API Key"
+msgstr "API कुंजी"
+
+#: ../../../includes/admin/settings.php:65
+msgid "API Domain"
+msgstr "API डोमेन"
+
+#: ../../../includes/admin/settings.php:69
+msgid "QRCODE setup"
+msgstr "क्यूआर कोड सेटअप"
+
+#: ../../../includes/admin/settings.php:71
+msgid "Android URL"
+msgstr "एंड्रॉयड URL"
+
+#: ../../../includes/admin/settings.php:74
+msgid "iOS URL"
+msgstr "आईओएस URL"
+
+#: ../../../includes/admin/settings.php:77
+msgid "White Label App"
+msgstr "व्हाइट लेबल ऐप"
+
+#: ../../../includes/admin/settings.php:81
+msgid "Remove powered by link ?"
+msgstr "लिंक के द्वारा संचालित निकालें?"
+
+#: ../../../includes/admin/settings.php:82
+msgid "Yes ? "
+msgstr "हाँ ?"
+
+#: ../../../includes/admin/settings.php:85
+msgid "Remove powered by & ads (PRO only)"
+msgstr "विज्ञापनों द्वारा संचालित निकालें (प्रो केवल)"
+
+#: ../../../includes/admin/settings.php:86
+msgid "Upgrade"
+msgstr "नवीनीकरण"
+
+#: ../../../includes/admin/settings.php:88
+msgid "Hide Chat"
+msgstr "चैट मिटायें"
+
+#: ../../../includes/admin/settings.php:92
+msgid "Here to help but I don't what to get in your way.."
+msgstr "यहाँ मदद करने के लिए है, लेकिन मैं तुम्हारे काम में दखल देना नहीं चाहता"
+
+#: ../../../includes/admin/settings.php:93
+msgid "Hide Chat? "
+msgstr "चैट छुपाएं?"
+
+#: ../../../includes/admin/settings.php:98
+msgid "Emails & Newsletter"
+msgstr "ईमेल और न्यूज़लेटर"
+
+#: ../../../includes/admin/settings.php:102
+msgid "Do you want to be informed about latest security updates & news from WordApps ?"
+msgstr "किया आप WordApps से नवीनतम सुरक्षा अद्यतन और समाचार सूचित के बारे में जाना चाहते हैं?"
+
+#: ../../../includes/admin/settings.php:103
+msgid "Newsletter ? "
+msgstr "न्यूज़लेटर?"
+
+#: ../../../includes/admin/settings.php:110
+msgid "Deactivate Plugins on mobile"
+msgstr "मोबाइल पर प्लगइन्स निष्क्रिय करें"
+
+#: ../../../includes/admin/settings.php:113
+msgid "Some plugins might not look great on mobile but work fine on desktop. Here you can deactivate plugins on the mobile version & app."
+msgstr "कुछ प्लगइन्स मोबाइल पर उचित नहीं लग रही है लेकिन डेस्कटॉप पर ठीक काम हो सकता है। यहाँ पर से आप मोबाइल संस्करण और ऐप पर प्लगइन्स निष्क्रिय कर सकते हैं।"
+
+#: ../../../includes/admin/settings.php:114
+msgid "Checked plugins will be deactivated on mobile only"
+msgstr "चेक करें प्लगइन्स केवल मोबाइल पर निष्क्रिय हो जाए"
+
+#: ../../../includes/admin/settings.php:115
+msgid "Beta testing this part"
+msgstr " इस भाग का बीटा परीक्षण"
+
+#: ../../../includes/admin/settings.php:134
+msgid "Currently Active"
+msgstr "वर्तमान में सक्रिय"
+
+#: ../../../includes/admin/settings.php:134
+msgid "Currently Inactive"
+msgstr "वर्तमान में निष्क्रिय"
+
+#: ../../../includes/admin/settings.php:160
+msgid "Did you delete the mobile homepage?"
+msgstr "आपने मोबाइल मुखपृष्ठ हटा दिया था?"
+
+#: ../../../includes/admin/settings.php:161
+msgid "Reset mobile home page"
+msgstr " रीसेट मोबाइल मुख पृष्ठ"
+
+#: ../../../includes/admin/index_page.php:79 ../../../includes/admin/plugins.php:82
+msgid "Install successful"
+msgstr "इंस्टॉल सफल"
+
+#: ../../../includes/admin/index_page.php:114
+msgid ", Convert your wordpress site/blog in to a mobile app & mobile site within minutes"
+msgstr ",अपने वर्डप्रेस साइट / ब्लॉग को मोबाइल एप्लिकेशन और मोबाइल साइट में कुछ ही मिनटों में परिवर्तित करें"
+
+#: ../../../includes/admin/index_page.php:118
+msgid "Fast & Reliable"
+msgstr "तेज और विश्वसनीय"
+
+#: ../../../includes/admin/index_page.php:118
+msgid "Build your mobile app within minutes. It's as easy as 1-2-3"
+msgstr "कुछ ही मिनटों के भीतर अपने मोबाइल एप्लिकेशन का निर्माण करें। यह 1-2-3 की गिनती करने जैसा आसान है"
+
+#: ../../../includes/admin/index_page.php:119
+msgid "No programming skills."
+msgstr "प्रोग्रामिंग कौशल आवश्यक नहीं।"
+
+#: ../../../includes/admin/index_page.php:119
+msgid "No programming skills needed. You don’t need to be a computer wiz-kid to use "
+msgstr "प्रोग्रामिंग कौशल की जरूरत नहीं है। इसका उपयोग करने के लिए एक कंप्यूटर गुरु होने की जरूरत नहीं है"
+
+#: ../../../includes/admin/index_page.php:120
+msgid "Our Community"
+msgstr "हमारा समुदाय"
+
+#: ../../../includes/admin/index_page.php:120
+msgid "We started as a bunch of geek and now we have an amazing app-developers.biz community."
+msgstr "हमने कई गीक के साथ काम शुरू किया था और अब हम एक अद्भुत app-developers.biz का समुदाय है।"
+
+#: ../../../includes/admin/index_page.php:126
+msgid "Invite your friends and get your android app for FREE!"
+msgstr "अपने मित्रों को आमंत्रित करें और मुफ़्त मैं अपने लिए एंड्रॉयड एप्लिकेशन प्राप्त करें!"
+
+#: ../../../includes/admin/index_page.php:163
+msgid "Quick Links"
+msgstr "क्विक लिंक्स"
+
+#: ../../../includes/admin/index_page.php:170
+msgid "website"
+msgstr "वेबसाइट"
+
+#: ../../../includes/admin/index_page.php:171
+msgid "Mobile Marketing Community"
+msgstr "मोबाइल विपणन समुदाय"
+
+#: ../../../includes/admin/index_page.php:172
+msgid "About App Developers"
+msgstr "अनुप्रयोग डेवलपर्स के बारे में"
+
+#: ../../../includes/admin/index_page.php:173
+msgid "Changelog"
+msgstr "लॉग बदलें"
+
+#: ../../../includes/admin/index_page.php:186
+msgid "Latest News"
+msgstr "ताज़ा खबर"
+
+#: ../../../includes/admin/start.php:55
+msgid "Your app name"
+msgstr "आपके अनुप्रयोग का  नाम"
+
+#: ../../../includes/admin/start.php:128
+msgid "Next Step"
+msgstr "अगला कदम"
+
+#: ../../../includes/admin/start.php:144
+msgid "Email address"
+msgstr "ईमेल पता"
+
+#: ../../../includes/admin/start.php:146
+msgid "Recommended"
+msgstr "संस्तुत"
+
+#: ../../../includes/admin/start.php:146
+msgid "Receive updates via email."
+msgstr "ईमेल के माध्यम से अपडेट प्राप्त करें।"
+
+#: ../../../includes/admin/start.php:149
+msgid "Become a reseller \\(White label plugin\\)"
+msgstr " पुनर्विक्रेता  बनें (व्हाइट लेबल प्लगइन \\)"
+
+#: ../../../includes/admin/start.php:151
+msgid "Please note by pressing submit you will be sending some information to the WordApp so that we can generate your app."
+msgstr "कृपया ध्यान दें सबमिट दबाकर आप कुछ जानकारी WordApp को भेज रहे हो जिससे हम आपके लिए आपकी एप्लीकेशन का निर्माण करेंगे"
+
+#: ../../../includes/admin/start.php:151
+msgid "What information is sent? Your Blog URL & the email address above."
+msgstr "क्या जानकारी भेज दी गयी है? आपके ब्लॉग URL और ऊपर ईमेल पता।"
+
+#: ../../../includes/admin/iBeacon.php:80
+msgid "Activate Push Notifcations"
+msgstr "पुश नोटिफिकेशन्स सक्रिय करें"
+
+#: ../../../includes/admin/iBeacon.php:102
+msgid "Active"
+msgstr "सक्रिय"
+
+#: ../../../includes/admin/iBeacon.php:103
+msgid "Beacon UUID"
+msgstr "बीकन UUID"
+
+#: ../../../includes/admin/iBeacon.php:104
+msgid "Minor"
+msgstr "गौण"
+
+#: ../../../includes/admin/iBeacon.php:105
+msgid "Major"
+msgstr "प्रमुख"
+
+#: ../../../includes/admin/iBeacon.php:106
+msgid "Message"
+msgstr "संदेश"
+
+#: ../../../includes/admin/plugins.php:130 ../../../includes/admin/plugins.php:178
+msgid "GET MORE THEMES"
+msgstr "ज्यादा थीम प्राप्र्त करे"
+
+#: ../../../includes/admin/plugins.php:186
+msgid "USE ONE OF YOUR WORDPRESS THEMES"
+msgstr "अपने WordPress थीम  में से एक का उपयोग करें"
+
+#: ../../../includes/admin/plugins.php:262
+msgid "* Changing themes may delete some of your information"
+msgstr "*थीम बदलने से आपकी कुछ जानकारी नष्ट हो सकती है"
+
+#: ../../../includes/admin/css_editor.php:23
+msgid "Add your own CSS to your app"
+msgstr "अपने खुद के CSS आपकी App से जोड़ें"
+
+#: ../../../includes/admin/css_editor.php:72
+msgid "Clicking deactivated in demo"
+msgstr "क्लिकिंग डॉक्टिवटेड इन डेमो"
+
+#: ../../../includes/admin/marketing_gear.php:26
+msgid "Some marketing gear to help you get app downloads - "
+msgstr "कुछ विपणन गियर आपकी एप्लिकेशन अधिक डाउनलोड करने के लिए उपयोगी है"
+
+#: ../../../includes/admin/marketing_gear.php:31 ../../.. /includes/admin/marketing_gear.php:33 ../../../includes/admin/marketing_gear. php:36
+msgid "* Right mouse click and save image as to download image"
+msgstr "*इमेज डाउनलोड करने केलिए दाहिने बटन पर क्लिक करे"
+
+#: ../../../includes/classes/front_end_widgets.php:48
+msgid "Title:"
+msgstr "शीर्षक:"
+
+#: ../../../includes/classes/front_end_widgets.php:52
+msgid "iTunes Link"
+msgstr "iTunes लिंक"
+
+#: ../../../includes/classes/front_end_widgets.php:56
+msgid "Play Store Link"
+msgstr "प्ले स्टोर लिंक"
+
+#. Name of the plugin
+msgid "WordApp MU"
+msgstr "WordApp MU"
+
+#. Author of the plugin
+msgid "Davidd Anthony"
+msgstr "Davidd Anthony"
+
+#. Description of the plugin
+msgid "Helper plugin for WordApp"
+msgstr "हेल्पर प्लगइन WordApp के लिए "
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:42 ../../.. /themes/wordappjqmobileMyiOS/loop.php:77 /themes/wordappjqmobilewooWordApp/loop-single.php:42 /themes/wordappjqmobilewooWordApp/loop.php:77
+#, fuzzy, php-format
+msgid "Posted on %s"
+msgstr " प्रकाशित किया गया था"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:43 ../../.. /themes/wordappjqmobileMyiOS/loop.php:78 /themes/wordappjqmobilewooWordApp/loop-single.php:43 /themes/wordappjqmobilewooWordApp/loop.php:78
+#, fuzzy, php-format
+msgid " by %s"
+msgstr " द्वारा"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:54 ../../.. /themes/wordappjqmobileMyiOS/loop.php:89 /themes/wordappjqmobileMyiOS/functions.php:231 /themes/wordappjqmobile/functions.php:216 /themes/wordappjqmobilewooWordApp/loop-single.php:54 /themes/wordappjqmobilewooWordApp/loop.php:89
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop.php:33 ../../.. /themes/wordappjqmobileMyiOS/loop.php:36 /themes/wordappjqmobileMyiOS/loop.php:39 /themes/wordappjqmobilewooWordApp/loop.php:33 /themes/wordappjqmobilewooWordApp/loop.php:36 /themes/wordappjqmobilewooWordApp/loop.php:39
+#, php-format
+msgid "Archive for %s"
+msgstr "आर्काइव फॉर %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop.php:57 ../../.. /themes/wordappjqmobilewooWordApp/loop.php:57 /themes/wordappjqmobilewooWordApp/functions.php:91
+#, php-format
+msgid "Permalink to %s"
+msgstr "परमालिंक to %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:36 ../../.. /themes/wordappjqmobile/functions.php:21
+msgid "Primary"
+msgstr "प्राथमिक"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:37 ../../.. /themes/wordappjqmobile/functions.php:22
+msgid "A short description of the sidebar."
+msgstr "साइडबार का एक संक्षिप्त विवरण।"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:75 ../../.. /themes/wordappjqmobile/functions.php:60
+msgid "Body"
+msgstr "बॉडी"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:79 ../../.. /themes/wordappjqmobile/functions.php:64
+msgid "Header"
+msgstr "हैडर"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:83 ../../.. /themes/wordappjqmobile/functions.php:68
+msgid "Footer"
+msgstr "फुटर"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:87 ../../.. /themes/wordappjqmobile/functions.php:72
+msgid "Post Teaser"
+msgstr "पोस्ट टीज़र"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:91 ../../.. /themes/wordappjqmobile/functions.php:76
+msgid "Sticky Post"
+msgstr "स्टिकी पोस्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:95 ../../.. /themes/wordappjqmobile/functions.php:80
+msgid "Widget"
+msgstr "विजेट"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:99 ../../.. /themes/wordappjqmobile/functions.php:84
+msgid "Widget Content"
+msgstr "विजेट सामग्री"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:103 ../../.. /themes/wordappjqmobile/functions.php:88
+msgid "Comments"
+msgstr "टिप्पणियाँ"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:107 ../../.. /themes/wordappjqmobile/functions.php:92
+msgid "Comment Form"
+msgstr "टिप्पणी फार्म"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:213 ../../.. /themes/wordappjqmobile/functions.php:198
+msgid "Pages"
+msgstr "पेज"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:216 ../../.. /themes/wordappjqmobile/functions.php:201
+msgid "Text"
+msgstr "टेक्स्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:219 ../../.. /themes/wordappjqmobile/functions.php:204
+msgid "Search"
+msgstr "खोज"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:222 ../../.. /themes/wordappjqmobile/functions.php:207
+msgid "Tag cloud"
+msgstr "टैग क्लाउड"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:225 ../../.. /themes/wordappjqmobile/functions.php:210
+msgid "Recent posts"
+msgstr "हाल के पोस्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:228 ../../.. /themes/wordappjqmobile/functions.php:213
+msgid "Meta"
+msgstr "मेटा"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:234 ../../.. /themes/wordappjqmobileMyiOS/inc/template-tags.php:181 /themes/wordappjqmobile/functions.php:219 /themes/wordappjqmobile/inc/template-tags.php:181
+msgid "Archives"
+msgstr "आर्काइव्ज"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:237 ../../.. /themes/wordappjqmobile/functions.php:222
+msgid "Calendar"
+msgstr "कैलेंडर"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:240 ../../.. /themes/wordappjqmobile/functions.php:225
+msgid "Custom menu"
+msgstr "कस्टम मेनू"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:253 ../../.. /themes/wordappjqmobile/functions.php:238
+msgid "Pingback:"
+msgstr "पिंगबक:"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:253 ../../.. /themes/wordappjqmobileMyiOS/functions.php:279 /themes/wordappjqmobileMyiOS/template-parts/content-page.php:26 /themes/wordappjqmobileMyiOS/inc/template-tags.php:126 /themes/wordappjqmobile/functions.php:238 /themes/wordappjqmobile/functions.php:264 /themes/wordappjqmobile/template-parts/content-page.php:26 /themes/wordappjqmobile/inc/template-tags.php:126
+msgid "Edit"
+msgstr "एडिट"
+
+#. translators: 1: comment author, 2: date and time
+#. translators: 1: comment author, 2: date and time
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:268 ../../.. /themes/wordappjqmobile/functions.php:253
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s on %2$s <span class=\"says\">said:</span>"
+
+#. translators: 1: date, 2: time
+#. translators: 1: date, 2: time
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:274 ../../.. /themes/wordappjqmobile/functions.php:259
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:283 ../../.. /themes/wordappjqmobile/functions.php:268
+msgid "Your comment is awaiting moderation."
+msgstr "आपकी टिप्पणी का इंतजार है संतुलन के लिए"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:290 ../../.. /themes/wordappjqmobile/functions.php:275
+msgid "Reply <span>&darr;</span>"
+msgstr "Reply <span>&darr;</span>"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:335 ../../.. /themes/wordappjqmobile/functions.php:320
+msgid "Primary Menu"
+msgstr "मुख्य मेनू"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:390 ../../.. /themes/wordappjqmobile/functions.php:375
+msgid "Sidebar"
+msgstr "साइडबार"
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:8 ../../.. /themes/wordappjqmobile/404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:12 ../../.. /themes/wordappjqmobile/404.php:12
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ऐसा लगता है कि इस स्थान पर कुछ नहीं पाया गया था। शायद नीचे दिए गए लिंक की में से एक कोशिश करें या खोज करें ?"
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:20 ../../.. /themes/wordappjqmobile/404.php:20
+msgid "Most Used Categories"
+msgstr "सबसे अधिक इस्तेमाल कि गए  श्रेणियाँ"
+
+#. translators: %1$s: smiley
+#: ../../../themes/wordappjqmobileMyiOS/404.php:37 ../../.. /themes/wordappjqmobile/404.php:37
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "मासिक अर्काइव्स में देखने की कोशिश कीजिए।  %1$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-page.php:19 ../../. themes/wordappjqmobileMyiOS/template-parts/content-single.php:23 ../../.. /themes/wordappjqmobile/template-parts/content-page.php:19 /themes/wordappjqmobile/template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "पेज"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:14 ../../. themes/wordappjqmobile/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "कुछ नहीं मिला"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:20 ../../. themes/wordappjqmobile/template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं?  <a href=\"%1$s\">यहाँ से शुरुआत करें</a>."
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:24 ../../. themes/wordappjqmobile/template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन  आपके खोज शब्दों का मिलान नहीं हुआ। कृपया कुछ अलग कीवर्ड के साथ फ़िर से कोशिश करें।"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:29 ../../. themes/wordappjqmobile/template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:22 ../../.. /themes/wordappjqmobile/inc/classes.php:22
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "%s के तहत दायर की गई सभी पोस्ट देखें"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:37 ../../.. /themes/wordappjqmobile/inc/classes.php:37
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "%s तहत दायर सभी पोस्ट फ़ीड करें"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:101 ../../.. /themes/wordappjqmobile/inc/classes.php:101
+msgid "Recent Comments"
+msgstr "हाल की टिप्पणियाँ"
+
+#. $output .=  '<li class="recentcomments">' . /* translators: comments widget: 1: comment author, 2: post link */ sprintf(_x('%1$s on %2$s', 'widgets'), get_comment_author_link(), '<a href="' . esc_url( get_comment_link($comment->comment_ID) ) . '">' . get_the_title($comment->comment_post_ID) . '</a>') . '</li>';
+#. $output .=  '<li class="recentcomments">' . /* translators: comments widget: 1: comment author, 2: post link */ sprintf(_x('%1$s on %2$s', 'widgets'), get_comment_author_link(), '<a href="' . esc_url( get_comment_link($comment->comment_ID) ) . '">' . get_the_title($comment->comment_post_ID) . '</a>') . '</li>';
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:116 ../../.. /themes/wordappjqmobile/inc/classes.php:116
+#, php-format
+msgctxt "widgets"
+msgid "%1$s %2$s %3$s"
+msgstr "%1$s %2$s %3$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:165 ../../.. /themes/wordappjqmobile/inc/classes.php:165
+msgid "Unknown Feed"
+msgstr "अज्ञात फ़ीड"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:201 ../../.. /themes/wordappjqmobile/inc/classes.php:201
+#, php-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr "<strong>RSS त्रुटि</strong>: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:218 ../../.. /themes/wordappjqmobile/inc/classes.php:218
+msgid "An error has occurred; the feed is probably down. Try again later."
+msgstr " गलती हुई है;शायद फ़ीड काम नहीं कर रहा है.बाद में पुन: प्रयास करें।"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:232 ../../.. /themes/wordappjqmobile/inc/classes.php:232
+msgid "Untitled"
+msgstr "शीर्षकहीन"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/extras.php:52 ../../.. /themes/wordappjqmobile/inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "पृष्ठ %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:24
+msgid "App Title & Names2"
+msgstr "अनुप्रयोग शीर्षक और Names2"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:29 ../../.. /themes/wordappjqmobile/inc/customizer.php:29
+msgid "Nav"
+msgstr "Nav"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:74
+msgid "App Menuss"
+msgstr "अनुप्रयोग मेनू"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:89 ../../.. /themes/wordappjqmobile/inc/customizer.php:88
+msgid "Side Menu :"
+msgstr "साइड मेनू:"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:129 ../../.. /themes/wordappjqmobile/inc/customizer.php:128
+msgid "Top Menu :"
+msgstr "टॉप मेनू:"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:168 ../../.. /themes/wordappjqmobile/inc/customizer.php:167
+msgid "Bottom Menu :"
+msgstr "बॉटम मेनू:"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:188 ../../.. /themes/wordappjqmobile/inc/customizer.php:187
+msgid "The bottom menu comes with icons which can be added or changed on the WordApp plugin <a href=\"https://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">Preview Icons</a>"
+msgstr "निचला मेनू आइकॉन के साथ आता है जो WordApp प्लगइन पर जोड़ा जा सकता है या बदल सकता है. <a href=\"https://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\"> पूर्वावलोकन आइकॉन </a>"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:201 ../../.. /themes/wordappjqmobile/inc/customizer.php:200
+msgid "Design settings"
+msgstr "डिजाइन सेटिंग्स"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:218 ../../.. /themes/wordappjqmobile/inc/customizer.php:217
+msgid "App Toolbar Color"
+msgstr "एप्लिकेशन टूलबार का रंग"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:248 ../../.. /themes/wordappjqmobile/inc/customizer.php:247
+msgid "Header logo"
+msgstr "हैडर लोगो"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:281 ../../.. /themes/wordappjqmobile/inc/customizer.php:280
+msgid "Background Color"
+msgstr "पृष्ठभूमि रंग"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:300 ../../.. /themes/wordappjqmobile/inc/customizer.php:299
+msgid "Background Color (Side Bars)"
+msgstr "पृष्ठभूमि रंग (साइड बार्स)"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:366 ../../.. /themes/wordappjqmobile/inc/customizer.php:365
+msgid "Color Scheme"
+msgstr "कलर स्कीम"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:387 ../../.. /themes/wordappjqmobile/inc/customizer.php:386
+msgid "Display Header Text"
+msgstr "डिस्प्ले हैडर टेक्स्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:426 ../../.. /themes/wordappjqmobile/inc/customizer.php:425
+msgid "Image Upload Test"
+msgstr "इमेज अपलोड टेस्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:442 ../../.. /themes/wordappjqmobile/inc/customizer.php:441
+msgid "Upload Test"
+msgstr "अपलोड टेस्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:460 ../../.. /themes/wordappjqmobile/inc/customizer.php:459
+msgid "Link Color"
+msgstr "लिंक रंग"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:476 ../../.. /themes/wordappjqmobile/inc/customizer.php:475
+msgid "Page Test"
+msgstr "पेज टेस्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:23 ../../.. /themes/wordappjqmobile/inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:27 ../../.. /themes/wordappjqmobile/inc/template-tags.php:27
+msgid "Older posts"
+msgstr "पुराने पोस्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:31 ../../.. /themes/wordappjqmobile/inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "नई पोस्ट्स"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:56 ../../.. /themes/wordappjqmobile/inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:86 ../../.. /themes/wordappjqmobile/inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "%s प्रकाशित किया गया था"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:91 ../../.. /themes/wordappjqmobile/inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s द्वारा"
+
+#. translators: used between list items, there is a space after the comma
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:108 ../../.. /themes/wordappjqmobileMyiOS/inc/template-tags.php:114 /themes/wordappjqmobile/inc/template-tags.php:108 /themes/wordappjqmobile/inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:110 ../../.. /themes/wordappjqmobile/inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr "%1$s में  पोस्ट"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:116 ../../.. /themes/wordappjqmobile/inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr "%1$s में   टैग की गईं"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../.. /themes/wordappjqmobile/inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "टिप्पणी छोड़ें"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../.. /themes/wordappjqmobile/inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 टिप्पणी"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../.. /themes/wordappjqmobile/inc/template-tags.php:122
+#, php-format
+msgid "% Comments"
+msgstr "% टिप्पणियाँ"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:143 ../../.. /themes/wordappjqmobile/inc/template-tags.php:143
+#, php-format
+msgid "Category: %s"
+msgstr "श्रेणी: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:145 ../../.. /themes/wordappjqmobile/inc/template-tags.php:145
+#, php-format
+msgid "Tag: %s"
+msgstr "टैग:%s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:147 ../../.. /themes/wordappjqmobile/inc/template-tags.php:147
+#, php-format
+msgid "Author: %s"
+msgstr "लेखक: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:149 ../../.. /themes/wordappjqmobile/inc/template-tags.php:149
+#, php-format
+msgid "Year: %s"
+msgstr "साल: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:149 ../../.. /themes/wordappjqmobile/inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:151 ../../.. /themes/wordappjqmobile/inc/template-tags.php:151
+#, php-format
+msgid "Month: %s"
+msgstr "महीना: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:151 ../../.. /themes/wordappjqmobile/inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:153 ../../.. /themes/wordappjqmobile/inc/template-tags.php:153
+#, php-format
+msgid "Day: %s"
+msgstr "दिन: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:153 ../../.. /themes/wordappjqmobile/inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:156 ../../.. /themes/wordappjqmobile/inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:158 ../../.. /themes/wordappjqmobile/inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "गैलरी"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:160 ../../.. /themes/wordappjqmobile/inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "इमेजिस"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:162 ../../.. /themes/wordappjqmobile/inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "वीडियो"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:164 ../../.. /themes/wordappjqmobile/inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "उद्धरण"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:166 ../../.. /themes/wordappjqmobile/inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "लिंक"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:168 ../../.. /themes/wordappjqmobile/inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "स्टेटस"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:170 ../../.. /themes/wordappjqmobile/inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "ऑडियो"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:172 ../../.. /themes/wordappjqmobile/inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "चैट"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:175 ../../.. /themes/wordappjqmobile/inc/template-tags.php:175
+#, php-format
+msgid "Archives: %s"
+msgstr "आर्काइव्ज: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:179 ../../.. /themes/wordappjqmobile/inc/template-tags.php:179
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: ../../../themes/wordappjqmobile/inc/customizer.php:24
+msgid "App Title & Name2"
+msgstr "अनुप्रयोग शीर्षक और name2"
+
+#: ../../../themes/wordappjqmobile/inc/customizer.php:73
+msgid "App Menus"
+msgstr "अनुप्रयोग मेनू"
+
+#: ../../../themes/wordappjqmobilewooWordApp/header.php:194
+msgid "Sorry, no posts matched your criteria."
+msgstr "क्षमा करें, कोई भी पोस्ट्स आपके मानदंड से मेल नहीं खाता।"
+
+#: ../../../freemius/templates/account.php:324
+msgctxt "verb"
+msgid "Edit"
+msgstr "एडिट"
+
+#: ../../../freemius/includes/i18n.php:35
+msgid "Account"
+msgstr "अकाउंट"
+
+#: ../../../freemius/includes/i18n.php:36
+msgid "Add On"
+msgstr "ऐड ऑन"
+
+#: ../../../freemius/includes/i18n.php:37
+msgid "Contact Us"
+msgstr "हमसे संपर्क करें"
+
+#: ../../../freemius/includes/i18n.php:38
+msgid "Change Ownership"
+msgstr "मालिकी परिवर्तन करें "
+
+#: ../../../freemius/includes/i18n.php:39
+msgid "Support"
+msgstr "समर्थन"
+
+#: ../../../freemius/includes/i18n.php:40
+msgid "Support Forum"
+msgstr "सहयता फोरम"
+
+#: ../../../freemius/includes/i18n.php:41
+msgid "Add Ons"
+msgstr "ऐड ओंस"
+
+#: ../../../freemius/includes/i18n.php:42
+msgctxt "verb"
+msgid "Upgrade"
+msgstr "नवीनीकरण"
+
+#: ../../../freemius/includes/i18n.php:43
+msgid "Awesome"
+msgstr "आश्चर्यजनक "
+
+#: ../../../freemius/includes/i18n.php:44
+msgctxt "noun"
+msgid "Pricing"
+msgstr "मूल्य निर्धारण"
+
+#: ../../../freemius/includes/i18n.php:45
+msgctxt "noun"
+msgid "Price"
+msgstr "मूल्य"
+
+#: ../../../freemius/includes/i18n.php:46
+msgid "Unlimited Updates"
+msgstr "असीमित अद्यतन"
+
+#: ../../../freemius/includes/i18n.php:47
+msgctxt "verb"
+msgid "Downgrade"
+msgstr "अधोगति"
+
+#: ../../../freemius/includes/i18n.php:48
+msgid "Cancel Trial"
+msgstr "ट्रायल रद्द "
+
+#: ../../../freemius/includes/i18n.php:49
+msgid "Free Trial"
+msgstr "मुफ्त ट्रायल "
+
+#: ../../../freemius/includes/i18n.php:50
+#, php-format
+msgid "Start my free %s"
+msgstr "%s मेरा नि:शुल्क शुरू करें "
+
+#: ../../../freemius/includes/i18n.php:51
+#, php-format
+msgid "No commitment for %s - cancel anytime"
+msgstr "%s के लिए कोई प्रतिबद्धता नहीं - किसी भी समय रद्द"
+
+#: ../../../freemius/includes/i18n.php:52
+#, php-format
+msgid "After your free %s, pay as little as %s"
+msgstr "आफ्टर योर फ्री %s,छोटा सा भुगतान %s"
+
+#: ../../../freemius/includes/i18n.php:53
+msgid "Details"
+msgstr "विवरण"
+
+#: ../../../freemius/includes/i18n.php:54
+msgid "Account Details"
+msgstr "अकाउंट विवरण"
+
+#: ../../../freemius/includes/i18n.php:55
+msgctxt "verb"
+msgid "Delete"
+msgstr "डिलीट"
+
+#: ../../../freemius/includes/i18n.php:56
+msgid "Delete Account"
+msgstr "डिलीट अकाउंट"
+
+#: ../../../freemius/includes/i18n.php:57
+msgctxt "as close a window"
+msgid "Dismiss"
+msgstr "बर्खास्त"
+
+#: ../../../freemius/includes/i18n.php:58
+msgctxt "as product pricing plan"
+msgid "Plan"
+msgstr "योजना"
+
+#: ../../../freemius/includes/i18n.php:59
+msgid "Change Plan"
+msgstr "योजना की बदली"
+
+#: ../../../freemius/includes/i18n.php:60
+#, php-format
+msgctxt "as download professional version"
+msgid "Download %s Version"
+msgstr "डाउनलोड %s संस्करण"
+
+#: ../../../freemius/includes/i18n.php:61
+#, php-format
+msgctxt "as download professional version now"
+msgid "Download %s version now"
+msgstr "डाउनलोड% s संस्करण अब"
+
+#: ../../../freemius/includes/i18n.php:62
+msgctxt "as download latest version"
+msgid "Download Latest"
+msgstr "नवीनतम डाउनलोड करें"
+
+#: ../../../freemius/includes/i18n.php:63
+#, php-format
+msgctxt "E.g. you have a professional license."
+msgid "You have a %s license."
+msgstr "आपके पास %s लाइसेंस है।"
+
+#: ../../../freemius/includes/i18n.php:64
+msgid "New"
+msgstr "नया"
+
+#: ../../../freemius/includes/i18n.php:65
+msgid "Free"
+msgstr "मुक्त"
+
+#: ../../../freemius/includes/i18n.php:66
+msgctxt "as trial plan"
+msgid "Trial"
+msgstr "ट्रायल"
+
+#: ../../../freemius/includes/i18n.php:67
+msgctxt "verb"
+msgid "Purchase"
+msgstr "खरीदें"
+
+#: ../../../freemius/includes/i18n.php:68
+msgid "Purchase License"
+msgstr "लाइसेंस खरीदें"
+
+#: ../../../freemius/includes/i18n.php:69
+msgctxt "verb"
+msgid "Buy"
+msgstr "खरीदें"
+
+#: ../../../freemius/includes/i18n.php:70
+msgid "Buy License"
+msgstr "लाइसेंस खरीदें"
+
+#: ../../../freemius/includes/i18n.php:71
+msgid "Single Site License"
+msgstr "एक साइट के लिए लाइसेंस"
+
+#: ../../../freemius/includes/i18n.php:72
+msgid "Unlimited Licenses"
+msgstr "असीमित लाइसेंस"
+
+#: ../../../freemius/includes/i18n.php:73
+#, php-format
+msgid "Up to %s Sites"
+msgstr "%s साइट्स तक"
+
+#: ../../../freemius/includes/i18n.php:74
+#, php-format
+msgid "%sRenew your license now%s to access version %s features and support."
+msgstr "%sअब अपने लाइसेंस को नवीनीकृत करें%s संस्करण का उपयोग करने के लिए %s विशेषताएं और समर्थन"
+
+#: ../../../freemius/includes/i18n.php:75
+#, php-format
+msgctxt "e.g. Professional Plan"
+msgid "%s Plan"
+msgstr "%s योजना"
+
+#: ../../../freemius/includes/i18n.php:76
+#, php-format
+msgid "You are just one step away - %s"
+msgstr "आप सिर्फ एक कदम दूर हैं -%s"
+
+#: ../../../freemius/includes/i18n.php:77
+#, php-format
+msgctxt "%s - plugin name. As complete \"Jetpack\" activation now"
+msgid "Complete \"%s\" Activation Now"
+msgstr "एक्टिवेशन अब \"%s\" सम्पूर्ण"
+
+#: ../../../freemius/includes/i18n.php:78
+#, php-format
+msgid "We made a few tweaks to the plugin, %s"
+msgstr "हमने प्लगइन करने के लिए कुछ ट्वीक्स किये है, %s"
+
+#: ../../../freemius/includes/i18n.php:79
+#, php-format
+msgid "Opt-in to make \"%s\" Better!"
+msgstr " चुनें \"%s\"  बेहतर बनाने के लिए!"
+
+#: ../../../freemius/includes/i18n.php:80
+msgid "Error"
+msgstr "त्रुटि"
+
+#: ../../../freemius/includes/i18n.php:81
+msgid "Freemius SDK couldn't find the plugin's main file. Please contact sdk@freemius.com with the current error."
+msgstr "Freemius एसडीके प्लगइन कि मुख्य फाइल नहीं मिल रही है। कृपया संपर्क करें sdk@freemius.com पर वर्तमान त्रुटि के साथ।"
+
+#: ../../../freemius/includes/i18n.php:84
+msgctxt "as expiration date"
+msgid "Expiration"
+msgstr "अवधि"
+
+#: ../../../freemius/includes/i18n.php:85
+msgctxt "as software license"
+msgid "License"
+msgstr "लाइसेंस"
+
+#: ../../../freemius/includes/i18n.php:86
+msgid "not verified"
+msgstr "प्रमाणित नहीं है"
+
+#: ../../../freemius/includes/i18n.php:87
+msgid "Verify Email"
+msgstr "ईमेल प्रमाणित करें"
+
+#: ../../../freemius/includes/i18n.php:88
+#, php-format
+msgctxt "e.g. expires in 2 months"
+msgid "Expires in %s"
+msgstr "%s में समाप्त"
+
+#: ../../../freemius/includes/i18n.php:89
+#, php-format
+msgctxt "e.g. auto renews in 2 months"
+msgid "Auto renews in %s"
+msgstr "स्वत: नवीनिकृत %s में "
+
+#: ../../../freemius/includes/i18n.php:90
+msgid "No expiration"
+msgstr "समाप्ति नहीं"
+
+#: ../../../freemius/includes/i18n.php:91
+msgid "Expired"
+msgstr "एक्स्पायर्ड"
+
+#: ../../../freemius/includes/i18n.php:92
+msgid "Cancelled"
+msgstr "रद्द"
+
+#: ../../../freemius/includes/i18n.php:93
+#, php-format
+msgctxt "e.g. In 2 hours"
+msgid "In %s"
+msgstr "%s में"
+
+#: ../../../freemius/includes/i18n.php:94
+#, php-format
+msgctxt "e.g. 2 min ago"
+msgid "%s ago"
+msgstr "%s पूर्व"
+
+#: ../../../freemius/includes/i18n.php:95
+msgctxt "as plugin version"
+msgid "Version"
+msgstr "संस्करण"
+
+#: ../../../freemius/includes/i18n.php:97
+msgid "Email"
+msgstr "ईमेल"
+
+#: ../../../freemius/includes/i18n.php:98
+msgid "Verified"
+msgstr "सत्यापित"
+
+#: ../../../freemius/includes/i18n.php:99
+msgid "Plugin"
+msgstr "प्लगइन"
+
+#: ../../../freemius/includes/i18n.php:100
+msgid "Plugins"
+msgstr "प्लगइन"
+
+#: ../../../freemius/includes/i18n.php:101
+msgctxt "as file/folder path"
+msgid "Path"
+msgstr "पाथ"
+
+#: ../../../freemius/includes/i18n.php:102
+msgid "Title"
+msgstr "शीर्षक"
+
+#: ../../../freemius/includes/i18n.php:103
+msgid "Free version"
+msgstr "निःशुल्क संस्करण"
+
+#: ../../../freemius/includes/i18n.php:104
+msgid "Premium version"
+msgstr "प्रीमियम संस्करण"
+
+#: ../../../freemius/includes/i18n.php:105
+msgctxt "as WP plugin slug"
+msgid "Slug"
+msgstr "स्लग"
+
+#: ../../../freemius/includes/i18n.php:106
+msgid "ID"
+msgstr "ID"
+
+#: ../../../freemius/includes/i18n.php:107
+msgid "Users"
+msgstr "उपयोगकर्ता"
+
+#: ../../../freemius/includes/i18n.php:108
+msgid "Plugin Installs"
+msgstr "प्लगइन स्थापित"
+
+#: ../../../freemius/includes/i18n.php:109
+msgctxt "like websites"
+msgid "Sites"
+msgstr "साइट्स"
+
+#: ../../../freemius/includes/i18n.php:110
+msgid "User ID"
+msgstr "यूज़र आईडी"
+
+#: ../../../freemius/includes/i18n.php:111
+msgid "Site ID"
+msgstr "साइट आईडी"
+
+#: ../../../freemius/includes/i18n.php:112
+msgid "Public Key"
+msgstr "सार्वजनिक कुंजी"
+
+#: ../../../freemius/includes/i18n.php:113
+msgid "Secret Key"
+msgstr "गुप्त कुंजी"
+
+#: ../../../freemius/includes/i18n.php:114
+msgctxt "as secret encryption key missing"
+msgid "No Secret"
+msgstr "कोई गुप्त नहीं"
+
+#: ../../../freemius/includes/i18n.php:115
+msgid "No ID"
+msgstr "कोई आईडी नहीं"
+
+#: ../../../freemius/includes/i18n.php:116
+msgctxt "as synchronize license"
+msgid "Sync License"
+msgstr "सिंक लाइसेंस"
+
+#: ../../../freemius/includes/i18n.php:117
+msgctxt "as synchronize"
+msgid "Sync"
+msgstr "सिंक"
+
+#: ../../../freemius/includes/i18n.php:118
+msgid "Deactivate License"
+msgstr "लाइसेंस निष्क्रिय करें"
+
+#: ../../../freemius/includes/i18n.php:119
+msgid "Activate"
+msgstr "सक्रिय करना"
+
+#: ../../../freemius/includes/i18n.php:120
+msgid "Deactivate"
+msgstr "निष्क्रिय करें"
+
+#: ../../../freemius/includes/i18n.php:121
+msgid "No - just deactivate"
+msgstr "नहीं - बस निष्क्रिय करें"
+
+#: ../../../freemius/includes/i18n.php:122
+msgid "Yes - do your thing"
+msgstr "हाँ - अपना काम करें"
+
+#: ../../../freemius/includes/i18n.php:123
+msgctxt "active mode"
+msgid "Active"
+msgstr "सक्रिय"
+
+#: ../../../freemius/includes/i18n.php:124
+msgctxt "is active mode?"
+msgid "Is Active"
+msgstr "सक्रिय है"
+
+#: ../../../freemius/includes/i18n.php:126 ../../../freemius/includes/fs-plugin- info-dialog.php:366
+msgid "Install Update Now"
+msgstr "अद्यतन अब स्थापित"
+
+#: ../../../freemius/includes/i18n.php:127
+#, php-format
+msgid "More information about %s"
+msgstr "%s के बारे में अधिक जानकारी"
+
+#: ../../../freemius/includes/i18n.php:128
+msgid "Localhost"
+msgstr "लोकलहोस्ट"
+
+#: ../../../freemius/includes/i18n.php:129
+#, php-format
+msgctxt "as activate Professional plan"
+msgid "Activate %s Plan"
+msgstr "%s योजना को सक्रिय करें"
+
+#: ../../../freemius/includes/i18n.php:130
+#, php-format
+msgid "What is your %s?"
+msgstr "आपका क्या %s है?"
+
+#: ../../../freemius/includes/i18n.php:131
+msgid "Activate this add-on"
+msgstr "इस ऐड-ऑन सक्रियकरें"
+
+#: ../../../freemius/includes/i18n.php:132
+msgid "Deactivating your license will block all premium features, but will enable you to activate the license on another site. Are you sure you want to proceed?"
+msgstr "अपना लाइसेंस निष्क्रिय करने पर सभी प्रीमियम सुविधा रूक जाएँगी, लेकिन आप अन्य साइट पर लाइसेंस को सक्रिय करने के लिए सक्षम हो जाएंगे. क्या आप सुनिश्चित रूप से आगे बढ़ना चाहते हैं?"
+
+#: ../../../freemius/includes/i18n.php:133
+#, php-format
+msgid "Deleting the account will automatically deactivate your %s plan license so you can use it on other sites. If you want to terminate the recurring payments as well, click the \"Cancel\" button, and first \"Downgrade\" your account. Are you sure you would like to continue with the deletion?"
+msgstr "खाता हटाने से स्वचालित रूप से अपने %s योजना का लाइसेंस निष्क्रिय होगा फिर भी आप अन्य साइटों पर इसका इस्तेमाल कर सकते हैं। अगर आप आवर्ती भुगतान समाप्त करना चाहते हैं तो\"रद्द\" बटन को क्लिक करें और पहले अपने खाते का डाउनग्रेड करें. आप सुनिश्चित हैं विलोपन  जारी रखना चाहते हैं?"
+
+#: ../../../freemius/includes/i18n.php:134
+msgid "Deletion is not temporary. Only delete if you no longer want to use this plugin anymore. Are you sure you would like to continue with the deletion?"
+msgstr "विलोपन अस्थायी नहीं है। अगर आप इस प्लगइन का उपयोग करना नहीं चाहते तब ही डिलीट करें. क्या आप सुनिश्चित हैं आप विलोपन  जारी रखना चाहते हैं?"
+
+#: ../../../freemius/includes/i18n.php:135
+#, php-format
+msgid "Downgrading your plan will immediately stop all future recurring payments and your %s plan license will expire in %s."
+msgstr "अपनी योजना की  पदावनति करने पर तुरंतहीं भविष्य की सभी आवर्ती भुगतान बंद हो जाएगा और आपका %s योजना लाइसेंस%s में समाप्त हो जाएगा"
+
+#: ../../../freemius/includes/i18n.php:136
+msgid "Cancelling the trial will immediately block access to all premium features. Are you sure?"
+msgstr "आज़माइश रद्द करने पर तुरंत सभी प्रीमियम सुविधाओं के उपयोग बंद कर दिया जाएगा। क्या आपको यकीन है?"
+
+#: ../../../freemius/includes/i18n.php:137
+#, php-format
+msgid "You can still enjoy all %s features but you will not have access to plugin updates and support."
+msgstr "आप अभी भी %s सभी सुविधाओं का आनंद पा सकते हैं लेकिन आप प्लगइन अद्यतन और समर्थन  नहीं किया जाएगा।"
+
+#: ../../../freemius/includes/i18n.php:138
+#, php-format
+msgid "Once your license expire you can still use the Free version but you will NOT have access to the %s features."
+msgstr "एक बार आपके लाइसेंस समाप्त होने के बाद आप अभी भी मुक्त संस्करण का उपयोग कर सकते हैं, लेकिन आपको % s सुविधाओं के उपयोग नहीं मिलेगा।"
+
+#: ../../../freemius/includes/i18n.php:139
+msgid "Are you sure you want to proceed?"
+msgstr "क्या आप सुनिश्चित रूप से आगे बढ़ना चाहते हैं?"
+
+#: ../../../freemius/includes/i18n.php:142
+#, php-format
+msgid "Add Ons for %s"
+msgstr "%s के लिए ऐड ओंस"
+
+#: ../../../freemius/includes/i18n.php:143
+msgid "We could'nt load the add-ons list. It's probably an issue on our side, please try to come back in few minutes."
+msgstr "हम Add-ons सूची लोड नहीं कर सकते। यह शायद हमारे पक्ष से एक समस्या है, कुछ ही मिनटों में वापस आने के लिए प्रयास करें।"
+
+#: ../../../freemius/includes/i18n.php:145
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "अगर आपके पास कुछ पल है  तो ,कृपया हमें बताये  कि आप क्यों निष्क्रिय कर रहे हैं"
+
+#: ../../../freemius/includes/i18n.php:146
+msgid "Yes - Deactivate"
+msgstr "हाँ - निष्क्रिय करें"
+
+#: ../../../freemius/includes/i18n.php:147
+msgid "Submit & Deactivate"
+msgstr "सबमिट करें और निष्क्रिय करें "
+
+#: ../../../freemius/includes/i18n.php:148
+msgctxt "the text of the cancel button of the plugin deactivation dialog box."
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: ../../../freemius/includes/i18n.php:149
+msgid "I no longer need the plugin"
+msgstr "मुझे अब इस प्लगइन की जरुरत नहीं है"
+
+#: ../../../freemius/includes/i18n.php:150
+msgid "I found a better plugin"
+msgstr "मुझे बेहतर प्लगइन मिल गया है"
+
+#: ../../../freemius/includes/i18n.php:151
+msgid "I only needed the plugin for a short period"
+msgstr "मुझे कुछ समय केलिए ही प्लगइन की जरुरत थी"
+
+#: ../../../freemius/includes/i18n.php:152
+msgid "The plugin broke my site"
+msgstr "प्लगइन ने मेरी साइट को ख़राब कर दिया"
+
+#: ../../../freemius/includes/i18n.php:153
+msgid "The plugin suddenly stopped working"
+msgstr "प्लगइन ने अचानक काम करना बंद कर दिया"
+
+#: ../../../freemius/includes/i18n.php:154
+msgid "I can't pay for it anymore"
+msgstr "मैं अब इसके लिए भुगतान नहीं कर सकता"
+
+#: ../../../freemius/includes/i18n.php:155
+msgctxt "the text of the \"other\" reason for deactivating the plugin that is shown in the modal box."
+msgid "Other"
+msgstr "अन्य"
+
+#: ../../../freemius/includes/i18n.php:156
+msgid "What's the plugin's name?"
+msgstr "प्लगइन का नाम क्या है?"
+
+#: ../../../freemius/includes/i18n.php:157
+msgid "What price would you feel comfortable paying?"
+msgstr "क्या कीमत है जो आपको भुगतान के लिए आरामदायक महसूस होगी?"
+
+#: ../../../freemius/includes/i18n.php:158
+msgid "I couldn't understand how to make it work"
+msgstr "में समाज नहीं पर रहा हु इसे कैसे ठीक करूँ"
+
+#: ../../../freemius/includes/i18n.php:159
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "प्लगइन अच्छा है,लेकिन मुझे कुछ और विषेशता की आवशयकता है"
+
+#: ../../../freemius/includes/i18n.php:160
+msgid "The plugin is not working"
+msgstr "प्लगइन काम नहीं कर रहा है"
+
+#: ../../../freemius/includes/i18n.php:161
+msgid "It's not what I was looking for"
+msgstr "यह वह नहीं है जिसकी में तलाश कर रहा हूँ"
+
+#: ../../../freemius/includes/i18n.php:162
+msgid "The plugin didn't work as expected"
+msgstr "प्लगइन मैंने सोचा था वैसे काम नहीं कर रहा है"
+
+#: ../../../freemius/includes/i18n.php:163
+msgid "What feature?"
+msgstr "क्या सुविधा?"
+
+#: ../../../freemius/includes/i18n.php:164
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "कृपया हमें बताये कोनसी चीज़ काम नहीं कर रही ताकि हम भविस्य के उपयोगकर्ताओं केलिए ठीक कर सके"
+
+#: ../../../freemius/includes/i18n.php:165
+msgid "What you've been looking for?"
+msgstr "आप क्या ढूंढ रहे है?"
+
+#: ../../../freemius/includes/i18n.php:166
+msgid "What did you expect?"
+msgstr "आपने क्या उम्मीद किया?"
+
+#: ../../../freemius/includes/i18n.php:167
+msgid "The plugin didn't work"
+msgstr "प्लगइन काम नहीं कर रहा है"
+
+#: ../../../freemius/includes/i18n.php:168
+msgid "I don't like to share my information with you"
+msgstr "मुझे तुम्हारे साथ मेरी जानकारी साझा करना पसंद नहीं है"
+
+#: ../../../freemius/includes/i18n.php:172
+#, php-format
+msgctxt "greeting"
+msgid "Hey %s,"
+msgstr "अरे %s,"
+
+#: ../../../freemius/includes/i18n.php:173
+#, php-format
+msgctxt "a greeting. E.g. Thanks John!"
+msgid "Thanks %s!"
+msgstr "धन्यवाद %s!"
+
+#: ../../../freemius/includes/i18n.php:174
+#, php-format
+msgid "In order to enjoy all our features and functionality, %s needs to connect your user, %s at %s, to %s"
+msgstr "हमारी सभी सुविधाओं और कार्यक्षमता का आनंद लेने के लिए, %s अपने उपयोगकर्ता कनेक्ट करने की जरूरत है, %s पर %s, %s के लिए"
+
+#: ../../../freemius/includes/i18n.php:175
+#, php-format
+msgid "Please help us improve %2$s! If you opt-in, some data about your usage of %2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still work just fine."
+msgstr "कृपया हमें मदद  %2$s करें सुधार करने केलिए!अगर आप चुनाव करते है,अपने कुछ डेटाके  उपयोग के बारे में %2$s के लिए %5$s भेजा जाएगा.अगर आप इसे छोड़ते हैं,वह ठीक है!%2$s भी कम करेगा"
+
+#: ../../../freemius/includes/i18n.php:176
+#, php-format
+msgid "You should receive an activation email for %s to your mailbox at %s. Please make sure you click the activation button in that email to complete the install."
+msgstr "आपको एक्टिवेशन का ईमेल मिल ही जायेगा  %s  के लिए आपके मेलबॉक्स पर %s. कृपया सुनिश्चित करें कि आप पूरा स्थापित करने के लिए उस ईमेल में सक्रियण बटन पर क्लिक करें।"
+
+#: ../../../freemius/includes/i18n.php:177
+msgid "What permissions are being granted?"
+msgstr "क्या अनुमतियाँ दी जा रही है?"
+
+#: ../../../freemius/includes/i18n.php:178
+msgid "Your Profile Overview"
+msgstr "आपका प्रोफाइल का अवलोकन"
+
+#: ../../../freemius/includes/i18n.php:179
+msgid "Name and email address"
+msgstr "नाम और ईमेल पता"
+
+#: ../../../freemius/includes/i18n.php:180
+msgid "Your Site Overview"
+msgstr "आपकी साइट का अवलोकन"
+
+#: ../../../freemius/includes/i18n.php:181
+msgid "Site address, WordPress version, PHP Version"
+msgstr "साइट का पता, वर्डप्रेस संस्करण, पीएचपी संस्करण"
+
+#: ../../../freemius/includes/i18n.php:182
+msgid "Plugin Events"
+msgstr "प्लगइन इवेंट्स"
+
+#: ../../../freemius/includes/i18n.php:183
+msgid "Activation, deactivation and uninstall"
+msgstr "एक्टिवेशन, निष्क्रिय करें और स्थापना रद्द करें"
+
+#: ../../../freemius/includes/i18n.php:184
+msgid "Newsletter"
+msgstr "न्यूज़लेटर"
+
+#: ../../../freemius/includes/i18n.php:185
+msgid "Updates, announcements, marketing, no spam"
+msgstr "अद्यतन, घोषणाओं, विपणन, कोई स्पैम नहीं"
+
+#: ../../../freemius/includes/i18n.php:186
+msgid "Privacy Policy"
+msgstr "गोपनीयता नीति"
+
+#: ../../../freemius/includes/i18n.php:187
+msgid "Terms of Service"
+msgstr "सेवा की शर्तें"
+
+#: ../../../freemius/includes/i18n.php:188
+msgctxt "as activating plugin"
+msgid "Activating"
+msgstr "सक्रिय करना"
+
+#: ../../../freemius/includes/i18n.php:189
+msgctxt "as in the process of sending an email"
+msgid "Sending email"
+msgstr "ईमेल भेजना"
+
+#: ../../../freemius/includes/i18n.php:190
+msgctxt "button label"
+msgid "Allow & Continue"
+msgstr "अनुमति दें और जारी रखें"
+
+#: ../../../freemius/includes/i18n.php:191
+msgctxt "verb"
+msgid "Skip"
+msgstr "छोड़ें"
+
+#: ../../../freemius/includes/i18n.php:192
+msgid "Re-send activation email"
+msgstr "एकटीवेशन ईमेल दोबारा भेजो"
+
+#: ../../../freemius/includes/i18n.php:196
+msgid "Screenshots"
+msgstr "स्क्रीनशॉट"
+
+#: ../../../freemius/includes/i18n.php:197
+#, php-format
+msgid "Click to view full-size screenshot %d"
+msgstr "पूर्ण आकार स्क्रीनशॉट देखने के लिए क्लिक करें %d"
+
+#: ../../../freemius/includes/i18n.php:201
+msgid "Freemius Debug"
+msgstr "फ्रीमिुस डिबग"
+
+#: ../../../freemius/includes/i18n.php:202
+msgctxt "as turned on"
+msgid "On"
+msgstr "चालू"
+
+#: ../../../freemius/includes/i18n.php:203
+msgctxt "as turned off"
+msgid "Off"
+msgstr "बंद"
+
+#: ../../../freemius/includes/i18n.php:204
+msgctxt "as code debugging"
+msgid "Debugging"
+msgstr "डिबगिंग"
+
+#: ../../../freemius/includes/i18n.php:205
+msgid "Freemius State"
+msgstr "फ्रीमिुस स्टेट"
+
+#: ../../../freemius/includes/i18n.php:206
+msgctxt "as connection was successful"
+msgid "Connected"
+msgstr "जुड़ा हुआ"
+
+#: ../../../freemius/includes/i18n.php:207
+msgctxt "as connection blocked"
+msgid "Blocked"
+msgstr "अवरोधित"
+
+#: ../../../freemius/includes/i18n.php:208
+msgctxt "as application program interface"
+msgid "API"
+msgstr "API"
+
+#: ../../../freemius/includes/i18n.php:209
+msgctxt "as software development kit versions"
+msgid "SDK"
+msgstr "SDK"
+
+#: ../../../freemius/includes/i18n.php:210
+msgctxt "as software development kit versions"
+msgid "SDK Versions"
+msgstr "SDK संस्करण"
+
+#: ../../../freemius/includes/i18n.php:211
+msgctxt "as plugin folder path"
+msgid "Plugin Path"
+msgstr "प्लगइन पथ"
+
+#: ../../../freemius/includes/i18n.php:212
+msgctxt "as sdk path"
+msgid "SDK Path"
+msgstr "SDK पथ"
+
+#: ../../../freemius/includes/i18n.php:213
+#, php-format
+msgid "Add Ons of Plugin %s"
+msgstr "%s प्लगइन्स के  ऐड ओंस"
+
+#: ../../../freemius/includes/i18n.php:214
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr "क्या आप सभी फ्रीमिुस डेटा को नष्ट करना चाहते हैं?"
+
+#: ../../../freemius/includes/i18n.php:215
+msgid "Actions"
+msgstr "प्रक्रिया"
+
+#: ../../../freemius/includes/i18n.php:216
+msgid "Delete All Accounts"
+msgstr "सभी खाते हटादे"
+
+#: ../../../freemius/includes/i18n.php:217
+msgid "Start Fresh"
+msgstr "नए सिरे से शुरू करें"
+
+#: ../../../freemius/includes/i18n.php:218
+msgid "Clear API Cache"
+msgstr "क्लियर एपीआई कैश"
+
+#: ../../../freemius/includes/i18n.php:219
+msgid "Sync Data From Server"
+msgstr "सर्वर से डेटा सिंक"
+
+#: ../../../freemius/includes/i18n.php:220
+msgid "Scheduled Crons"
+msgstr "अनुसूचित क्रोन्स"
+
+#: ../../../freemius/includes/i18n.php:224
+msgctxt "as congratulations"
+msgid "Congrats"
+msgstr "बधाई"
+
+#: ../../../freemius/includes/i18n.php:225
+msgctxt "exclamation"
+msgid "Oops"
+msgstr "उफ़"
+
+#: ../../../freemius/includes/i18n.php:226
+msgctxt "interjection expressing joy or exuberance"
+msgid "Yee-haw"
+msgstr "यी-हव"
+
+#: ../../../freemius/includes/i18n.php:227
+msgctxt "(especially in electronic communication) used to express elation, enthusiasm, or triumph."
+msgid "W00t"
+msgstr "W00t"
+
+#: ../../../freemius/includes/i18n.php:228
+msgctxt "a positive response"
+msgid "Right on"
+msgstr "सही पर"
+
+#: ../../../freemius/includes/i18n.php:229
+msgctxt "something somebody says when they are thinking about what you have just said. "
+msgid "Hmm"
+msgstr "Hmm"
+
+#: ../../../freemius/includes/i18n.php:230
+msgid "O.K"
+msgstr "ठीक"
+
+#: ../../../freemius/includes/i18n.php:231
+msgctxt "exclamation"
+msgid "Hey"
+msgstr "अरे"
+
+#: ../../../freemius/includes/i18n.php:232
+msgctxt "advance notice of something that will need attention."
+msgid "Heads up"
+msgstr "सचेत"
+
+#: ../../../freemius/includes/i18n.php:236
+msgid "Seems like you got the latest release."
+msgstr "लगता है जैसे आपको  नवीनतम रिलीज मिला है ।"
+
+#: ../../../freemius/includes/i18n.php:237
+msgid "You are all good!"
+msgstr "आप सभी अच्छे हैं!"
+
+#: ../../../freemius/includes/i18n.php:238
+msgid "Sorry, we could not complete the email update. Another user with the same email is already registered."
+msgstr "क्षमा करें, हम ईमेल अद्यतन पूरा नहीं कर सकते है. इस ईमेल के साथ एक और उपयोगकर्ता पहले से पंजीकृत है।"
+
+#: ../../../freemius/includes/i18n.php:239
+#, php-format
+msgid "If you would like to give up the ownership of the plugin's account to %s click the Change Ownership button."
+msgstr "अगर आप प्लगइन का खाता %s के मालिकाना हक को त्यागना चाहते हैं स्वामित्व परिवर्तन बटन पर क्लिक करें।"
+
+#: ../../../freemius/includes/i18n.php:240
+msgid "Your email was successfully updated. You should receive an email with confirmation instructions in few moments."
+msgstr "आपका ईमेल सफलतापूर्वक अद्यतन किया गया था। आप कुछ ही क्षणों में पुष्टि के निर्देश के साथ एक ईमेल प्राप्त करेंगे।"
+
+#: ../../../freemius/includes/i18n.php:241
+msgid "Your name was successfully updated."
+msgstr "आपका नाम सफलतापूर्वक अद्यतन किया गया है।"
+
+#: ../../../freemius/includes/i18n.php:242
+#, php-format
+msgid "You have successfully updated your %s."
+msgstr "आपने आपका %s सफलतापूर्वक अद्यतन किया है।"
+
+#: ../../../freemius/includes/i18n.php:243
+msgid "Please provide your full name."
+msgstr "अपना पूरा नाम बताये।"
+
+#: ../../../freemius/includes/i18n.php:244
+#, php-format
+msgid "Verification mail was just sent to %s. If you can't find it after 5 min, please check your spam box."
+msgstr "सत्यापन ईमेल %s भेजा गया है। अगर आपको  5 मिनट के बाद नहीं मिलता तो, अपने स्पैम बॉक्स की जाँच करें।"
+
+#: ../../../freemius/includes/i18n.php:245
+#, php-format
+msgid "Just letting you know that the add-ons information of %s is being pulled from an external server."
+msgstr "आपको बता दे की Add-ons की जानकारी %s एक बाहरी सर्वर से प्राप्त की जा रही है।"
+
+#: ../../../freemius/includes/i18n.php:246
+msgid "No credit card required"
+msgstr "किसी क्रेडिट कार्ड की आवश्यकता नहीं"
+
+#: ../../../freemius/includes/i18n.php:247
+msgid "Premium plugin version was successfully activated."
+msgstr "प्रीमियम प्लगइन संस्करण सफलतापूर्वक सक्रिय हो गया है।"
+
+#: ../../../freemius/includes/i18n.php:248
+#, php-format
+msgid "The upgrade of %s was successfully completed."
+msgstr "%s के उन्नयन को सफलतापूर्वक पूरा किया गया।"
+
+#: ../../../freemius/includes/i18n.php:249
+#, php-format
+msgid "Your account was successfully activated with the %s plan."
+msgstr "आपका खाता सफलतापूर्वक % s योजना के साथ सक्रिय हो गया है।"
+
+#: ../../../freemius/includes/i18n.php:250
+#, php-format
+msgid "Download the latest %s version now"
+msgstr "नवीनतम %s संस्करण अब डाउनलोड करें"
+
+#: ../../../freemius/includes/i18n.php:251
+msgid "Download the latest version now"
+msgstr "नवीनतम संस्करण को  अब डाउनलोड करें"
+
+#: ../../../freemius/includes/i18n.php:252
+#, php-format
+msgctxt "%s - product name, e.g. Facebook add-on was successfully..."
+msgid "%s Add-on was successfully purchased."
+msgstr "%s ऐड ऑन  को सफलतापूर्वक खरीदा गया है।"
+
+#: ../../../freemius/includes/i18n.php:253
+#, php-format
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr "आपका ऐड ऑन %s प्लान को सफलतापूर्वक उन्नत किया गया है."
+
+#: ../../../freemius/includes/i18n.php:254
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr "आपका ईमेल सफलतापूर्वक सत्यापित किया गया है - आप कमाल कर रहे हैं!"
+
+#: ../../../freemius/includes/i18n.php:255
+msgid "Your plan was successfully upgraded."
+msgstr "आपकी योजना को सफलतापूर्वक उन्नत बनाया गया है।"
+
+#: ../../../freemius/includes/i18n.php:256
+#, php-format
+msgid "Your plan was successfully changed to %s."
+msgstr "आपकी योजना को सफलतापूर्वक % s में बदल गया है।"
+
+#: ../../../freemius/includes/i18n.php:257
+msgid "Your license has expired. You can still continue using the free plugin forever."
+msgstr "आपका लाइसेंस समाप्त हो चुका है। आप अभी भी मुक्त प्लगइन का हमेशा के लिए उपयोग जारी रख सकते।"
+
+#: ../../../freemius/includes/i18n.php:258
+msgid "Your trial has been successfully started."
+msgstr "आपका आज़माइश सफलतापूर्वक प्रारंभ किया गया है।"
+
+#: ../../../freemius/includes/i18n.php:259
+msgid "Your license was successfully activated."
+msgstr "आपका लाइसेंस सफलतापूर्वक सक्रिय हो गया है।"
+
+#: ../../../freemius/includes/i18n.php:260
+msgid "It looks like your site currently doesn't have an active license."
+msgstr "लगता है आपकी साइट पर लाइसेंस एक्टिव नहीं है"
+
+#: ../../../freemius/includes/i18n.php:261
+#, php-format
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr "आपका लाइसेंस सफलतापूर्वक निष्क्रिय किया गया, आप वापस योजना %s मैं आ गए है।"
+
+#: ../../../freemius/includes/i18n.php:262
+msgid "It looks like the license deactivation failed."
+msgstr "ऐसा लगता है कि लाइसेंस-निष्क्रिय करना विफल हो गया है."
+
+#: ../../../freemius/includes/i18n.php:263
+msgid "It looks like the license could not be activated."
+msgstr "ऐसा लगता है कि लाइसेंस सक्रिय नहीं किया जा सकता है।"
+
+#: ../../../freemius/includes/i18n.php:264
+msgid "Error received from the server:"
+msgstr "सर्वर से त्रुटि प्राप्त:"
+
+#: ../../../freemius/includes/i18n.php:265
+msgid "Your trial has expired. You can still continue using all our free features."
+msgstr "तुम्हारा ट्राइल समाप्त हो चुका है। आप अभी भी हमारे सभी मुफ्त सुविधाओं का उपयोग जारी रख सकते हैं।"
+
+#: ../../../freemius/includes/i18n.php:266
+#, php-format
+msgid "Your plan was successfully downgraded. Your %s plan license will expire in %s."
+msgstr "आपकी योजना को सफलतापूर्वक डाउनग्रेड किया गया है.आपकी %s योजना %s में समाप्त हो जाएगी"
+
+#: ../../../freemius/includes/i18n.php:267
+msgid "Seems like we are having some temporary issue with your plan downgrade. Please try again in few minutes."
+msgstr "लगता है कि हमारी और से कुछ अस्थायी समस्या हो रही है डाउनग्रेड करने में. कुछ ही मिनटों में पुन: प्रयास करें।"
+
+#: ../../../freemius/includes/i18n.php:268
+msgid "It looks like you are not in trial mode anymore so there's nothing to cancel :)"
+msgstr "ऐसा लगता है कि अब आप हैपरीक्षण मोड में नहीं हैं इसलिए रद्द करने के लिए कुछ भी नहीं है."
+
+#: ../../../freemius/includes/i18n.php:269
+#, php-format
+msgid "Your %s free trial was successfully cancelled."
+msgstr "आपका %s नि:शुल्क परीक्षण सफलतापूर्वक रद्द कर दिया गया।"
+
+#: ../../../freemius/includes/i18n.php:270
+#, php-format
+msgctxt "%s - numeric version number"
+msgid "Version %s was released."
+msgstr "संस्करण %s  जारी किया गया है।"
+
+#: ../../../freemius/includes/i18n.php:271
+#, php-format
+msgid "Please download %s."
+msgstr "%s डाउनलोड करें।"
+
+#: ../../../freemius/includes/i18n.php:272
+#, php-format
+msgctxt "%s - plan name, as the latest professional version here"
+msgid "the latest %s version here"
+msgstr "नवीनतम  संस्करण %s यहाँ है."
+
+#: ../../../freemius/includes/i18n.php:273
+#, php-format
+msgid "How do you like %s so far? Test all our %s premium features with a %d-day free trial."
+msgstr "आपको %s अब तक कैसा लगता है? हमारे सब %s प्रीमियम सुविधाओं का परीक्षण %d दिन का नि: शुल्क परीक्षण करें."
+
+#: ../../../freemius/includes/i18n.php:274
+msgctxt "call to action"
+msgid "Start free trial"
+msgstr "निशुल्क आजमाइश शुरु करें"
+
+#: ../../../freemius/includes/i18n.php:275
+msgid "Seems like we are having some temporary issue with your trial cancellation. Please try again in few minutes."
+msgstr "लगता है कि हमारी और से कुछ अस्थायी समस्या हो रही है परीक्षण रद्द करने में. कुछ ही मिनटों में पुन: प्रयास करें।"
+
+#: ../../../freemius/includes/i18n.php:276
+#, php-format
+msgid "No commitment for %s days - cancel anytime!"
+msgstr "%s  दिनों के लिए कोई प्रतिबद्धता - किसी भी समय रद्द हो सकती है!"
+
+#: ../../../freemius/includes/i18n.php:277
+#, php-format
+msgid "Your license has expired. You can still continue using all the %s features, but you'll need to renew your license to continue getting updates and support."
+msgstr "आपका लाइसेंस समाप्त हो चुका है.आप अभी भी सभी %s सुविधाओं का उपयोग जारी रख सकते हैं,लेकिन आपको अपने लाइसेंस नवीनीकृत करने की आवश्यकता होगी  अद्यतन और समर्थन जारी रखने के लिए."
+
+#: ../../../freemius/includes/i18n.php:278
+#, php-format
+msgid "Couldn't activate %s."
+msgstr "%s को सक्रिय नहीं कर सकते."
+
+#: ../../../freemius/includes/i18n.php:279
+msgid "Please contact us with the following message:"
+msgstr "निम्न संदेश के साथ हमसे संपर्क करें:"
+
+#: ../../../freemius/includes/i18n.php:280
+#, php-format
+msgid "It looks like you are still on the %s plan. If you did upgrade or change your plan, it's probably an issue on our side - sorry."
+msgstr "ऐसा लगता है कि आप अभी भी %s योजना का इस्तेमाल कर रहे है. अगर आपने उन्नयन या अपनी योजना बदल दि है तो यह शायद हमारे पक्ष में एक मुद्दा है।"
+
+#: ../../../freemius/includes/i18n.php:281
+msgid "Please contact us here"
+msgstr "हमें यहाँ संपर्क करें"
+
+#: ../../../freemius/includes/i18n.php:282
+#, php-format
+msgid "I have upgraded my account but when I try to Sync the License, the plan remains %s."
+msgstr "मैंने अपना खाता उन्नत किया है लेकिन जब मैं लाइसेंस सिंक्रनाइज़ करने का प्रयास करता हु, प्लान %s वही रहता है."
+
+#: ../../../freemius/includes/i18n.php:285
+msgid "From unknown reason, the API connectivity test failed."
+msgstr "अज्ञात कारण से,API कनेक्टिविटी परीक्षण विफल रहा है।"
+
+#: ../../../freemius/includes/i18n.php:286
+msgid "It's probably a temporary issue on our end. Just to be sure, with your permission, would it be o.k to run another connectivity test?"
+msgstr "यह शायद हमारे अंत पर एक अस्थाई समस्या है.बस तसल्ली के लिए,आपकी अनुमति से,एक और कनेक्टिविटी परीक्षण चलाने के लिए ठीक होगा?"
+
+#: ../../../freemius/includes/i18n.php:287
+msgid "We use PHP cURL library for the API calls, which is a very common library and usually installed out of the box. Unfortunately, cURL is not installed on your server."
+msgstr "हम API कॉल के लिए PHP URL पुस्तकालय का उपयोग कर रहे है जो एक बहुत ही आम पुस्तकालय है और आम तौर पर स्थापित किया जाता है.दुर्भाग्य से,cURL आपके सर्वर पर स्थापित नहीं है."
+
+#: ../../../freemius/includes/i18n.php:288
+msgid "From unknown reason, CloudFlare, the firewall we use, blocks the connection."
+msgstr "अज्ञात कारण से,क्लौडफलरे,फ़ायरवॉल का हम उपयोग करते है,कनेक्शन ब्लॉक."
+
+#: ../../../freemius/includes/i18n.php:289
+#, php-format
+msgctxt "as pluginX requires an access to our API"
+msgid "%s requires an access to our API."
+msgstr "हमारे API का उपयोग करने केलिए अनुमति की %s आवश्यकता है।"
+
+#: ../../../freemius/includes/i18n.php:290
+msgid "It looks like your server is using Squid ACL (access control lists), which blocks the connection."
+msgstr "लगता है आपका सर्वर स्क्विड ACL का उपयोग कर रहा है (एक्सेस कंट्रोल लिस्ट),जो कनेक्शन ब्लॉक करता है."
+
+#: ../../../freemius/includes/i18n.php:291
+msgid "I don't know what is Squid or ACL, help me!"
+msgstr "मैं नहीं जानता कि स्क्विड और ACL क्या है, मेरी मदद करें."
+
+#: ../../../freemius/includes/i18n.php:292 ../../../freemius/includes/i18n.php:296
+#, php-format
+msgid "We'll make sure to contact your hosting company and resolve the issue. You will get a follow-up email to %s once we have an update."
+msgstr "हम सुनिश्चित करेंगे आपकी होस्टिंग कंपनी से संपर्क करके इस मुद्दे को हल निकालने केलिए.एक बार जब हम अद्यतन करले तो  आपको एक अनुवर्ती ईमेल %s मिल जाएगा."
+
+#: ../../../freemius/includes/i18n.php:293
+msgid "I'm a system administrator"
+msgstr "मैं एक सिस्टम व्यवस्थापक हूँ"
+
+#: ../../../freemius/includes/i18n.php:294
+#, php-format
+msgid "Great, please whitelist the following domains: %s. Once you done, deactivate the plugin and activate it again."
+msgstr "ग्रेट, निम्न डोमेन कि श्वेतसूची करें:%s.जब आप पूरा करले,प्लगइन निष्क्रिय करें और इसे फिर से सक्रियकरें."
+
+#: ../../../freemius/includes/i18n.php:295
+msgid "I don't know what is cURL or how to install it, help me!"
+msgstr "मैं नहीं जानता कि cURL क्या है और कैसे स्थापित किया जाये, मेरी मदद है करें!"
+
+#: ../../../freemius/includes/i18n.php:297
+msgid "Great, please install cURL and enable it in your php.ini file. To make sure it was successfully activated, use 'phpinfo()'. Once activated, deactivate the plugin and reactivate it back again."
+msgstr "ग्रेट, cURL स्थापित करें और अपनी  php.ini फ़ाइल सक्षम करें.सुनिश्चित करें वह सफलतापूर्वक सक्रिय हो गया है, उपयोग करें 'phpinfo()'. एक बार सक्रिय होगया, प्लगइन निष्क्रिय करें और फिर इसे वापस सक्रिय करें."
+
+#: ../../../freemius/includes/i18n.php:298
+msgid "We are sure it's an issue on our side and more than happy to resolve it for you ASAP if you give us a chance."
+msgstr "हमें यकीन है कि यह हमारे पक्ष में एक समस्या है और यदि आप हमें एक मौका दे हमें ज्यादा ख़ुशी होगी इसे यथाशीघ्र हल  करने में."
+
+#: ../../../freemius/includes/i18n.php:299
+msgid "Yes - I'm giving you a chance to fix it"
+msgstr "हाँ - मैं तुम्हें यह ठीक करने के लिए एक मौका दे रहा हूँ"
+
+#: ../../../freemius/includes/i18n.php:300
+#, php-format
+msgid "We will do our best to whitelist your server and resolve this issue ASAP. You will get a follow-up email to %s once we have an update."
+msgstr "हम अपनी पूरी कोशिश करेंगे आपके सर्वर श्वेतसूची करने में और इस समस्या को यथाशीघ्र हल करेंगे. आपको एक अनुवर्ती ईमेल %s  मिल जाएगा एक बार जब हम एक अद्यतन करले."
+
+#: ../../../freemius/includes/i18n.php:301
+msgid "Let's try your previous version"
+msgstr "चलो आपके पिछले संस्करण की कोशिश करते हैं."
+
+#: ../../../freemius/includes/i18n.php:302
+msgid "Uninstall this version and install the previous one."
+msgstr "इस संस्करण की स्थापना रद्द करें और पिछले को स्थापित करें."
+
+#: ../../../freemius/includes/i18n.php:303
+msgid "That's exhausting, please deactivate"
+msgstr "यह काम नहीं कर रहा है कृपया निष्क्रिय करें."
+
+#: ../../../freemius/includes/i18n.php:304
+msgid "We feel your frustration and sincerely apologize for the inconvenience. Hope to see you again in the future."
+msgstr "हम आपकी हताशा महसूस करते हैं और असुविधा के लिए  माफी मांगते है. आशा है कि भविष्य में फिर से मिलेंगे."
+
+#: ../../../freemius/includes/i18n.php:305
+#, php-format
+msgid "Thank for giving us the chance to fix it! A message was just sent to our technical staff. We will get back to you as soon as we have an update to %s. Appreciate your patience."
+msgstr "हमें यह ठीक करने का मौका देने के लिए धन्यवाद.संदेश हमारे तकनीकी स्टाफ को भेजा गया है.जब हमारे पास अपडेट%s मिल जाता है तब हम जल्द ही वापस आएंगे.आपके धैर्य की सराहना करते है."
+
+#: ../../../freemius/includes/i18n.php:306
+#, php-format
+msgctxt "%1s - plugin title, %2s - API domain"
+msgid "Your server is blocking the access to Freemius' API, which is crucial for %1s synchronization. Please contact your host to whitelist %2s"
+msgstr "आपका सर्वर Freemius API पर पहुँचने में अवरुद्ध है, जो %1s तुल्यकालन के लिए महत्वपूर्ण है. %2s श्वेतसूची के लिए अपने मेजबान से संपर्क करें."
+
+#: ../../../freemius/includes/i18n.php:307
+msgid "It seems like one of the authentication parameters is wrong. Update your Public Key, Secret Key & User ID, and try again."
+msgstr "ऐसा लगता है प्रमाणीकरण मानकों में से एक से गलत है. आपकी सार्वजनिक कुंजी,गुप्त कुंजी और यूजर आईडी, अद्यतन करें और फिर कोशिश करें."
+
+#: ../../../freemius/includes/i18n.php:310
+#, php-format
+msgid "Please check your mailbox, you should receive an email via %s to confirm the ownership change. From security reasons, you must confirm the change within the next 15 min. If you cannot find the email, please check your spam folder."
+msgstr "अपने मेलबॉक्स की जांच करें, आप स्वामित्व परिवर्तन की पुष्टि करने के लिए %s  माध्यम से एक ईमेल प्राप्त होगा. सुरक्षा कारणों से, आपको अगले 15 मिनट के भीतर परिवर्तन की पुष्टि करनी होगी. अगर आपको ईमेल नहीं मिलता तो सपमबॉक्स चेक करें"
+
+#: ../../../freemius/includes/i18n.php:311
+#, php-format
+msgid "Thanks for confirming the ownership change. An email was just sent to %s for final approval."
+msgstr "स्वामित्व परिवर्तन की पुष्टि के लिए धन्यवाद.ईमेल सिर्फ अंतिम अनुमोदन के लिए % s के लिए भेजा गया है."
+
+#: ../../../freemius/includes/i18n.php:312
+#, php-format
+msgid "%s is the new owner of the account."
+msgstr "%s खाते के नए मालिक है।"
+
+#: ../../../freemius/includes/i18n.php:314
+#, php-format
+msgctxt "addonX cannot run without pluginY"
+msgid "%s cannot run without %s."
+msgstr "%s के बिना नहीं चल सकता %s"
+
+#: ../../../freemius/includes/i18n.php:315
+#, php-format
+msgctxt "addonX cannot run..."
+msgid "%s cannot run without the plugin."
+msgstr "%s प्लगइन के बिना नहीं चल सकता."
+
+#: ../../../freemius/includes/i18n.php:316
+#, php-format
+msgctxt "pluginX activation was successfully..."
+msgid "%s activation was successfully completed."
+msgstr "%s  सक्रियण सफलतापूर्वक पूरा कर लिया गया."
+
+#: ../../../freemius/includes/i18n.php:317
+msgctxt "Plugin installer section title"
+msgid "Features & Pricing"
+msgstr "सुविधाएँ और मूल्य निर्धारण"
+
+#: ../../../freemius/includes/i18n.php:318
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr "ऐड-ऑन WordPress.org या Freemius पर तैनात किया गया है."
+
+#: ../../../freemius/includes/i18n.php:319
+msgid "Paid add-on must be deployed to Freemius."
+msgstr "प्रदत्त ऐड-ऑन Freemius पर तैनात किया जाना चाहिए."
+
+#: ../../../freemius/includes/i18n.php:321
+#, php-format
+msgid "%s is a premium only add-on. You have to purchase a license first before activating the plugin."
+msgstr "%s एक केवल प्रीमियम ऐड-ऑन है. आपको प्लगइन को सक्रिय करने से पहले एक लाइसेंस खरीदना होगा."
+
+#: ../../../freemius/includes/i18n.php:322
+#, php-format
+msgid "%s free trial was successfully cancelled. Since the add-on is premium only it was automatically deactivated. If you like to use it in the future, you'll have to purchase a license."
+msgstr "%s नि:शुल्क परीक्षण सफलतापूर्वक रद्द कर दिया गया.चूंकि यह एक ऐड-ऑन प्रीमियम है केवल स्वचालित रूप से निष्क्रिय किया गया है.यदि आप भविष्य में इसका इस्तेमाल करना चाहते हैं,आपको एक लाइसेंस खरीदना होगा."
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:370
+#, php-format
+msgid "Newer Version (%s) Installed"
+msgstr "नए संस्करण (%s)  स्थापित"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:373
+msgid "Latest Version Installed"
+msgstr "नवीनतम संस्करण स्थापित"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:484
+msgctxt "Plugin installer section title"
+msgid "Description"
+msgstr "विवरण"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:485
+msgctxt "Plugin installer section title"
+msgid "Installation"
+msgstr "Installation"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:486
+msgctxt "Plugin installer section title"
+msgid "FAQ"
+msgstr "सामान्य प्रश्न"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:487
+msgctxt "Plugin installer section title"
+msgid "Screenshots"
+msgstr "स्क्रीनशॉट"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:488
+msgctxt "Plugin installer section title"
+msgid "Changelog"
+msgstr "Changelog"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:489
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "समीक्षा"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:490
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "अन्य नोट"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:515
+msgid "Plugin Install"
+msgstr "प्लगइन स्थापित"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:647
+msgid "Version:"
+msgstr "संस्करण:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:653
+msgid "Author:"
+msgstr "लेखक:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:659
+msgid "Last Updated:"
+msgstr "आखरी अपडेट:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:661
+#, php-format
+msgid "%s ago"
+msgstr "%s पहले"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:668
+msgid "Requires WordPress Version:"
+msgstr "वर्डप्रेस संस्करण की आवश्यकता है:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:668
+#, php-format
+msgid "%s or higher"
+msgstr "%s या उच्चतर"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:674
+msgid "Compatible up to:"
+msgstr "तक संगत:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:681
+msgid "Downloaded:"
+msgstr "डाउनलोड:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:681
+#, php-format
+msgid "%s time"
+msgid_plural "%s times"
+msgstr[0] "%s  समय "
+msgstr[1] "%s बार"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:688
+msgid "WordPress.org Plugin Page &#187;"
+msgstr "WordPress.org प्लगइन पृष्ठ &#187;"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:695
+msgid "Plugin Homepage &#187;"
+msgstr "प्लगइन मुखपृष्ठ &#187;"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:702 ../../.. /freemius/includes/fs-plugin-info-dialog.php:759
+msgid "Donate to this plugin &#187;"
+msgstr "इस प्लगइन &#187; को दान करें"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:708
+msgid "Average Rating"
+msgstr "औसत रेटिंग"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:714
+#, php-format
+msgid "(based on %s rating)"
+msgid_plural "(based on %s ratings)"
+msgstr[0] "(%s रेटिंग के आधार पर)"
+msgstr[1] "(%s रेटिंग्स के आधार पर)"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:727
+#, php-format
+msgid "Click to see reviews that provided a rating of %d star"
+msgid_plural "Click to see reviews that provided a rating of %d stars"
+msgstr[0] "%d स्टार की समीक्षा प्रदान कि रेटिंग को देखने के लिए क्लिक करें."
+msgstr[1] "%d स्टार्स की समीक्षा प्रदान कि रेटिंग को देखने के लिए क्लिक करें."
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:727
+#, php-format
+msgid "%d star"
+msgid_plural "%d stars"
+msgstr[0] "%d  स्टार"
+msgstr[1] "%d स्टार्स"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:738
+msgid "Contributors"
+msgstr "योगदानकर्ता"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:766 ../../.. /freemius/includes/fs-plugin-info-dialog.php:768
+msgid "Warning:"
+msgstr "चेतावनी:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:766
+msgid "This plugin has not been tested with your current version of WordPress."
+msgstr "इस प्लगइन का आपके वर्डप्रेस के वर्तमान संस्करण के साथ परीक्षण नहीं किया गया है।"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:768
+msgid "This plugin has not been marked as compatible with your version of WordPress."
+msgstr "इस प्लगइन को  आपके वर्डप्रेस संस्करण के साथ संगत के रूप में चिह्नित नहीं किया गया है."

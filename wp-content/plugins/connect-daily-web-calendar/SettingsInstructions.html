@@ -1,0 +1,34 @@
+<div class="CDpostbox" ID="CDailyInstructions" style="max-width: 70ex; display: <?php echo $is_configured ? 'block;' : 'none;'?>">
+    <h3>Settings Information</h3>
+    <div>
+    <strong>Calendar URL</strong> This is the URL to your Connect Daily Calendar. If
+    you don&apos;t already have a calendar, select the radio group option <em>Create a new Connect Daily Calendar system</em>.
+    <p>
+    <strong>User Name</strong> and <strong>Password</strong> are only required if
+    the public cannot view the calendar, or you want to display a calendar the
+    default public user does not have permission to.
+    </p>
+    <p>
+    <strong>Date-Time Format</strong> is used when an event with a date and time is
+    displayed. Date Format and Time Format are individually controlled by Settings |
+    General.
+    </p>
+	    <p>
+		    <strong>Skip Resource Types</strong>
+		    By default, all resources assigned to an event are displayed. You can
+		    <ol>
+		    <li>Leave this blank to list all resources.
+		    <li>Specify a comma-separated list of resource type names that should not be displayed
+		    <li>Put an asterisk (*) in to skip all resources.
+		    </ol>
+    <p>
+    <strong>Disable Caching</strong> By default, the plugin caches generated data
+    for
+	<?php echo CDailyPlugin::CACHE_PERIOD_SECONDS; ?> seconds. Caching the data makes
+	your web site go faster and gives your users a better experience.  If you  edit
+	your calendar, changes might not show up immediately. You can temporarily
+	disable this by checking the box and saving.
+    </p>
+    </div>
+</div>
+

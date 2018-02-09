@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP_Portfolio 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-01 16:55+0530\n"
+"PO-Revision-Date: 2016-06-01 16:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: Theme Horse <support@themehorse.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Error 404-Page NOT Found"
+msgstr ""
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: 404.php:24
+msgid "This might be because:"
+msgstr ""
+
+#: 404.php:27
+msgid "You have typed the web address incorrectly, or the page you were looking for may have been moved, updated or deleted."
+msgstr ""
+
+#: 404.php:30
+msgid "Please try the following instead:"
+msgstr ""
+
+#: 404.php:33
+msgid "Check for a mis-typed URL error, then press the refresh button on your browser."
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:110
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:111
+msgid "Social Navigation"
+msgstr ""
+
+#: searchform.php:11
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: inc/footer-info/wp-portfolio-footer-info.php:35
+msgid "Proudly Powered by: "
+msgstr ""
+
+#: inc/footer-info/wp-portfolio-footer-info.php:35
+#: inc/footer-info/wp-portfolio-footer-info.php:43
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/footer-info/wp-portfolio-footer-info.php:43
+msgid "by "
+msgstr ""
+
+#: inc/functions/customizer.php:20
+#: inc/functions/customizer.php:21
+msgid "Donate"
+msgstr ""
+
+#: inc/functions/customizer.php:23
+msgid "Review WP Portfolio"
+msgstr ""
+
+#: inc/functions/customizer.php:24
+msgid "Rate WP Portfolio"
+msgstr ""
+
+#: inc/functions/customizer.php:26
+msgid "WP_Portfolio Theme Instructions"
+msgstr ""
+
+#: inc/functions/customizer.php:27
+msgid "Theme Instructions"
+msgstr ""
+
+#: inc/functions/customizer.php:29
+#: inc/functions/customizer.php:30
+msgid "Support Forum"
+msgstr ""
+
+#: inc/functions/customizer.php:32
+msgid "WP_Portfolio Demo"
+msgstr ""
+
+#: inc/functions/customizer.php:33
+msgid "View Demo"
+msgstr ""
+
+#: inc/functions/customizer.php:68
+msgid "WP Portfolio Theme Options"
+msgstr ""
+
+#: inc/functions/customizer.php:72
+msgid "WP Portfolio Support"
+msgstr ""
+
+#: inc/functions/customizer.php:73
+msgid "Hey! Buy us a beer and we shall come with new features and update. "
+msgstr ""
+
+#: inc/functions/customizer.php:86
+msgid "WP_Portfolio Upgrade"
+msgstr ""
+
+#: inc/functions/customizer.php:94
+msgid "Site Layout"
+msgstr ""
+
+#: inc/functions/customizer.php:110
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/functions/customizer.php:111
+msgid "Narrow Layout"
+msgstr ""
+
+#: inc/functions/customizer.php:116
+msgid "Header Options"
+msgstr ""
+
+#: inc/functions/customizer.php:127
+msgid "Display"
+msgstr ""
+
+#: inc/functions/customizer.php:133
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/functions/customizer.php:134
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/functions/customizer.php:135
+msgid "Disable Both"
+msgstr ""
+
+#: inc/functions/customizer.php:141
+msgid "Post Layout View"
+msgstr ""
+
+#: inc/functions/customizer.php:157
+msgid "Grid View"
+msgstr ""
+
+#: inc/functions/customizer.php:158
+msgid "list View"
+msgstr ""
+
+#: inc/functions/customizer.php:163
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/functions/customizer.php:164
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr ""
+
+#: inc/functions/customizer.php:182
+msgid "Home Page Blog Category Setting"
+msgstr ""
+
+#: inc/functions/customizer.php:183
+msgid "Only posts that belong to the categories selected here will be displayed on the front page. ( You may select multiple categories by holding down the CTRL key. ) "
+msgstr ""
+
+#: inc/functions/customizer.php:198
+msgid "Front page posts categories"
+msgstr ""
+
+#: inc/functions/customizer.php:212
+msgid "Check to Default Settings ( Uncheck to show effect on front page )"
+msgstr ""
+
+#: inc/structure/content-extensions.php:76
+#: inc/structure/content-extensions.php:135
+msgid "Featured"
+msgstr ""
+
+#: inc/structure/content-extensions.php:106
+#: inc/structure/content-extensions.php:241
+msgid "No Comments"
+msgstr ""
+
+#: inc/structure/content-extensions.php:106
+#: inc/structure/content-extensions.php:241
+msgid "1 Comment"
+msgstr ""
+
+#: inc/structure/content-extensions.php:106
+#: inc/structure/content-extensions.php:241
+msgid "% Comments"
+msgstr ""
+
+#: inc/structure/content-extensions.php:106
+#: inc/structure/content-extensions.php:241
+msgid "Comments Off"
+msgstr ""
+
+#: inc/structure/content-extensions.php:114
+msgid "Contiune reading"
+msgstr ""
+
+#: inc/structure/content-extensions.php:117
+#: inc/structure/content-extensions.php:260
+msgid ", "
+msgstr ""
+
+#: inc/structure/content-extensions.php:152
+#: inc/structure/content-extensions.php:198
+#: inc/structure/content-extensions.php:285
+#: inc/structure/content-extensions.php:328
+msgid "No Posts Found."
+msgstr ""
+
+#: inc/structure/content-extensions.php:178
+#: inc/structure/content-extensions.php:251
+msgid "Pages:"
+msgstr ""
+
+#: inc/structure/content-extensions.php:351
+#: inc/structure/content-extensions.php:373
+#: inc/structure/content-extensions.php:385
+msgid "Previous"
+msgstr ""
+
+#: inc/structure/content-extensions.php:354
+#: inc/structure/content-extensions.php:376
+#: inc/structure/content-extensions.php:388
+msgid "Next"
+msgstr ""
+
+#: inc/structure/content-extensions.php:385
+msgid "Previous post:"
+msgstr ""
+
+#: inc/structure/content-extensions.php:388
+msgid "Next post:"
+msgstr ""
+
+#: inc/structure/content-extensions.php:424
+msgid "Pingback:"
+msgstr ""
+
+#: inc/structure/content-extensions.php:426
+msgid "(Edit)"
+msgstr ""
+
+#: inc/structure/content-extensions.php:442
+msgid "Post author"
+msgstr ""
+
+#: inc/structure/content-extensions.php:448
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/structure/content-extensions.php:454
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/structure/content-extensions.php:459
+msgid "Edit"
+msgstr ""
+
+#: inc/structure/content-extensions.php:462
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: inc/structure/footer-extensions.php:48
+msgid "Copyright &copy;"
+msgstr ""
+
+#: inc/structure/footer-extensions.php:65
+msgid "Go to Top"
+msgstr ""
+
+#: inc/structure/header-extensions.php:53
+msgid "Responsive Menu"
+msgstr ""
+
+#: inc/structure/header-extensions.php:135
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/structure/header-extensions.php:137
+msgid "Search Results"
+msgstr ""
+
+#: inc/widgets/wp-portfolio-widgets.php:18
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/wp-portfolio-widgets.php:20
+msgid "Shows widgets at Sidebar."
+msgstr ""
+

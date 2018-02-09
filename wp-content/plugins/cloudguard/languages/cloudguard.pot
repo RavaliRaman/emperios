@@ -1,0 +1,135 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CloudGuard\n"
+"POT-Creation-Date: 2017-10-04 21:33+0100\n"
+"PO-Revision-Date: 2015-09-18 19:22-0000\n"
+"Last-Translator: \n"
+"Language-Team: pipdig\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+
+#: cloudguard.php:103
+msgid "Settings"
+msgstr ""
+
+#: cloudguard.php:126
+msgid "2 Letter Country Code"
+msgstr ""
+
+#: cloudguard.php:133
+msgid "Message to display to user when blocked by CloudGuard (Optional)"
+msgstr ""
+
+#: cloudguard.php:140
+msgid "URL to redirect user to when blocked by CloudGuard (Optional)"
+msgstr ""
+
+#: cloudguard.php:154
+msgid "For example: US"
+msgstr ""
+
+#: cloudguard.php:167
+msgid "Default: Access denied."
+msgstr ""
+
+#: cloudguard.php:182
+#, php-format
+msgid ""
+"Enter the <a href=\"%s\" target=\"_blank\">2 digit code</a> of the country "
+"you wish to <b>ALLOW</b> access from."
+msgstr ""
+
+#: cloudguard.php:183
+msgid ""
+"You can allow access to multiple countries by entering a comma separated "
+"list. For example: GB,US,AU"
+msgstr ""
+
+#: cloudguard.php:184
+msgid ""
+"All <b>other</b> countries will be blocked from accessing the login/register "
+"page."
+msgstr ""
+
+#: cloudguard.php:185
+msgid "Your current location:"
+msgstr ""
+
+#: cloudguard.php:196
+msgid "CloudGuard Settings"
+msgstr ""
+
+#: cloudguard.php:213
+msgid ""
+"Settings currently disabled. You will need to complete the steps below to "
+"enable the use of this plugin:"
+msgstr ""
+
+#: cloudguard.php:216
+#, php-format
+msgid ""
+"Enable <a href=\"%s\" target=\"_blank\">Geolocation</a> for this site in "
+"your Cloudflare dashboard."
+msgstr ""
+
+#: cloudguard.php:254
+msgid "CloudGuard has protected your website from:"
+msgstr ""
+
+#: cloudguard.php:256
+msgid "This area will display blocked login attempts over time."
+msgstr ""
+
+#: cloudguard.php:257
+#, php-format
+msgid ""
+"Want to test if CloudGuard is working? try entering your login url to <a "
+"href=\"%s\" target=\"_blank\">gtmetrix.com</a>."
+msgstr ""
+
+#: cloudguard.php:258
+msgid ""
+"This will send a login attempt from Canada by default. If you have allowed "
+"access from CA, you can change the location on that page. Useful, eh?"
+msgstr ""
+
+#: cloudguard.php:308
+msgid "blocked from"
+msgstr ""
+
+#: cloudguard.php:315
+msgid "Access granted:"
+msgstr ""
+
+#: cloudguard.php:398
+msgid "CloudGuard stats have been cleared"
+msgstr ""
+
+#: cloudguard.php:407
+msgid "Top 5 login attempts blocked by CloudGuard:"
+msgstr ""
+
+#: cloudguard.php:418
+msgid "Click here for more statistics"
+msgstr ""
+
+#: cloudguard.php:427
+msgid "Clear stats"
+msgstr ""
+
+#: cloudguard.php:459
+#, php-format
+msgid ""
+"This widget will display recent login attempts blocked by <a href=\"%s\" "
+"target=\"_blank\">CloudGuard</a>."
+msgstr ""

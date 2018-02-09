@@ -1,0 +1,40 @@
+/* responsive slider */
+.responsiveSlider{
+	overflow: hidden;
+}
+.responsiveSlider ul{
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+	margin: 0 !important;
+	padding: 0;
+}
+.responsiveSlider li{
+	display: block;
+	float: left;
+}
+.slider-nav-arrow{
+	position: absolute;
+	display: block;
+	z-index: 99999;
+}
+.slider-nav-arrow_disable{
+	cursor: default;
+}
+/* custom your style */
+.your-slider-wrap{
+	position: relative;
+	width: 100%;
+	margin:10px auto;
+	max-width:100%;
+}
+.your-slider{
+	width: 100%
+}
+
+
+
+
+

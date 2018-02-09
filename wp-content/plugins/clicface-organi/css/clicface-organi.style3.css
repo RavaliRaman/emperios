@@ -1,0 +1,31 @@
+#clicface-chart .clicface-jOrgChart .clicface-line {
+  width: 2px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-tree {
+  width: 2px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-top {
+  border-top-width: 2px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-bottom {
+  border-bottom-width: 2px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-left {
+  border-right-width: 1px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-right {
+  border-left-width: 1px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-side-fin {
+  height: 2px;
+}
+
+#clicface-chart .clicface-jOrgChart .clicface-side-epais {
+  height: 2px;
+}

@@ -1,0 +1,375 @@
+dl.EventContact {
+    margin-bottom: 1em;
+    margin-left: 0;
+}
+
+dl.EventContact dt {
+}
+
+dl.EventContact dd {
+    margin-left: 2em;
+}
+
+div.CDResourceList {
+    height: 16em;
+    padding-right: 1em;
+    padding-left: 1em;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.EventTitle {
+    clear: left;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+p.EventLink {
+    margin: 1em;
+}
+a.EventLink {
+    display: inline-block;
+    max-width: 50ex;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+a.EventLink:hover {
+    max-width: auto;
+    white-space: wrap;
+    display: inline;
+}
+
+.EventTimeBanner {
+    clear: left;
+    font-size: large;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+p + .EventTimeBanner {
+    padding-top: 1em;
+    border-top: 3px solid;
+}
+
+.EventDescription {
+    clear: left;
+    margin-top: 1em;
+}
+
+.EventDescription img {
+    max-width: 100%;
+    margin-bottom: 0;
+    margin-right: 1em;
+    padding: 10px;
+}
+
+.EventAttachment {
+    float: left;
+}
+
+.EventAttachment p {
+    max-width: 30ex;
+}
+
+/*
+DL for the simple events list.
+*/
+
+dl.EventSimpleList {
+    margin-left: 0;
+}
+
+dl.EventSimpleList dt {
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+dl.EventSimpleList dd {
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+dl.EventSimpleList dd:not([data-busy="true"]){
+    cursor: pointer;
+}
+
+.DateBanner {
+    display: none;
+    font-size: large;
+}
+
+dl.cd_resource_list {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+dl.cd_resource_list dt {
+    font-weight: bold;
+}
+/*
+    Mini-Calendar Styling.
+*/
+table.cd-calendar#wp-calendar td#prev, 
+table.cd-calendar#wp-calendar td#next {
+    text-align: center;
+    font-size: medium;
+    cursor: pointer;
+}
+
+table.cd-calendar#wp-calendar td {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+table.cd-calendar#wp-calendar td a[data-day]{
+    cursor: pointer;
+}
+.widget_calendar a.CDSelectedDay {
+    color: red;
+}
+/*
+    Responsive full-sized calendar
+*/
+table.CDCalendar th,table.CDCalendar td, tr.CDNavigationRow th{
+    font-size: x-small;
+    width: 14.2%;
+}
+table.CDCalendar caption{
+    font-size: x-large;
+}
+img.CDNavIcon {
+    height: 24px; 
+    width: 24px;
+    cursor: pointer;
+}
+.CDShortDow {
+    display: none;
+}
+table.CDCalendar, 
+.CDNavigationRow th {
+	border: none;
+}
+
+.CDSLTimeLabel,
+.CDTimeLabel {
+    /*
+        CDSLTimeLabel is the time label in simple lists, and
+        CDTimeLabel is the time label for the responsive calendar.
+    */
+    text-transform: lowercase;
+    font-size: small;
+    font-weight: bold;
+}
+.CDCalendar .CDEventTitle {
+    font-size: small;
+    font-weight: normal;
+    
+}
+.CDCalendar .CDEventTitle:not([data-busy="true"]) {
+    cursor: pointer;
+}
+table.CDCalendar {
+    width: 100%;
+    border-collapse: collapse;
+}
+table.CDCalendar td {
+    padding-left: 8px;
+}
+th.CDNavPrevious {
+    text-align: left;
+    padding-left: 0.5em;
+    padding-top: 0.5em;
+}
+th.CDNavNext {
+    text-align: right;
+    padding-top: 0.5em;
+    padding-right: 0.5em;
+}
+.NonWrappingTable {
+    table-layout: fixed;
+    white-space: nowrap;
+}
+.NonWrappingTable td {
+    overflow: hidden;
+}
+
+.CDDayRow td {
+    vertical-align: top;
+    height: 100px;
+    border: 1px solid;
+}
+.CDDayHeadRow th {
+    border: 1px solid;
+    padding-left: 0.25em;
+}
+
+td.CDOffDays {
+    background-color: #e8e8e8;        
+}
+td.CDToday {
+
+}
+.CDDayNumeral {
+    font-size: large;
+    font-weight: bold;
+}
+.CDnon-wrapping {
+    white-space: nowrap;
+}
+label.CDnon-wrapping {
+    margin-right: 1.5em;
+    display: inline-block;
+}
+@media screen and ( min-width: 601px ){
+    input[type='text'].CDMobile,
+    .CDMobile {
+        display: none;
+    }
+}
+
+@media screen and ( max-width: 600px ) {
+    /*
+        These are definitions for responsive 
+        behavior. The break-point at 600px is 
+        arbitrary.
+    */
+    input[type='text'].CDNonMobile,
+    .CDNonMobile {
+        display: none;
+    }
+    .EventTimeBanner {
+        font-size: medium;
+    }
+
+    table.CDCalendar caption, 
+    .CDDayNumeral {
+        font-size: small;
+        font-weight: normal;
+    }
+
+    .CDDayNumeral.Clickable {
+        cursor: pointer;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    tr.CDDayHeadRow th {
+        text-align: center;
+    }
+    tr.CDDayRow td {
+        /*
+         For the responsive mini-calendar, right align the numerals.
+        */
+        text-align: right;
+        padding-right: 1.4em;
+    }
+
+    .CDDayRow td {
+        height: 0px;
+    }
+
+    .CDCalendar .CDEventTitle,
+    .CDCalendar .CDTimeLabel,
+    .CDFilter,
+    .CDFullDow, 
+    .EventLink, 
+    .EventDescription, 
+    .EventLocationName, 
+    .EventLocationAddress, 
+    .EventContact, 
+    .EventAttachment, 
+    .addthis_inline_share_toolbox,
+    dl.cd_resource_list {
+        /*
+            For the detailed list of events 
+            widget/short code, don't display 
+            these elements.
+        */
+        display: none;
+    }
+    
+    .CDShortDow,
+    div.CDDisplayAlways .EventLink,
+    div.CDDisplayAlways .EventDescription, 
+    div.CDDisplayAlways .EventLocationName,
+    div.CDDisplayAlways .EventLocationAddress,
+    div.CDDisplayAlways .EventContact,
+    div.CDDisplayAlways dl.cd_resource_list,
+    div.CDDisplayAlways .EventAttachment,
+    div.CDDisplayAlways .CDiCalendarLink,
+    div.CDDisplayAlways .addthis_inline_share_toolbox {
+        /*
+            If these elements are contained in a div 
+            of class CDDisplayAlways, set display to 
+            block. This covers the elements when they're
+            displayed in a dialog box.
+        */
+        display: block;
+    }
+    .CDMinimalUIClickableTitle {
+        display: block;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    div.CDDisplayAlways .CDMinimalUIClickableTitle {
+        text-decoration: none;
+        cursor: default;
+    }
+   
+    img.CDNavIcon {
+        height: 16px; 
+        width: 16px;
+    }
+}
+
+@media print {
+    .CDFilter, 
+    .CDNavigationRow {
+        display: none;
+    }
+}
+
+#CDailyAddEventsForm input[type='date'] {
+    width: 14em;
+}
+#CDailyAddEventsForm input[type='time']{
+    width: 10em;
+}
+
+#CDailyAddEventsForm input[type='number']{
+    width: 7ex;
+}
+#CDailyAddEventsForm select,
+#CDailyAddEventsForm textarea,
+#CDailyAddEventsForm input {
+    max-width: 90%;
+}
+#CDailyAddEventsForm input[type='text'],
+#CDailyAddEventsForm input[type='url'],
+#CDailyAddEventsForm textarea {
+    width: 70ex;
+}
+
+.CDFilter {
+    border: 1px solid #D8D8D8;
+    padding: 0.5em;
+    width: 100%;
+}
+.CDFilter label {
+    font-size: smaller;
+}
+.CDFilter label[data-style_id] {
+    padding: 0.3em;
+    margin-top: 0.2em;
+}
+.CDFilter legend[data-expandable="1"] {
+    cursor: pointer;
+}
+
+input[name="CDSearchText"][type="search"] {
+    background-repeat: no-repeat;
+    background-position: right 20px center;
+}

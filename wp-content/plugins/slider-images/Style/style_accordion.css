@@ -1,0 +1,163 @@
+figure {
+    margin: 0;
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+	-webkit-margin-start: 0;
+	-webkit-margin-end: 0;
+}
+.ia-container {
+	position:relative;
+	height:400px;
+	margin: 20px auto;
+	overflow: hidden;
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.08);
+	border: 7px solid rgba(255,255,255,0.6);
+}
+.ia-container figure {
+    position: absolute;
+	top: 0;
+	height:100% !important;
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.6);
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.ia-container > figure {
+    position: relative;
+	left: 0 !important;
+}
+.ia-container img {
+	display: block;
+	width: 100%;
+	height:100% !important;
+}
+.ia-container input {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	cursor: pointer;
+	border: 0;
+	padding: 0;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+	z-index: 100;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+.ia-container input:checked{
+	width: 5px !important;
+	left: auto;
+	right: 0px;
+}
+.ia-container input:checked ~ figure {
+	-webkit-transition: all 0.7s ease-in-out;
+    -moz-transition: all 0.7s ease-in-out;
+    -o-transition: all 0.7s ease-in-out;
+    -ms-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
+	left: 100% !important;
+}
+.ia-container figcaption {
+	width: 100%;
+	height: 100%;
+	background: rgba(87, 73, 81, 0.1);
+	position: absolute;
+	top: 0px;
+	-webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+.ia-container figcaption span {
+	position: absolute;
+	top: 40%;
+	overflow: hidden;
+	text-align: center;
+	background: rgba(87, 73, 81, 0.3);
+	line-height: 20px;
+	font-size: 18px;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+	letter-spacing: 4px;
+	font-weight: 700;
+	box-sizing:border-box;
+	padding:20px;
+	max-width:100%;
+	left:50%;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+	transform:translateY(-50%) translateX(-50%);
+	-webkit-transform:translateY(-50%) translateX(-50%);
+	-ms-transform:translateY(-50%) translateX(-50%);
+}
+.Tot_Accord_Link{
+	position: absolute;
+	top: 50%;
+	overflow: hidden;
+	text-align: center;
+	background: rgba(221,51,51,0.42);
+	line-height: 20px;
+	font-size: 18px;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+	text-decoration:none;
+	letter-spacing: 4px;
+	font-weight: 700;
+	padding:20px;
+	max-width:100%;
+	box-sizing:border-box;
+	left:50%;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+	transform:translateY(-50%) translateX(-50%);
+	-webkit-transform:translateY(-50%) translateX(-50%);
+	-ms-transform:translateY(-50%) translateX(-50%);
+}
+
+.ia-container input:checked + figcaption,
+.ia-container input:checked:hover + figcaption{
+	background: rgba(87, 73, 81, 0);
+}
+.ia-container input:checked + figcaption span {
+	-webkit-transition: all 0.4s ease-in-out 0.5s;
+    -moz-transition: all 0.4s ease-in-out 0.5s;
+    -o-transition: all 0.4s ease-in-out 0.5s;
+    -ms-transition: all 0.4s ease-in-out 0.5s;
+    transition: all 0.4s ease-in-out 0.5s;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=99)";
+    filter: alpha(opacity=99);
+	opacity: 1;
+	top: 50%;
+}
+.ia-container input:checked + figcaption a {
+	-webkit-transition: all 0.4s ease-in-out 0.5s;
+    -moz-transition: all 0.4s ease-in-out 0.5s;
+    -o-transition: all 0.4s ease-in-out 0.5s;
+    -ms-transition: all 0.4s ease-in-out 0.5s;
+    transition: all 0.4s ease-in-out 0.5s;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=99)";
+    filter: alpha(opacity=99);
+	opacity: 1;
+	top: 80%;
+}
+.ia-container #ia-selector-last:checked + figcaption span {
+	-webkit-transition-delay: 0.3s;
+	-moz-transition-delay: 0.3s;
+	-o-transition-delay: 0.3s;
+	-ms-transition-delay: 0.3s;
+	transition-delay: 0.3s;
+}
+.ia-container input:hover + figcaption {
+	background: rgba(87, 73, 81, 0.03);
+}
+.ia-container input:checked ~ figure input{
+    z-index: 1;
+}

@@ -1,0 +1,61 @@
+<div class="postbox" id="CDailyInstructions">
+    <div>
+        <img style="width: 100%; margin-top: 1em; " src="<?php echo plugins_url("",plugin_basename(__FILE__)); ?>/ConnectDailyLogo.svg">
+        <h2>Overview</h2>
+        <p>
+        The Connect Daily plug-in provides an
+        interface to that Connect Daily cloud calendar system. Connect Daily is incredibly
+        powerful and full-featured. It includes:
+        </p>
+        <ul>
+        <li>Multi-User with Configurable Security</li>
+        <li>Event Approvals</li>
+        <li>SMS or EMail Notifications and Reminders</li>
+        <li>Resource Management</li>
+        <li>Social Networking Support</li>
+        <li>Mobile Device Support</li>
+        <li>Data Import/Export</li>
+        <ul>
+        <li>iCalendar, RSS, JSON, and CSV Export</li>
+        <li>iCalendar, RSS, and CSV Import. Supports recurring imports from
+        remote urls.</li>
+        </ul>
+        <li>Time Zone Support</li>
+        <li>Outstanding WordPress Support</li>
+        <li>High Performance - Supports 10&apos;s of thousands of events.</li>
+        <li>See a complete <a href="http://www.connectdaily.com/features/"
+            target="_blank">list of features</a>.</li>
+        </ul>
+        <p>
+        For complete information about Connect Daily, <a
+            href="http://www.connectdaily.com" target="_blank">visit our web
+        site</a>.
+        </p>
+        <p>
+        This plugin provides
+        </p>
+        <ul>
+        <li>Responsive Full-Sized Calendar</li>
+        <li>Responsive Public Event Add Shortcode</li>
+        <li>Mini-Calendar Widget
+        <li>Responsive Detailed List of Events Shortcode
+        <li>Responsive Simple List of Events Widget and Shortcode
+        <li>iCalendar Widget and Shortcode</li>
+        <li>IFRAME Shortcodes for other calendar formats into your design.
+        </ul>
+        <p>
+        In addition to our best-in-class feature set, we offer outstanding
+        support which includes unlimited telephone support to paid customers.
+        </p>
+        <?php
+        if (!$CDPlugin->isConfigured()) {
+        ?>
+
+            <p>
+            To get started, click on <em>Settings</em> in the menu.
+            </p>
+        <?php
+        }
+        ?>
+    </div>
+</div>

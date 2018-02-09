@@ -1,0 +1,32 @@
+.mis-stage, .mis-slider, .mis-slide, .mis-container, .mis-container * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.mis-stage, .mis-slider {
+    position: relative;
+    overflow: hidden;
+}
+.mis-stage {
+    width: 100%; 
+    text-align: center;
+    height:auto !important;
+}
+.mis-slider {
+    list-style: none;
+    overflow: visible;
+    height: 80px;
+    
+}
+
+
+.mis-slider li a {
+    text-decoration: none !important;
+    display: block;
+}  
+.mis-slider li figcaption {
+    font-size: 1.125em;
+    line-height: 1.125em;
+}

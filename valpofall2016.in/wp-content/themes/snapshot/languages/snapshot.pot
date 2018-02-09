@@ -1,0 +1,926 @@
+# Copyright (C) 2016 snapshot
+# This file is distributed under the same license as the snapshot package.
+msgid ""
+msgstr ""
+"Project-Id-Version: snapshot\n"
+"Report-Msgid-Bugs-To: http://www.siteorigin.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: SiteOrigin <support@siteorigin.com>\n"
+"Language-Team: SiteOrigin <support@siteorigin.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: 404.php:5
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:14
+msgid "We couldn't find what you were looking for."
+msgstr ""
+
+#: admin/about/page-free.php:1
+msgid "Forever Free"
+msgstr ""
+
+#: admin/about/page-free.php:3
+msgid "Snapshot is a completely free WordPress theme."
+msgstr ""
+
+#: admin/about/page-free.php:4
+msgid "We'll continue developing and enhancing it for years to come."
+msgstr ""
+
+#: admin/about/page-github.php:1
+msgid "Developed on Github"
+msgstr ""
+
+#: admin/about/page-github.php:4
+msgid "Snapshot is actively %sdeveloped on Github%s."
+msgstr ""
+
+#: admin/about/page-github.php:5
+msgid "You can watch what's happening with its development and even make contributions yourself."
+msgstr ""
+
+#: admin/about/page-page-builder.php:1
+msgid "Enhanced by Page Builder"
+msgstr ""
+
+#: admin/about/page-page-builder.php:3
+msgid "Snapshot integrates, beautifully, with our %sfree Page Builder%s plugin."
+msgstr ""
+
+#: admin/about/page-page-builder.php:4
+msgid "This powerful plugin gives you full drag and drop capabilities right inside Snapshot."
+msgstr ""
+
+#: admin/about/page-support.php:1
+msgid "Support and Documentation"
+msgstr ""
+
+#: admin/about/page-support.php:3
+msgid "Our dedicated support team is ready to help you over on our %sfree support forums%s."
+msgstr ""
+
+#: admin/about/page-support.php:4
+msgid "You can also read through the %sSnapshot documentation%s to get to know it even faster."
+msgstr ""
+
+#: comments.php:3
+msgid "Comments"
+msgstr ""
+
+#: comments.php:20
+msgid "Comments Are Closed"
+msgstr ""
+
+#: comments.php:29
+msgid "Name"
+msgstr ""
+
+#: comments.php:31
+msgid "Email"
+msgstr ""
+
+#: comments.php:33
+msgid "Website"
+msgstr ""
+
+#: footer.php:9
+msgid "Theme by <a href=\"%s\">SiteOrigin</a>"
+msgstr ""
+
+#: functions.php:75
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:165
+msgid "Site Footer"
+msgstr ""
+
+#: image.php:12, single.php:12
+msgid "No Comments"
+msgstr ""
+
+#: image.php:12, single.php:12
+msgid "One Comment"
+msgstr ""
+
+#: image.php:12, single.php:12
+msgid "% Comments"
+msgstr ""
+
+#: inc/admin.php:18
+msgid "Sidebar Exclude"
+msgstr ""
+
+#: inc/admin.php:20
+msgid "Exclude"
+msgstr ""
+
+#: inc/admin.php:61
+msgid "Post Video"
+msgstr ""
+
+#: inc/admin.php:63
+msgid "Post Image"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "/*translators:1:pluginnames.*/This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "/*translators:1:pluginnames.*/This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:346
+msgid "/*translators:1:pluginnames.*/The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:352
+msgid "/*translators:1:pluginnames.*/There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:358
+msgid "/*translators:1:pluginnames.*/The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:364
+msgid "/*translators:1:pluginnames.*/The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386, inc/class-tgm-plugin-activation.php:827, inc/class-tgm-plugin-activation.php:2533, inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387, inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934, inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121, inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509, inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509, inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/gallery.php:94, inc/settings.php:14
+msgid "Slider"
+msgstr ""
+
+#: inc/legacy.php:5, inc/legacy.php:6
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/legacy.php:17
+msgid "Snapshot Settings Have Moved"
+msgstr ""
+
+#: inc/legacy.php:19
+msgid "Our theme settings now take advantage of the WordPress customizer."
+msgstr ""
+
+#: inc/legacy.php:20
+msgid "Navigate to <strong>Appearance > Customize > Theme Settings</strong> to access theme settings."
+msgstr ""
+
+#: inc/panels.php:13
+msgid "Home Page"
+msgstr ""
+
+#: inc/panels.php:35
+msgid "Your Call To Action Text"
+msgstr ""
+
+#: inc/panels.php:36
+msgid "Ask your visitor to do something"
+msgstr ""
+
+#: inc/panels.php:49
+msgid "A Wonderful Title"
+msgstr ""
+
+#: inc/panels.php:77
+msgid "Final Headline"
+msgstr ""
+
+#: inc/recommended-plugins.php:9
+msgid "SiteOrigin Page Builder"
+msgstr ""
+
+#: inc/settings.php:11
+msgid "General"
+msgstr ""
+
+#: inc/settings.php:12
+msgid "Appearance"
+msgstr ""
+
+#: inc/settings.php:13
+msgid "Posts"
+msgstr ""
+
+#: inc/settings.php:15
+msgid "Social"
+msgstr ""
+
+#: inc/settings.php:16, inc/widgets.php:113, inc/widgets.php:326
+msgid "Text"
+msgstr ""
+
+#: inc/settings.php:20
+msgid "Search in Menu"
+msgstr ""
+
+#: inc/settings.php:21
+msgid "Display a search link in your menu that slides out a big beautiful search bar."
+msgstr ""
+
+#: inc/settings.php:23
+msgid "Search Menu Text"
+msgstr ""
+
+#: inc/settings.php:24
+msgid "The text that is displayed in the menu bar for the search."
+msgstr ""
+
+#: inc/settings.php:26
+msgid "Latest Posts Title"
+msgstr ""
+
+#: inc/settings.php:27
+msgid "Copyright Message"
+msgstr ""
+
+#: inc/settings.php:29
+msgid "SiteOrigin Attribution"
+msgstr ""
+
+#: inc/settings.php:30
+msgid "Hide SiteOrigin attribution in your footer."
+msgstr ""
+
+#: inc/settings.php:35
+msgid "Link Color"
+msgstr ""
+
+#: inc/settings.php:37
+msgid "Style"
+msgstr ""
+
+#: inc/settings.php:39
+msgid "Light"
+msgstr ""
+
+#: inc/settings.php:40
+msgid "Dark"
+msgstr ""
+
+#: inc/settings.php:42
+msgid "Choose the style of your site."
+msgstr ""
+
+#: inc/settings.php:47
+msgid "Clickable Thumbnails"
+msgstr ""
+
+#: inc/settings.php:48
+msgid "Make the entire post thumbnail clickable on the home page and post archive pages."
+msgstr ""
+
+#: inc/settings.php:51
+msgid "Sidebar Images"
+msgstr ""
+
+#: inc/settings.php:52
+msgid "Show or hide the post thumbnails down the right sidebar."
+msgstr ""
+
+#: inc/settings.php:55
+msgid "Video: Autoplay"
+msgstr ""
+
+#: inc/settings.php:56
+msgid "Automatically start playing post videos"
+msgstr ""
+
+#: inc/settings.php:59
+msgid "Video: Hide Related"
+msgstr ""
+
+#: inc/settings.php:60
+msgid "Hides related videos after YouTube videos stop playing."
+msgstr ""
+
+#: inc/settings.php:63
+msgid "Video: Default to HD"
+msgstr ""
+
+#: inc/settings.php:64
+msgid "YouTube has depreciated forced HD embeds. Vimeo HD can be set within Vimeo itself.."
+msgstr ""
+
+#: inc/settings.php:69
+msgid "Home Page Slider"
+msgstr ""
+
+#: inc/settings.php:70
+msgid "Transition Delay"
+msgstr ""
+
+#: inc/settings.php:71
+msgid "Number of milliseconds a photo is displayed for."
+msgstr ""
+
+#: inc/settings.php:73
+msgid "Transition Speed"
+msgstr ""
+
+#: inc/settings.php:74
+msgid "How many milliseconds the transition takes."
+msgstr ""
+
+#: inc/settings.php:76
+msgid "Post Count"
+msgstr ""
+
+#: inc/settings.php:77
+msgid "The number of posts displayed on your home page slider."
+msgstr ""
+
+#: inc/settings.php:80
+msgid "Scale Home Page Slider Height"
+msgstr ""
+
+#: inc/settings.php:81
+msgid "Automatically scale the height of the home slider to match each image."
+msgstr ""
+
+#: inc/settings.php:84
+msgid "Posts Order"
+msgstr ""
+
+#: inc/settings.php:86
+msgid "Post Date"
+msgstr ""
+
+#: inc/settings.php:87
+msgid "Modified Date"
+msgstr ""
+
+#: inc/settings.php:88
+msgid "Random"
+msgstr ""
+
+#: inc/settings.php:89
+msgid "By Comment Count"
+msgstr ""
+
+#: inc/settings.php:91
+msgid "How Snapshot chooses your home page slides."
+msgstr ""
+
+#: inc/settings.php:94
+msgid "Posts Category"
+msgstr ""
+
+#: inc/settings.php:96
+msgid "Choose which posts are displayed on your home page slider."
+msgstr ""
+
+#: inc/settings.php:101
+msgid "Ajax Comments"
+msgstr ""
+
+#: inc/settings.php:102
+msgid "Keep the conversation flowing with Ajax comments."
+msgstr ""
+
+#: inc/settings.php:105
+msgid "Share Buttons"
+msgstr ""
+
+#: inc/settings.php:106
+msgid "Show share buttons next to posts"
+msgstr ""
+
+#: inc/settings.php:108
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/settings.php:109
+msgid "Recommend SiteOrigin"
+msgstr ""
+
+#: inc/settings.php:110
+msgid "Yes"
+msgstr ""
+
+#: inc/settings.php:111
+msgid "Recommends your's and SiteOrigin's Twitter accounts after someone tweets your post."
+msgstr ""
+
+#: inc/settings.php:116
+msgid "Error 404 Message"
+msgstr ""
+
+#: inc/settings.php:117
+msgid "No Search Results"
+msgstr ""
+
+#: inc/settings.php:123
+msgid "All"
+msgstr ""
+
+#: inc/settings.php:144
+msgid "Search"
+msgstr ""
+
+#: inc/settings.php:145
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/settings.php:146
+msgid "Copyright &copy; {sitename} {year}"
+msgstr ""
+
+#: inc/settings.php:179
+msgid "Snapshot is a beautiful theme for showing off your photography."
+msgstr ""
+
+#: inc/widgets.php:49
+msgid "SiteOrigin Call To Action"
+msgstr ""
+
+#: inc/widgets.php:51
+msgid "A call to action block, generally for your home page."
+msgstr ""
+
+#: inc/widgets.php:108, inc/widgets.php:321
+msgid "Headline"
+msgstr ""
+
+#: inc/widgets.php:118, inc/widgets.php:210
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets.php:123, inc/widgets.php:215
+msgid "Button URL"
+msgstr ""
+
+#: inc/widgets.php:129, inc/widgets.php:231
+msgid "Button Style"
+msgstr ""
+
+#: inc/widgets.php:148
+msgid "SiteOrigin Button"
+msgstr ""
+
+#: inc/widgets.php:150
+msgid "Display a button."
+msgstr ""
+
+#: inc/widgets.php:163
+msgid "Click Me"
+msgstr ""
+
+#: inc/widgets.php:220, inc/widgets.php:404
+msgid "Alignment"
+msgstr ""
+
+#: inc/widgets.php:222, inc/widgets.php:406
+msgid "Left"
+msgstr ""
+
+#: inc/widgets.php:223, inc/widgets.php:407
+msgid "Center"
+msgstr ""
+
+#: inc/widgets.php:224, inc/widgets.php:408
+msgid "Right"
+msgstr ""
+
+#: inc/widgets.php:225
+msgid "Full Width"
+msgstr ""
+
+#: inc/widgets.php:250
+msgid "SiteOrigin Icon and Text"
+msgstr ""
+
+#: inc/widgets.php:252
+msgid "A block of text with an icon."
+msgstr ""
+
+#: inc/widgets.php:331
+msgid "URL"
+msgstr ""
+
+#: inc/widgets.php:336
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets.php:338
+msgid "None"
+msgstr ""
+
+#: inc/widgets.php:347
+msgid "Upload icon images to your <a href=\"%s\" target=\"_blank\">media library</a>. Find <a href=\"%s\" target=\"_blank\">free icon packs</a>."
+msgstr ""
+
+#: inc/widgets.php:365
+msgid "SiteOrigin Headline"
+msgstr ""
+
+#: inc/widgets.php:367
+msgid "Displays a simple headline."
+msgstr ""
+
+#: inc/widgets.php:389
+msgid "Headline Text"
+msgstr ""
+
+#: inc/widgets.php:394
+msgid "Size"
+msgstr ""
+
+#: inc/widgets.php:396
+msgid "Small"
+msgstr ""
+
+#: inc/widgets.php:397
+msgid "Medium"
+msgstr ""
+
+#: inc/widgets.php:398
+msgid "Large"
+msgstr ""
+
+#: inc/widgets.php:399
+msgid "Extra Large"
+msgstr ""
+
+#: loop.php:26
+msgid "%s Comments"
+msgstr ""
+
+#: loop.php:40
+msgid "Previous Page"
+msgstr ""
+
+#: loop.php:40
+msgid "Next Page"
+msgstr ""
+
+#: loop.php:49
+msgid "No results."
+msgstr ""
+
+#: share.php:11
+msgid "like"
+msgstr ""
+
+#: slider-home.php:16
+msgid "This Slider Will Display Your Post's Featured Images... So Start Adding Some Posts."
+msgstr ""

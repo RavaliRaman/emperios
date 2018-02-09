@@ -1,0 +1,200 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+body{
+	font-family: "Droid Sans", sans-serif;
+	color: #6a6a6a;
+	font-size: 12px;
+	line-height: 1.6em;
+	width: 440px;
+	margin-top: -15px;
+}
+
+body > *:last-child{
+	margin-bottom: 0;
+}
+
+body p,
+body > ul,
+body > li,
+.entru-content dl{
+	margin: 25px 0;
+}
+
+body a{
+	color: #dc5c3b;
+}
+
+body blockquote{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 13px;
+	margin-left: 1.5em;
+}
+
+body blockquote cite{
+	font-family: "Droid Sans", sans-serif;
+	color: #5e5e5e;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+body blockquote cite a{
+	color: #5e5e5e;
+}
+
+body pre{
+	background: white;
+	font-family: "Courier New", Courier, mono;
+	border: 1px solid #E0E0E0;
+	padding: 10px;
+	
+	box-shadow: 0 1px 2px rgba(0,0,0,0.09);
+}
+
+body code{
+	font-family: "Courier New", Courier, mono;
+}
+
+/* @group Gallery */
+
+body .gallery-caption{
+	
+}
+
+/* @end */
+
+/* @group Table */
+
+body table{
+	width: 100%;
+}
+
+/* @end */
+
+/* @group Images */
+
+body img{
+	max-width: 100%;
+	height: auto;
+}
+
+body .wp-caption{
+	max-width: 100%;
+	margin: 30px 0;
+	border: 1px solid #E0E0E0;
+	padding: 8px;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.09);
+	
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	
+	text-align: center;
+}
+
+body .wp-caption p.wp-caption-text{
+	margin: 0;
+	color: #848484;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+body .alignleft {
+	display: inline;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+body .alignright {
+	display: inline;
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+body .aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* @end */
+
+/* @group Lists */
+
+body ul{
+	list-style-type: square;
+}
+
+body ol{
+	list-style-type: decimal;
+}
+
+body ol ol{
+	list-style-type: upper-alpha;
+}
+
+body ol ol ol{
+	list-style-type: lower-roman;
+}
+
+body ul li,
+body ol li{
+	margin-left: 1.5em;
+}
+
+/* @end */
+
+/* @group Definition List */
+
+body dl dt{
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+body dl dd{
+	margin-bottom: 10px;
+	padding-left: 20px;
+}
+
+/* @end */
+
+/* @group Headings */
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6{
+	font-weight: 300;
+	margin: 30px 0;
+	color: #5e5e5e;
+}
+
+body h1 {
+	font-size: 22px;
+}
+
+body h2 {
+	font-size: 19px;
+}
+
+body h3 {
+	font-size: 16px;
+}
+
+body h4 {
+	font-size: 14px;
+}
+
+body h5 {
+	font-size: 12px;
+}
+
+body h6 {
+	font-size: 10px;
+}
+
+/* @end */

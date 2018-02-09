@@ -1,0 +1,73 @@
+####################################################################
+# This file contains a list of enhancements and bug fixes that are
+# planned.
+####################################################################
+
+  Date/Time formatting options on the widget screens, and the settings screen are non-
+  obvious. Do something like WordPress does on the Settings | General page.
+
+  Consider adding text-decoration underline to the simple list of events
+  items to indicate they are hot. Alternatively, add a hover tooltip inviting
+  the user to click. Or, twiddle the opacity a little to visually distinguish...
+
+  When on the shortcode insertion dialog, the tester found "Filter" confusing.
+  Add a one-sentence option underneath the dropdown, and perhaps a title 
+  attribute to the select options describing each shortcode in a brief sentence.
+
+* AddThis - Create a landing page for events without a link to provide a URL to AddThis.
+
+* Events filter doesn't do resources.
+
+* Display custom fields on events.
+
+* Modify public event creation to support custom fields.
+
+* Anonymous notifications and reminders.
+
+* Look at various scripts/css file and see if we can enqueue them at the bottom of the page.
+
+* Look at default Javascript in admin mode.
+
+At some point, make map url base a configuration option.
+
+
+####################################################################
+#	Release Checklist / Steps
+####################################################################
+
+Update CDailyPlugin::VERSION_NUMBER
+Verify CDailyPlugin::debugLogging is false.
+Search for non-commented debugOut statements and comment out or remove:
+	Search Expression:	^\s*\$this->.*debugOut\(
+
+Update version # in cdaily.php
+readme
+	*verify Release date and version history
+	*verify stable tag
+	*Verify Tested up to: is current TO MAJOR VERSION ONLY.
+
+Check SVN Status of files. Look for unadded files (?)
+
+>cd trunk
+>svn status 
+
+run test compile
+
+>cd trunk
+
+>./lint.sh
+
+Go to captions directory and run makeCaptions.sh
+
+Complete QA Testing Procedure
+
+--create new tag
+
+>svn cp trunk tags/x.x.x
+>cd tags
+>svn ci
+
+-- commit trunk
+
+>cd ../trunk
+>svn ci

@@ -1,0 +1,13 @@
+for information on WordPress captions, refer to:
+
+https://codex.wordpress.org/I18n_for_WordPress_Developers
+
+You'll need the wordpress tools. i
+
+svn co http://develop.svn.wordpress.org/trunk/tools/
+
+You also need to create a link in the WordPress directory for 
+
+ln -s . src
+
+to create updated caption sets, run the makeCaptions.sh script.

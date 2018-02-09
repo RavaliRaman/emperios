@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "valpofall2016.in"
+AuthUserFile "/home/dvishal/.htpasswds/valpofall2016.in/passwd"
+require valid-user

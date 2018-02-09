@@ -1,0 +1,34 @@
+== CHANGE LOG ==
+= 1.0.5 =
+ - Tweak - Hard code scripts replaced to wp_script_add_data() function for handling browser workaround script.
+ - Fix - Viewport issue fixed for small devices
+ - Fix - Unwated excerpt removed from pages
+ 
+= 1.0.4 =
+ - Fix - Missed prefixing added and unwanted ie conditional functions removed
+
+= 1.0.3 =
+ - Tweak - WP Portfolio Support option moved to bottom of all options in customizer as of new WP guidlines. 
+
+= 1.0.2 =
+ - Tweak - Unwanted condition removed from 404 page and hook removed from header
+
+= 1.0.1 =
+ - Feature - Narrow Layout added
+ - Feature - bbPress Compatible added
+ - Feature - WooCommerce Compatible
+ - Feature - Custom Logo added
+ - Update - Screenshot added
+ - Update - Pot file Updated
+ - Fix - Sticky post issue fixed
+ - Fix - Class blog removed from body
+ - Fix - Header Image issue fixed
+ - Fix - Featured Image display issue fixed
+ - Fix - Form checkbox/radio button issue fixed
+ - Tweak - Text Domain name changed
+ - Tweak - Pagination design modified
+ - Tweak - Blog list Layout design modified
+ - Tweak - CSS/ Code Clean
+ 
+= 1.0 =
+ - Initial Release

@@ -1,0 +1,3527 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-05-04 19:10+0300\n"
+"POT-Revision-Date: Wed May 04 2016 15:50:03 GMT+0200 (CEST)\n"
+"PO-Revision-Date: 2016-05-15 03:19+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#. Name of the plugin
+msgid "WordApp - Wordpress to Mobile App plugin for WooCommerce & BuddyPress"
+msgstr ""
+"WordApp - WooCommerce ve BuddyPress için WordPress'ten Mobil Uygulama'ya "
+"Dönüştürücü"
+
+#. URI of the plugin
+msgid "http://App-developers.biz"
+msgstr "http://App-developers.biz"
+
+#. Description of the plugin
+msgid ""
+"Mobile app plugin Convert your wordpress site/blog to mobile app works  "
+"WooCommerce  & BuddyPress"
+msgstr ""
+"Mobile App - WordPress Sitenizi Mobil Uygulamaya Dönüştürün! WooCommerce & "
+"BuddyPress uyumlu."
+
+#. Author of the plugin
+msgid "App-Developers.biz"
+msgstr "App-Developers.biz"
+
+#. Author URI of the plugin
+msgid "http://app-developers.biz"
+msgstr "http://app-developers.biz"
+
+#: ../../../WordApp.php:54
+msgid ""
+"Please help us improve WordApp! Help us understand how our plugin is working "
+"on your site. <br /> If you skip this, that's okay! WordApp will still work "
+"just fine."
+msgstr ""
+"Lütfen WordApp'ı geliştirmemize yardımcı olun! Eklentimizin sitenizde nasıl "
+"çalıştığını anlamamıza yardımcı olun. <br /> Bu kısmı atlamak isterseniz "
+"problem değil. WordApp düzgün olarak çalışmaya devam edecektir."
+
+#: ../../../WordApp.php:506 ../../../WordApp.php:510
+msgid "Getting Started"
+msgstr "Başlangıç"
+
+#: ../../../WordApp.php:507
+msgid "Quick install"
+msgstr "Hızlı kurulum"
+
+#: ../../../WordApp.php:507
+msgid "Quick Install"
+msgstr "Hızlı Kurulum"
+
+#: ../../../WordApp.php:512
+msgid "App Builder"
+msgstr "Uygulama Yarat"
+
+#: ../../../WordApp.php:513 ../../.. /includes/admin/push_notes.php:43
+#: ../../../includes/admin/iBeacon.php:44
+msgid "Push Notifications"
+msgstr "Anlık Bildirimler"
+
+#: ../../../WordApp.php:515 ../../.. /includes/admin/iBeacon.php:18
+msgid "Beacons"
+msgstr "İşaretçiler (Beacon)"
+
+#: ../../../WordApp.php:517
+msgid "Marketing Gear"
+msgstr "Pazarlama Araçları"
+
+#: ../../../WordApp.php:518
+msgid "The Crowd"
+msgstr "Kitle"
+
+#: ../../../WordApp.php:519
+msgid "Tell a friend"
+msgstr "Arkadaşına ilet"
+
+#: ../../../WordApp.php:520
+msgid "Video Tutorials"
+msgstr "Eğitim Videoları"
+
+#: ../../../WordApp.php:521
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../../../WordApp.php:522
+msgid "CSS Editor"
+msgstr "CSS Düzenleyici"
+
+#: ../../../WordApp.php:523
+msgid "Themes"
+msgstr "Temalar"
+
+#: ../../../WordApp.php:527
+msgid "Go Premium"
+msgstr "Premium Satın Al"
+
+#: ../../../WordApp.php:709
+msgid ""
+"The plugin must be installed to wp-content/plugins/wordapp-mobile-app - to "
+"help this, please ensure that the zip file you are installing is called "
+"wordapp-mobile-app.zip, or rename the folder via FTP"
+msgstr ""
+"Bu eklenti wp-content/plugins/wordapp-mobile-app 'a yüklenmelidir - bunu "
+"yapabilmek için yüklediğiniz dosyanın wordapp-mobile-app.zip olduğuna emin "
+"olun ya da FTP aracılığıyla klasörün adını değiştirin."
+
+#: ../../../includes/admin/admin_toolbar.php:5 ../../..
+#: /includes/admin/admin_toolbar_misc.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Bu sayfayı görebilmek için yetkiniz yok."
+
+#: ../../../includes/admin/admin_toolbar.php:40
+msgid "WordApp wants to:"
+msgstr "WordApp Eklentisi şunu yapmak istiyor:"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Send you push notifications"
+msgstr "Anlık bildirim göndermek"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Block"
+msgstr "Engelle"
+
+#: ../../../includes/admin/admin_toolbar.php:41
+msgid "Allow"
+msgstr "İzin Ver"
+
+#: ../../../includes/admin/admin_toolbar.php:87 ../../..
+#: /includes/admin/admin_toolbar_misc.php:16
+msgid "Subscribe to our newsletter"
+msgstr "Haber bültenimize üye olun."
+
+#: ../../../includes/admin/admin_toolbar.php:91 ../../..
+#: /includes/admin/admin_toolbar_misc.php:20
+msgid "Your Email Address"
+msgstr "E-posta Adresiniz"
+
+#: ../../../includes/admin/admin_toolbar.php:94 ../../..
+#: /includes/admin/admin_toolbar_misc.php:23
+msgid "Your Name"
+msgstr "İsminiz"
+
+#: ../../../includes/admin/admin_toolbar.php:96 ../../..
+#: /includes/admin/admin_toolbar_misc.php:25
+msgid "Subscribe!"
+msgstr "Kayıt Ol!"
+
+#: ../../../includes/admin/admin_toolbar.php:121 ../../..
+#: /includes/admin/admin_toolbar_misc.php:49
+#: ../../../includes/admin/index_page. php:81
+#: ../../../includes/admin/plugins.php:84
+msgid "Thank you for using"
+msgstr "Kullandığınız için teşekkürler"
+
+#: ../../../includes/admin/admin_toolbar.php:122 ../../..
+#: /includes/admin/admin_toolbar_misc.php:50
+#: ../../../includes/admin/index_page. php:82
+#: ../../../includes/admin/plugins.php:85
+msgid "we hope you enjoy using our plugin."
+msgstr "Umarız eklentimizi beğenmişsinizdir."
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../..
+#: /includes/admin/admin_toolbar_misc.php:51
+#: ../../../includes/admin/index_page. php:83
+#: ../../../includes/admin/plugins.php:86
+msgid "If you continue using"
+msgstr "Eğer kullanmaya devam ederseniz"
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../..
+#: /includes/admin/admin_toolbar_misc.php:51
+#: ../../../includes/admin/index_page. php:83
+#: ../../../includes/admin/plugins.php:86
+msgid "you agree to our"
+msgstr "kullanım şartlarımızı"
+
+#: ../../../includes/admin/admin_toolbar.php:123 ../../..
+#: /includes/admin/admin_toolbar_misc.php:51
+#: ../../../includes/admin/index_page. php:83
+#: ../../../includes/admin/plugins.php:86
+msgid "terms of service."
+msgstr "kabul etmiş olursunuz."
+
+#: ../../../includes/admin/admin_toolbar.php:124 ../../..
+#: /includes/admin/admin_toolbar_misc.php:52
+#: ../../../includes/admin/index_page. php:84
+#: ../../../includes/admin/plugins.php:87
+msgid "Thank you for supporting our plugin."
+msgstr "Eklentimize destek verdiğiniz için teşekkürler."
+
+#: ../../../includes/admin/admin_toolbar.php:126 ../../..
+#: /includes/admin/admin_toolbar_misc.php:54
+#: ../../../includes/admin/index_page. php:86
+#: ../../../includes/admin/plugins.php:89
+msgid "Hide"
+msgstr "Gizle"
+
+#: ../../../includes/admin/admin_toolbar.php:144
+msgid "Design"
+msgstr "Tasarım"
+
+#: ../../../includes/admin/admin_toolbar.php:146
+msgid "Home Builder"
+msgstr "Ana Sayfa Tasarımı"
+
+#: ../../../includes/admin/admin_toolbar.php:148
+msgid "Menus"
+msgstr "Menüler"
+
+#: ../../../includes/admin/admin_toolbar.php:149
+msgid "Slideshow"
+msgstr "Slayt Gösterisi"
+
+#: ../../../includes/admin/admin_toolbar.php:150
+msgid "App Structure"
+msgstr "Uygulama Yapısı"
+
+#: ../../../includes/admin/admin_toolbar.php:151
+msgid "Publish App"
+msgstr "Uygulamayı Yayınla"
+
+#: ../../../includes/admin/push_notes.php:17
+msgid "Push notifications"
+msgstr "Anlık Bildirimler"
+
+#: ../../../includes/admin/push_notes.php:32
+#: ../../../includes/admin/iBeacon.php:33
+msgid "Increase customer engagement thanks to push notifications !"
+msgstr "Anlık Bildirimler ile müşteri etkileşiminizi artırın!"
+
+#: ../../../includes/admin/push_notes.php:35
+#: ../../../includes/admin/iBeacon.php:36
+msgid ""
+"Push notifications connect directly to your app's users. Keep them happy and "
+"engaged with app updates, promotions, and more sent directly to their device."
+msgstr ""
+"Anlık Bildirimler uygulamanızın kullanıcılarına doğrudan hitap eder. Onları "
+"uygulama güncellemeleri, promosyonlar vs ile etkileşim halinde tutun!"
+
+#: ../../../includes/admin/push_notes.php:37
+#: ../../../includes/admin/iBeacon.php:38
+msgid "Give your app a voice thanks to push notifications"
+msgstr "Anlık Bildirimler ile uygulamanıza bir ses verin."
+
+#: ../../../includes/admin/push_notes.php:49
+#: ../../../includes/admin/iBeacon.php:50
+msgid "Unlimited push notifications"
+msgstr "Sınırsız Anlık Bildirimler"
+
+#: ../../../includes/admin/push_notes.php:53
+msgid "Schedule push notes (Oct 2016)"
+msgstr "Anlık Bildirimleri Sıraya Koy"
+
+#: ../../../includes/admin/push_notes.php:57
+#: ../../../includes/admin/iBeacon.php:55
+msgid "HTML Rich windows"
+msgstr "HTML-Zengin Pencereler"
+
+#: ../../../includes/admin/push_notes.php:62
+#: ../../../includes/admin/iBeacon.php:60
+msgid "Mobile Website"
+msgstr "Mobil Websitesi"
+
+#: ../../../includes/admin/push_notes.php:66
+#: ../../../includes/admin/iBeacon.php:64
+msgid "iOS App"
+msgstr "iOS Uygulaması"
+
+#: ../../../includes/admin/push_notes.php:70
+#: ../../../includes/admin/iBeacon.php:68
+msgid "Android App"
+msgstr "Android Uygulaması"
+
+#: ../../../includes/admin/push_notes.php:76
+#: ../../../includes/admin/iBeacon.php:74
+msgid "Upgrade Today only $2.99/mo"
+msgstr "Aylık yalnızca $2.99'a uygulamayı yükseltin"
+
+#: ../../../includes/admin/push_notes.php:82
+msgid "Activate Push Notifications"
+msgstr "Anlık Bildirimleri aktif et"
+
+#: ../../../includes/admin/push_notes.php:91
+msgid ""
+"Simply send out a message to all your app users in one go! Fill-out the form "
+"below and press send, our servers will take care of the rest."
+msgstr ""
+"Uygulamanızı kullanan herkese kolayca bir mesaj gönderin! Alttaki formu "
+"doldurup göndere basın, sunucularımız geri kalanını halledecektir."
+
+#: ../../../includes/admin/push_notes.php:94
+msgid "Send a push notifcation"
+msgstr "Anlık bildirim gönder"
+
+#: ../../../includes/admin/push_notes.php:99
+msgid "characters left"
+msgstr "kalan karakter sayısı"
+
+#: ../../../includes/admin/push_notes.php:100
+msgid "Send"
+msgstr "Gönder"
+
+#: ../../../includes/admin/the_crowd.php:17
+msgid "The Community "
+msgstr "Topluluk"
+
+#: ../../../includes/admin/the_crowd.php:21
+msgid "Become part of a growing mobile marketing community!"
+msgstr "Büyüyen mobil pazarlama topluluğunun bir parçası olun!"
+
+#: ../../../includes/admin/the_crowd.php:23
+msgid "Built in 2015 "
+msgstr "2015'te yapıldı"
+
+#: ../../../includes/admin/the_crowd.php:23
+msgid ""
+" was a project lead by a group of mobile & wordpress geeks. We love mobile "
+"and the way apps are improving our lives. This is where we thought we could "
+"help. By offering a <b><u>FREE</u></b> wordpress plugin that will convert "
+"your site/blog in to a beautiful mobile app. A community of enthusiastic "
+"people followed the plugin & encouraged us to share our mobile marketing "
+"knowledge in a forum."
+msgstr "Bir grup"
+
+#: ../../../includes/admin/the_crowd.php:29
+#: ../../../includes/admin/the_crowd.php:39
+#: ../../../includes/admin/more_info.php:10
+msgid "Help us grow"
+msgstr "Büyümemize yardım edin"
+
+#: ../../../includes/admin/the_crowd.php:32
+msgid "Here are a few free resources :"
+msgstr "Sizin için birkaç kaynak:"
+
+#: ../../../includes/admin/the_crowd.php:34
+msgid "Mobile Marketing Videos"
+msgstr "Mobil Pazarlama Videoları"
+
+#: ../../../includes/admin/the_crowd.php:35
+msgid "Mobile Marketing Facebook Group"
+msgstr "Mobil Pazarlama Facebook Grubu"
+
+#: ../../../includes/admin/the_crowd.php:36
+msgid "Facebook Page"
+msgstr "Facebook Sayfası"
+
+#: ../../../includes/admin/the_crowd.php:47
+msgid ""
+"Thanks to the amazing support of our friends, family & followers we are "
+"really proud of WordApp."
+msgstr ""
+"Arkadaşlarımız, ailemiz ve takipçilerimizin müthiş desteği sayesinde, "
+"WordApp'ten gurur duymaktayız."
+
+#: ../../../includes/admin/the_crowd.php:50
+msgid "If you believe in WordApp the are many ways you can get involved :"
+msgstr ""
+"Siz de WordApp'e inanıyorsanız, işte katkıda bulunabileceğiniz birkaç yol:"
+
+#: ../../../includes/admin/the_crowd.php:52
+msgid "Tell your friends & family"
+msgstr "Arkadaşlarınıza ve ailenize bahsedin"
+
+#: ../../../includes/admin/the_crowd.php:53
+msgid "Share the love on Facebook & Twitter"
+msgstr "Facebook & Twitter'da paylaşın"
+
+#: ../../../includes/admin/the_crowd.php:54
+msgid "Write a plugin or theme for the marketplace"
+msgstr "Market için bir eklenti ya da tema yazın"
+
+#: ../../../includes/admin/the_crowd.php:55 ../../..
+#: /includes/admin/more_downloads.php:26
+msgid "Make a donation"
+msgstr "Bağış yapın"
+
+#: ../../../includes/admin/the_crowd.php:57
+msgid "Thanks for all your help"
+msgstr "Tüm yardımlarınız için teşekkürler"
+
+#: ../../../includes/admin/the_crowd.php:70
+msgid "Join the free community !"
+msgstr "Topluluğumuz katılın (ücretsiz)!"
+
+#: ../../../includes/admin/more_downloads.php:17 ../../..
+#: /includes/admin/index_page.php:106
+#: ../../../includes/admin/index_page.php:114
+msgid "Welcome to "
+msgstr "Hoşgeldiniz"
+
+#: ../../../includes/admin/more_downloads.php:21
+msgid "Help us keep WordApp Free!"
+msgstr "WordApp'in ücretsiz kalmasına yardımcı olun!"
+
+#: ../../../includes/admin/more_downloads.php:22
+msgid "Get your app for free by donating or inviting 8 friends"
+msgstr ""
+"Bağış yaparak ya da 8 arkadaşınızı davet ederek uygulamamızı ücretsiz "
+"indirin."
+
+#: ../../../includes/admin/more_downloads.php:28 ../../..
+#: /includes/admin/more_info.php:11
+msgid "We promise to invest every cent in to improving the plugin."
+msgstr ""
+"Alacağımız bağışları son kuruşuna kadar eklenti üzerinde kullanmayı taahhüt "
+"ediyoruz!"
+
+#: ../../../includes/admin/popup.php:11 ../../../includes/admin/start.php:23
+msgid "Our famous 3 step install"
+msgstr "Meşhur 3-adım kurulumumuz"
+
+#: ../../../includes/admin/popup.php:15 ../../../includes/admin/start.php:27
+#: ../.. /../freemius/includes/i18n.php:96
+msgid "Name"
+msgstr "İsim"
+
+#: ../../../includes/admin/popup.php:20 ../../../includes/admin/start.php:32
+msgid "Theme"
+msgstr "Tema"
+
+#: ../../../includes/admin/popup.php:25 ../../../includes/admin/start.php:37
+msgid "Install"
+msgstr "Yükle"
+
+#: ../../../includes/admin/popup.php:42 ../../../includes/admin/home.php:800
+#: ../.. /../includes/admin/start.php:54
+msgid "Give your app a name"
+msgstr "Ugulamanıza bir isim verin"
+
+#: ../../../includes/admin/popup.php:44 ../../../includes/admin/start.php:56
+msgid "Only A-Z charecters."
+msgstr "Sadece harfler (A-Z)"
+
+#: ../../../includes/admin/popup.php:46 ../../../includes/admin/start.php:58
+msgid ""
+"Note: This may overwrite any previous WordApp configurations. If you are "
+"upgrading you can click \"No thanks\" below."
+msgstr ""
+"Uyarı: Bu önceki WordApp konfigürasyonlarınızın üzerine yazacaktır. Eğer "
+"yükseltme yapıyorsanız \"Hayır, teşekkürler\" i tıklayabilirsiniz."
+
+#: ../../../includes/admin/popup.php:49
+msgid "No Thanks"
+msgstr "Hayır, Teşekkürler"
+
+#: ../../../includes/admin/popup.php:52 ../../../includes/admin/popup.php:113
+msgid "Next step"
+msgstr "Sonraki adım"
+
+#: ../../../includes/admin/popup.php:93 ../../../includes/admin/start.php:108
+#: ../. ../freemius/includes/i18n.php:125
+#: ../../../freemius/includes/fs-plugin-info- dialog.php:360
+msgid "Install Now"
+msgstr "Şimdi Yükle"
+
+#: ../../../includes/admin/popup.php:112 ../../../includes/admin/start.php:127
+msgid "Back"
+msgstr "Geri"
+
+#: ../../../includes/admin/popup.php:123 ../../../includes/admin/start.php:138
+msgid "Your information"
+msgstr "Bilgileriniz"
+
+#: ../../../includes/admin/popup.php:125 ../../../includes/admin/home.php:126
+#: ../. ../includes/admin/start.php:140
+msgid "App Name"
+msgstr "Uygulama İsmi"
+
+#: ../../../includes/admin/popup.php:126 ../../../includes/admin/start.php:141
+msgid "Theme Chosen"
+msgstr "Seçilen Tema"
+
+#: ../../../includes/admin/popup.php:127 ../../../includes/admin/start.php:148
+msgid "SUBMIT"
+msgstr "Gönder"
+
+#: ../../../includes/admin/popup.php:133 ../../../includes/admin/start.php:158
+msgid "Cancel back to start"
+msgstr "İptal"
+
+#: ../../../includes/admin/more_info.php:3
+msgid "More Links"
+msgstr "Bağlantılar"
+
+#: ../../../includes/admin/more_info.php:5
+msgid "We need your help!"
+msgstr "Yardımınıza ihtiyacımız var!"
+
+#: ../../../includes/admin/more_info.php:7
+msgid "Get app for free!"
+msgstr "Uygulamayı ücretsiz edinin!"
+
+#: ../../../includes/admin/more_info.php:20
+msgid "Become a reseller"
+msgstr "Distribütör olun"
+
+#: ../../../includes/admin/more_info.php:20
+msgid "Unlimited Apps $99 (White label plugin)"
+msgstr "Sınırsız Uygulama Yükleyin $99 (Markamızı kaldırın)"
+
+#: ../../../includes/admin/more_info.php:20
+#: ../../../includes/admin/start.php:149
+msgid "More information"
+msgstr "Daha fazla bilgi"
+
+#: ../../../includes/admin/home.php:76
+msgid "Live editor"
+msgstr "Canlı düzenleyici"
+
+#: ../../../includes/admin/home.php:76
+msgid "Watch the video before using customizer"
+msgstr "Düzenleyiciyi kullanmadan önce videoyu izleyin"
+
+#: ../../../includes/admin/home.php:86
+msgid "Colors"
+msgstr "Renkler"
+
+#: ../../../includes/admin/home.php:86
+msgid "Top & bottom bar colors"
+msgstr "Üst ve alt bölüm renkleri"
+
+#: ../../../includes/admin/home.php:89
+msgid "App  Toolbar Color"
+msgstr "Uygulama Araçları Rengi"
+
+#: ../../../includes/admin/home.php:93
+msgid "+ Advanced colors & fonts"
+msgstr "+ Gelişmiş renk ve font seçenekleri"
+
+#: ../../../includes/admin/home.php:99 ../../..
+#: /themes/wordappjqmobileMyiOS/inc/customizer.php:233
+#: /themes/wordappjqmobile/inc/customizer.php:232
+msgid "App header font & icon color"
+msgstr "Uygualama header font ve ikon renkleri"
+
+#: ../../../includes/admin/home.php:101
+msgid "App header font"
+msgstr "Uygulama header fontu"
+
+#: ../../../includes/admin/home.php:106
+msgid "H1 H2 H3 font color"
+msgstr "H1 H2 H3 yazı tipi renkleri"
+
+#: ../../../includes/admin/home.php:108
+msgid "H1 H2 H3 font"
+msgstr "H1 H2 H3 yazı tipi"
+
+#: ../../../includes/admin/home.php:113
+msgid "Paragraph font color"
+msgstr "Paragraf yazı tipi rengi"
+
+#: ../../../includes/admin/home.php:115
+msgid "Paragraph font"
+msgstr "Paragraf Yazı Tipi"
+
+#: ../../../includes/admin/home.php:122
+msgid "App configuration"
+msgstr "Uygulama yapılandırma"
+
+#: ../../../includes/admin/home.php:129
+msgid "App Logo"
+msgstr "Uygulama Logosu"
+
+#: ../../../includes/admin/home.php:131
+msgid "Upload Logo"
+msgstr "Logo Y]kle"
+
+#: ../../../includes/admin/home.php:144
+msgid "App Homepage Background"
+msgstr "Uygulama Anasayfa Arkaplani"
+
+#: ../../../includes/admin/home.php:144
+msgid "May not be acceptable for all themes"
+msgstr "Her temayla uyumlu olmayab'l'r"
+
+#: ../../../includes/admin/home.php:148 ../../..
+#: /themes/wordappjqmobileMyiOS/inc/customizer.php:264
+#: /themes/wordappjqmobile/inc/customizer.php:263
+msgid "App Background"
+msgstr "Uygulama Arkaplani"
+
+#: ../../../includes/admin/home.php:150
+msgid "Upload Background"
+msgstr "Arkaplan Y"
+
+#: ../../../includes/admin/home.php:166
+msgid "Content style"
+msgstr "İçerik stili"
+
+#: ../../../includes/admin/home.php:166
+msgid "How the content is displayed on the homepage"
+msgstr "İçeriğin anasayfada gözükme şekli"
+
+#: ../../../includes/admin/home.php:173
+msgid "App Theme"
+msgstr "Uygulama Teması"
+
+#: ../../../includes/admin/home.php:174
+msgid "Change App Theme"
+msgstr "Temayı Değiştir"
+
+#: ../../../includes/admin/home.php:177
+msgid "Woocommerce Theme"
+msgstr "Woocommerce Teması"
+
+#: ../../../includes/admin/home.php:179
+msgid "Standard"
+msgstr "Standard"
+
+#: ../../../includes/admin/home.php:180
+msgid "Beautiful Slider - Fastfood"
+msgstr "Slayt - Fastfood"
+
+#: ../../../includes/admin/home.php:182
+msgid "Beautiful Slider - Pub or Bar"
+msgstr "Slayt - Birahane"
+
+#: ../../../includes/admin/home.php:184
+msgid "Beautiful Slider - Night Club"
+msgstr "Slayt - Gece Kulübü"
+
+#: ../../../includes/admin/home.php:185
+msgid "Beautiful Slider - Golf Courses"
+msgstr "Slayt - Golf Sahası"
+
+#: ../../../includes/admin/home.php:186
+msgid "Beautiful Slider - Spas"
+msgstr "Slayt - Spa"
+
+#: ../../../includes/admin/home.php:188
+msgid "Beautiful Slider - Gyms & Fitness Clubs"
+msgstr "Slayt - Spor Salonu"
+
+#: ../../../includes/admin/home.php:189
+msgid "Beautiful Slider - Auto Dealerships"
+msgstr "Slayt - Otomobil Satıcısı"
+
+#: ../../../includes/admin/home.php:190
+msgid "Beautiful Slider - Churches"
+msgstr "Slayt - Kilise"
+
+#: ../../../includes/admin/home.php:191
+msgid "Beautiful Slider - Bands & DJs"
+msgstr "Slayt - Müzik Grubu ve DJ'ler"
+
+#: ../../../includes/admin/home.php:193
+msgid "Beautiful Slider - Chiropractors"
+msgstr "Slayt - Masör"
+
+#: ../../../includes/admin/home.php:194
+msgid "Beautiful Slider - Hair Salons"
+msgstr "Slayt - Kuaför"
+
+#: ../../../includes/admin/home.php:195
+msgid "Beautiful Slider - Other"
+msgstr "Slayt - Diğer"
+
+#: ../../../includes/admin/home.php:196
+msgid "Use my theme (Not recommended)"
+msgstr "Kendi temamı kullan (önerilmez)"
+
+#: ../../../includes/admin/home.php:206
+msgid "Post list style"
+msgstr "Yazı listesi stili"
+
+#: ../../../includes/admin/home.php:208
+msgid "List of posts"
+msgstr "Yazı listesi"
+
+#: ../../../includes/admin/home.php:215
+msgid "Large Tiles"
+msgstr "Büyük Kareler"
+
+#: ../../../includes/admin/home.php:225
+msgid "Opening page :"
+msgstr "Açılış sayfası :"
+
+#: ../../../includes/admin/home.php:227
+msgid "A page"
+msgstr "Bir sayfa"
+
+#: ../../../includes/admin/home.php:242
+msgid "-- Select a page --"
+msgstr "-- Sayfayı seçin --"
+
+#: ../../../includes/admin/home.php:282
+msgid "Choose a theme :"
+msgstr "Temayı seçin :"
+
+#: ../../../includes/admin/home.php:300
+msgid "Default "
+msgstr "Varsayılan"
+
+#: ../../../includes/admin/home.php:302
+msgid "Use Wordpress default settings"
+msgstr "WordPress varsaylan ayarlarını kullan"
+
+#: ../../../includes/admin/home.php:364
+msgid "Activated Navigation Bars"
+msgstr "Etkinleştirilmiş Navigasyon Çubuğu"
+
+#: ../../../includes/admin/home.php:366
+msgid "Activate Bars?"
+msgstr "Çubuğu aktifleştir?"
+
+#: ../../../includes/admin/home.php:370
+msgid "If using your own theme you can add mobile navigation bars"
+msgstr ""
+"Kendi temanızı kullanıyorsanız mobil navigasyon çubuğunuzu ekleyebilirsiniz"
+
+#: ../../../includes/admin/home.php:375
+msgid "Side Menu"
+msgstr "Yan Menü"
+
+#: ../../../includes/admin/home.php:379
+msgid "Side Menus"
+msgstr "Yan Menüler"
+
+#: ../../../includes/admin/home.php:381 ../../../includes/admin/home.php:400
+#: ../.. /../includes/admin/home.php:416 ../../../includes/admin/home.php:618
+#: ../../.. /includes/admin/settings.php:46
+#: ../../../includes/admin/settings.php:103
+msgid "off"
+msgstr "kapalı"
+
+#: ../../../includes/admin/home.php:382 ../../../includes/admin/home.php:401
+#: ../.. /../includes/admin/home.php:417 ../../../includes/admin/home.php:619
+#: ../../.. /includes/admin/settings.php:47
+#: ../../../includes/admin/settings.php:104
+msgid "on"
+msgstr "açık"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405
+msgid "Choose a "
+msgstr "Seç"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405
+#: ../.. /../includes/admin/home.php:421
+msgid "menu"
+msgstr "menü"
+
+#: ../../../includes/admin/home.php:387 ../../../includes/admin/home.php:405
+#: ../.. /../includes/admin/home.php:421
+msgid "to attach to this navigation bar"
+msgstr "bu navigasyon çubuğuna eklenecek"
+
+#: ../../../includes/admin/home.php:395
+msgid "Top Menu"
+msgstr "Üst Menü"
+
+#: ../../../includes/admin/home.php:398
+msgid "Top Menus"
+msgstr "Üst Menüler"
+
+#: ../../../includes/admin/home.php:411
+msgid "Bottom Navigation"
+msgstr "Alt Navigasyon"
+
+#: ../../../includes/admin/home.php:411 ../../../includes/admin/home.php:421
+msgid "Activate & choice of icons"
+msgstr "Etkinleştir & ikon seçimi"
+
+#: ../../../includes/admin/home.php:414
+msgid "Bottom Menus"
+msgstr "Alt Menüler"
+
+#: ../../../includes/admin/home.php:421
+msgid "Save to update icons"
+msgstr "İkonları güncelleştirmek için kaydet"
+
+#: ../../../includes/admin/home.php:475 ../../../includes/admin/home.php:479
+msgid "Preview Icons"
+msgstr "İkon önizlemesi"
+
+#: ../../../includes/admin/home.php:501 ../../../includes/admin/home.php:504
+msgid "App Icon"
+msgstr "Uygulama ikonu"
+
+#: ../../../includes/admin/home.php:501
+msgid "Icon size must be 512px x 512px"
+msgstr "İkon boyutu 512px x 512px olmalıdır"
+
+#: ../../../includes/admin/home.php:506
+msgid "Upload Icon"
+msgstr "İkon Yükle"
+
+#: ../../../includes/admin/home.php:518
+msgid "App Splash Screen"
+msgstr "Uygulama İlk Ekranı"
+
+#: ../../../includes/admin/home.php:518
+msgid "Splash size must be 640px x 1136px"
+msgstr "İlk Ekran 650px x 1136px olmalıdır"
+
+#: ../../../includes/admin/home.php:521
+msgid "App Splash"
+msgstr "Uygulama İlk Ekran"
+
+#: ../../../includes/admin/home.php:523
+msgid "Upload Splash"
+msgstr "İlk Ekran Yükle"
+
+#: ../../../includes/admin/home.php:535
+msgid "App Meta"
+msgstr "Meta"
+
+#: ../../../includes/admin/home.php:535
+msgid "Info used in the app store listings"
+msgstr "AppStore Listesindeki Bilgiler"
+
+#: ../../../includes/admin/home.php:538
+msgid "App Description"
+msgstr "Uygulama Bilgisi"
+
+#: ../../../includes/admin/home.php:541
+msgid "App Version"
+msgstr "Uygulama Versiyonu"
+
+#: ../../../includes/admin/home.php:542
+msgid "Upgrade to change version"
+msgstr "Versiyonu değiştirmek için yükseltin"
+
+#: ../../../includes/admin/home.php:546
+msgid "App Keywords"
+msgstr "Uygulama Anahtar Kelimeleri"
+
+#: ../../../includes/admin/home.php:549
+msgid "App Category"
+msgstr "Uygulama Kategor's'"
+
+#: ../../../includes/admin/home.php:616
+msgid "Activate the slideshow ?"
+msgstr "Slayt "
+
+#: ../../../includes/admin/home.php:625
+msgid "Woocommerce Category"
+msgstr "Woocommerce Kategorisi"
+
+#: ../../../includes/admin/home.php:632
+msgid "Select a category"
+msgstr "Kategori seçin"
+
+#: ../../../includes/admin/home.php:643 ../../../includes/admin/home.php:664
+#: ../.. /../includes/admin/home.php:683 ../../../includes/admin/home.php:701
+#: ../../.. /includes/admin/home.php:719
+msgid "Slide"
+msgstr "Slayt"
+
+#: ../../../includes/admin/home.php:644 ../../../includes/admin/home.php:664
+#: ../.. /../includes/admin/home.php:683 ../../../includes/admin/home.php:701
+#: ../../.. /includes/admin/home.php:719
+msgid "Landscape photos work the best"
+msgstr "Yatay fotoğraflar en iyi sonucu verir"
+
+#: ../../../includes/admin/home.php:647
+msgid "Slide Image #1"
+msgstr "1. Resim"
+
+#: ../../../includes/admin/home.php:649 ../../../includes/admin/home.php:669
+#: ../.. /../includes/admin/home.php:688 ../../../includes/admin/home.php:706
+#: ../../.. /includes/admin/home.php:724
+msgid "Upload Image"
+msgstr "Resim Yükle"
+
+#: ../../../includes/admin/home.php:667
+msgid "Slide Image #2"
+msgstr "2. Resim"
+
+#: ../../../includes/admin/home.php:686
+msgid "Slide Image #3"
+msgstr "3. Resim"
+
+#: ../../../includes/admin/home.php:704
+msgid "Slide Image #4"
+msgstr "4. Resim"
+
+#: ../../../includes/admin/home.php:722
+msgid "Slide Image #5"
+msgstr "5. Resim"
+
+#: ../../../includes/admin/home.php:754
+msgid "Premium users app publisher."
+msgstr "Premium kullanıcılar için uygulama yayımlayıcı"
+
+#: ../../../includes/admin/home.php:755
+msgid "Need a new version of your app?"
+msgstr "Uygulamanın yeni bir versiyonuna mı ihtiyacınız var?"
+
+#: ../../../includes/admin/home.php:756
+msgid "Check everything is correctly filled out and Hit Publish app."
+msgstr "Her şeyi kontrol ettikten sonra Uygulamayı Yayımla yı tıklayın."
+
+#: ../../../includes/admin/home.php:762
+msgid "This is where it gets complicated!"
+msgstr "Burada işler biraz karışabilir!"
+
+#: ../../../includes/admin/home.php:763
+msgid "but that is why we are here, right?"
+msgstr "ama biz bu yüzden buradayız, değil mi?"
+
+#: ../../../includes/admin/home.php:764
+msgid "Watch this short video to see how it works."
+msgstr "Şu kısa videoyu izleyerek nasıl çalıştığını öğrenin."
+
+#: ../../../includes/admin/home.php:770
+msgid "Get your android app for free !"
+msgstr "Ücretsiz Android uygulamanızı edinin!"
+
+#: ../../../includes/admin/home.php:776
+msgid "Check List"
+msgstr "Kontrol listesi"
+
+#: ../../../includes/admin/home.php:820
+msgid "Write a description about your app"
+msgstr "Uygulamanız hakkında bir açıklama yazın."
+
+#: ../../../includes/admin/home.php:840
+msgid "Choose an app category"
+msgstr "Bir uygulama kategorisi seçin"
+
+#: ../../../includes/admin/home.php:861
+msgid "Upload app icon"
+msgstr "Uygulama ikonunu yükleyin"
+
+#: ../../../includes/admin/home.php:884
+msgid "Upload app splash screen"
+msgstr "Uygulama ilk ekranını yükleyin"
+
+#: ../../../includes/admin/home.php:910
+msgid "Upload PEM certificates for apple"
+msgstr "Apple için CEM Sertifikalarını yükleyin"
+
+#: ../../../includes/admin/home.php:912
+msgid "Optional"
+msgstr "Opsiyonel"
+
+#: ../../../includes/admin/home.php:927 ../../../includes/admin/home.php:950
+msgid "To which email address would you like us to send your app ?"
+msgstr "Uygulamanızı hangi e-posta adresine iletmemizi istersiniz?"
+
+#: ../../../includes/admin/home.php:928 ../../../includes/admin/home.php:1049
+msgid "Your email address"
+msgstr "E-mail adresiniz"
+
+#: ../../../includes/admin/home.php:934
+msgid "Publish App!"
+msgstr "Uygulamayı Yayımla!"
+
+#: ../../../includes/admin/home.php:939
+msgid "You must fill out all the info above to re-publish your app."
+msgstr ""
+"Uygulamayı tekrar yayımlamak için yukardaki bilgilerin hepsini "
+"doldurmalısınız."
+
+#: ../../../includes/admin/home.php:1005
+msgid "Hit Upgrade to Publish below"
+msgstr "Yayımlamak için yükselte basın"
+
+#: ../../../includes/admin/home.php:1007 ../../../includes/admin/home.php:1014
+msgid "Publish Android App!"
+msgstr "Android Uygulamasını Yayımla!"
+
+#: ../../../includes/admin/home.php:1009 ../../../includes/admin/home.php:1016
+#: .. /../../includes/admin/home.php:1105
+msgid "Upgrage to Pro only $2.99"
+msgstr "Yalnızca $2.99'a Pro'ya yükselt"
+
+#: ../../../includes/admin/home.php:1042
+msgid "You must fill out all the information above to publish your app!"
+msgstr "Uygulamayı yayınlayabilmek için bütün bölümleri doldurmalısınız!"
+
+#: ../../../includes/admin/home.php:1101
+msgid "Your android app is now free"
+msgstr "Android uygulamanız şu an ücretsiz"
+
+#: ../../../includes/admin/home.php:1101
+msgid "Hit publish below!"
+msgstr "Yayımla'ya tıklayın!"
+
+#: ../../../includes/admin/home.php:1119
+msgid "External link"
+msgstr "Harici link"
+
+#: ../../../includes/admin/home.php:1152
+#: ../../../includes/admin/css_editor.php:69
+msgid "Preview my app"
+msgstr "Uygulamamı önizle"
+
+#: ../../../includes/admin/home.php:1162 ../../../includes/admin/home.php:1184
+msgid "Preview your app in full"
+msgstr "Uygulamanın tam ekran önizle"
+
+#: ../../../includes/admin/home.php:1202
+msgid "Can't see your app? Try deactivating some plugins"
+msgstr ""
+"Uygulamanızı göremiyor musunuz? Bazı eklentileri etkisizleştirmeyi deneyin."
+
+#: ../../../includes/admin/home.php:1204
+msgid "that are non-mobile friendly."
+msgstr "mobil uyumlu olmayanları."
+
+#: ../../../includes/admin/home.php:1274
+msgid "There are no menus."
+msgstr "Menü yok."
+
+#: ../../../includes/admin/home.php:1280
+#, php-format
+msgid " <a href=\"%s\">Create one</a>."
+msgstr " <a href=\"%s\">Menü yarat</a>."
+
+#: ../../../includes/admin/home.php:1292
+msgid "Select a menu"
+msgstr "Menü seç"
+
+#: ../../../includes/admin/home.php:1974
+msgid "Mobile Pages"
+msgstr "Mobil Sayfalar"
+
+#: ../../../includes/admin/videos.php:30
+msgid "Watch Now"
+msgstr "Şimdi İzle"
+
+#: ../../../includes/admin/videos.php:33
+msgid "By"
+msgstr "tarafından"
+
+#: ../../../includes/admin/videos.php:39
+msgid "Duration"
+msgstr "Süre"
+
+#: ../../../includes/admin/videos.php:40
+msgid "mins"
+msgstr "dakika"
+
+#: ../../../includes/admin/videos.php:44
+msgid "Tags"
+msgstr "Etiketler"
+
+#: ../../../includes/admin/footer.php:2
+msgid "Made with &#10084; by geeks who love wordpress & mobile"
+msgstr "WordPress & Mobili seven geek'ler tarafından yapıldı"
+
+#: ../../../includes/admin/settings.php:17
+msgid "Settings "
+msgstr "Ayarlar"
+
+#: ../../../includes/admin/settings.php:40
+msgid "Activate mobile site"
+msgstr "Mobil siteyi etkinleştir"
+
+#: ../../../includes/admin/settings.php:45
+msgid "Do you want to use this as your mobile website too ?"
+msgstr "Bunu mobil siteniz olarak da kullanmayı istiyor musunuz?"
+
+#: ../../../includes/admin/settings.php:46
+msgid "Mobile Site ? "
+msgstr "Mobil Site?"
+
+#: ../../../includes/admin/settings.php:49
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../../../includes/admin/settings.php:52
+msgid ""
+"Add your Google Analytics tracking ID below. Get more information about your "
+"app downloads, views & activity. "
+msgstr ""
+"Google Analytics Takip kodunuzu aşağıya ekleyin. Uygulama yüklemeleriniz, "
+"izlenimler ve hareketler hakkında daha fazla bilgi edinin."
+
+#: ../../../includes/admin/settings.php:53
+msgid "Setup a google tracking ID here"
+msgstr "Bir Google Takip kodu ekle"
+
+#: ../../../includes/admin/settings.php:53
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+#: ../../../includes/admin/settings.php:56
+msgid "API credentials"
+msgstr "API izinleri"
+
+#: ../../../includes/admin/settings.php:58
+msgid ""
+"If you have subscribed for push notifications you will be sent API "
+"credentials via email."
+msgstr ""
+"Eğer anlık bildirimler için kaydolduysanız, API izinleriniz e-posta ile "
+"iletilecektir."
+
+#: ../../../includes/admin/settings.php:59
+msgid "API Login"
+msgstr "API Girişi"
+
+#: ../../../includes/admin/settings.php:62
+msgid "API Key"
+msgstr "API Anahtarı"
+
+#: ../../../includes/admin/settings.php:65
+msgid "API Domain"
+msgstr "API Domain"
+
+#: ../../../includes/admin/settings.php:69
+msgid "QRCODE setup"
+msgstr "QRCODE kurulumu"
+
+#: ../../../includes/admin/settings.php:71
+msgid "Android URL"
+msgstr "Android URL"
+
+#: ../../../includes/admin/settings.php:74
+msgid "iOS URL"
+msgstr "iOS URL"
+
+#: ../../../includes/admin/settings.php:77
+msgid "White Label App"
+msgstr "Reklamsız App "
+
+#: ../../../includes/admin/settings.php:81
+msgid "Remove powered by link ?"
+msgstr "Powered By yazısını kaldır"
+
+#: ../../../includes/admin/settings.php:82
+msgid "Yes ? "
+msgstr "Evet?"
+
+#: ../../../includes/admin/settings.php:85
+msgid "Remove powered by & ads (PRO only)"
+msgstr "Powered by ve reklamları kaldır (Sadece PRO versiyonda)"
+
+#: ../../../includes/admin/settings.php:86
+msgid "Upgrade"
+msgstr "Yükselt"
+
+#: ../../../includes/admin/settings.php:88
+msgid "Hide Chat"
+msgstr "Sohbeti Gizle"
+
+#: ../../../includes/admin/settings.php:92
+msgid "Here to help but I don't what to get in your way.."
+msgstr "Yardım etmek için burdayız."
+
+#: ../../../includes/admin/settings.php:93
+msgid "Hide Chat? "
+msgstr "Sohbeti Gizle"
+
+#: ../../../includes/admin/settings.php:98
+msgid "Emails & Newsletter"
+msgstr "E-posta ve Haber Bülteni"
+
+#: ../../../includes/admin/settings.php:102
+msgid ""
+"Do you want to be informed about latest security updates & news from "
+"WordApps ?"
+msgstr ""
+"WordApps'in Son güvenlik güncelleştirmelerini ve haberlerini içeren bilgiler "
+"almak istiyor musunuz?"
+
+#: ../../../includes/admin/settings.php:103
+msgid "Newsletter ? "
+msgstr "Haber bülteni?"
+
+#: ../../../includes/admin/settings.php:110
+msgid "Deactivate Plugins on mobile"
+msgstr "Eklentileri mobilde etkisizleştir"
+
+#: ../../../includes/admin/settings.php:113
+msgid ""
+"Some plugins might not look great on mobile but work fine on desktop. Here "
+"you can deactivate plugins on the mobile version & app."
+msgstr ""
+"Bazı eklentiler mobilde iyi gözükmeyebilir ama masaüstünde iyi "
+"çalışmaktadır. Buradan mobil versiyon için eklentileri "
+"etkisizleştirebilirsiniz."
+
+#: ../../../includes/admin/settings.php:114
+msgid "Checked plugins will be deactivated on mobile only"
+msgstr "Seçili eklentiler sadece mobil için etkisizleştirilecektir"
+
+#: ../../../includes/admin/settings.php:115
+msgid "Beta testing this part"
+msgstr "Beta test"
+
+#: ../../../includes/admin/settings.php:134
+msgid "Currently Active"
+msgstr "Şu an aktif"
+
+#: ../../../includes/admin/settings.php:134
+msgid "Currently Inactive"
+msgstr "Şu an inaktif"
+
+#: ../../../includes/admin/settings.php:160
+msgid "Did you delete the mobile homepage?"
+msgstr "Mobil anasayfayı sildiniz mi?"
+
+#: ../../../includes/admin/settings.php:161
+msgid "Reset mobile home page"
+msgstr "Mobil ana sayfayı resetle"
+
+#: ../../../includes/admin/index_page.php:79
+#: ../../../includes/admin/plugins.php:82
+msgid "Install successful"
+msgstr "Yükleme Başarılı"
+
+#: ../../../includes/admin/index_page.php:114
+msgid ""
+", Convert your wordpress site/blog in to a mobile app & mobile site within "
+"minutes"
+msgstr ""
+", WordPress sitenizi bir mobil uygulamaya ve mobil siteye dönüştürün. "
+"Dakikalar içinde."
+
+#: ../../../includes/admin/index_page.php:118
+msgid "Fast & Reliable"
+msgstr "Hızlı & Güvenilir"
+
+#: ../../../includes/admin/index_page.php:118
+msgid "Build your mobile app within minutes. It's as easy as 1-2-3"
+msgstr "Mobil uygulamanızı geliştirin. 1-2-3 kadar kolay."
+
+#: ../../../includes/admin/index_page.php:119
+msgid "No programming skills."
+msgstr "Kodlama bilgisine gerek yok."
+
+#: ../../../includes/admin/index_page.php:119
+msgid ""
+"No programming skills needed. You don’t need to be a computer wiz-kid to use "
+msgstr ""
+"Kodlama bilgisi gerekmemektedir. Kullanmak için bir bilgisayar dahisi "
+"olmanıza gerek yok."
+
+#: ../../../includes/admin/index_page.php:120
+msgid "Our Community"
+msgstr "Topluluğumuz"
+
+#: ../../../includes/admin/index_page.php:120
+msgid ""
+"We started as a bunch of geek and now we have an amazing app-developers.biz "
+"community."
+msgstr ""
+"Küçük bir geek grubu olarak başladık ve şu an app-developers.biz "
+"topluluğuyuz!"
+
+#: ../../../includes/admin/index_page.php:126
+msgid "Invite your friends and get your android app for FREE!"
+msgstr "Arkadaşlarınızı davet edin ve Android uygulamanızı ÜCRETSİZ edinin!"
+
+#: ../../../includes/admin/index_page.php:163
+msgid "Quick Links"
+msgstr "Hızlı Bağlantılar"
+
+#: ../../../includes/admin/index_page.php:170
+msgid "website"
+msgstr "Websitesi"
+
+#: ../../../includes/admin/index_page.php:171
+msgid "Mobile Marketing Community"
+msgstr "Mobil Pazarlama Grubu"
+
+#: ../../../includes/admin/index_page.php:172
+msgid "About App Developers"
+msgstr "Uygulama Yapımcıları Hakkında"
+
+#: ../../../includes/admin/index_page.php:173
+msgid "Changelog"
+msgstr "Düzenleme Kayıtları"
+
+#: ../../../includes/admin/index_page.php:186
+msgid "Latest News"
+msgstr "Son Haberler"
+
+#: ../../../includes/admin/start.php:55
+msgid "Your app name"
+msgstr "Uygulama İsminiz"
+
+#: ../../../includes/admin/start.php:128
+msgid "Next Step"
+msgstr "Sonraki Adım"
+
+#: ../../../includes/admin/start.php:144
+msgid "Email address"
+msgstr "E-posta adresi"
+
+#: ../../../includes/admin/start.php:146
+msgid "Recommended"
+msgstr "Önerilir"
+
+#: ../../../includes/admin/start.php:146
+msgid "Receive updates via email."
+msgstr "Güncelleştirmeleri e-posta olarak al."
+
+#: ../../../includes/admin/start.php:149
+msgid "Become a reseller \\(White label plugin\\)"
+msgstr "Distrübütör ol "
+
+#: ../../../includes/admin/start.php:151
+msgid ""
+"Please note by pressing submit you will be sending some information to the "
+"WordApp so that we can generate your app."
+msgstr ""
+"Bilmenizi isteriz ki, Gönder düğmesine bastığınızda uygulamanızı "
+"oluşturabilmemiz WordApp'e bazı bilgiler iletilmektedir."
+
+#: ../../../includes/admin/start.php:151
+msgid "What information is sent? Your Blog URL & the email address above."
+msgstr "Hangi bilgiler? Blog URL adresiniz ve yukarıdaki e-posta adresi."
+
+#: ../../../includes/admin/iBeacon.php:80
+msgid "Activate Push Notifcations"
+msgstr "Anlık Bildirimleri aktifleştir"
+
+#: ../../../includes/admin/iBeacon.php:102
+msgid "Active"
+msgstr "Aktifleştir"
+
+#: ../../../includes/admin/iBeacon.php:103
+msgid "Beacon UUID"
+msgstr "Beacon UUID"
+
+#: ../../../includes/admin/iBeacon.php:104
+msgid "Minor"
+msgstr "Minor"
+
+#: ../../../includes/admin/iBeacon.php:105
+msgid "Major"
+msgstr "Major"
+
+#: ../../../includes/admin/iBeacon.php:106
+msgid "Message"
+msgstr "Mesaj"
+
+#: ../../../includes/admin/plugins.php:130
+#: ../../../includes/admin/plugins.php:178
+msgid "GET MORE THEMES"
+msgstr "DAHA FAZLA TEMA EDİN"
+
+#: ../../../includes/admin/plugins.php:186
+msgid "USE ONE OF YOUR WORDPRESS THEMES"
+msgstr "KENDİ WORDPRESS TEMALARINDAN BİRİNİ KULLAN"
+
+#: ../../../includes/admin/plugins.php:262
+msgid "* Changing themes may delete some of your information"
+msgstr ""
+"*Temaları değiştirmek bilgilerinizden bir kısmının silinmesine yol açabilir"
+
+#: ../../../includes/admin/css_editor.php:23
+msgid "Add your own CSS to your app"
+msgstr "Uygulamaya kendi CSS'ini ekle"
+
+#: ../../../includes/admin/css_editor.php:72
+msgid "Clicking deactivated in demo"
+msgstr "Demo'da tıklama deaktif"
+
+#: ../../../includes/admin/marketing_gear.php:26
+msgid "Some marketing gear to help you get app downloads - "
+msgstr ""
+"Uygulamanızın daha çok indirilmesi için faydalı olacak pazarlama araçları"
+
+#: ../../../includes/admin/marketing_gear.php:31 ../../..
+#: /includes/admin/marketing_gear.php:33
+#: ../../../includes/admin/marketing_gear. php:36
+msgid "* Right mouse click and save image as to download image"
+msgstr "Resimi indirmek için Sağ tıklayın ve görseli kaydete basın"
+
+#: ../../../includes/classes/front_end_widgets.php:48
+msgid "Title:"
+msgstr "Başlık:"
+
+#: ../../../includes/classes/front_end_widgets.php:52
+msgid "iTunes Link"
+msgstr "iTunes Linki"
+
+#: ../../../includes/classes/front_end_widgets.php:56
+msgid "Play Store Link"
+msgstr "Play Store Linki"
+
+#. Name of the plugin
+msgid "WordApp MU"
+msgstr "WordApp MU"
+
+#. Author of the plugin
+msgid "Davidd Anthony"
+msgstr "Davidd Anthony"
+
+#. Description of the plugin
+msgid "Helper plugin for WordApp"
+msgstr "WordApp için yardım eklentisi"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:42 ../../..
+#: /themes/wordappjqmobileMyiOS/loop.php:77
+#: /themes/wordappjqmobilewooWordApp/loop-single.php:42
+#: /themes/wordappjqmobilewooWordApp/loop.php:77
+#, php-format
+msgid "Posted on %s"
+msgstr "%s de Yayimlandi"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:43 ../../..
+#: /themes/wordappjqmobileMyiOS/loop.php:78
+#: /themes/wordappjqmobilewooWordApp/loop-single.php:43
+#: /themes/wordappjqmobilewooWordApp/loop.php:78
+#, php-format
+msgid " by %s"
+msgstr "%s tarafindan"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop-single.php:54 ../../..
+#: /themes/wordappjqmobileMyiOS/loop.php:89
+#: /themes/wordappjqmobileMyiOS/functions.php:231
+#: /themes/wordappjqmobile/functions.php:216
+#: /themes/wordappjqmobilewooWordApp/loop-single.php:54
+#: /themes/wordappjqmobilewooWordApp/loop.php:89
+msgid "Categories"
+msgstr "Kategor'ler"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop.php:33 ../../..
+#: /themes/wordappjqmobileMyiOS/loop.php:36
+#: /themes/wordappjqmobileMyiOS/loop.php:39
+#: /themes/wordappjqmobilewooWordApp/loop.php:33
+#: /themes/wordappjqmobilewooWordApp/loop.php:36
+#: /themes/wordappjqmobilewooWordApp/loop.php:39
+#, php-format
+msgid "Archive for %s"
+msgstr "“%s” Arşivi"
+
+#: ../../../themes/wordappjqmobileMyiOS/loop.php:57 ../../..
+#: /themes/wordappjqmobilewooWordApp/loop.php:57
+#: /themes/wordappjqmobilewooWordApp/functions.php:91
+#, php-format
+msgid "Permalink to %s"
+msgstr "%s İçin Kalıcı Bag"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:36 ../../..
+#: /themes/wordappjqmobile/functions.php:21
+msgid "Primary"
+msgstr "Birinci"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:37 ../../..
+#: /themes/wordappjqmobile/functions.php:22
+msgid "A short description of the sidebar."
+msgstr "Sidebar için kısa bir açıklama"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:75 ../../..
+#: /themes/wordappjqmobile/functions.php:60
+msgid "Body"
+msgstr "Gövde"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:79 ../../..
+#: /themes/wordappjqmobile/functions.php:64
+msgid "Header"
+msgstr "Üst Kısım"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:83 ../../..
+#: /themes/wordappjqmobile/functions.php:68
+msgid "Footer"
+msgstr "Alt Kisim"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:87 ../../..
+#: /themes/wordappjqmobile/functions.php:72
+msgid "Post Teaser"
+msgstr "Yazi teaser i"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:91 ../../..
+#: /themes/wordappjqmobile/functions.php:76
+msgid "Sticky Post"
+msgstr "Yaziyi Sabitle"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:95 ../../..
+#: /themes/wordappjqmobile/functions.php:80
+msgid "Widget"
+msgstr "Bileşen"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:99 ../../..
+#: /themes/wordappjqmobile/functions.php:84
+msgid "Widget Content"
+msgstr "Bileşen İçeriği"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:103 ../../..
+#: /themes/wordappjqmobile/functions.php:88
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:107 ../../..
+#: /themes/wordappjqmobile/functions.php:92
+msgid "Comment Form"
+msgstr "Yorum Formu"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:213 ../../..
+#: /themes/wordappjqmobile/functions.php:198
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:216 ../../..
+#: /themes/wordappjqmobile/functions.php:201
+msgid "Text"
+msgstr "Yazı"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:219 ../../..
+#: /themes/wordappjqmobile/functions.php:204
+msgid "Search"
+msgstr "Ara"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:222 ../../..
+#: /themes/wordappjqmobile/functions.php:207
+msgid "Tag cloud"
+msgstr "Etiket bulutu"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:225 ../../..
+#: /themes/wordappjqmobile/functions.php:210
+msgid "Recent posts"
+msgstr "Son yazilar"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:228 ../../..
+#: /themes/wordappjqmobile/functions.php:213
+msgid "Meta"
+msgstr "Meta"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:234 ../../..
+#: /themes/wordappjqmobileMyiOS/inc/template-tags.php:181
+#: /themes/wordappjqmobile/functions.php:219
+#: /themes/wordappjqmobile/inc/template-tags.php:181
+msgid "Archives"
+msgstr "Arşivler"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:237 ../../..
+#: /themes/wordappjqmobile/functions.php:222
+msgid "Calendar"
+msgstr "Takvim"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:240 ../../..
+#: /themes/wordappjqmobile/functions.php:225
+msgid "Custom menu"
+msgstr "Özel menü"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:253 ../../..
+#: /themes/wordappjqmobile/functions.php:238
+msgid "Pingback:"
+msgstr "Pingback"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:253 ../../..
+#: /themes/wordappjqmobileMyiOS/functions.php:279
+#: /themes/wordappjqmobileMyiOS/template-parts/content-page.php:26
+#: /themes/wordappjqmobileMyiOS/inc/template-tags.php:126
+#: /themes/wordappjqmobile/functions.php:238
+#: /themes/wordappjqmobile/functions.php:264
+#: /themes/wordappjqmobile/template-parts/content-page.php:26
+#: /themes/wordappjqmobile/inc/template-tags.php:126
+msgid "Edit"
+msgstr "Düzenle"
+
+#. translators: 1: comment author, 2: date and time
+#. translators: 1: comment author, 2: date and time
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:268 ../../..
+#: /themes/wordappjqmobile/functions.php:253
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s on %2$s <span class=\"says\">söyledi:</span>"
+
+#. translators: 1: date, 2: time
+#. translators: 1: date, 2: time
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:274 ../../..
+#: /themes/wordappjqmobile/functions.php:259
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s  %2$s te"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:283 ../../..
+#: /themes/wordappjqmobile/functions.php:268
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay beklemektedir."
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:290 ../../..
+#: /themes/wordappjqmobile/functions.php:275
+msgid "Reply <span>&darr;</span>"
+msgstr "Yanıtla <span>&darr;</span>"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:335 ../../..
+#: /themes/wordappjqmobile/functions.php:320
+msgid "Primary Menu"
+msgstr "Birincil Menü"
+
+#: ../../../themes/wordappjqmobileMyiOS/functions.php:390 ../../..
+#: /themes/wordappjqmobile/functions.php:375
+msgid "Sidebar"
+msgstr "Yan Menü"
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:8 ../../..
+#: /themes/wordappjqmobile/404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Üzgünüz, sayfa bulunamadı."
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:12 ../../..
+#: /themes/wordappjqmobile/404.php:12
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"İçerik bulunamadı. Aşağıdaki linklerden birini denemek ya da arama yapmak "
+"ister misiniz?"
+
+#: ../../../themes/wordappjqmobileMyiOS/404.php:20 ../../..
+#: /themes/wordappjqmobile/404.php:20
+msgid "Most Used Categories"
+msgstr "En çok kullanılan kategoriler"
+
+#. translators: %1$s: smiley
+#: ../../../themes/wordappjqmobileMyiOS/404.php:37 ../../..
+#: /themes/wordappjqmobile/404.php:37
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Aylık arşivleri aramayı deneyin %1$s"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-page.php:19
+#: ../../. themes/wordappjqmobileMyiOS/template-parts/content-single.php:23
+#: ../../.. /themes/wordappjqmobile/template-parts/content-page.php:19
+#: /themes/wordappjqmobile/template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:14
+#: ../../. themes/wordappjqmobile/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "İçerik bulunamadı"
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:20
+#: ../../. themes/wordappjqmobile/template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"İlk yazınızı yayımlama hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:24
+#: ../../. themes/wordappjqmobile/template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Üzgünüz, aramanızla ilgili hiçbir içerik bulunamadı. Lütfen aramada "
+"kullandığınız kelimeleri değiştirerek tekrar deneyin."
+
+#: ../../../themes/wordappjqmobileMyiOS/template-parts/content-none.php:29
+#: ../../. themes/wordappjqmobile/template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "İçerik bulunamadı, aramayı denediniz mi?"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:22 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:22
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "%s için tüm yazıları göster"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:37 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:37
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "%s için tüm feed leri göster"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:101 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:101
+msgid "Recent Comments"
+msgstr "Son yorumlar"
+
+#. $output .=  '<li class="recentcomments">' . /* translators: comments widget: 1: comment author, 2: post link */ sprintf(_x('%1$s on %2$s', 'widgets'), get_comment_author_link(), '<a href="' . esc_url( get_comment_link($comment->comment_ID) ) . '">' . get_the_title($comment->comment_post_ID) . '</a>') . '</li>';
+#. $output .=  '<li class="recentcomments">' . /* translators: comments widget: 1: comment author, 2: post link */ sprintf(_x('%1$s on %2$s', 'widgets'), get_comment_author_link(), '<a href="' . esc_url( get_comment_link($comment->comment_ID) ) . '">' . get_the_title($comment->comment_post_ID) . '</a>') . '</li>';
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:116 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:116
+#, php-format
+msgctxt "widgets"
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:165 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:165
+msgid "Unknown Feed"
+msgstr "Bilinmeyen Feed"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:201 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:201
+#, php-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr "<strong>RSS Hatası</strong>: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:218 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:218
+msgid "An error has occurred; the feed is probably down. Try again later."
+msgstr "Bir hata oluştu, lütfen tekrar deneyin."
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/classes.php:232 ../../..
+#: /themes/wordappjqmobile/inc/classes.php:232
+msgid "Untitled"
+msgstr "Adsız"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/extras.php:52 ../../..
+#: /themes/wordappjqmobile/inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:24
+msgid "App Title & Names2"
+msgstr "Uygulama Başlığı ve İsimler"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:29 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:29
+msgid "Nav"
+msgstr "Nav"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:74
+msgid "App Menuss"
+msgstr "Uygulama Menüleri"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:89 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:88
+msgid "Side Menu :"
+msgstr "Yan Menu?"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:129 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:128
+msgid "Top Menu :"
+msgstr "Üst menü:"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:168 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:167
+msgid "Bottom Menu :"
+msgstr "Alt menü:"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:188 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:187
+msgid ""
+"The bottom menu comes with icons which can be added or changed on the "
+"WordApp plugin <a href=\"https://fortawesome.github.io/Font-Awesome/"
+"cheatsheet/\" target=\"_blank\">Preview Icons</a>"
+msgstr ""
+"Alt menü ikonlarla birlikte gelmektedir ve WordApp eklentisi içinde "
+"değiştirilebilir. <a href=\"https://fortawesome.github.io/Font-Awesome/"
+"cheatsheet/\" target=\"_blank\">İkonları Önizle</a>"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:201 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:200
+msgid "Design settings"
+msgstr "Dizayn seçenekleri"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:218 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:217
+msgid "App Toolbar Color"
+msgstr "Uygulama Araç Çubuğu Rengi"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:248 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:247
+msgid "Header logo"
+msgstr "Header logo"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:281 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:280
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:300 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:299
+msgid "Background Color (Side Bars)"
+msgstr "Arkaplan rengi (Side Bar)"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:366 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:365
+msgid "Color Scheme"
+msgstr "Renk Paleti"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:387 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:386
+msgid "Display Header Text"
+msgstr "Header Yazısını Göster"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:426 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:425
+msgid "Image Upload Test"
+msgstr "Resim Yükleme Testi"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:442 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:441
+msgid "Upload Test"
+msgstr "Dosya Yükleme Testi"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:460 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:459
+msgid "Link Color"
+msgstr "Bağlantı Rengi"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/customizer.php:476 ../../..
+#: /themes/wordappjqmobile/inc/customizer.php:475
+msgid "Page Test"
+msgstr "Sayfa Testi"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:23 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Yazı navigasyonu"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:27 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Önceki yazılar"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:31 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Yeni yazılar"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:56 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Yazı navigasyonu"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:86 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "%s de yazıldı"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:91 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s tarafından"
+
+#. translators: used between list items, there is a space after the comma
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:108 ../../..
+#: /themes/wordappjqmobileMyiOS/inc/template-tags.php:114
+#: /themes/wordappjqmobile/inc/template-tags.php:108
+#: /themes/wordappjqmobile/inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:110 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr "%1$s de yazıldı"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:116 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr "%1$s etiketi"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Yorum bırakın"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:122 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:122
+#, php-format
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:143 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:143
+#, php-format
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:145 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:145
+#, php-format
+msgid "Tag: %s"
+msgstr "Etiket: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:147 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:147
+#, php-format
+msgid "Author: %s"
+msgstr "Yazar: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:149 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:149
+#, php-format
+msgid "Year: %s"
+msgstr "Yıl: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:149 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:151 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:151
+#, php-format
+msgid "Month: %s"
+msgstr "Ay: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:151 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:153 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:153
+#, php-format
+msgid "Day: %s"
+msgstr "Gün: %s"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:153 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:156 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Yan"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:158 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeriler"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:160 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Resimler"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:162 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videolar"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:164 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Alintilar"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:166 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Linkler"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:168 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Durumlar"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:170 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ses"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:172 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Sohbetler"
+
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:175 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:175
+#, php-format
+msgid "Archives: %s"
+msgstr "Arşivler: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../../../themes/wordappjqmobileMyiOS/inc/template-tags.php:179 ../../..
+#: /themes/wordappjqmobile/inc/template-tags.php:179
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../../../themes/wordappjqmobile/inc/customizer.php:24
+msgid "App Title & Name2"
+msgstr "Uygulama Başlığı ve İsmi"
+
+#: ../../../themes/wordappjqmobile/inc/customizer.php:73
+msgid "App Menus"
+msgstr "Uygulama Menüleri"
+
+#: ../../../themes/wordappjqmobilewooWordApp/header.php:194
+msgid "Sorry, no posts matched your criteria."
+msgstr "Üzgünüz, hiçbir içerik bulunamadı."
+
+#: ../../../freemius/templates/account.php:324
+msgctxt "verb"
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../../../freemius/includes/i18n.php:35
+msgid "Account"
+msgstr "Hesap"
+
+#: ../../../freemius/includes/i18n.php:36
+msgid "Add On"
+msgstr "Eklentiler"
+
+#: ../../../freemius/includes/i18n.php:37
+msgid "Contact Us"
+msgstr "Iletisim"
+
+#: ../../../freemius/includes/i18n.php:38
+msgid "Change Ownership"
+msgstr "Sahibi Degistir"
+
+#: ../../../freemius/includes/i18n.php:39
+msgid "Support"
+msgstr "Destek"
+
+#: ../../../freemius/includes/i18n.php:40
+msgid "Support Forum"
+msgstr "Destek Forumu"
+
+#: ../../../freemius/includes/i18n.php:41
+msgid "Add Ons"
+msgstr "Eklentiler"
+
+#: ../../../freemius/includes/i18n.php:42
+msgctxt "verb"
+msgid "Upgrade"
+msgstr "Yükselt"
+
+#: ../../../freemius/includes/i18n.php:43
+msgid "Awesome"
+msgstr "Süper"
+
+#: ../../../freemius/includes/i18n.php:44
+msgctxt "noun"
+msgid "Pricing"
+msgstr "Ücretlendirme"
+
+#: ../../../freemius/includes/i18n.php:45
+msgctxt "noun"
+msgid "Price"
+msgstr "Ücret"
+
+#: ../../../freemius/includes/i18n.php:46
+msgid "Unlimited Updates"
+msgstr "Sınırsız Güncelleştirme"
+
+#: ../../../freemius/includes/i18n.php:47
+msgctxt "verb"
+msgid "Downgrade"
+msgstr "Düşür"
+
+#: ../../../freemius/includes/i18n.php:48
+msgid "Cancel Trial"
+msgstr "Denemeyi İptal Et"
+
+#: ../../../freemius/includes/i18n.php:49
+msgid "Free Trial"
+msgstr "Ücretsiz deneme"
+
+#: ../../../freemius/includes/i18n.php:50
+#, php-format
+msgid "Start my free %s"
+msgstr "Ücretsiz denememi başlat %s"
+
+#: ../../../freemius/includes/i18n.php:51
+#, php-format
+msgid "No commitment for %s - cancel anytime"
+msgstr "%s için hiçbir şey koşul yok - istediğiniz zaman iptal edin."
+
+#: ../../../freemius/includes/i18n.php:52
+#, php-format
+msgid "After your free %s, pay as little as %s"
+msgstr "%s ücretsiz sürenizin sonunda, yalnızca %s ödeyin."
+
+#: ../../../freemius/includes/i18n.php:53
+msgid "Details"
+msgstr "Detaylar"
+
+#: ../../../freemius/includes/i18n.php:54
+msgid "Account Details"
+msgstr "Hesap Detayları"
+
+#: ../../../freemius/includes/i18n.php:55
+msgctxt "verb"
+msgid "Delete"
+msgstr "Sil"
+
+#: ../../../freemius/includes/i18n.php:56
+msgid "Delete Account"
+msgstr "Hesabı Sil"
+
+#: ../../../freemius/includes/i18n.php:57
+msgctxt "as close a window"
+msgid "Dismiss"
+msgstr "Vazgeç"
+
+#: ../../../freemius/includes/i18n.php:58
+msgctxt "as product pricing plan"
+msgid "Plan"
+msgstr "Plan"
+
+#: ../../../freemius/includes/i18n.php:59
+msgid "Change Plan"
+msgstr "Planı değiştir"
+
+#: ../../../freemius/includes/i18n.php:60
+#, php-format
+msgctxt "as download professional version"
+msgid "Download %s Version"
+msgstr "%s versiyonu indir"
+
+#: ../../../freemius/includes/i18n.php:61
+#, php-format
+msgctxt "as download professional version now"
+msgid "Download %s version now"
+msgstr "%s versiyonu şimdi indir"
+
+#: ../../../freemius/includes/i18n.php:62
+msgctxt "as download latest version"
+msgid "Download Latest"
+msgstr "En son versiyonu indir"
+
+#: ../../../freemius/includes/i18n.php:63
+#, php-format
+msgctxt "E.g. you have a professional license."
+msgid "You have a %s license."
+msgstr "%s lisansınız bulunmakta"
+
+#: ../../../freemius/includes/i18n.php:64
+msgid "New"
+msgstr "Yeni"
+
+#: ../../../freemius/includes/i18n.php:65
+msgid "Free"
+msgstr "Ücretsiz"
+
+#: ../../../freemius/includes/i18n.php:66
+msgctxt "as trial plan"
+msgid "Trial"
+msgstr "Deneme"
+
+#: ../../../freemius/includes/i18n.php:67
+msgctxt "verb"
+msgid "Purchase"
+msgstr "Satın Al"
+
+#: ../../../freemius/includes/i18n.php:68
+msgid "Purchase License"
+msgstr "Lisans satın al"
+
+#: ../../../freemius/includes/i18n.php:69
+msgctxt "verb"
+msgid "Buy"
+msgstr "Satın al"
+
+#: ../../../freemius/includes/i18n.php:70
+msgid "Buy License"
+msgstr "Lisans satın al"
+
+#: ../../../freemius/includes/i18n.php:71
+msgid "Single Site License"
+msgstr "Tek Site için Lisans"
+
+#: ../../../freemius/includes/i18n.php:72
+msgid "Unlimited Licenses"
+msgstr "Sınırsız Lisans"
+
+#: ../../../freemius/includes/i18n.php:73
+#, php-format
+msgid "Up to %s Sites"
+msgstr "%s siteye kadar lisans"
+
+#: ../../../freemius/includes/i18n.php:74
+#, php-format
+msgid "%sRenew your license now%s to access version %s features and support."
+msgstr ""
+"%sLisansınızı şimdi yenileyin%s şu versiyona erişmek için %s özellikler ve "
+"destek"
+
+#: ../../../freemius/includes/i18n.php:75
+#, php-format
+msgctxt "e.g. Professional Plan"
+msgid "%s Plan"
+msgstr "%s Plan"
+
+#: ../../../freemius/includes/i18n.php:76
+#, php-format
+msgid "You are just one step away - %s"
+msgstr "Sadece bir adım uzaktasınız - %s"
+
+#: ../../../freemius/includes/i18n.php:77
+#, php-format
+msgctxt "%s - plugin name. As complete \"Jetpack\" activation now"
+msgid "Complete \"%s\" Activation Now"
+msgstr "Aktifleştirmeyi \"%s\" Tamamlayın"
+
+#: ../../../freemius/includes/i18n.php:78
+#, php-format
+msgid "We made a few tweaks to the plugin, %s"
+msgstr "Uygulama için birkaç iyileştirme yaptık, %s"
+
+#: ../../../freemius/includes/i18n.php:79
+#, php-format
+msgid "Opt-in to make \"%s\" Better!"
+msgstr " \"%s\" i daha iyi yapmak için bize katılın"
+
+#: ../../../freemius/includes/i18n.php:80
+msgid "Error"
+msgstr "Hata"
+
+#: ../../../freemius/includes/i18n.php:81
+msgid ""
+"Freemius SDK couldn't find the plugin's main file. Please contact "
+"sdk@freemius.com with the current error."
+msgstr ""
+"Freemis SDK eklenti dosyasını bulamadı. Lütfen sdk@freemius.com ile "
+"iletişime geçin."
+
+#: ../../../freemius/includes/i18n.php:84
+msgctxt "as expiration date"
+msgid "Expiration"
+msgstr "Süre dolum tarihi"
+
+#: ../../../freemius/includes/i18n.php:85
+msgctxt "as software license"
+msgid "License"
+msgstr "L'sans"
+
+#: ../../../freemius/includes/i18n.php:86
+msgid "not verified"
+msgstr "onaylanmamış"
+
+#: ../../../freemius/includes/i18n.php:87
+msgid "Verify Email"
+msgstr "E-postayı onayla"
+
+#: ../../../freemius/includes/i18n.php:88
+#, php-format
+msgctxt "e.g. expires in 2 months"
+msgid "Expires in %s"
+msgstr "%s de süre dolacak"
+
+#: ../../../freemius/includes/i18n.php:89
+#, php-format
+msgctxt "e.g. auto renews in 2 months"
+msgid "Auto renews in %s"
+msgstr "%s de tekrar yenilenecek"
+
+#: ../../../freemius/includes/i18n.php:90
+msgid "No expiration"
+msgstr "Dolum süresi yok"
+
+#: ../../../freemius/includes/i18n.php:91
+msgid "Expired"
+msgstr "Süresi doldu"
+
+#: ../../../freemius/includes/i18n.php:92
+msgid "Cancelled"
+msgstr "İptal edildi"
+
+#: ../../../freemius/includes/i18n.php:93
+#, php-format
+msgctxt "e.g. In 2 hours"
+msgid "In %s"
+msgstr "%s de"
+
+#: ../../../freemius/includes/i18n.php:94
+#, php-format
+msgctxt "e.g. 2 min ago"
+msgid "%s ago"
+msgstr "%s önce"
+
+#: ../../../freemius/includes/i18n.php:95
+msgctxt "as plugin version"
+msgid "Version"
+msgstr "Versiyon"
+
+#: ../../../freemius/includes/i18n.php:97
+msgid "Email"
+msgstr "E-posta"
+
+#: ../../../freemius/includes/i18n.php:98
+msgid "Verified"
+msgstr "Onaylı"
+
+#: ../../../freemius/includes/i18n.php:99
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: ../../../freemius/includes/i18n.php:100
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: ../../../freemius/includes/i18n.php:101
+msgctxt "as file/folder path"
+msgid "Path"
+msgstr "Yol (dosya/klasör yolu)"
+
+#: ../../../freemius/includes/i18n.php:102
+msgid "Title"
+msgstr "Başlık"
+
+#: ../../../freemius/includes/i18n.php:103
+msgid "Free version"
+msgstr "Ücretsiz versiyon"
+
+#: ../../../freemius/includes/i18n.php:104
+msgid "Premium version"
+msgstr "Profesyonel versiyon"
+
+#: ../../../freemius/includes/i18n.php:105
+msgctxt "as WP plugin slug"
+msgid "Slug"
+msgstr "Slug"
+
+#: ../../../freemius/includes/i18n.php:106
+msgid "ID"
+msgstr "ID"
+
+#: ../../../freemius/includes/i18n.php:107
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: ../../../freemius/includes/i18n.php:108
+msgid "Plugin Installs"
+msgstr "Eklenti Kurulumları"
+
+#: ../../../freemius/includes/i18n.php:109
+msgctxt "like websites"
+msgid "Sites"
+msgstr "Siteler"
+
+#: ../../../freemius/includes/i18n.php:110
+msgid "User ID"
+msgstr "Kulanıcı ID"
+
+#: ../../../freemius/includes/i18n.php:111
+msgid "Site ID"
+msgstr "Site ID"
+
+#: ../../../freemius/includes/i18n.php:112
+msgid "Public Key"
+msgstr "Genel Anahtar"
+
+#: ../../../freemius/includes/i18n.php:113
+msgid "Secret Key"
+msgstr "Gizli Anahtar"
+
+#: ../../../freemius/includes/i18n.php:114
+msgctxt "as secret encryption key missing"
+msgid "No Secret"
+msgstr "Anahtarsız"
+
+#: ../../../freemius/includes/i18n.php:115
+msgid "No ID"
+msgstr "ID siz"
+
+#: ../../../freemius/includes/i18n.php:116
+msgctxt "as synchronize license"
+msgid "Sync License"
+msgstr "Lisans Senkron"
+
+#: ../../../freemius/includes/i18n.php:117
+msgctxt "as synchronize"
+msgid "Sync"
+msgstr "Senkron"
+
+#: ../../../freemius/includes/i18n.php:118
+msgid "Deactivate License"
+msgstr "Lisansı deaktifleştir"
+
+#: ../../../freemius/includes/i18n.php:119
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: ../../../freemius/includes/i18n.php:120
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+
+#: ../../../freemius/includes/i18n.php:121
+msgid "No - just deactivate"
+msgstr "Hayır - sadece etkisizleştir"
+
+#: ../../../freemius/includes/i18n.php:122
+msgid "Yes - do your thing"
+msgstr "Evet"
+
+#: ../../../freemius/includes/i18n.php:123
+msgctxt "active mode"
+msgid "Active"
+msgstr "Aktif"
+
+#: ../../../freemius/includes/i18n.php:124
+msgctxt "is active mode?"
+msgid "Is Active"
+msgstr "Şu an Aktif"
+
+#: ../../../freemius/includes/i18n.php:126
+#: ../../../freemius/includes/fs-plugin- info-dialog.php:366
+msgid "Install Update Now"
+msgstr "Şimdi Güncellemeyi Yükle"
+
+#: ../../../freemius/includes/i18n.php:127
+#, php-format
+msgid "More information about %s"
+msgstr "%s hakkında daha fazla bilgi"
+
+#: ../../../freemius/includes/i18n.php:128
+msgid "Localhost"
+msgstr "Localhost"
+
+#: ../../../freemius/includes/i18n.php:129
+#, php-format
+msgctxt "as activate Professional plan"
+msgid "Activate %s Plan"
+msgstr "%s planı etkinleştir"
+
+#: ../../../freemius/includes/i18n.php:130
+#, php-format
+msgid "What is your %s?"
+msgstr "%s niz nedir?"
+
+#: ../../../freemius/includes/i18n.php:131
+msgid "Activate this add-on"
+msgstr "Bu eklentiyi etkinleştir"
+
+#: ../../../freemius/includes/i18n.php:132
+msgid ""
+"Deactivating your license will block all premium features, but will enable "
+"you to activate the license on another site. Are you sure you want to "
+"proceed?"
+msgstr ""
+"Lisansınızı etkisizleştirmek tüm premium özellikleri de etkisizleştir. Devam "
+"etmek istediğinizden emin misiniz?"
+
+#: ../../../freemius/includes/i18n.php:133
+#, php-format
+msgid ""
+"Deleting the account will automatically deactivate your %s plan license so "
+"you can use it on other sites. If you want to terminate the recurring "
+"payments as well, click the \"Cancel\" button, and first \"Downgrade\" your "
+"account. Are you sure you would like to continue with the deletion?"
+msgstr ""
+"Hesabınızı silmek aynı zamanda %s planı lisansınızı da etkisizleştirecektir, "
+"böylece diğer sitelerde kullanabilirsiniz. Eğer yinelenen ödemeleri de iptal "
+"etmek istiyorsanız İptal butonunu tıklayın ve önce hesabınızı \"Düşür\" ün. "
+"Silmek istediğinize emin misiniz?"
+
+#: ../../../freemius/includes/i18n.php:134
+msgid ""
+"Deletion is not temporary. Only delete if you no longer want to use this "
+"plugin anymore. Are you sure you would like to continue with the deletion?"
+msgstr ""
+"Silmek eylemi geri döndürülemez. Lütfen eğer gerçekten eklentiyi bundan "
+"sonra kullanmayacaksanız devam edin. Eklentiyi silmek istiyor musunuz?"
+
+#: ../../../freemius/includes/i18n.php:135
+#, php-format
+msgid ""
+"Downgrading your plan will immediately stop all future recurring payments "
+"and your %s plan license will expire in %s."
+msgstr ""
+"Hesabınızı \"Düşür\"mek gelecekteki tüm yinelenen ödemeleri durduracaktır ve "
+"%s planınız %s süre sonra bitecektir."
+
+#: ../../../freemius/includes/i18n.php:136
+msgid ""
+"Cancelling the trial will immediately block access to all premium features. "
+"Are you sure?"
+msgstr ""
+"Deneme versiyonunu iptal etmek bütün premium özelliklere erişiminizi "
+"durduracaktır. Emin misiniz?"
+
+#: ../../../freemius/includes/i18n.php:137
+#, php-format
+msgid ""
+"You can still enjoy all %s features but you will not have access to plugin "
+"updates and support."
+msgstr ""
+"Geri kalan %s özellikleri hala kullanabilirsiniz ama eklenti yükseltmeleri "
+"ve desteğine erişim sağlayamayacaksınız."
+
+#: ../../../freemius/includes/i18n.php:138
+#, php-format
+msgid ""
+"Once your license expire you can still use the Free version but you will NOT "
+"have access to the %s features."
+msgstr ""
+"Lisansınız bittiğinde ücretsiz versiyonu kullanmaya devam edebilirsiniz ama "
+"%s özelliklerine ERİŞEMEYECEKSİNİZ."
+
+#: ../../../freemius/includes/i18n.php:139
+msgid "Are you sure you want to proceed?"
+msgstr "Devam etmek istediğinize emin misiniz?"
+
+#: ../../../freemius/includes/i18n.php:142
+#, php-format
+msgid "Add Ons for %s"
+msgstr "%s için eklentiler"
+
+#: ../../../freemius/includes/i18n.php:143
+msgid ""
+"We could'nt load the add-ons list. It's probably an issue on our side, "
+"please try to come back in few minutes."
+msgstr ""
+"Eklenti listesini yükleyemedik, büyük ihtimalle sorun bizim tarafımızda, "
+"lütfen birkaç dakika içinde tekrar deneyin."
+
+#: ../../../freemius/includes/i18n.php:145
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+"Eğer bir dakikanız varsa, lütfen neden etkisizleştirdiğinizi bize iletin."
+
+#: ../../../freemius/includes/i18n.php:146
+msgid "Yes - Deactivate"
+msgstr "Evet "
+
+#: ../../../freemius/includes/i18n.php:147
+msgid "Submit & Deactivate"
+msgstr "Gönder & Etkisizleştir"
+
+#: ../../../freemius/includes/i18n.php:148
+msgctxt "the text of the cancel button of the plugin deactivation dialog box."
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../../../freemius/includes/i18n.php:149
+msgid "I no longer need the plugin"
+msgstr "Bu eklentiye artık ihtiyacım yok"
+
+#: ../../../freemius/includes/i18n.php:150
+msgid "I found a better plugin"
+msgstr "Daha iyi bir eklenti buldum"
+
+#: ../../../freemius/includes/i18n.php:151
+msgid "I only needed the plugin for a short period"
+msgstr "Eklentiye yalnızca kısa bir süre için ihtiyacım vardı"
+
+#: ../../../freemius/includes/i18n.php:152
+msgid "The plugin broke my site"
+msgstr "Eklenti sitemi bozdu"
+
+#: ../../../freemius/includes/i18n.php:153
+msgid "The plugin suddenly stopped working"
+msgstr "Eklenti aniden çalışmayı durdurdu"
+
+#: ../../../freemius/includes/i18n.php:154
+msgid "I can't pay for it anymore"
+msgstr "Daha fazla ödeme yapmak istemiyorum"
+
+#: ../../../freemius/includes/i18n.php:155
+msgctxt ""
+"the text of the \"other\" reason for deactivating the plugin that is shown "
+"in the modal box."
+msgid "Other"
+msgstr "Diğer"
+
+#: ../../../freemius/includes/i18n.php:156
+msgid "What's the plugin's name?"
+msgstr "Eklentinin ismi nedir?"
+
+#: ../../../freemius/includes/i18n.php:157
+msgid "What price would you feel comfortable paying?"
+msgstr "Ödeme yapabileceğiniz aralık nedir?"
+
+#: ../../../freemius/includes/i18n.php:158
+msgid "I couldn't understand how to make it work"
+msgstr "Nasıl çalıştığını anlayamadım"
+
+#: ../../../freemius/includes/i18n.php:159
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Eklenti gayet iyi ama aradığım spesifik bir özelliği barındırmıyor"
+
+#: ../../../freemius/includes/i18n.php:160
+msgid "The plugin is not working"
+msgstr "eklenti çalışmıyor"
+
+#: ../../../freemius/includes/i18n.php:161
+msgid "It's not what I was looking for"
+msgstr "Aradığım bu değildi"
+
+#: ../../../freemius/includes/i18n.php:162
+msgid "The plugin didn't work as expected"
+msgstr "Eklenti beklediğim gibi çalışmıyor"
+
+#: ../../../freemius/includes/i18n.php:163
+msgid "What feature?"
+msgstr "Hangi özelliği?"
+
+#: ../../../freemius/includes/i18n.php:164
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Lütfen neyin çalışmadığını biizmle paylaşır mısınız?"
+
+#: ../../../freemius/includes/i18n.php:165
+msgid "What you've been looking for?"
+msgstr "Aradığınız neydi?"
+
+#: ../../../freemius/includes/i18n.php:166
+msgid "What did you expect?"
+msgstr "Beklentiniz neydi?"
+
+#: ../../../freemius/includes/i18n.php:167
+msgid "The plugin didn't work"
+msgstr "Eklenti çalışmadı"
+
+#: ../../../freemius/includes/i18n.php:168
+msgid "I don't like to share my information with you"
+msgstr "Sizinle bilgi paylaşmak istemiyorum"
+
+#: ../../../freemius/includes/i18n.php:172
+#, php-format
+msgctxt "greeting"
+msgid "Hey %s,"
+msgstr "Merhaba %s,"
+
+#: ../../../freemius/includes/i18n.php:173
+#, php-format
+msgctxt "a greeting. E.g. Thanks John!"
+msgid "Thanks %s!"
+msgstr "Teşekkürler %s!"
+
+#: ../../../freemius/includes/i18n.php:174
+#, php-format
+msgid ""
+"In order to enjoy all our features and functionality, %s needs to connect "
+"your user, %s at %s, to %s"
+msgstr ""
+"Eklentinin bütün özelliklerinden yararlanabilmek için %s kullanıcınızı %s de "
+"%s %s ye bağlamak istiyor"
+
+#: ../../../freemius/includes/i18n.php:175
+#, php-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine."
+msgstr ""
+"Lütfen %2$s i geliştirmemize yardımcı olun. Kullanımız hakkındaki bazı "
+"veriler  %5$s e gönderilecektir. Bunu istemiyorsanız sorun değil,  %2$s "
+"çalışmaya devam edecektir."
+
+#: ../../../freemius/includes/i18n.php:176
+#, php-format
+msgid ""
+"You should receive an activation email for %s to your mailbox at %s. Please "
+"make sure you click the activation button in that email to complete the "
+"install."
+msgstr ""
+"%s için %s adresine bir aktivasyon maili gönderildi. Lütfen kurulumu "
+"yapmadan aktifleştirdiğinize emin olun."
+
+#: ../../../freemius/includes/i18n.php:177
+msgid "What permissions are being granted?"
+msgstr "Hangi izinler isteniyor?"
+
+#: ../../../freemius/includes/i18n.php:178
+msgid "Your Profile Overview"
+msgstr "Profiliniz"
+
+#: ../../../freemius/includes/i18n.php:179
+msgid "Name and email address"
+msgstr "İsim ve e-posta adresi"
+
+#: ../../../freemius/includes/i18n.php:180
+msgid "Your Site Overview"
+msgstr "Siteniz"
+
+#: ../../../freemius/includes/i18n.php:181
+msgid "Site address, WordPress version, PHP Version"
+msgstr "Site adresi, WordPress versiyonu, PHP versiyonu"
+
+#: ../../../freemius/includes/i18n.php:182
+msgid "Plugin Events"
+msgstr "Eklenti Olayları"
+
+#: ../../../freemius/includes/i18n.php:183
+msgid "Activation, deactivation and uninstall"
+msgstr "Aktivasyon, deaktivasyon ve kaldırma"
+
+#: ../../../freemius/includes/i18n.php:184
+msgid "Newsletter"
+msgstr "Haberler"
+
+#: ../../../freemius/includes/i18n.php:185
+msgid "Updates, announcements, marketing, no spam"
+msgstr "Güncelleme, duyurular, spam yok"
+
+#: ../../../freemius/includes/i18n.php:186
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+#: ../../../freemius/includes/i18n.php:187
+msgid "Terms of Service"
+msgstr "Kullanım Şartları"
+
+#: ../../../freemius/includes/i18n.php:188
+msgctxt "as activating plugin"
+msgid "Activating"
+msgstr "Aktivasyon"
+
+#: ../../../freemius/includes/i18n.php:189
+msgctxt "as in the process of sending an email"
+msgid "Sending email"
+msgstr "E-posta gönderimi"
+
+#: ../../../freemius/includes/i18n.php:190
+msgctxt "button label"
+msgid "Allow & Continue"
+msgstr "İzin ver & devam et"
+
+#: ../../../freemius/includes/i18n.php:191
+msgctxt "verb"
+msgid "Skip"
+msgstr "Atla"
+
+#: ../../../freemius/includes/i18n.php:192
+msgid "Re-send activation email"
+msgstr "Aktivasyon mailini tekrar gönder"
+
+#: ../../../freemius/includes/i18n.php:196
+msgid "Screenshots"
+msgstr "Ekran görüntüleri"
+
+#: ../../../freemius/includes/i18n.php:197
+#, php-format
+msgid "Click to view full-size screenshot %d"
+msgstr "Tam sayfa gör %d"
+
+#: ../../../freemius/includes/i18n.php:201
+msgid "Freemius Debug"
+msgstr "Freemius Debug"
+
+#: ../../../freemius/includes/i18n.php:202
+msgctxt "as turned on"
+msgid "On"
+msgstr "Açık"
+
+#: ../../../freemius/includes/i18n.php:203
+msgctxt "as turned off"
+msgid "Off"
+msgstr "Kapalı"
+
+#: ../../../freemius/includes/i18n.php:204
+msgctxt "as code debugging"
+msgid "Debugging"
+msgstr "Debug"
+
+#: ../../../freemius/includes/i18n.php:205
+msgid "Freemius State"
+msgstr "Freemius Durumu"
+
+#: ../../../freemius/includes/i18n.php:206
+msgctxt "as connection was successful"
+msgid "Connected"
+msgstr "Bağlı"
+
+#: ../../../freemius/includes/i18n.php:207
+msgctxt "as connection blocked"
+msgid "Blocked"
+msgstr "Bloke"
+
+#: ../../../freemius/includes/i18n.php:208
+msgctxt "as application program interface"
+msgid "API"
+msgstr "API"
+
+#: ../../../freemius/includes/i18n.php:209
+msgctxt "as software development kit versions"
+msgid "SDK"
+msgstr "SDK"
+
+#: ../../../freemius/includes/i18n.php:210
+msgctxt "as software development kit versions"
+msgid "SDK Versions"
+msgstr "SDK Versiyonu"
+
+#: ../../../freemius/includes/i18n.php:211
+msgctxt "as plugin folder path"
+msgid "Plugin Path"
+msgstr "Eklenti Yolu"
+
+#: ../../../freemius/includes/i18n.php:212
+msgctxt "as sdk path"
+msgid "SDK Path"
+msgstr "SDK yolu"
+
+#: ../../../freemius/includes/i18n.php:213
+#, php-format
+msgid "Add Ons of Plugin %s"
+msgstr "Eklenti Geliştirmeleri %s"
+
+#: ../../../freemius/includes/i18n.php:214
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr "Tüm Freemius datası silinsin mi?"
+
+#: ../../../freemius/includes/i18n.php:215
+msgid "Actions"
+msgstr "Hareketler"
+
+#: ../../../freemius/includes/i18n.php:216
+msgid "Delete All Accounts"
+msgstr "Tüm Hesapları Sil"
+
+#: ../../../freemius/includes/i18n.php:217
+msgid "Start Fresh"
+msgstr "Taze Başlangıç"
+
+#: ../../../freemius/includes/i18n.php:218
+msgid "Clear API Cache"
+msgstr "API Önbelleğini Sil"
+
+#: ../../../freemius/includes/i18n.php:219
+msgid "Sync Data From Server"
+msgstr "Sunucu ile Datayı Senkron Et"
+
+#: ../../../freemius/includes/i18n.php:220
+msgid "Scheduled Crons"
+msgstr "Zamanlanmış Cronlar"
+
+#: ../../../freemius/includes/i18n.php:224
+msgctxt "as congratulations"
+msgid "Congrats"
+msgstr "Tebrikler"
+
+#: ../../../freemius/includes/i18n.php:225
+msgctxt "exclamation"
+msgid "Oops"
+msgstr "Üzgünüz"
+
+#: ../../../freemius/includes/i18n.php:226
+msgctxt "interjection expressing joy or exuberance"
+msgid "Yee-haw"
+msgstr "Bravo"
+
+#: ../../../freemius/includes/i18n.php:227
+msgctxt ""
+"(especially in electronic communication) used to express elation, "
+"enthusiasm, or triumph."
+msgid "W00t"
+msgstr "Haydaa"
+
+#: ../../../freemius/includes/i18n.php:228
+msgctxt "a positive response"
+msgid "Right on"
+msgstr "Çok doğru"
+
+#: ../../../freemius/includes/i18n.php:229
+msgctxt ""
+"something somebody says when they are thinking about what you have just "
+"said. "
+msgid "Hmm"
+msgstr "Hmm"
+
+#: ../../../freemius/includes/i18n.php:230
+msgid "O.K"
+msgstr "Tamam"
+
+#: ../../../freemius/includes/i18n.php:231
+msgctxt "exclamation"
+msgid "Hey"
+msgstr "Hey"
+
+#: ../../../freemius/includes/i18n.php:232
+msgctxt "advance notice of something that will need attention."
+msgid "Heads up"
+msgstr "Dikkat"
+
+#: ../../../freemius/includes/i18n.php:236
+msgid "Seems like you got the latest release."
+msgstr "Son sürüme sahipsiniz"
+
+#: ../../../freemius/includes/i18n.php:237
+msgid "You are all good!"
+msgstr "Herşey tamam"
+
+#: ../../../freemius/includes/i18n.php:238
+msgid ""
+"Sorry, we could not complete the email update. Another user with the same "
+"email is already registered."
+msgstr ""
+"E-posta güncelleştirmesini gerçekleştiremedik. Bu e-posta ile daha önce "
+"kaydolunmuş."
+
+#: ../../../freemius/includes/i18n.php:239
+#, php-format
+msgid ""
+"If you would like to give up the ownership of the plugin's account to %s "
+"click the Change Ownership button."
+msgstr " %s  Eklentinin sahibini değiştirmek için Sahibi Değiştir'i tıkla"
+
+#: ../../../freemius/includes/i18n.php:240
+msgid ""
+"Your email was successfully updated. You should receive an email with "
+"confirmation instructions in few moments."
+msgstr ""
+"E-postanız başarıyla güncellendi, birkaç dakika içinde talimatları içeren "
+"bir mail alacaksınız."
+
+#: ../../../freemius/includes/i18n.php:241
+msgid "Your name was successfully updated."
+msgstr "İsminiz başarıyla güncellendi"
+
+#: ../../../freemius/includes/i18n.php:242
+#, php-format
+msgid "You have successfully updated your %s."
+msgstr "%s inizi başarıyla güncellediniz"
+
+#: ../../../freemius/includes/i18n.php:243
+msgid "Please provide your full name."
+msgstr "Lütfen tam isminizi yazınız."
+
+#: ../../../freemius/includes/i18n.php:244
+#, php-format
+msgid ""
+"Verification mail was just sent to %s. If you can't find it after 5 min, "
+"please check your spam box."
+msgstr ""
+"%s e onay maili gönderildi, eğer 5 dakika içinde ulaşmazsa lütfen spam "
+"klasörünüzü kontol edin"
+
+#: ../../../freemius/includes/i18n.php:245
+#, php-format
+msgid ""
+"Just letting you know that the add-ons information of %s is being pulled "
+"from an external server."
+msgstr "%s eklentilerinin bilgileri harici bir sunucudan çekilmektedir"
+
+#: ../../../freemius/includes/i18n.php:246
+msgid "No credit card required"
+msgstr "Kredi kartı gerekmez"
+
+#: ../../../freemius/includes/i18n.php:247
+msgid "Premium plugin version was successfully activated."
+msgstr "Premium eklenti versiyonu başarıyla etkinleştirildi"
+
+#: ../../../freemius/includes/i18n.php:248
+#, php-format
+msgid "The upgrade of %s was successfully completed."
+msgstr "%s yükseltme işlemi başarıyla gerçekleştirildi."
+
+#: ../../../freemius/includes/i18n.php:249
+#, php-format
+msgid "Your account was successfully activated with the %s plan."
+msgstr "Hesabınız %s planı ile başarıyla etkinleştirildi"
+
+#: ../../../freemius/includes/i18n.php:250
+#, php-format
+msgid "Download the latest %s version now"
+msgstr "Son versiyonu %s şimdi indirin"
+
+#: ../../../freemius/includes/i18n.php:251
+msgid "Download the latest version now"
+msgstr "Son versiyonu indirin"
+
+#: ../../../freemius/includes/i18n.php:252
+#, php-format
+msgctxt "%s - product name, e.g. Facebook add-on was successfully..."
+msgid "%s Add-on was successfully purchased."
+msgstr "%s Eklenti başarıyla satın alındı"
+
+#: ../../../freemius/includes/i18n.php:253
+#, php-format
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr "%s Eklenti Planınız başarıyla onaylandı - HARİKASINIZ!"
+
+#: ../../../freemius/includes/i18n.php:254
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr "E-posta adresiniz onaylandı, HARİKASINIZ!"
+
+#: ../../../freemius/includes/i18n.php:255
+msgid "Your plan was successfully upgraded."
+msgstr "Planınız başarıyla yükseltildi."
+
+#: ../../../freemius/includes/i18n.php:256
+#, php-format
+msgid "Your plan was successfully changed to %s."
+msgstr "Planınız başarıyla %s ye çevirildi"
+
+#: ../../../freemius/includes/i18n.php:257
+msgid ""
+"Your license has expired. You can still continue using the free plugin "
+"forever."
+msgstr ""
+"Lisansınız doldu, ücretsiz eklentimizi istediğiniz kadar kullanabilirsiniz."
+
+#: ../../../freemius/includes/i18n.php:258
+msgid "Your trial has been successfully started."
+msgstr "Deneme süreniz başarıyla aktifleştirildi"
+
+#: ../../../freemius/includes/i18n.php:259
+msgid "Your license was successfully activated."
+msgstr "Lisansınız başarıyla aktifleştirildi."
+
+#: ../../../freemius/includes/i18n.php:260
+msgid "It looks like your site currently doesn't have an active license."
+msgstr "Sitenizin halihazırda bir aktif lisansı bulunmamaktadır."
+
+#: ../../../freemius/includes/i18n.php:261
+#, php-format
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr "Lisansınız başarıyla deaktif edildi, %s planındasınız."
+
+#: ../../../freemius/includes/i18n.php:262
+msgid "It looks like the license deactivation failed."
+msgstr "Lisans etkisizleştirme başarısız oldu."
+
+#: ../../../freemius/includes/i18n.php:263
+msgid "It looks like the license could not be activated."
+msgstr "Lisans etkinleştirilemedi."
+
+#: ../../../freemius/includes/i18n.php:264
+msgid "Error received from the server:"
+msgstr "Sunucuda hatayla karşılaşıldı"
+
+#: ../../../freemius/includes/i18n.php:265
+msgid ""
+"Your trial has expired. You can still continue using all our free features."
+msgstr ""
+"Deneme süreniz sona erdi, ücretsiz özelliklerimizi kullanmaya devam "
+"edebilirsiniz."
+
+#: ../../../freemius/includes/i18n.php:266
+#, php-format
+msgid ""
+"Your plan was successfully downgraded. Your %s plan license will expire in "
+"%s."
+msgstr "Planınız başarıyla düşürüldü. %s planınız %s süre içinde dolacaktır."
+
+#: ../../../freemius/includes/i18n.php:267
+msgid ""
+"Seems like we are having some temporary issue with your plan downgrade. "
+"Please try again in few minutes."
+msgstr ""
+"Planınızı düşürmekte geçici bir problem yaşamaktayız, lütfen birkaç dakika "
+"içinde tekrar deneyin."
+
+#: ../../../freemius/includes/i18n.php:268
+msgid ""
+"It looks like you are not in trial mode anymore so there's nothing to "
+"cancel :)"
+msgstr ""
+"Şu anda deneme süresinde değilsiniz, dolayısıyla iptal edilecek bir şey "
+"yok :)"
+
+#: ../../../freemius/includes/i18n.php:269
+#, php-format
+msgid "Your %s free trial was successfully cancelled."
+msgstr "%s deneme sürümünüz başarıyla iptal edildi."
+
+#: ../../../freemius/includes/i18n.php:270
+#, php-format
+msgctxt "%s - numeric version number"
+msgid "Version %s was released."
+msgstr "%s sürümü çıktı."
+
+#: ../../../freemius/includes/i18n.php:271
+#, php-format
+msgid "Please download %s."
+msgstr "Lütfen %s indirin"
+
+#: ../../../freemius/includes/i18n.php:272
+#, php-format
+msgctxt "%s - plan name, as the latest professional version here"
+msgid "the latest %s version here"
+msgstr "Son %s versiyon burada"
+
+#: ../../../freemius/includes/i18n.php:273
+#, php-format
+msgid ""
+"How do you like %s so far? Test all our %s premium features with a %d-day "
+"free trial."
+msgstr ""
+"%s ı nasıl buldunuz? %s premium özelliklerimizi %d-gün ücretsiz test edin."
+
+#: ../../../freemius/includes/i18n.php:274
+msgctxt "call to action"
+msgid "Start free trial"
+msgstr "Ücretsiz deneme sürümü"
+
+#: ../../../freemius/includes/i18n.php:275
+msgid ""
+"Seems like we are having some temporary issue with your trial cancellation. "
+"Please try again in few minutes."
+msgstr ""
+"Deneme sürümünü iptal etmekte geçici bir problem yaşıyoruz, lütfen birkaç "
+"dakika içinde tekrar deneyin."
+
+#: ../../../freemius/includes/i18n.php:276
+#, php-format
+msgid "No commitment for %s days - cancel anytime!"
+msgstr ""
+"%s gün için hiçbir sözleşmeye gerek yok - istediğiniz zaman iptal edin!"
+
+#: ../../../freemius/includes/i18n.php:277
+#, php-format
+msgid ""
+"Your license has expired. You can still continue using all the %s features, "
+"but you'll need to renew your license to continue getting updates and "
+"support."
+msgstr "Lisans süreniz doldu, %s"
+
+#: ../../../freemius/includes/i18n.php:278
+#, php-format
+msgid "Couldn't activate %s."
+msgstr "%s aktifleştirilemedi"
+
+#: ../../../freemius/includes/i18n.php:279
+msgid "Please contact us with the following message:"
+msgstr "Lütfen bizimle şu mesajı kullanarak iletişime geçin:"
+
+#: ../../../freemius/includes/i18n.php:280
+#, php-format
+msgid ""
+"It looks like you are still on the %s plan. If you did upgrade or change "
+"your plan, it's probably an issue on our side - sorry."
+msgstr ""
+"Hala %s planınıdasınız. Eğer yükseltme yaptıysanız ya da planınızı "
+"değiştirdiyseniz hata bizde - üzgünüz."
+
+#: ../../../freemius/includes/i18n.php:281
+msgid "Please contact us here"
+msgstr "Bizle iletişime geçin"
+
+#: ../../../freemius/includes/i18n.php:282
+#, php-format
+msgid ""
+"I have upgraded my account but when I try to Sync the License, the plan "
+"remains %s."
+msgstr ""
+"Hesabımı yükselttim ama Lisansı Senkron etmeye çalıştığımda plan hala %s "
+"gözüküyor"
+
+#: ../../../freemius/includes/i18n.php:285
+msgid "From unknown reason, the API connectivity test failed."
+msgstr "Bilinmeyen nedenlerden dolayı API bağlantı testi başarısız oldu"
+
+#: ../../../freemius/includes/i18n.php:286
+msgid ""
+"It's probably a temporary issue on our end. Just to be sure, with your "
+"permission, would it be o.k to run another connectivity test?"
+msgstr ""
+"Sorun büyük ihtimalle geçici olarak bizim sunucularımızdan "
+"kaynaklanmaktadır. İzin veriyorsanız bir bağlantı testi daha yapmayı dener "
+"misiniz?"
+
+#: ../../../freemius/includes/i18n.php:287
+msgid ""
+"We use PHP cURL library for the API calls, which is a very common library "
+"and usually installed out of the box. Unfortunately, cURL is not installed "
+"on your server."
+msgstr ""
+"API çağrılarımız için PHP cURL kütüphanesini kullanmaktayız, bu oldukça "
+"yaygın ve kurulumlarla gelen bir kütüphanedir. Üzgünüz, sunucunuzda cURL "
+"yüklü değil."
+
+#: ../../../freemius/includes/i18n.php:288
+msgid ""
+"From unknown reason, CloudFlare, the firewall we use, blocks the connection."
+msgstr ""
+"Bilinmeyen bir sebepten dolayı, CloudFlare, kullandığımız firewall yazılımı, "
+"bağlantıyı bloke ediyor."
+
+#: ../../../freemius/includes/i18n.php:289
+#, php-format
+msgctxt "as pluginX requires an access to our API"
+msgid "%s requires an access to our API."
+msgstr "%s API'mize bir bağlantıya ihtiyaç duyuyor."
+
+#: ../../../freemius/includes/i18n.php:290
+msgid ""
+"It looks like your server is using Squid ACL (access control lists), which "
+"blocks the connection."
+msgstr ""
+"Görünüşe göre sunucunuz Squid ACL kullanıyor, bu da bağlantıyı engelliyor."
+
+#: ../../../freemius/includes/i18n.php:291
+msgid "I don't know what is Squid or ACL, help me!"
+msgstr "Squid ya da ACL nedir bilgim yok, bana yardım edin!"
+
+#: ../../../freemius/includes/i18n.php:292
+#: ../../../freemius/includes/i18n.php:296
+#, php-format
+msgid ""
+"We'll make sure to contact your hosting company and resolve the issue. You "
+"will get a follow-up email to %s once we have an update."
+msgstr ""
+"Hosting firmanızla bağlantıya geçip sorunu çözeceğiz, bizden %s e "
+"göndereceğimiz mesajı bekleyin."
+
+#: ../../../freemius/includes/i18n.php:293
+msgid "I'm a system administrator"
+msgstr "Sistem yöneticisiyim"
+
+#: ../../../freemius/includes/i18n.php:294
+#, php-format
+msgid ""
+"Great, please whitelist the following domains: %s. Once you done, deactivate "
+"the plugin and activate it again."
+msgstr ""
+"Süper, o halde %s domainlerini whitelist yapın, yaptıktan sonra eklentiyi "
+"deaktif edip tekrar aktifleştirin."
+
+#: ../../../freemius/includes/i18n.php:295
+msgid "I don't know what is cURL or how to install it, help me!"
+msgstr "cURL nedir ya da nasıl yüklenir, yardım edin!"
+
+#: ../../../freemius/includes/i18n.php:297
+msgid ""
+"Great, please install cURL and enable it in your php.ini file. To make sure "
+"it was successfully activated, use 'phpinfo()'. Once activated, deactivate "
+"the plugin and reactivate it back again."
+msgstr ""
+"Lütfen cURL 'i yükleyin ve php.ini dosyanızda aktifleştirin. Yüklendiğinden "
+"emin olmak için 'phpinfo()' kullanın. Yükleme tamamlandıkan sonra plugini "
+"deaktif edip tekrar aktifleştirin."
+
+#: ../../../freemius/includes/i18n.php:298
+msgid ""
+"We are sure it's an issue on our side and more than happy to resolve it for "
+"you ASAP if you give us a chance."
+msgstr ""
+"Sorun bizim tarafmızda ve EN KISADA SÜREDE sizin için bunu çözeceğiz, eğer "
+"bize bir şans verirseniz."
+
+#: ../../../freemius/includes/i18n.php:299
+msgid "Yes - I'm giving you a chance to fix it"
+msgstr "Evet, size bir şans veriyorum."
+
+#: ../../../freemius/includes/i18n.php:300
+#, php-format
+msgid ""
+"We will do our best to whitelist your server and resolve this issue ASAP. "
+"You will get a follow-up email to %s once we have an update."
+msgstr ""
+"Sorunu çözmek için en kısa sürede harekete geçeceğiz. %s adresine bununla "
+"alakalı bir mail atacağız."
+
+#: ../../../freemius/includes/i18n.php:301
+msgid "Let's try your previous version"
+msgstr "Önceki versiyonu dene"
+
+#: ../../../freemius/includes/i18n.php:302
+msgid "Uninstall this version and install the previous one."
+msgstr "Bu versiyonu kaldır ve önceki versiyonu yükle"
+
+#: ../../../freemius/includes/i18n.php:303
+msgid "That's exhausting, please deactivate"
+msgstr "Çok sıkıldım, lütfen deaktifleştir"
+
+#: ../../../freemius/includes/i18n.php:304
+msgid ""
+"We feel your frustration and sincerely apologize for the inconvenience. Hope "
+"to see you again in the future."
+msgstr ""
+"Sıkıntınızı anlıyor ve sizden özür diliyoruz, gelecekte görüşmek üzere."
+
+#: ../../../freemius/includes/i18n.php:305
+#, php-format
+msgid ""
+"Thank for giving us the chance to fix it! A message was just sent to our "
+"technical staff. We will get back to you as soon as we have an update to %s. "
+"Appreciate your patience."
+msgstr ""
+"Bize bir şans verdiğiniz için teşekkürler, teknik ekibimize sorun iletildi. "
+"%s adresine bir mail atacağız, sabrınız için teşekkürler."
+
+#: ../../../freemius/includes/i18n.php:306
+#, php-format
+msgctxt "%1s - plugin title, %2s - API domain"
+msgid ""
+"Your server is blocking the access to Freemius' API, which is crucial for "
+"%1s synchronization. Please contact your host to whitelist %2s"
+msgstr ""
+"Sunucunuz Freemius'un API'sine erişimi engellemekte bu da %1s senkronu için "
+"hayati. %2s yi whitelist yapmak için sunucunuzla iletişime geçin."
+
+#: ../../../freemius/includes/i18n.php:307
+msgid ""
+"It seems like one of the authentication parameters is wrong. Update your "
+"Public Key, Secret Key & User ID, and try again."
+msgstr ""
+"Görünüşe göre bir doğrulama parametresi yanlış. Lütfen Genel Anahtarınızı, "
+"Gizli Anahtarınızı ve Kullanıcı ID'nizi güncelleştirip tekrar deneyin."
+
+#: ../../../freemius/includes/i18n.php:310
+#, php-format
+msgid ""
+"Please check your mailbox, you should receive an email via %s to confirm the "
+"ownership change. From security reasons, you must confirm the change within "
+"the next 15 min. If you cannot find the email, please check your spam folder."
+msgstr ""
+"Lütfen mailinizi kontrol ediniz, %s e bunla alakalı bir mail gönderdik. "
+"Güvenlik gerekçelerinden dolayı bu maili 15 dakika içinde onaylamanız "
+"gerekmektedir. Lütfen spam klasörünüzü de kontrol edin."
+
+#: ../../../freemius/includes/i18n.php:311
+#, php-format
+msgid ""
+"Thanks for confirming the ownership change. An email was just sent to %s for "
+"final approval."
+msgstr ""
+"Hesabın sahibini tanımladığınız için teşekkürler. %s ye son bir onay maili "
+"gönderdik."
+
+#: ../../../freemius/includes/i18n.php:312
+#, php-format
+msgid "%s is the new owner of the account."
+msgstr "%s hesabın yeni hesabi olarak düzenlendi."
+
+#: ../../../freemius/includes/i18n.php:314
+#, php-format
+msgctxt "addonX cannot run without pluginY"
+msgid "%s cannot run without %s."
+msgstr "%s %s olmadan çalışamaz."
+
+#: ../../../freemius/includes/i18n.php:315
+#, php-format
+msgctxt "addonX cannot run..."
+msgid "%s cannot run without the plugin."
+msgstr "%s eklenti olmadan çalışamaz."
+
+#: ../../../freemius/includes/i18n.php:316
+#, php-format
+msgctxt "pluginX activation was successfully..."
+msgid "%s activation was successfully completed."
+msgstr "%s akivasyonu basariyla tamamlandi."
+
+#: ../../../freemius/includes/i18n.php:317
+msgctxt "Plugin installer section title"
+msgid "Features & Pricing"
+msgstr "Özellikler & Fiyatlandırma"
+
+#: ../../../freemius/includes/i18n.php:318
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr "Eklenti WordPress.org a ya da Freemius a deploy edilmelidir."
+
+#: ../../../freemius/includes/i18n.php:319
+msgid "Paid add-on must be deployed to Freemius."
+msgstr "Ücretli eklentiler Freemius a deploy edilmelidir."
+
+#: ../../../freemius/includes/i18n.php:321
+#, php-format
+msgid ""
+"%s is a premium only add-on. You have to purchase a license first before "
+"activating the plugin."
+msgstr ""
+"%s premium bir eklentidir. Etkinleştirmek için öncelikle lisans satın "
+"almanız gerekmektedir."
+
+#: ../../../freemius/includes/i18n.php:322
+#, php-format
+msgid ""
+"%s free trial was successfully cancelled. Since the add-on is premium only "
+"it was automatically deactivated. If you like to use it in the future, "
+"you'll have to purchase a license."
+msgstr ""
+"%s deneme süreniz iptal edilmiştir. Eklenti premium bir özellik olduğundan "
+"etkisizleştirilmiştir, eğer eğer ileride tekrar kullanmak isterseniz satın "
+"almanız gerekir."
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:370
+#, php-format
+msgid "Newer Version (%s) Installed"
+msgstr "Daha Yeni bir versiyon (%s) kurulu"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:373
+msgid "Latest Version Installed"
+msgstr "Son Versiyon Kurulu"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:484
+msgctxt "Plugin installer section title"
+msgid "Description"
+msgstr "Açıklamalar"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:485
+msgctxt "Plugin installer section title"
+msgid "Installation"
+msgstr "Yükleme"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:486
+msgctxt "Plugin installer section title"
+msgid "FAQ"
+msgstr "SSS"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:487
+msgctxt "Plugin installer section title"
+msgid "Screenshots"
+msgstr "Ekran Görüntüleri"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:488
+msgctxt "Plugin installer section title"
+msgid "Changelog"
+msgstr "Değişim listesi"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:489
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "Yorumlar"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:490
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "Diğer Notlar"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:515
+msgid "Plugin Install"
+msgstr "Eklentiyi Yükle"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:647
+msgid "Version:"
+msgstr "Versiyon:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:653
+msgid "Author:"
+msgstr "Yazar"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:659
+msgid "Last Updated:"
+msgstr "Son Güncelleme"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:661
+#, php-format
+msgid "%s ago"
+msgstr "%s önce"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:668
+msgid "Requires WordPress Version:"
+msgstr "Gerekli WordPress versiyonu:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:668
+#, php-format
+msgid "%s or higher"
+msgstr "%s ya da daha yüksek"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:674
+msgid "Compatible up to:"
+msgstr "Şu versiyona kadar uyumlu:"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:681
+msgid "Downloaded:"
+msgstr "İndirildi"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:681
+#, php-format
+msgid "%s time"
+msgid_plural "%s times"
+msgstr[0] "%s defa"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:688
+msgid "WordPress.org Plugin Page &#187;"
+msgstr "WordPress.org Eklenti Sayfası  &#187,"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:695
+msgid "Plugin Homepage &#187;"
+msgstr "Eklenti Anasayfası  &#187,"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:702 ../../..
+#: /freemius/includes/fs-plugin-info-dialog.php:759
+msgid "Donate to this plugin &#187;"
+msgstr "Eklentiye bağışta bulun  &#187;"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:708
+msgid "Average Rating"
+msgstr "Ortalama Oylama Puanı"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:714
+#, php-format
+msgid "(based on %s rating)"
+msgid_plural "(based on %s ratings)"
+msgstr[0] "Toplam %s oy verildi"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:727
+#, php-format
+msgid "Click to see reviews that provided a rating of %d star"
+msgid_plural "Click to see reviews that provided a rating of %d stars"
+msgstr[0] "%d yıldız için tüm yorumları oku"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:727
+#, php-format
+msgid "%d star"
+msgid_plural "%d stars"
+msgstr[0] "%d yıldız"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:738
+msgid "Contributors"
+msgstr "Katkıda bulunanlar"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:766 ../../..
+#: /freemius/includes/fs-plugin-info-dialog.php:768
+msgid "Warning:"
+msgstr "Uyarı"
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:766
+msgid "This plugin has not been tested with your current version of WordPress."
+msgstr "Bu eklenti güncel WordPress sürümünüzle test edilmemiştir."
+
+#: ../../../freemius/includes/fs-plugin-info-dialog.php:768
+msgid ""
+"This plugin has not been marked as compatible with your version of WordPress."
+msgstr "Bu eklenti güncel WordPress sürümünüzle uyumludur."
